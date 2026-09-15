@@ -1,0 +1,147 @@
+05-aug-2026 | Turno C | CAM-14 | Chofer reporto demora por trafico
+19-aug-2026 | Turno C | CAM-01 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-06 | Turno B | CAM-16 | Alerta de geocerca por desvio de ruta autorizado
+20-aug-2026 |  |  CAM-14  | Falla de motor menor, resuelta en sitio
+04-aug-2026 | Turno B | CAM-19 | Chofer reporto demora por trafico
+08-aug-2026 | Turno C | CAM-20 | Cambio de termo por fuga de refrigerante
+2026-08-19 |  | cam-29 | Cliente reporto producto fuera de temperatura al recibir
+29/08/2026 | Turno C | CAM-11 | Alerta de geocerca por desvio de ruta autorizado
+16-aug-2026 | Turno A | CAM-17 | Mantenimiento preventivo de unidad sin novedad
+04-aug-2026 | Turno C | CAM-15 | Cambio de termo por fuga de refrigerante
+24/08/2026 | Turno A | CAM-06 | Falla de motor menor, resuelta en sitio
+01-aug-2026 | Turno A | cam-01 | Cambio de termo por fuga de refrigerante
+12-aug-2026 |  | CAM-17 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-03 | Turno C | CAM-20 | Cambio de termo por fuga de refrigerante
+12/08/2026 | Turno A |  CAM-30  | Alerta de geocerca por desvio de ruta autorizado
+08-aug-2026 | Turno A | cam-21 | Chofer reporto demora por trafico
+19/08/2026 | Turno B | CAM-21 | Alerta de geocerca por desvio de ruta autorizado
+13/08/2026 | Turno A | CAM-18 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-25 |  | CAM-08 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-17 | Turno A | CAM-29 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-22 | Turno A | CAM-13 | Chofer reporto demora por trafico
+02-aug-2026 | Turno A | CAM-29 | Mantenimiento preventivo de unidad sin novedad
+12/08/2026 | Turno B | cam-09 | Cliente reporto producto fuera de temperatura al recibir
+10/08/2026 |  |  CAM-03  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+01-aug-2026 | Turno A | CAM-03 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-02 | Turno A |  CAM-27  | Cambio de termo por fuga de refrigerante
+18-aug-2026 | Turno C | cam-03 | Cambio de termo por fuga de refrigerante
+2026-08-11 | Turno B | CAM-11 | Mantenimiento preventivo de unidad sin novedad
+2026-08-04 |  | CAM-16 | Cliente reporto producto fuera de temperatura al recibir
+05-aug-2026 | Turno C |  CAM-06  | Mantenimiento preventivo de unidad sin novedad
+22/08/2026 |  |  CAM-08  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-14 | Turno C | CAM-06 | Cambio de termo por fuga de refrigerante
+16/08/2026 | Turno A | CAM-20 | Chofer reporto demora por trafico
+2026-08-02 | Turno B |  CAM-20  | Alerta de geocerca por desvio de ruta autorizado
+01/08/2026 |  |  CAM-07  | Alerta de geocerca por desvio de ruta autorizado
+01/08/2026  | CAM-13 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-11 |  |  CAM-15  | Mantenimiento preventivo de unidad sin novedad
+14/08/2026 | Turno C |  CAM-11  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-23 | Turno C | CAM-05 | Cambio de termo por fuga de refrigerante
+21/08/2026 | Turno C |  CAM-16  | Cliente reporto producto fuera de temperatura al recibir
+06/08/2026 | Turno A |  CAM-07  | Cambio de termo por fuga de refrigerante
+11-aug-2026 | Turno B |  CAM-04  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+19-aug-2026 | Turno B | cam-07 | Mantenimiento preventivo de unidad sin novedad
+13/08/2026 | Turno A | CAM-06 | Cambio de termo por fuga de refrigerante
+25-aug-2026 Turno A | CAM-17 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-14 | Turno A | CAM-22 | Cambio de termo por fuga de refrigerante
+22/08/2026 | Turno A | CAM-01 | Chofer reporto demora por trafico
+2026-08-10 | Turno C | cam-27 | Cambio de termo por fuga de refrigerante
+25-aug-2026 |  | CAM-17 | Alerta de geocerca por desvio de ruta autorizado
+08/08/2026 | Turno C |  CAM-14  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+06-aug-2026 | Turno C | CAM-04 | Alerta de geocerca por desvio de ruta autorizado
+27/08/2026 | Turno A | CAM-12 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-18 | Turno C | cam-05 | Chofer reporto demora por trafico
+08/08/2026 |  | cam-09 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-27 | Turno C | CAM-30 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-09 | Turno A | CAM-27 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-17 |  |  CAM-15  | Mantenimiento preventivo de unidad sin novedad
+11/08/2026 |  | CAM-02 | Mantenimiento preventivo de unidad sin novedad
+11-aug-2026 | Turno B |  CAM-04  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+01/08/2026 | Turno C | cam-06 | Mantenimiento preventivo de unidad sin novedad
+19/08/2026 | Turno A | CAM-17 | Alerta de geocerca por desvio de ruta autorizado
+17-aug-2026 | Turno B | CAM-26 | Cambio de termo por fuga de refrigerante
+25-aug-2026 | Turno A |  CAM-27  | Mantenimiento preventivo de unidad sin novedad
+2026-08-26 | Turno B |  CAM-06  | Alerta de geocerca por desvio de ruta autorizado
+11-aug-2026 | Turno C | CAM-22 | Cliente reporto producto fuera de temperatura al recibir
+05/08/2026 | Turno C | CAM-18 | Mantenimiento preventivo de unidad sin novedad
+01-aug-2026 |  | CAM-06 | Cambio de termo por fuga de refrigerante
+04-aug-2026 | Turno C | CAM-11 | Cambio de termo por fuga de refrigerante
+11/08/2026 |  | CAM-23 | Chofer reporto demora por trafico
+27/08/2026 |  |  CAM-25  | Cliente reporto producto fuera de temperatura al recibir
+28/08/2026 | Turno A | CAM-30 | Cliente reporto producto fuera de temperatura al recibir
+13-aug-2026 | Turno A | CAM-29 | Cambio de termo por fuga de refrigerante
+05/08/2026 | Turno C | CAM-18 | Chofer reporto demora por trafico
+18-aug-2026 | Turno C | CAM-25 | Cliente reporto producto fuera de temperatura al recibir
+05-aug-2026 | Turno C | CAM-30 | Mantenimiento preventivo de unidad sin novedad
+03-aug-2026 | Turno B | CAM-03 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+01-aug-2026 | Turno C | CAM-29 | Cliente reporto producto fuera de temperatura al recibir
+29-aug-2026 | Turno B | CAM-09 | Mantenimiento preventivo de unidad sin novedad
+08-aug-2026 | Turno B | CAM-21 | Chofer reporto demora por trafico
+2026-08-23 | Turno A | CAM-22 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-08 | Turno B | CAM-03 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+08/08/2026 |  | cam-09 | Alerta de geocerca por desvio de ruta autorizado
+24/08/2026 Turno C | CAM-08 | Chofer reporto demora por trafico
+22/08/2026 | Turno C |  CAM-18  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+09-aug-2026 | Turno B | CAM-20 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+14/08/2026 | Turno B |  CAM-20  | Mantenimiento preventivo de unidad sin novedad
+23-aug-2026 | Turno C | CAM-24 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-20 | Turno B | CAM-21 | Alerta de geocerca por desvio de ruta autorizado
+20/08/2026 | Turno A | CAM-27 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+17/08/2026 | Turno C | CAM-13 | Falla de motor menor, resuelta en sitio
+2026-08-09 |  | CAM-04 | Cambio de termo por fuga de refrigerante
+2026-08-14 | Turno C | CAM-06 | Cambio de termo por fuga de refrigerante
+2026-08-25 | Turno B | cam-15 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-28 | Turno C | CAM-19 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-07 | Turno A | cam-09 | Falla de motor menor, resuelta en sitio
+24-aug-2026 | Turno B | CAM-06 | Chofer reporto demora por trafico
+17/08/2026 | Turno A | CAM-02 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-29 |  | CAM-05 | Falla de motor menor, resuelta en sitio
+2026-08-13 | Turno A | CAM-27 | Mantenimiento preventivo de unidad sin novedad
+27-aug-2026 | Turno C | CAM-19 | Chofer reporto demora por trafico
+20-aug-2026 | Turno B | CAM-10 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-21 | Turno B | cam-17 | Chofer reporto demora por trafico
+2026-08-20 | Turno B | CAM-11 | Cambio de termo por fuga de refrigerante
+2026-08-06 | Turno C | CAM-03 | Alerta de geocerca por desvio de ruta autorizado
+26/08/2026 | Turno A | CAM-06 | Cambio de termo por fuga de refrigerante
+11-aug-2026 | Turno A | cam-19 | Chofer reporto demora por trafico
+2026-08-24 | Turno A | CAM-16 | Cambio de termo por fuga de refrigerante
+16/08/2026 | Turno A |  CAM-01  | Mantenimiento preventivo de unidad sin novedad
+2026-08-08 | Turno A | CAM-13 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-19 | Turno A | CAM-06 | Alerta de geocerca por desvio de ruta autorizado
+09-aug-2026 | Turno A | cam-12 | Chofer reporto demora por trafico
+14/08/2026 | Turno A |  CAM-30  | Cliente reporto producto fuera de temperatura al recibir
+27-aug-2026 |  | CAM-07 | Alerta de geocerca por desvio de ruta autorizado
+06/08/2026 | Turno C | CAM-11 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+14/08/2026 | Turno C |  CAM-11  | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-08 |  | CAM-13 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+16-aug-2026 | Turno A | CAM-09 | Cambio de termo por fuga de refrigerante
+2026-08-02 | Turno B |  CAM-20  | Alerta de geocerca por desvio de ruta autorizado
+25-aug-2026 | Turno A | CAM-17 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-17 | Turno B | CAM-19 | Chofer reporto demora por trafico
+29-aug-2026 | Turno A | CAM-11 | Cambio de termo por fuga de refrigerante
+09/08/2026 Turno B | CAM-12 | Chofer reporto demora por trafico
+08-aug-2026 | Turno C | CAM-05 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-02 | Turno B | CAM-04 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+27/08/2026 | Turno C | cam-06 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-27 | Turno B |  CAM-10  | Cliente reporto producto fuera de temperatura al recibir
+18-aug-2026 | Turno A | CAM-26 | Cliente reporto producto fuera de temperatura al recibir
+10-aug-2026 | Turno C | CAM-21 | Chofer reporto demora por trafico
+2026-08-05 | Turno B | CAM-24 | Falla de motor menor, resuelta en sitio
+29-aug-2026 |  |  CAM-24  | Chofer reporto demora por trafico
+16-aug-2026 | Turno A | CAM-22 | Cliente reporto producto fuera de temperatura al recibir
+2026-08-13 | Turno B | CAM-20 | Mantenimiento preventivo de unidad sin novedad
+26/08/2026 | Turno A | CAM-09 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-02 |  | CAM-16 | Falla de motor menor, resuelta en sitio
+13-aug-2026 | Turno A | CAM-16 | Falla de motor menor, resuelta en sitio
+2026-08-26 | Turno B | CAM-23 | Cambio de termo por fuga de refrigerante
+2026-08-15 | Turno B | CAM-17 | Cambio de termo por fuga de refrigerante
+2026-08-19 |  | cam-29 | Cliente reporto producto fuera de temperatura al recibir
+04-aug-2026 | Turno A |  CAM-08  | Chofer reporto demora por trafico
+2026-08-11 | Turno A |  CAM-16  | Alerta de geocerca por desvio de ruta autorizado
+2026-08-06 | Turno B | CAM-13 | Mantenimiento preventivo de unidad sin novedad
+2026-08-17 | Turno C | CAM-03 | Alerta de geocerca por desvio de ruta autorizado
+02-aug-2026 | Turno C | cam-08 | Cambio de termo por fuga de refrigerante
+2026-08-20 | Turno A | cam-24 | Camion con temperatura de cabina fuera de rango, se reviso unidad de frio
+2026-08-11 | Turno C | CAM-24 | Alerta de geocerca por desvio de ruta autorizado
+2026-08-25 | Turno A | cam-01 | Falla de motor menor, resuelta en sitio
+01/08/2026 | Turno C |  CAM-14  | Chofer reporto demora por trafico

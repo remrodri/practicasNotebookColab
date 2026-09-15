@@ -1,0 +1,157 @@
+chofer_id,chofer_nombre,centro_distribucion,horas_conduccion_mes,salario_base_bob,ausentismo_dias
+CHO-001,Oscar Calle,La Paz,120.6,5901.26,0
+CHO-002,Hugo Banzer,La Paz,136.4,3931.46,1
+CHO-003,Marcos Lino,Oruro,121.4,6269.76,1
+CHO-004,Adolfo Perez,Santa Cruz,195.5,4940.3,3
+CHO-005,Rene Rojas,La Paz,164.8,6144.78,0
+CHO-006,Oscar Calle,Cochabamba,193.3,5719.85,0
+CHO-007,Adolfo Perez,La Paz,168.6,5215.46,0
+CHO-008,Hugo Banzer,Tarija,207.0,4772.64,1
+CHO-009,Rene Rojas,Tarija,168.6,5528.74,0
+ cho-010 ,Marcos Lino,Tarija,171.2,4185.58,2
+CHO-011,Adolfo Perez,Santa Cruz,143.3,5098.29,1
+CHO-012,Marcos Lino,Tarija,176.3,6492.63,1
+CHO-013,Adolfo Perez,Santa Cruz,199.6,4947.25,2
+CHO-014,Hugo Banzer,Cochabamba,167.7,5292.01,0
+CHO-015,Marcos Lino,Tarija,113.2,6383.52,0
+CHO-016,Marcos Lino,Cochabamba,175.4,6382.79,0
+CHO-017,Rene Rojas,La Paz,178.1,5978.01,1
+CHO-018,Oscar Calle,Santa Cruz,213.4,4574.24,1
+CHO-019,Marcos Lino,Cochabamba,183.9,3830.85,0
+CHO-020,Hugo Banzer,Santa Cruz,126.4,4414.87,0
+CHO-021,Hugo Banzer,La Paz,142.5,6339.53,0
+CHO-022,Adolfo Perez,Oruro,147.7,4412.02,0
+CHO-023,Oscar Calle,La Paz,115.1,5335.1,0
+CHO-024,Rene Rojas,Santa Cruz,224.6,5820.17,0
+CHO-025,Juan Tapia,Santa Cruz,186.9,3550.96,0
+CHO-026,Adolfo Perez,Tarija,172.7,5030.36,0
+CHO-027,Marcos Lino,La Paz,176.7,6175.23,0
+CHO-028,Juan Tapia,Santa Cruz,185.2,4872.36,0
+CHO-029,Rene Rojas,Santa Cruz,165.3,5945.58,0
+CHO-030,Rene Rojas,Santa Cruz,130.2,4224.31,0
+CHO-031,Adolfo Perez,Tarija,147.5,6293.98,0
+CHO-032,Marcos Lino,Oruro,147.8,4897.2,2
+CHO-033,Adolfo Perez,Cochabamba,181.5,4714.35,2
+CHO-034,Juan Tapia,Santa Cruz,145.2,6117.77,0
+CHO-035,Hugo Banzer,Santa Cruz,127.2,4362.12,1
+CHO-036,Hugo Banzer,Tarija,188.1,3807.23,0
+CHO-037,Adolfo Perez,Santa Cruz,124.4,4222.82,2
+CHO-038,Adolfo Perez,Oruro,121.7,5600.13,0
+CHO-039,Rene Rojas,La Paz,117.4,4668.82,0
+CHO-040,Adolfo Perez,La Paz,177.2,6311.86,0
+CHO-041,Adolfo Perez,Cochabamba,162.9,3709.37,2
+CHO-042,Adolfo Perez,La Paz,157.7,6005.77,0
+CHO-043,Marcos Lino,Tarija,185.6,4226.79,0
+CHO-044,Adolfo Perez,Tarija,139.1,4119.04,0
+CHO-045,Jn Tapia,Tarija,180.6,5000.58,0
+CHO-046,Adolfo Perez,Santa Cruz,158.5,5030.67,0
+CHO-047,Rene Rojas,Cochabamba,166.9,4363.29,0
+CHO-048,Juan Tapia,Tarija,172.8,4828.72,1
+CHO-049,Hugo Banzer,La Paz,136.4,5598.37,5
+CHO-050,Juan Tapia,Tarija,170.0,4887.8,1
+CHO-051,Hugo Banzer,Oruro,164.9,4046.38,0
+CHO-052,Adolfo Perez,La Paz,145.2,3723.55,0
+CHO-053,Marcos Lino,Santa Cruz,206.2,5035.03,0
+CHO-054,Juan Tapia,Cochabamba,140.8,4602.4,0
+CHO-055,Hugo Banzer,Cochabamba,172.8,5820.32,0
+CHO-056,Juan Tapia,Tarija,174.3,3892.49,0
+CHO-057,Adolfo Perez,La Paz,138.8,6470.81,5
+CHO-058,Juan Tapia,Cochabamba,181.8,6050.16,0
+CHO-059,Hugo Banzer,Santa Cruz,185.8,4299.98,0
+CHO-060,Marcos Lino,Santa Cruz,160.3,6311.12,0
+CHO-061,Marcos Lino,Tarija,149.4,3994.53,0
+CHO-062,Rene Rojas,Santa Cruz,152.1,6288.08,0
+CHO-063,Marcos Lino,La Paz,140.6,4603.13,1
+CHO-064,Marcos Lino,La Paz,144.2,5185.63,0
+CHO-065,Oscar Calle,Cochabamba,108.8,3907.68,0
+CHO-066,Marcos Lino,La Paz,118.1,5362.53,0
+CHO-067,Oscar Calle,Oruro,169.4,4797.93,1
+CHO-068,Rene Rojas,Cochabamba,121.9,4032.82,1
+CHO-069,Adolfo Perez,Cochabamba,161.5,6104.24,0
+CHO-070,Oscar Calle,Santa Cruz,104.5,5200.86,0
+CHO-071,Rene Rojas,La Paz,158.0,4095.89,0
+ cho-072 ,Oscar Calle,La Paz,209.7,6392.98,0
+CHO-073,Juan Tapia,Cochabamba,160.2,5741.63,2
+CHO-074,Hugo Banzer,Santa Cruz,133.1,3695.82,0
+CHO-075,Hugo Banzer,Santa Cruz,162.0,3880.53,0
+CHO-076,Oscar Calle,Santa Cruz,168.5,6053.35,0
+CHO-077,Marcos Lino,Cochabamba,141.8,3715.61,0
+CHO-078,Marcos Lino,Santa Cruz,122.6,5023.39,0
+CHO-079,Rene Rojas,Santa Cruz,138.5,4018.9,1
+CHO-080,Adolfo Perez,Santa Cruz,162.2,4714.74,0
+CHO-081,Adolfo Perez,Santa Cruz,186.2,4026.8,3
+ cho-082 ,Juan Tapia,Tarija,216.8,3910.06,1
+CHO-083,Juan Tapia,La Paz,210.7,4131.63,1
+CHO-084,Hugo Banzer,La Paz,77.3,6480.49,0
+CHO-085,Marcos Lino,Santa Cruz,190.8,4398.66,0
+CHO-086,Oscar Calle,Cochabamba,193.2,6482.07,0
+CHO-087,Marcos Lino,Cochabamba,169.8,5533.73,0
+CHO-088,Marcos Lino,Tarija,133.3,6212.39,0
+CHO-089,Marcos Lino,Cochabamba,140.6,3508.43,0
+CHO-090,Oscar Calle,Cochabamba,180.7,5744.06,2
+CHO-091,Hugo Banzer,La Paz,188.7,3913.91,0
+ cho-092 ,Hugo Banzer,Santa Cruz,180.7,5522.66,0
+CHO-093,Adolfo Perez,La Paz,186.7,5985.05,0
+CHO-094,Rene Rojas,Cochabamba,174.0,4656.03,0
+CHO-095,Adolfo Perez,Santa Cruz,131.9,4611.98,5
+CHO-096,Adolfo Perez,Santa Cruz,180.3,4205.17,1
+CHO-097,Hugo Banzer,Santa Cruz,137.2,3802.72,2
+CHO-098,Adolfo Perez,Oruro,96.3,4175.34,1
+CHO-099,Juan Tapia,Santa Cruz,152.2,4190.52,0
+CHO-100,Marcos Lino,Santa Cruz,144.0,6363.19,0
+CHO-101,Adolfo Perez,Santa Cruz,168.5,4673.62,0
+CHO-102,Juan Tapia,La Paz,180.7,3966.36,0
+CHO-103,Juan Tapia,Santa Cruz,187.7,4970.5,1
+CHO-104,Juan Tapia,Santa Cruz,201.6,3932.18,0
+CHO-105,Juan Tapia,Tarija,208.2,5168.07,0
+CHO-106,Rene Rojas,Santa Cruz,208.2,5532.91,1
+CHO-107,Juan Tapia,La Paz,166.5,5946.13,0
+CHO-108,Adolfo Perez,Cochabamba,161.2,4733.33,0
+CHO-109,Juan Tapia,Santa Cruz,167.6,3752.74,0
+CHO-110,Juan Tapia,Oruro,140.1,6134.6,0
+CHO-111,Adolfo Perez,Cochabamba,198.2,3510.34,0
+CHO-112,Marcos Lino,Cochabamba,192.0,5465.25,0
+CHO-113,Hugo Banzer,Santa Cruz,184.6,4934.53,2
+CHO-114,Marcos Lino,Santa Cruz,119.4,6319.64,3
+CHO-115,Oscar Calle,Cochabamba,161.8,5835.05,0
+CHO-116,Rene Rojas,Cochabamba,172.7,6086.98,0
+CHO-117,Rene Rojas,Oruro,136.4,6483.66,1
+CHO-118,Hugo Banzer,Oruro,129.6,4413.19,2
+CHO-119,Juan Tapia,Oruro,179.0,5410.5,0
+ cho-120 ,Oscar Calle,Santa Cruz,199.6,4600.25,0
+CHO-121,Adolfo Perez,Santa Cruz,155.8,6112.94,0
+CHO-122,Marcos Lino,Tarija,140.5,5280.62,0
+CHO-123,Rene Rojas,Santa Cruz,108.5,4159.81,0
+CHO-124,Jn Tapia,Cochabamba,132.6,3943.6,0
+CHO-125,Marcos Lino,Cochabamba,156.5,4914.15,0
+CHO-126,Rene Rojas,La Paz,151.3,5166.52,0
+CHO-127,Marcos Lino,La Paz,150.3,3640.47,1
+CHO-128,Oscar Calle,Santa Cruz,134.9,4457.87,0
+CHO-129,Adolfo Perez,Santa Cruz,155.6,6402.94,0
+CHO-130,Oscar Calle,Cochabamba,131.0,4957.54,0
+CHO-131,Adolfo Perez,Cochabamba,108.3,3879.72,2
+CHO-132,Juan Tapia,Tarija,119.4,4395.74,0
+CHO-133,Marcos Lino,Santa Cruz,178.7,4817.83,0
+CHO-134,Adolfo Perez,La Paz,182.5,5792.79,0
+CHO-135,Juan Tapia,Cochabamba,213.0,6069.29,0
+CHO-136,Rene Rojas,Oruro,158.9,6048.86,1
+CHO-137,Marcos Lino,La Paz,140.8,3881.24,1
+CHO-138,Juan Tapia,Cochabamba,148.3,3601.0,0
+CHO-139,Juan Tapia,La Paz,188.8,5035.11,0
+CHO-140,Oscar Calle,Cochabamba,165.5,5144.04,0
+CHO-141,Marcos Lino,Santa Cruz,103.3,4512.52,1
+CHO-142,Marcos Lino,Santa Cruz,127.3,4352.91,1
+CHO-143,Adolfo Perez,Cochabamba,149.5,6153.1,0
+CHO-144,Juan Tapia,Oruro,161.5,6445.08,0
+CHO-145,Adolfo Perez,Cochabamba,200.1,5894.13,0
+CHO-146,Oscar Calle,Tarija,212.4,4280.56,1
+CHO-147,Hugo Banzer,Cochabamba,213.2,4504.13,0
+CHO-148,Oscar Calle,La Paz,136.4,3786.97,0
+CHO-149,Marcos Lino,Santa Cruz,164.6,6186.61,0
+CHO-150,Adolfo Perez,Oruro,172.8,5947.45,0
+CHO-151,Marcos Lino,Cochabamba,133.4,5539.77,0
+CHO-003,Marcos Lino,Oruro,121.4,6269.76,1
+CHO-056,Juan Tapia,Tarija,174.3,3892.49,0
+CHO-119,Jn Tapia,Oruro,179.0,5410.5,0
+CHO-141,Marcos Lino,Santa Cruz,103.3,4512.52,1
+CHO-126,Rene Rojas,La Paz,151.3,5166.52,0

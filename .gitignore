@@ -1,0 +1,27 @@
+# Entornos locales
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Archivos generados por los notebooks de S4
+# S4/salidas/
+
+# Archivos temporales del sistema y editores
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+
+# Los CSV originales de datasets/ se conservan en el repositorio.
