@@ -1,0 +1,64 @@
+producto_id,nombre_producto,categoria_logistica,temperatura_conservacion_requerida_c,tolerancia_temperatura_c,precio_unitario_bob,costo_unitario_bob
+PROD-001,Producto Logistico 001,Congelado,-18.0,2.0,51.22,42.39
+PROD-002,Producto Logistico 002,Fresco,4.0,2.0,40.36,33.75
+PROD-003,Producto Logistico 003,Fresco,4.0,2.0,32.0,27.19
+PROD-004,Producto Logistico 004,Seco,20.0,5.0,33.24,27.26
+PROD-005,Producto Logistico 005,Seco,20.0,5.0,95.28,76.84
+PROD-006,Producto Logistico 006,Seco,20.0,5.0,27.02,23.32
+PROD-007,Producto Logistico 007,Seco,20.0,5.0,28.43,23.87
+PROD-008,Producto Logistico 008,Fresco,4.0,2.0,39.49,31.75
+PROD-009,Producto Logistico 009,Seco,20.0,5.0,19.98,16.29
+PROD-010,Producto Logistico 010,Seco,20.0,5.0,55.95,47.91
+PROD-011,Producto Logistico 011,Fresco,4.0,2.0,17.36,14.4
+PROD-012,Producto Logistico 012,Congelado,-18.0,2.0,97.76,80.8
+PROD-013,Producto Logistico 013,Congelado,-18.0,2.0,38.55,33.05
+PROD-014,Producto Logistico 014,Seco,20.0,5.0,25.45,21.61
+PROD-015,Producto Logistico 015,Congelado,-18.0,2.0,66.51,54.56
+PROD-016,Producto Logistico 016,Seco,20.0,5.0,52.05,44.33
+PROD-017,Producto Logistico 017,Fresco,4.0,2.0,24.56,19.81
+PROD-018,Producto Logistico 018,Seco,,5.0,25.64,20.82
+PROD-019,Producto Logistico 019,Fresco,4.0,2.0,74.44,62.22
+PROD-020,Producto Logistico 020,Fresco,4.0,2.0,31.66,26.82
+PROD-021,Producto Logistico 021,Seco,20.0,5.0,99.85,84.36
+PROD-022,Producto Logistico 022,Congelado,-18.0,2.0,80.86,67.52
+PROD-023,Producto Logistico 023,Congelado,-18.0,2.0,74.28,64.4
+PROD-024,Producto Logistico 024,Seco,20.0,5.0,27.64,23.48
+ prod-025 ,Producto Logistico 025,Fresco,4.0,2.0,52.07,45.25
+PROD-026,Producto Logistico 026,conjelado,20.0,5.0,82.67,66.47
+PROD-027,Producto Logistico 027,Seco,20.0,5.0,53.89,44.86
+PROD-028,Producto Logistico 028,conjelado,20.0,5.0,65.58,55.4
+PROD-029,Producto Logistico 029,Seco,20.0,5.0,72.63,60.18
+PROD-030,Producto Logistico 030,Seco,20.0,5.0,30.21,24.51
+PROD-031,Producto Logistico 031,Congelado,-18.0,2.0,18.37,14.93
+PROD-032,Producto Logistico 032,Seco,20.0,5.0,77.07,63.21
+PROD-033,Producto Logistico 033,Seco,20.0,5.0,93.94,77.59
+PROD-034,Producto Logistico 034,Seco,20.0,5.0,96.66,83.26
+PROD-035,Producto Logistico 035,Fresco,4.0,2.0,27.77,23.85
+PROD-036,Producto Logistico 036,conjelado,-18.0,2.0,65.59,53.28
+PROD-037,Producto Logistico 037,Seco,20.0,5.0,79.14,64.93
+PROD-038,Producto Logistico 038,Seco,20.0,5.0,15.99,13.49
+PROD-039,Producto Logistico 039,Seco,20.0,5.0,69.45,56.75
+ prod-040 ,Producto Logistico 040,Fresco,4.0,2.0,95.83,82.17
+PROD-041,Producto Logistico 041,Seco,20.0,5.0,16.39,14.19
+ prod-042 ,Producto Logistico 042,Seco,20.0,5.0,86.59,73.69
+PROD-043,Producto Logistico 043,Fresco,4.0,2.0,86.89,71.11
+PROD-044,Producto Logistico 044,Seco,20.0,5.0,76.89,65.12
+PROD-045,Producto Logistico 045,Seco,20.0,5.0,72.11,61.85
+PROD-046,Producto Logistico 046,Seco,20.0,5.0,15.59,12.64
+PROD-047,Producto Logistico 047,Seco,20.0,5.0,24.92,21.58
+PROD-048,Producto Logistico 048,Seco,20.0,5.0,27.64,24.01
+PROD-049,Producto Logistico 049,Fresco,,2.0,30.69,25.49
+PROD-050,Producto Logistico 050,Fresco,4.0,2.0,66.41,55.37
+PROD-051,Producto Logistico 051,Congelado,-18.0,2.0,26.1,21.14
+PROD-052,Producto Logistico 052,Congelado,-18.0,2.0,71.93,59.66
+ prod-053 ,Producto Logistico 053,Seco,20.0,5.0,85.57,73.12
+ prod-054 ,Producto Logistico 054,Seco,20.0,5.0,95.57,81.98
+PROD-055,Producto Logistico 055,Seco,20.0,5.0,73.99,60.11
+PROD-056,Producto Logistico 056,Fresco,4.0,2.0,44.93,36.51
+PROD-057,Producto Logistico 057,Seco,20.0,5.0,47.91,39.61
+PROD-058,Producto Logistico 058,Seco,20.0,5.0,98.71,83.63
+PROD-059,Producto Logistico 059,Fresco,4.0,2.0,15.99,13.44
+PROD-060,Producto Logistico 060,Fresco,4.0,2.0,45.05,37.99
+ prod-010 ,Producto Logistico 010,Seco,20.0,5.0,55.95,47.91
+PROD-024,Producto Logistico 024,Seco,20.0,5.0,27.64,23.48
+PROD-014,Producto Logistico 014,Seco,20.0,5.0,25.45,21.61

@@ -1,0 +1,105 @@
+cliente_id,nombre_comercial,tipo_cliente,zona_despacho
+CLI-001,Comercial Andina 001,Supermercado,Sur
+CLI-002,Comercial Andina 002,Supermercado,Oriente
+CLI-003,Comercial Andina 003,Supermercado,Metropolitana
+CLI-004,Comercial Andina 004,Canal Tradicional,Sur
+CLI-005,Comercial Andina 005,Canal Tradicional,Metropolitana
+CLI-006,Comercial Andina 006,Supermercado,Metropolitana
+CLI-007,Comercial Andina 007,Institucional,Altiplano
+CLI-008,Comercial Andina 008,Canal Tradicional,Valles
+CLI-009,Comercial Andina 009,Supermercado,Valles
+CLI-010,Comercial Andina 010,Distribuidor,Metropolitana
+CLI-011,Comercial Andina 011,Distribuidor,Valles
+CLI-012,Comercial Andina 012,Distribuidor,Altiplano
+CLI-013,Comercial Andina 013,Canal Tradicional,Oriente
+CLI-014,Comercial Andina 014,Canal Tradicional,Metropolitana
+CLI-015,Comercial Andina 015,Distribuidor,Valles
+CLI-016,Comercial Andina 016,Distribuidor,Valles
+CLI-017,Comercial Andina 017,Distribuidor,Sur
+CLI-018,Comercial Andina 018,Distribuidor,Oriente
+CLI-019,Comercial Andina 019,Canal Tradicional,Valles
+CLI-020,Comercial Andina 020,Supermercado,Altiplano
+CLI-021,Comercial Andina 021,Supermercado,metrop.
+CLI-022,Comercial Andina 022,Institucional,Valles
+ cli-023 ,Comercial Andina 023,Canal Tradicional,Valles
+CLI-024,Comercial Andina 024,Distribuidor,Valles
+CLI-025,Comercial Andina 025,Institucional,Valles
+CLI-026,Comercial Andina 026,Supermercado,Sur
+CLI-027,Comercial Andina 027,Canal Tradicional,Valles
+CLI-028,Comercial Andina 028,Supermercado,Altiplano
+CLI-029,Comercial Andina 029,Institucional,Oriente
+CLI-030,Comercial Andina 030,Canal Tradicional,Altiplano
+ cli-031 ,Comercial Andina 031,Supermercado,Sur
+CLI-032,Comercial Andina 032,Distribuidor,Oriente
+CLI-033,Comercial Andina 033,distribudor,Sur
+CLI-034,Comercial Andina 034,Institucional,Valles
+CLI-035,Comercial Andina 035,Distribuidor,Valles
+CLI-036,Comercial Andina 036,Institucional,Oriente
+CLI-037,Comercial Andina 037,Institucional,Altiplano
+CLI-038,Comercial Andina 038,Distribuidor,Altiplano
+CLI-039,Comercial Andina 039,Supermercado,Valles
+CLI-040,Comercial Andina 040,Institucional,Oriente
+CLI-041,Comercial Andina 041,Distribuidor,Sur
+CLI-042,Comercial Andina 042,Institucional,Sur
+CLI-043,Comercial Andina 043,Canal Tradicional,Altiplano
+ cli-044 ,Comercial Andina 044,Supermercado,Altiplano
+CLI-045,Comercial Andina 045,Supermercado,Oriente
+ cli-046 ,Comercial Andina 046,Canal Tradicional,Valles
+CLI-047,Comercial Andina 047,Distribuidor,Oriente
+CLI-048,Comercial Andina 048,Distribuidor,Valles
+CLI-049,Comercial Andina 049,distribudor,Sur
+CLI-050,Comercial Andina 050,Canal Tradicional,Metropolitana
+CLI-051,Comercial Andina 051,Supermercado,Valles
+CLI-052,Comercial Andina 052,Distribuidor,Altiplano
+CLI-053,Comercial Andina 053,Supermercado,Altiplano
+CLI-054,Comercial Andina 054,Canal Tradicional,Altiplano
+CLI-055,Comercial Andina 055,Institucional,Valles
+CLI-056,Comercial Andina 056,Supermercado,Altiplano
+CLI-057,Comercial Andina 057,Distribuidor,Sur
+CLI-058,Comercial Andina 058,Distribuidor,Oriente
+CLI-059,Comercial Andina 059,Institucional,Sur
+CLI-060,Comercial Andina 060,Institucional,Metropolitana
+CLI-061,Comercial Andina 061,Supermercado,Sur
+ cli-062 ,Comercial Andina 062,Supermercado,Altiplano
+CLI-063,Comercial Andina 063,Institucional,Sur
+ cli-064 ,Comercial Andina 064,Canal Tradicional,Oriente
+CLI-065,Comercial Andina 065,Distribuidor,Valles
+CLI-066,Comercial Andina 066,Supermercado,Oriente
+CLI-067,Comercial Andina 067,Distribuidor,Oriente
+CLI-068,Comercial Andina 068,Canal Tradicional,Altiplano
+CLI-069,Comercial Andina 069,Distribuidor,Oriente
+CLI-070,Comercial Andina 070,Supermercado,Sur
+CLI-071,Comercial Andina 071,Institucional,Metropolitana
+CLI-072,Comercial Andina 072,Distribuidor,Altiplano
+CLI-073,Comercial Andina 073,Distribuidor,Valles
+ cli-074 ,Comercial Andina 074,Canal Tradicional,Metropolitana
+CLI-075,Comercial Andina 075,Canal Tradicional,Sur
+CLI-076,Comercial Andina 076,Supermercado,Valles
+CLI-077,Comercial Andina 077,distribudor,Valles
+CLI-078,Comercial Andina 078,Distribuidor,Altiplano
+CLI-079,Comercial Andina 079,Canal Tradicional,Valles
+CLI-080,Comercial Andina 080,Distribuidor,Altiplano
+CLI-081,Comercial Andina 081,Distribuidor,Oriente
+CLI-082,Comercial Andina 082,Distribuidor,Sur
+CLI-083,Comercial Andina 083,Supermercado,Valles
+CLI-084,Comercial Andina 084,Canal Tradicional,Metropolitana
+CLI-085,Comercial Andina 085,Canal Tradicional,Altiplano
+CLI-086,Comercial Andina 086,Canal Tradicional,Sur
+CLI-087,Comercial Andina 087,Canal Tradicional,Altiplano
+CLI-088,Comercial Andina 088,Supermercado,Sur
+CLI-089,Comercial Andina 089,Canal Tradicional,Valles
+CLI-090,Comercial Andina 090,Distribuidor,Altiplano
+CLI-091,Comercial Andina 091,Distribuidor,Sur
+CLI-092,Comercial Andina 092,Distribuidor,Oriente
+CLI-093,Comercial Andina 093,Supermercado,Metropolitana
+CLI-094,Comercial Andina 094,Canal Tradicional,Altiplano
+CLI-095,Comercial Andina 095,Supermercado,Valles
+CLI-096,Comercial Andina 096,Distribuidor,Oriente
+CLI-097,Comercial Andina 097,Canal Tradicional,Sur
+CLI-098,Comercial Andina 098,Distribuidor,Metropolitana
+CLI-099,Comercial Andina 099,Institucional,Altiplano
+CLI-100,Comercial Andina 100,Distribuidor,Valles
+CLI-084,Comercial Andina 084,Canal Tradicional,metrop.
+CLI-002,Comercial Andina 002,Supermercado,Oriente
+CLI-056,Comercial Andina 056,Supermercado,Altiplano
+CLI-010,Comercial Andina 010,Distribuidor,Metropolitana
