@@ -1,0 +1,10 @@
+﻿regla_id,columna_afectada,codigo_error_o_unidad,tratamiento_propuesto,estado,evidencia_acuerdo,validacion_requerida
+TEMP_C_CONSERVAR,temperatura_cabina_c,C,Conservar el valor en Celsius en columna preparada,APROBADA,C ya representa Celsius; conservar el valor original,Valor numérico y unidad C
+TEMP_F_A_C,temperatura_cabina_c,F,Convertir F a C con (F-32)*5/9,APROBADA,Conversión de F a Celsius confirmada por el usuario el 2026-09-15,Valor numérico y unidad F
+TEMP_K_A_C,temp_unit,UNIDAD_NO_RECONOCIDA,Convertir K a C con K-273.15,APROBADA,K confirmado como kelvin por el usuario el 2026-09-15,K confirmado como kelvin; valor numérico no negativo
+DUPLICADO_IDENTICO,viaje_id+timestamp,DUPLICADO,Identificar copia exacta y excluirla de vista utilizable,PENDIENTE,,Clave aprobada; copia idéntica en las diez columnas originales
+FALTANTE_TEMPERATURA,temperatura_cabina_c,FALTANTE,Sin imputación automática,PENDIENTE,,Fuente recuperable o método aprobado
+FALTANTE_HUMEDAD,humedad_cabina_pct,FALTANTE,Sin imputación automática,PENDIENTE,,Fuente recuperable o método aprobado
+HUMEDAD_FUERA_RANGO,humedad_cabina_pct,FUERA_RANGO,Conservar en cuarentena,PENDIENTE,,Lectura original verificable
+FECHA_INVALIDA,timestamp,FECHA_INVALIDA,Conservar en cuarentena,PENDIENTE,,Timestamp real recuperado de fuente autorizada
+DUPLICADO_DIFERENTE,viaje_id+timestamp,DUPLICADO,Conservar en cuarentena,PENDIENTE,,Regla de precedencia y fuente autoritativa
