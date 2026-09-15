@@ -2,7 +2,7 @@
 
 **Fecha:** 15 de septiembre de 2026
 **Fuente:** `datasets/AndinaLog_03B_Bronce/andinalog_iot_telemetry.csv`
-**Diagnóstico:** `S4/salidas/andinalog_iot_telemetry_diagnosticado.csv`
+**Diagnóstico:** `S4/andinalog_iot_telemetry/notebook1/salidas/andinalog_iot_telemetry_diagnosticado.csv`
 **Estado:** propuesta para revisión; no autoriza todavía conversiones ni liberación de cuarentena.
 
 ## Objetivo y alcance
