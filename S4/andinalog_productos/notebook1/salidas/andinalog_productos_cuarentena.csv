@@ -1,0 +1,14 @@
+﻿fila_bronze,producto_id,nombre_producto,categoria_logistica,temperatura_conservacion_requerida_c,tolerancia_temperatura_c,precio_unitario_bob,costo_unitario_bob,columnas_con_problemas,en_cuarentena
+18,PROD-018,Producto Logistico 018,Seco,,5.0,25.64,20.82,temperatura_conservacion_requerida_c,True
+25, prod-025 ,Producto Logistico 025,Fresco,4.0,2.0,52.07,45.25,producto_id,True
+26,PROD-026,Producto Logistico 026,conjelado,20.0,5.0,82.67,66.47,categoria_logistica,True
+28,PROD-028,Producto Logistico 028,conjelado,20.0,5.0,65.58,55.4,categoria_logistica,True
+36,PROD-036,Producto Logistico 036,conjelado,-18.0,2.0,65.59,53.28,categoria_logistica,True
+40, prod-040 ,Producto Logistico 040,Fresco,4.0,2.0,95.83,82.17,producto_id,True
+42, prod-042 ,Producto Logistico 042,Seco,20.0,5.0,86.59,73.69,producto_id,True
+49,PROD-049,Producto Logistico 049,Fresco,,2.0,30.69,25.49,temperatura_conservacion_requerida_c,True
+53, prod-053 ,Producto Logistico 053,Seco,20.0,5.0,85.57,73.12,producto_id,True
+54, prod-054 ,Producto Logistico 054,Seco,20.0,5.0,95.57,81.98,producto_id,True
+61, prod-010 ,Producto Logistico 010,Seco,20.0,5.0,55.95,47.91,producto_id,True
+62,PROD-024,Producto Logistico 024,Seco,20.0,5.0,27.64,23.48,producto_id,True
+63,PROD-014,Producto Logistico 014,Seco,20.0,5.0,25.45,21.61,producto_id,True

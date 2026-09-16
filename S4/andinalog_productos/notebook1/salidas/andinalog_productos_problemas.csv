@@ -1,0 +1,14 @@
+﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico
+18,temperatura_conservacion_requerida_c,FALTANTE,,GIAD-M3-S4-productos-diagnostico-v1
+25,producto_id,FORMATO_INVALIDO, prod-025 ,GIAD-M3-S4-productos-diagnostico-v1
+26,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v1
+28,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v1
+36,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v1
+40,producto_id,FORMATO_INVALIDO, prod-040 ,GIAD-M3-S4-productos-diagnostico-v1
+42,producto_id,FORMATO_INVALIDO, prod-042 ,GIAD-M3-S4-productos-diagnostico-v1
+49,temperatura_conservacion_requerida_c,FALTANTE,,GIAD-M3-S4-productos-diagnostico-v1
+53,producto_id,FORMATO_INVALIDO, prod-053 ,GIAD-M3-S4-productos-diagnostico-v1
+54,producto_id,FORMATO_INVALIDO, prod-054 ,GIAD-M3-S4-productos-diagnostico-v1
+61,producto_id,FORMATO_INVALIDO, prod-010 ,GIAD-M3-S4-productos-diagnostico-v1
+62,producto_id,DUPLICADO,PROD-024,GIAD-M3-S4-productos-diagnostico-v1
+63,producto_id,DUPLICADO,PROD-014,GIAD-M3-S4-productos-diagnostico-v1

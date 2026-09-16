@@ -1,0 +1,13 @@
+﻿metrica,valor
+archivo_bronze,andinalog_productos.csv
+sha256_bronze,428412504cad67f8ea0a5c6d5bb957faafd6f87337d022d70c7682e777c400cd
+version_diagnostico,GIAD-M3-S4-productos-diagnostico-v1
+filas_bronze,63
+filas_diagnosticadas,63
+filas_en_cuarentena,13
+filas_sin_cuarentena,50
+problemas_detectados,13
+categoria_logistica:VALOR_NO_RECONOCIDO,3
+producto_id:DUPLICADO,2
+producto_id:FORMATO_INVALIDO,6
+temperatura_conservacion_requerida_c:FALTANTE,2
