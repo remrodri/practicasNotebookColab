@@ -1,0 +1,275 @@
+﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico
+112,order_id,FORMATO_INVALIDO, ord-2026-00112 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+137,order_id,FORMATO_INVALIDO, ord-2026-00137 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+282,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+288,cliente_id,FORMATO_INVALIDO, cli-014 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+328,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+382,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+417,tiempo_entrega_real_hrs,NEGATIVO,-38.7,GIAD-M3-S4-WMS-orders-diagnostico-v1
+453,order_id,FORMATO_INVALIDO, ord-2026-00453 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+464,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+484,order_id,FORMATO_INVALIDO, ord-2026-00484 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+489,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+498,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+512,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+513,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+540,fecha_despacho,FECHA_INVALIDA,20/08/2026 03:07,GIAD-M3-S4-WMS-orders-diagnostico-v1
+546,order_id,FORMATO_INVALIDO, ord-2026-00546 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+631,producto_id,FORMATO_INVALIDO, prod-030 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+709,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+714,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+735,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+787,fecha_despacho,FECHA_INVALIDA,03/08/2026 03:31,GIAD-M3-S4-WMS-orders-diagnostico-v1
+790,cliente_id,FORMATO_INVALIDO, cli-009 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+813,producto_id,FORMATO_INVALIDO, prod-060 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+813,tiempo_entrega_real_hrs,NEGATIVO,-50.4,GIAD-M3-S4-WMS-orders-diagnostico-v1
+815,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+883,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+901,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+936,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+944,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1045,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1060,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1086,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1131,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1134,producto_id,FORMATO_INVALIDO, prod-036 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1187,tiempo_entrega_real_hrs,NEGATIVO,-25.2,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1196,fecha_despacho,FECHA_INVALIDA,04/08/2026 13:22,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1210,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1222,tiempo_entrega_real_hrs,NEGATIVO,-36.8,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1285,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1343,tiempo_entrega_real_hrs,NEGATIVO,-20.6,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1355,cliente_id,FORMATO_INVALIDO, cli-098 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1393,fecha_despacho,FECHA_INVALIDA,04/08/2026 11:48,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1409,fecha_despacho,FECHA_INVALIDA,24/08/2026 07:32,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1456,order_id,FORMATO_INVALIDO, ord-2026-01456 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1459,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1482,producto_id,FORMATO_INVALIDO, prod-052 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1521,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1539,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1584,order_id,FORMATO_INVALIDO, ord-2026-01584 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1654,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1680,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1702,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1724,fecha_despacho,FECHA_INVALIDA,17/08/2026 20:37,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1791,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1804,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1814,producto_id,FORMATO_INVALIDO, prod-040 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1827,order_id,FORMATO_INVALIDO, ord-2026-01827 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1844,producto_id,FORMATO_INVALIDO, prod-016 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1866,order_id,FORMATO_INVALIDO, ord-2026-01866 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1886,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1907,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1922,fecha_despacho,FECHA_INVALIDA,15/08/2026 03:24,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1924,order_id,FORMATO_INVALIDO, ord-2026-01924 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+1966,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2054,order_id,FORMATO_INVALIDO, ord-2026-02054 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2061,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2072,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2078,producto_id,FORMATO_INVALIDO, prod-038 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2122,order_id,FORMATO_INVALIDO, ord-2026-02122 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2134,order_id,FORMATO_INVALIDO, ord-2026-02134 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2154,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2202,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2266,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2278,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2326,order_id,FORMATO_INVALIDO, ord-2026-02326 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2327,tiempo_entrega_real_hrs,NEGATIVO,-62.1,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2351,tiempo_entrega_real_hrs,NEGATIVO,-34.3,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2356,fecha_despacho,FECHA_INVALIDA,11/08/2026 20:57,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2403,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2432,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2438,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2443,order_id,FORMATO_INVALIDO, ord-2026-02443 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2446,tiempo_entrega_real_hrs,NEGATIVO,-19.0,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2456,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2490,fecha_despacho,FECHA_INVALIDA,05/08/2026 03:57,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2503,cliente_id,FORMATO_INVALIDO, cli-034 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2511,order_id,FORMATO_INVALIDO, ord-2026-02511 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2547,order_id,FORMATO_INVALIDO, ord-2026-02547 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2548,cliente_id,FORMATO_INVALIDO, cli-075 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2578,cliente_id,FORMATO_INVALIDO, cli-023 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2584,order_id,FORMATO_INVALIDO, ord-2026-02584 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2606,order_id,FORMATO_INVALIDO, ord-2026-02606 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2623,order_id,FORMATO_INVALIDO, ord-2026-02623 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2631,order_id,FORMATO_INVALIDO, ord-2026-02631 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2641,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2683,order_id,FORMATO_INVALIDO, ord-2026-02683 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2739,order_id,FORMATO_INVALIDO, ord-2026-02739 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2784,fecha_despacho,FECHA_INVALIDA,2026-02-31 08:00:00,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2838,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+2954,tiempo_entrega_real_hrs,NEGATIVO,-21.1,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3015,fecha_despacho,FECHA_INVALIDA,24/08/2026 13:09,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3082,fecha_despacho,FECHA_INVALIDA,2026-02-31 08:00:00,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3083,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3124,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3141,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3176,order_id,FORMATO_INVALIDO, ord-2026-03176 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3188,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3194,order_id,FORMATO_INVALIDO, ord-2026-03194 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3228,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3242,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3247,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3265,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3324,order_id,FORMATO_INVALIDO, ord-2026-03324 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3385,producto_id,FORMATO_INVALIDO, prod-056 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3498,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3544,producto_id,FORMATO_INVALIDO, prod-023 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3565,cliente_id,FORMATO_INVALIDO, cli-009 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3679,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3781,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3781,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3791,order_id,FORMATO_INVALIDO, ord-2026-03791 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3809,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3844,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3872,cliente_id,FORMATO_INVALIDO, cli-068 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3878,producto_id,FORMATO_INVALIDO, prod-053 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3885,order_id,FORMATO_INVALIDO, ord-2026-03885 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3895,producto_id,FORMATO_INVALIDO, prod-029 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3905,cliente_id,FORMATO_INVALIDO, cli-088 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+3982,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4006,cliente_id,FORMATO_INVALIDO, cli-007 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4066,order_id,FORMATO_INVALIDO, ord-2026-04066 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4115,producto_id,FORMATO_INVALIDO, prod-041 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4126,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4164,fecha_despacho,FECHA_INVALIDA,13/08/2026 10:03,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4227,order_id,FORMATO_INVALIDO, ord-2026-04227 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4304,producto_id,FORMATO_INVALIDO, prod-001 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4343,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4356,cliente_id,FORMATO_INVALIDO, cli-061 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4376,order_id,FORMATO_INVALIDO, ord-2026-04376 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4391,order_id,FORMATO_INVALIDO, ord-2026-04391 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4539,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4551,producto_id,FORMATO_INVALIDO, prod-042 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4557,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4595,order_id,FORMATO_INVALIDO, ord-2026-04595 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4641,order_id,FORMATO_INVALIDO, ord-2026-04641 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4700,order_id,FORMATO_INVALIDO, ord-2026-04700 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4705,fecha_despacho,FECHA_INVALIDA,07/08/2026 01:35,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4721,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4752,cliente_id,FORMATO_INVALIDO, cli-058 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4762,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4784,tiempo_entrega_real_hrs,NEGATIVO,-24.3,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4849,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4877,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4880,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4885,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4886,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4954,producto_id,FORMATO_INVALIDO, prod-031 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+4967,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5004,order_id,FORMATO_INVALIDO, ord-2026-05004 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5012,cliente_id,FORMATO_INVALIDO, cli-002 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5026,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5031,order_id,FORMATO_INVALIDO, ord-2026-05031 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5069,producto_id,FORMATO_INVALIDO, prod-040 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5096,fecha_despacho,FECHA_INVALIDA,03/08/2026 13:33,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5112,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5120,fecha_despacho,FECHA_INVALIDA,2026-02-31 08:00:00,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5146,order_id,FORMATO_INVALIDO, ord-2026-05146 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5177,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5228,order_id,FORMATO_INVALIDO, ord-2026-05228 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5233,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5343,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5429,cliente_id,FORMATO_INVALIDO, cli-029 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5437,tiempo_entrega_real_hrs,NEGATIVO,-48.6,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5443,order_id,FORMATO_INVALIDO, ord-2026-05443 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5526,producto_id,FORMATO_INVALIDO, prod-004 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5541,order_id,FORMATO_INVALIDO, ord-2026-05541 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5554,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5584,fecha_despacho,FECHA_INVALIDA,23/08/2026 06:43,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5593,cliente_id,FORMATO_INVALIDO, cli-089 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5663,order_id,FORMATO_INVALIDO, ord-2026-05663 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5732,producto_id,FORMATO_INVALIDO, prod-011 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5738,order_id,FORMATO_INVALIDO, ord-2026-05738 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5824,fecha_despacho,FECHA_INVALIDA,01/08/2026 23:42,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5829,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5849,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5893,tiempo_entrega_real_hrs,NEGATIVO,-51.8,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5942,order_id,FORMATO_INVALIDO, ord-2026-05942 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+5969,cliente_id,FORMATO_INVALIDO, cli-087 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6005,fecha_despacho,FECHA_INVALIDA,09/08/2026 04:29,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6030,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6069,cliente_id,FORMATO_INVALIDO, cli-062 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6135,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6149,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6179,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6199,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6248,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6285,order_id,FORMATO_INVALIDO, ord-2026-06285 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6293,order_id,FORMATO_INVALIDO, ord-2026-06293 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6315,fecha_despacho,FECHA_INVALIDA,17/08/2026 23:52,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6329,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6333,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6365,producto_id,FORMATO_INVALIDO, prod-053 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6368,tiempo_entrega_real_hrs,NEGATIVO,-70.0,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6382,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6388,fecha_despacho,FECHA_INVALIDA,12/08/2026 16:33,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6499,order_id,FORMATO_INVALIDO, ord-2026-06499 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6530,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6680,order_id,FORMATO_INVALIDO, ord-2026-06680 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6856,order_id,FORMATO_INVALIDO, ord-2026-06856 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+6881,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7015,cantidad_solicitada,NO_NUMERICA,cincuenta,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7143,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7151,order_id,FORMATO_INVALIDO, ord-2026-07151 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7200,tiempo_entrega_real_hrs,NEGATIVO,-22.8,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7212,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7248,cliente_id,FORMATO_INVALIDO, cli-028 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7324,fecha_despacho,FECHA_INVALIDA,2026-02-31 08:00:00,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7325,cliente_id,FORMATO_INVALIDO, cli-057 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7383,producto_id,FORMATO_INVALIDO, prod-026 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7440,fecha_despacho,FECHA_INVALIDA,02/08/2026 02:48,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7455,cantidad_entregada,FALTANTE,,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7465,cliente_id,FORMATO_INVALIDO, cli-099 ,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7490,tiempo_entrega_real_hrs,NEGATIVO,-19.0,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7501,order_id,DUPLICADO,ORD-2026-00866,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7502,order_id,DUPLICADO,ORD-2026-06883,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7503,order_id,DUPLICADO,ORD-2026-04429,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7504,order_id,DUPLICADO,ORD-2026-03573,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7505,order_id,DUPLICADO,ORD-2026-01161,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7506,order_id,DUPLICADO,ORD-2026-00505,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7507,order_id,DUPLICADO,ORD-2026-03394,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7508,order_id,DUPLICADO,ORD-2026-02354,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7509,order_id,DUPLICADO,ORD-2026-06785,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7510,order_id,DUPLICADO,ORD-2026-04855,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7511,order_id,DUPLICADO,ORD-2026-00959,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7512,order_id,DUPLICADO,ORD-2026-00634,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7513,order_id,DUPLICADO,ORD-2026-02996,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7514,order_id,DUPLICADO,ORD-2026-01428,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7515,order_id,DUPLICADO,ORD-2026-05440,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7516,order_id,DUPLICADO,ORD-2026-01466,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7517,fecha_despacho,FECHA_INVALIDA,24/08/2026 03:55,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7517,order_id,DUPLICADO,ORD-2026-05397,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7518,order_id,DUPLICADO,ORD-2026-00963,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7519,order_id,DUPLICADO,ORD-2026-02362,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7520,order_id,DUPLICADO,ORD-2026-01743,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7521,order_id,DUPLICADO,ORD-2026-06102,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7522,order_id,DUPLICADO,ORD-2026-02799,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7523,order_id,DUPLICADO,ORD-2026-05945,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7524,order_id,DUPLICADO,ORD-2026-03487,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7525,order_id,DUPLICADO,ORD-2026-06587,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7526,order_id,DUPLICADO,ORD-2026-01910,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7527,order_id,DUPLICADO,ORD-2026-04468,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7528,order_id,DUPLICADO,ORD-2026-03584,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7529,order_id,DUPLICADO,ORD-2026-06978,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7530,order_id,DUPLICADO,ORD-2026-04440,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7531,order_id,DUPLICADO,ORD-2026-00316,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7532,order_id,DUPLICADO,ORD-2026-03160,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7533,order_id,DUPLICADO,ORD-2026-00363,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7534,order_id,DUPLICADO,ORD-2026-01565,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7535,order_id,DUPLICADO,ORD-2026-04279,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7536,order_id,DUPLICADO,ORD-2026-00707,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7537,order_id,DUPLICADO,ORD-2026-02597,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7538,order_id,DUPLICADO,ORD-2026-07407,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7539,order_id,DUPLICADO,ORD-2026-01327,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7540,order_id,DUPLICADO,ORD-2026-02320,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7541,order_id,DUPLICADO,ORD-2026-00077,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7542,order_id,DUPLICADO,ORD-2026-06953,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7543,order_id,DUPLICADO,ORD-2026-00738,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7544,order_id,DUPLICADO,ORD-2026-04965,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7545,order_id,DUPLICADO,ORD-2026-03955,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7546,order_id,DUPLICADO,ORD-2026-04759,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7547,order_id,DUPLICADO,ORD-2026-01598,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7548,order_id,DUPLICADO,ORD-2026-00139,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7549,order_id,DUPLICADO,ORD-2026-04209,GIAD-M3-S4-WMS-orders-diagnostico-v1
+7550,order_id,DUPLICADO,ORD-2026-05949,GIAD-M3-S4-WMS-orders-diagnostico-v1

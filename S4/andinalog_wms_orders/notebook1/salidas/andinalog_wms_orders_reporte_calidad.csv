@@ -1,0 +1,17 @@
+﻿metrica,valor
+archivo_bronze,andinalog_wms_orders.csv
+sha256_bronze,d3b0132a66c8d65875a5d06691f8d9517b9a60db2f8d2aac2ee23037b9e90f55
+version_diagnostico,GIAD-M3-S4-WMS-orders-diagnostico-v1
+filas_bronze,7550
+filas_diagnosticadas,7550
+filas_en_cuarentena,271
+filas_sin_cuarentena,7279
+problemas_detectados,274
+cantidad_entregada:FALTANTE,80
+cantidad_solicitada:NO_NUMERICA,15
+cliente_id:FORMATO_INVALIDO,20
+fecha_despacho:FECHA_INVALIDA,24
+order_id:DUPLICADO,50
+order_id:FORMATO_INVALIDO,50
+producto_id:FORMATO_INVALIDO,20
+tiempo_entrega_real_hrs:NEGATIVO,15
