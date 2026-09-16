@@ -1,0 +1,7 @@
+﻿fila_bronze,centro_distribucion,rotacion_stock_dias,perdida_mermas_bob,periodo_mes,costo_almacenamiento_mensual_bob,columnas_con_problemas,en_cuarentena
+1,Cochabamba,17.25,395488.73,2026-08,140000,,False
+2,La Paz,17.51,405070.14,2026-08,180000,,False
+3,Oruro,17.11,429637.2,2026-08,95000,,False
+4,Santa Cruz,17.57,395202.88,2026-08,220000,,False
+5,Tarija,17.92,400504.77,2026-08,110000,,False
+6,Tarija,,400504.77,2026-08,110000,periodo_mes+centro_distribucion|rotacion_stock_dias,True
