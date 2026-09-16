@@ -1,0 +1,11 @@
+﻿metrica,valor
+archivo_bronze,andinalog_hr_drivers.csv
+sha256_bronze,f4edf8a0f50292e3f320629f26b30a1a725df7e430965465faf044d877c1a718
+version_diagnostico,GIAD-M3-S4-HR-drivers-diagnostico-v1
+filas_bronze,156
+filas_diagnosticadas,156
+filas_en_cuarentena,10
+filas_sin_cuarentena,146
+problemas_detectados,10
+chofer_id:DUPLICADO,5
+chofer_id:FORMATO_INVALIDO,5
