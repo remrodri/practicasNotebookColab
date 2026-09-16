@@ -1,0 +1,15 @@
+﻿metrica,valor
+archivo_bronze,andinalog_inventory_tracking.csv
+sha256_bronze,6b10604538376dda79b3ebe4cc77015321c31ae17ac092e29edf3c66a5cf2c0c
+version_diagnostico,GIAD-M3-S4-INV-diagnostico-v1
+filas_bronze,6040
+filas_diagnosticadas,6040
+filas_en_cuarentena,104
+filas_sin_cuarentena,5936
+problemas_detectados,104
+cantidad_ingreso:NO_NUMERICA,10
+cantidad_merma:FUERA_RANGO,6
+fecha_ingreso:FECHA_INVALIDA,25
+fecha_salida:FECHA_INVALIDA,5
+fecha_vencimiento:FALTANTE,18
+movimiento_id:DUPLICADO,40

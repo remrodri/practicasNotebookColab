@@ -1,0 +1,8 @@
+﻿regla_id,columna_afectada,tratamiento_propuesto,validacion_requerida,estado,evidencia_acuerdo
+DUPLICADO_IDENTICO,movimiento_id,Conservar primera aparicion y marcar copia como excluida,Verificar coincidencia de las 12 columnas originales,APROBADA,Acuerdo de equipo S4: duplicados exactos auditados
+DUPLICADO_COMPLEMENTARIO,movimiento_id,Elegir fila con fecha_ingreso ISO canonica y excluir copia,Verificar coincidencia sin conflicto semantico,APROBADA,Acuerdo de equipo S4: fila con formato ISO prevalece
+FECHA_INGRESO_FORMATO,fecha_ingreso,Convertir DD/MM/YYYY a YYYY-MM-DD conservando original,Verificar patron regex y fecha valida de calendario,APROBADA,Acuerdo de equipo S4: estandarizacion de convencion de fecha
+CANTIDAD_INGRESO_TEXTO,cantidad_ingreso,Convertir 'cien' a 100 en cantidad_ingreso_preparada,Validar expresion textual explicita 'cien',APROBADA,Acuerdo de equipo S4: conversion de palabra numerica evidente
+MERMA_SIGNO_NEGATIVO,cantidad_merma,Corregir signo invirtiendo valor absoluto si ingreso > salida,Validar balance fisico cantidad_ingreso >= cantidad_salida,PENDIENTE,
+FECHA_SALIDA_IMPOSIBLE,fecha_salida,Imputar fecha correcta para 2026-02-31,Evidencia de log de despacho,PENDIENTE,
+VENCIMIENTO_FALTANTE,fecha_vencimiento,Imputar fecha de vencimiento segun categoria de producto,Validacion con maestro de productos,PENDIENTE,
