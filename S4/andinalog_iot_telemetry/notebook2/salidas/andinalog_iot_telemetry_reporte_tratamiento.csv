@@ -3,12 +3,12 @@ sha256_bronze,c5f78ed802f8455dfc8eac91295954c38a159029e77b8ed748875fe2d8cf7467
 sha256_flota,5c02eb8ef591c7f98846b8f547f41383467b41e7768bddb4031bb43d1b812bec
 version_tratamiento,GIAD-M3-S4-IOT-tratamiento-v2
 filas_totales,28920
-filas_cuarentena_inicial,330
-filas_cuarentena_final,325
+filas_cuarentena_inicial,450
+filas_cuarentena_final,445
 filas_liberadas,5
 problemas_resueltos,6
 copias_excluidas,120
-problemas_pendientes,210
+problemas_pendientes,330
 temperaturas_C_conservadas,28785
 temperaturas_F_a_C,50
 temperaturas_K_a_C,5

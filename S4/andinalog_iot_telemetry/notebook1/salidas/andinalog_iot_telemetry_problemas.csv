@@ -1,336 +1,456 @@
 ﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico
-8,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-121,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-213,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-238,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-477,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-530,humedad_cabina_pct,FUERA_RANGO,-59.9,GIAD-M3-S4-IOT-diagnostico-v2
-533,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-598,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-757,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1079,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1169,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1276,humedad_cabina_pct,FUERA_RANGO,-75.7,GIAD-M3-S4-IOT-diagnostico-v2
-1286,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1336,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1469,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1730,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1798,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-1967,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2346,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2356,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2583,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2601,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2788,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-2990,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3019,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3060,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3106,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3201,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3272,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3300,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3343,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3349,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-3617,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4059,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4065,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4067,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4102,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4423,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4537,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-4576,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4593,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4599,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4674,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-4768,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-4907,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5113,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5307,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5316,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5371,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5468,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5609,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-5823,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-5856,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-6397,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-6473,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-6767,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-6832,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7173,humedad_cabina_pct,FUERA_RANGO,-58.6,GIAD-M3-S4-IOT-diagnostico-v2
-7245,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7256,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7391,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7455,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7583,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7681,humedad_cabina_pct,FUERA_RANGO,-80.5,GIAD-M3-S4-IOT-diagnostico-v2
-7776,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7782,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-7941,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-8028,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-8232,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-8696,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-9333,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-9412,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-9456,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-9968,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10021,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10080,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10123,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-10240,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10309,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10372,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10385,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10599,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-10714,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11002,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11021,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v2
-11185,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11242,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11375,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11387,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11464,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11804,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11822,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-11926,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-12450,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-12678,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-12757,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-12771,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-12964,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13029,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-13055,humedad_cabina_pct,FUERA_RANGO,-52.1,GIAD-M3-S4-IOT-diagnostico-v2
-13130,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13298,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13586,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13803,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13903,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-13903,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v2
-14008,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-14165,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-14308,humedad_cabina_pct,FUERA_RANGO,-53.9,GIAD-M3-S4-IOT-diagnostico-v2
-14376,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-14414,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-14488,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-14718,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-14740,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-14863,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-15013,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-15244,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-15501,humedad_cabina_pct,FUERA_RANGO,-38.2,GIAD-M3-S4-IOT-diagnostico-v2
-15825,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-15940,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16079,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16092,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16209,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16284,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16388,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16469,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16543,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16576,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16707,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16752,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-16767,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17109,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17151,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17374,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17534,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17705,humedad_cabina_pct,FUERA_RANGO,-58.5,GIAD-M3-S4-IOT-diagnostico-v2
-17759,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-17823,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-18237,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-18632,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-18636,humedad_cabina_pct,FUERA_RANGO,-53.2,GIAD-M3-S4-IOT-diagnostico-v2
-18782,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-18810,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-19197,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-19393,humedad_cabina_pct,FUERA_RANGO,-48.1,GIAD-M3-S4-IOT-diagnostico-v2
-19491,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-19544,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-19655,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-20071,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-20228,humedad_cabina_pct,FUERA_RANGO,-66.8,GIAD-M3-S4-IOT-diagnostico-v2
-20884,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21058,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-21118,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21169,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v2
-21212,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21240,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21325,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21409,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21413,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21421,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-21435,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-21887,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22248,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22298,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22365,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22592,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22613,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-22841,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-22960,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23093,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23135,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23179,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23456,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23601,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-23991,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-24040,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-24416,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-24579,humedad_cabina_pct,FUERA_RANGO,-78.5,GIAD-M3-S4-IOT-diagnostico-v2
-24674,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-24824,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25016,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25029,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25071,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25535,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25630,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-25688,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26047,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26061,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26101,humedad_cabina_pct,FUERA_RANGO,-56.3,GIAD-M3-S4-IOT-diagnostico-v2
-26156,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26238,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26242,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-26321,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26353,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26425,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-26584,humedad_cabina_pct,FUERA_RANGO,-76.3,GIAD-M3-S4-IOT-diagnostico-v2
-26990,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27228,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27298,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27301,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27382,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v2
-27421,humedad_cabina_pct,FUERA_RANGO,-50.4,GIAD-M3-S4-IOT-diagnostico-v2
-27443,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27489,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27936,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-27975,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v2
-28111,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28132,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-28181,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28226,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28336,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28801,viaje_id+timestamp,DUPLICADO,VIA-00236 + 2026-08-25 12:44:00,GIAD-M3-S4-IOT-diagnostico-v2
-28802,viaje_id+timestamp,DUPLICADO,VIA-00184 + 2026-08-11 16:43:00,GIAD-M3-S4-IOT-diagnostico-v2
-28803,viaje_id+timestamp,DUPLICADO,VIA-00970 + 2026-08-10 17:20:00,GIAD-M3-S4-IOT-diagnostico-v2
-28804,viaje_id+timestamp,DUPLICADO,VIA-00194 + 2026-08-30 01:29:00,GIAD-M3-S4-IOT-diagnostico-v2
-28805,viaje_id+timestamp,DUPLICADO,VIA-00914 + 2026-08-06 09:56:00,GIAD-M3-S4-IOT-diagnostico-v2
-28806,viaje_id+timestamp,DUPLICADO,VIA-00259 + 2026-08-22 15:20:00,GIAD-M3-S4-IOT-diagnostico-v2
-28807,viaje_id+timestamp,DUPLICADO,VIA-00242 + 2026-08-15 07:46:00,GIAD-M3-S4-IOT-diagnostico-v2
-28808,viaje_id+timestamp,DUPLICADO,VIA-00662 + 2026-08-02 03:39:00,GIAD-M3-S4-IOT-diagnostico-v2
-28809,viaje_id+timestamp,DUPLICADO,VIA-01036 + 2026-08-19 04:44:00,GIAD-M3-S4-IOT-diagnostico-v2
-28810,viaje_id+timestamp,DUPLICADO,VIA-01172 + 2026-08-05 03:00:00,GIAD-M3-S4-IOT-diagnostico-v2
-28811,viaje_id+timestamp,DUPLICADO,VIA-00363 + 2026-08-13 10:55:00,GIAD-M3-S4-IOT-diagnostico-v2
-28812,viaje_id+timestamp,DUPLICADO,VIA-00927 + 2026-08-14 12:04:00,GIAD-M3-S4-IOT-diagnostico-v2
-28813,viaje_id+timestamp,DUPLICADO,VIA-00807 + 2026-08-07 10:51:00,GIAD-M3-S4-IOT-diagnostico-v2
-28814,viaje_id+timestamp,DUPLICADO,VIA-00486 + 2026-08-24 16:34:00,GIAD-M3-S4-IOT-diagnostico-v2
-28815,viaje_id+timestamp,DUPLICADO,VIA-00197 + 2026-08-13 21:56:00,GIAD-M3-S4-IOT-diagnostico-v2
-28816,viaje_id+timestamp,DUPLICADO,VIA-00670 + 2026-08-18 08:57:00,GIAD-M3-S4-IOT-diagnostico-v2
-28817,viaje_id+timestamp,DUPLICADO,VIA-00781 + 2026-08-05 23:30:00,GIAD-M3-S4-IOT-diagnostico-v2
-28818,viaje_id+timestamp,DUPLICADO,VIA-00053 + 2026-08-26 09:10:00,GIAD-M3-S4-IOT-diagnostico-v2
-28819,viaje_id+timestamp,DUPLICADO,VIA-00047 + 2026-08-19 08:18:00,GIAD-M3-S4-IOT-diagnostico-v2
-28820,viaje_id+timestamp,DUPLICADO,VIA-00305 + 2026-08-12 15:54:00,GIAD-M3-S4-IOT-diagnostico-v2
-28821,viaje_id+timestamp,DUPLICADO,VIA-00122 + 2026-08-15 04:11:00,GIAD-M3-S4-IOT-diagnostico-v2
-28822,viaje_id+timestamp,DUPLICADO,VIA-00823 + 2026-08-24 17:40:00,GIAD-M3-S4-IOT-diagnostico-v2
-28823,viaje_id+timestamp,DUPLICADO,VIA-00896 + 2026-08-21 01:37:00,GIAD-M3-S4-IOT-diagnostico-v2
-28824,viaje_id+timestamp,DUPLICADO,VIA-00380 + 2026-08-29 16:39:00,GIAD-M3-S4-IOT-diagnostico-v2
-28825,viaje_id+timestamp,DUPLICADO,VIA-00679 + 2026-08-18 17:48:00,GIAD-M3-S4-IOT-diagnostico-v2
-28826,viaje_id+timestamp,DUPLICADO,VIA-00217 + 2026-08-02 06:45:00,GIAD-M3-S4-IOT-diagnostico-v2
-28827,viaje_id+timestamp,DUPLICADO,VIA-00027 + 2026-08-22 20:28:00,GIAD-M3-S4-IOT-diagnostico-v2
-28828,viaje_id+timestamp,DUPLICADO,VIA-00051 + 2026-08-22 09:41:00,GIAD-M3-S4-IOT-diagnostico-v2
-28829,viaje_id+timestamp,DUPLICADO,VIA-00864 + 2026-08-24 08:23:00,GIAD-M3-S4-IOT-diagnostico-v2
-28830,viaje_id+timestamp,DUPLICADO,VIA-01070 + 2026-08-19 13:59:00,GIAD-M3-S4-IOT-diagnostico-v2
-28831,viaje_id+timestamp,DUPLICADO,VIA-00856 + 2026-08-27 12:37:00,GIAD-M3-S4-IOT-diagnostico-v2
-28832,viaje_id+timestamp,DUPLICADO,VIA-00379 + 2026-08-30 06:41:00,GIAD-M3-S4-IOT-diagnostico-v2
-28833,viaje_id+timestamp,DUPLICADO,VIA-00002 + 2026-08-10 21:47:00,GIAD-M3-S4-IOT-diagnostico-v2
-28834,viaje_id+timestamp,DUPLICADO,VIA-01023 + 2026-08-14 01:45:00,GIAD-M3-S4-IOT-diagnostico-v2
-28835,viaje_id+timestamp,DUPLICADO,VIA-01146 + 2026-08-10 18:49:00,GIAD-M3-S4-IOT-diagnostico-v2
-28836,viaje_id+timestamp,DUPLICADO,VIA-00306 + 2026-08-26 18:19:00,GIAD-M3-S4-IOT-diagnostico-v2
-28837,viaje_id+timestamp,DUPLICADO,VIA-00673 + 2026-08-14 00:13:00,GIAD-M3-S4-IOT-diagnostico-v2
-28838,viaje_id+timestamp,DUPLICADO,VIA-00135 + 2026-08-15 12:17:00,GIAD-M3-S4-IOT-diagnostico-v2
-28839,viaje_id+timestamp,DUPLICADO,VIA-00821 + 2026-08-29 09:01:00,GIAD-M3-S4-IOT-diagnostico-v2
-28840,viaje_id+timestamp,DUPLICADO,VIA-00755 + 2026-08-17 14:08:00,GIAD-M3-S4-IOT-diagnostico-v2
-28841,viaje_id+timestamp,DUPLICADO,VIA-00531 + 2026-08-17 15:18:00,GIAD-M3-S4-IOT-diagnostico-v2
-28842,viaje_id+timestamp,DUPLICADO,VIA-00757 + 2026-08-09 16:42:00,GIAD-M3-S4-IOT-diagnostico-v2
-28843,viaje_id+timestamp,DUPLICADO,VIA-00897 + 2026-08-01 13:03:00,GIAD-M3-S4-IOT-diagnostico-v2
-28844,viaje_id+timestamp,DUPLICADO,VIA-00091 + 2026-08-17 04:53:00,GIAD-M3-S4-IOT-diagnostico-v2
-28845,viaje_id+timestamp,DUPLICADO,VIA-00980 + 2026-08-09 01:10:00,GIAD-M3-S4-IOT-diagnostico-v2
-28846,viaje_id+timestamp,DUPLICADO,VIA-00640 + 2026-08-09 03:02:00,GIAD-M3-S4-IOT-diagnostico-v2
-28847,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28847,viaje_id+timestamp,DUPLICADO,VIA-00543 + 2026-08-05 19:46:00,GIAD-M3-S4-IOT-diagnostico-v2
-28848,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28848,viaje_id+timestamp,DUPLICADO,VIA-00475 + 2026-08-22 22:28:00,GIAD-M3-S4-IOT-diagnostico-v2
-28849,viaje_id+timestamp,DUPLICADO,VIA-00073 + 2026-08-14 23:38:00,GIAD-M3-S4-IOT-diagnostico-v2
-28850,viaje_id+timestamp,DUPLICADO,VIA-00985 + 2026-08-21 02:46:00,GIAD-M3-S4-IOT-diagnostico-v2
-28851,viaje_id+timestamp,DUPLICADO,VIA-01182 + 2026-08-29 04:46:00,GIAD-M3-S4-IOT-diagnostico-v2
-28852,viaje_id+timestamp,DUPLICADO,VIA-00379 + 2026-08-30 02:11:00,GIAD-M3-S4-IOT-diagnostico-v2
-28853,viaje_id+timestamp,DUPLICADO,VIA-00258 + 2026-08-20 16:38:00,GIAD-M3-S4-IOT-diagnostico-v2
-28854,viaje_id+timestamp,DUPLICADO,VIA-00939 + 2026-08-22 02:39:00,GIAD-M3-S4-IOT-diagnostico-v2
-28855,viaje_id+timestamp,DUPLICADO,VIA-01166 + 2026-08-29 17:48:00,GIAD-M3-S4-IOT-diagnostico-v2
-28856,viaje_id+timestamp,DUPLICADO,VIA-00433 + 2026-08-10 22:56:00,GIAD-M3-S4-IOT-diagnostico-v2
-28857,viaje_id+timestamp,DUPLICADO,VIA-00260 + 2026-08-22 02:23:00,GIAD-M3-S4-IOT-diagnostico-v2
-28858,viaje_id+timestamp,DUPLICADO,VIA-00674 + 2026-08-10 23:14:00,GIAD-M3-S4-IOT-diagnostico-v2
-28859,viaje_id+timestamp,DUPLICADO,VIA-00828 + 2026-08-29 17:05:00,GIAD-M3-S4-IOT-diagnostico-v2
-28860,viaje_id+timestamp,DUPLICADO,VIA-00751 + 2026-08-03 17:01:00,GIAD-M3-S4-IOT-diagnostico-v2
-28861,viaje_id+timestamp,DUPLICADO,VIA-00718 + 2026-08-21 08:16:00,GIAD-M3-S4-IOT-diagnostico-v2
-28862,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28862,viaje_id+timestamp,DUPLICADO,VIA-00761 + 2026-08-27 22:20:00,GIAD-M3-S4-IOT-diagnostico-v2
-28863,viaje_id+timestamp,DUPLICADO,VIA-00374 + 2026-08-12 01:55:00,GIAD-M3-S4-IOT-diagnostico-v2
-28864,viaje_id+timestamp,DUPLICADO,VIA-01028 + 2026-08-14 07:08:00,GIAD-M3-S4-IOT-diagnostico-v2
-28865,viaje_id+timestamp,DUPLICADO,VIA-01056 + 2026-08-04 08:35:00,GIAD-M3-S4-IOT-diagnostico-v2
-28866,viaje_id+timestamp,DUPLICADO,VIA-00786 + 2026-08-12 10:56:00,GIAD-M3-S4-IOT-diagnostico-v2
-28867,viaje_id+timestamp,DUPLICADO,VIA-00442 + 2026-08-21 19:44:00,GIAD-M3-S4-IOT-diagnostico-v2
-28868,viaje_id+timestamp,DUPLICADO,VIA-00670 + 2026-08-18 02:57:00,GIAD-M3-S4-IOT-diagnostico-v2
-28869,viaje_id+timestamp,DUPLICADO,VIA-00962 + 2026-08-16 09:07:00,GIAD-M3-S4-IOT-diagnostico-v2
-28870,viaje_id+timestamp,DUPLICADO,VIA-00694 + 2026-08-19 01:16:00,GIAD-M3-S4-IOT-diagnostico-v2
-28871,viaje_id+timestamp,DUPLICADO,VIA-00185 + 2026-08-02 08:54:00,GIAD-M3-S4-IOT-diagnostico-v2
-28872,viaje_id+timestamp,DUPLICADO,VIA-00445 + 2026-08-13 08:22:00,GIAD-M3-S4-IOT-diagnostico-v2
-28873,viaje_id+timestamp,DUPLICADO,VIA-00188 + 2026-08-17 10:21:00,GIAD-M3-S4-IOT-diagnostico-v2
-28874,viaje_id+timestamp,DUPLICADO,VIA-00989 + 2026-08-09 02:16:00,GIAD-M3-S4-IOT-diagnostico-v2
-28875,viaje_id+timestamp,DUPLICADO,VIA-00371 + 2026-08-31 03:35:00,GIAD-M3-S4-IOT-diagnostico-v2
-28876,viaje_id+timestamp,DUPLICADO,VIA-01088 + 2026-08-24 02:10:00,GIAD-M3-S4-IOT-diagnostico-v2
-28877,viaje_id+timestamp,DUPLICADO,VIA-00307 + 2026-08-10 12:55:00,GIAD-M3-S4-IOT-diagnostico-v2
-28878,viaje_id+timestamp,DUPLICADO,VIA-00841 + 2026-08-01 16:22:00,GIAD-M3-S4-IOT-diagnostico-v2
-28879,viaje_id+timestamp,DUPLICADO,VIA-00622 + 2026-08-07 01:24:00,GIAD-M3-S4-IOT-diagnostico-v2
-28880,viaje_id+timestamp,DUPLICADO,VIA-00467 + 2026-08-03 05:46:00,GIAD-M3-S4-IOT-diagnostico-v2
-28881,viaje_id+timestamp,DUPLICADO,VIA-00518 + 2026-08-02 23:04:00,GIAD-M3-S4-IOT-diagnostico-v2
-28882,viaje_id+timestamp,DUPLICADO,VIA-00453 + 2026-08-08 17:41:00,GIAD-M3-S4-IOT-diagnostico-v2
-28883,viaje_id+timestamp,DUPLICADO,VIA-00300 + 2026-08-12 03:01:00,GIAD-M3-S4-IOT-diagnostico-v2
-28884,viaje_id+timestamp,DUPLICADO,VIA-00705 + 2026-08-30 03:28:00,GIAD-M3-S4-IOT-diagnostico-v2
-28885,viaje_id+timestamp,DUPLICADO,VIA-00693 + 2026-08-30 11:59:00,GIAD-M3-S4-IOT-diagnostico-v2
-28886,viaje_id+timestamp,DUPLICADO,VIA-00903 + 2026-08-18 05:28:00,GIAD-M3-S4-IOT-diagnostico-v2
-28887,viaje_id+timestamp,DUPLICADO,VIA-00573 + 2026-08-13 19:25:00,GIAD-M3-S4-IOT-diagnostico-v2
-28888,viaje_id+timestamp,DUPLICADO,VIA-00164 + 2026-08-09 04:13:00,GIAD-M3-S4-IOT-diagnostico-v2
-28889,viaje_id+timestamp,DUPLICADO,VIA-01184 + 2026-08-12 23:47:00,GIAD-M3-S4-IOT-diagnostico-v2
-28890,viaje_id+timestamp,DUPLICADO,VIA-00328 + 2026-08-10 06:18:00,GIAD-M3-S4-IOT-diagnostico-v2
-28891,viaje_id+timestamp,DUPLICADO,VIA-01026 + 2026-08-29 21:55:00,GIAD-M3-S4-IOT-diagnostico-v2
-28892,viaje_id+timestamp,DUPLICADO,VIA-00190 + 2026-08-07 02:40:00,GIAD-M3-S4-IOT-diagnostico-v2
-28893,viaje_id+timestamp,DUPLICADO,VIA-00718 + 2026-08-21 09:16:00,GIAD-M3-S4-IOT-diagnostico-v2
-28894,viaje_id+timestamp,DUPLICADO,VIA-00068 + 2026-08-14 13:08:00,GIAD-M3-S4-IOT-diagnostico-v2
-28895,viaje_id+timestamp,DUPLICADO,VIA-00121 + 2026-08-06 04:54:00,GIAD-M3-S4-IOT-diagnostico-v2
-28896,viaje_id+timestamp,DUPLICADO,VIA-00268 + 2026-08-15 12:20:00,GIAD-M3-S4-IOT-diagnostico-v2
-28897,viaje_id+timestamp,DUPLICADO,VIA-00409 + 2026-08-31 08:07:00,GIAD-M3-S4-IOT-diagnostico-v2
-28898,viaje_id+timestamp,DUPLICADO,VIA-00360 + 2026-08-09 09:12:00,GIAD-M3-S4-IOT-diagnostico-v2
-28899,viaje_id+timestamp,DUPLICADO,VIA-00123 + 2026-08-18 16:09:00,GIAD-M3-S4-IOT-diagnostico-v2
-28900,viaje_id+timestamp,DUPLICADO,VIA-01024 + 2026-08-16 15:14:00,GIAD-M3-S4-IOT-diagnostico-v2
-28901,viaje_id+timestamp,DUPLICADO,VIA-00885 + 2026-08-03 15:27:00,GIAD-M3-S4-IOT-diagnostico-v2
-28902,viaje_id+timestamp,DUPLICADO,VIA-00265 + 2026-08-21 22:16:00,GIAD-M3-S4-IOT-diagnostico-v2
-28903,viaje_id+timestamp,DUPLICADO,VIA-01036 + 2026-08-19 03:14:00,GIAD-M3-S4-IOT-diagnostico-v2
-28904,viaje_id+timestamp,DUPLICADO,VIA-00871 + 2026-08-20 00:19:00,GIAD-M3-S4-IOT-diagnostico-v2
-28905,viaje_id+timestamp,DUPLICADO,VIA-00079 + 2026-08-14 14:45:00,GIAD-M3-S4-IOT-diagnostico-v2
-28906,viaje_id+timestamp,DUPLICADO,VIA-00967 + 2026-08-03 16:02:00,GIAD-M3-S4-IOT-diagnostico-v2
-28907,viaje_id+timestamp,DUPLICADO,VIA-00753 + 2026-08-08 10:41:00,GIAD-M3-S4-IOT-diagnostico-v2
-28908,viaje_id+timestamp,DUPLICADO,VIA-00297 + 2026-08-21 02:28:00,GIAD-M3-S4-IOT-diagnostico-v2
-28909,viaje_id+timestamp,DUPLICADO,VIA-00040 + 2026-08-08 15:48:00,GIAD-M3-S4-IOT-diagnostico-v2
-28910,viaje_id+timestamp,DUPLICADO,VIA-00101 + 2026-08-07 16:40:00,GIAD-M3-S4-IOT-diagnostico-v2
-28911,viaje_id+timestamp,DUPLICADO,VIA-00037 + 2026-08-25 17:52:00,GIAD-M3-S4-IOT-diagnostico-v2
-28912,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v2
-28912,viaje_id+timestamp,DUPLICADO,VIA-00124 + 2026-08-26 22:50:00,GIAD-M3-S4-IOT-diagnostico-v2
-28913,viaje_id+timestamp,DUPLICADO,VIA-00209 + 2026-08-17 07:32:00,GIAD-M3-S4-IOT-diagnostico-v2
-28914,viaje_id+timestamp,DUPLICADO,VIA-01064 + 2026-08-22 01:50:00,GIAD-M3-S4-IOT-diagnostico-v2
-28915,viaje_id+timestamp,DUPLICADO,VIA-01003 + 2026-08-04 22:30:00,GIAD-M3-S4-IOT-diagnostico-v2
-28916,viaje_id+timestamp,DUPLICADO,VIA-00693 + 2026-08-30 21:29:00,GIAD-M3-S4-IOT-diagnostico-v2
-28917,viaje_id+timestamp,DUPLICADO,VIA-00686 + 2026-08-03 01:18:00,GIAD-M3-S4-IOT-diagnostico-v2
-28918,viaje_id+timestamp,DUPLICADO,VIA-00946 + 2026-08-19 11:15:00,GIAD-M3-S4-IOT-diagnostico-v2
-28919,viaje_id+timestamp,DUPLICADO,VIA-00260 + 2026-08-22 01:23:00,GIAD-M3-S4-IOT-diagnostico-v2
-28920,viaje_id+timestamp,DUPLICADO,VIA-00801 + 2026-08-16 17:58:00,GIAD-M3-S4-IOT-diagnostico-v2
+8,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+121,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+213,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+229,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+238,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+425,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+459,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+469,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+477,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+530,humedad_cabina_pct,FUERA_RANGO,-59.9,GIAD-M3-S4-IOT-diagnostico-v3
+533,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+598,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+643,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+757,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+901,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1079,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1101,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1169,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1205,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1208,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1233,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1276,humedad_cabina_pct,FUERA_RANGO,-75.7,GIAD-M3-S4-IOT-diagnostico-v3
+1286,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1336,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1402,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1469,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1471,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1660,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1730,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1750,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+1798,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+1967,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2184,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+2346,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2356,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2583,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2601,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2788,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+2927,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+2990,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3019,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3060,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3106,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3201,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3268,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+3272,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3300,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3307,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+3343,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3349,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+3417,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+3617,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4011,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+4059,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4065,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4067,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4102,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4423,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4537,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+4576,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4593,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4599,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4674,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+4768,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+4836,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+4907,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5043,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5113,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5161,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5222,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5252,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5307,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5316,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5370,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5371,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5468,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5609,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+5628,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+5823,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+5856,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+6174,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+6397,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+6473,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+6477,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+6767,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+6832,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7173,humedad_cabina_pct,FUERA_RANGO,-58.6,GIAD-M3-S4-IOT-diagnostico-v3
+7228,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+7245,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7256,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7331,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+7391,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7455,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7467,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+7583,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7681,humedad_cabina_pct,FUERA_RANGO,-80.5,GIAD-M3-S4-IOT-diagnostico-v3
+7749,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+7776,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7782,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+7832,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+7941,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+8028,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+8232,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+8389,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+8559,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+8696,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+9088,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+9215,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+9333,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+9382,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+9412,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+9456,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+9525,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+9735,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+9968,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10021,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10080,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10093,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10123,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+10240,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10284,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10286,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10309,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10372,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10385,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10404,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10511,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10599,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10687,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+10714,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+10945,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+11002,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11021,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v3
+11158,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+11185,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11242,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11257,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+11359,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+11375,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11387,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11464,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11594,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+11804,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11822,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+11926,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+12053,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12097,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12198,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12450,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+12678,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+12695,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12757,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+12771,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+12774,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12917,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+12964,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13029,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+13055,humedad_cabina_pct,FUERA_RANGO,-52.1,GIAD-M3-S4-IOT-diagnostico-v3
+13112,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+13130,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13192,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+13298,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13440,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+13586,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13692,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+13803,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13824,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+13903,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+13903,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v3
+14008,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+14105,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+14165,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+14308,humedad_cabina_pct,FUERA_RANGO,-53.9,GIAD-M3-S4-IOT-diagnostico-v3
+14376,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+14414,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+14488,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+14718,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+14740,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+14791,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+14863,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+15013,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+15244,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+15501,humedad_cabina_pct,FUERA_RANGO,-38.2,GIAD-M3-S4-IOT-diagnostico-v3
+15780,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+15825,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+15940,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+15968,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+16079,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16092,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16209,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16284,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16388,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16427,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+16432,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+16469,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16488,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+16543,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16576,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16707,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16752,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16767,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+16804,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+16967,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+17017,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+17109,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17151,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17181,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+17374,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17534,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17705,humedad_cabina_pct,FUERA_RANGO,-58.5,GIAD-M3-S4-IOT-diagnostico-v3
+17742,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+17759,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17823,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+17959,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18182,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18237,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+18330,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18379,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18383,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18431,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+18632,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+18636,humedad_cabina_pct,FUERA_RANGO,-53.2,GIAD-M3-S4-IOT-diagnostico-v3
+18782,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+18810,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+19040,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+19197,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+19393,humedad_cabina_pct,FUERA_RANGO,-48.1,GIAD-M3-S4-IOT-diagnostico-v3
+19491,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+19544,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+19589,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+19655,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+19829,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+19881,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+19962,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+20071,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+20228,humedad_cabina_pct,FUERA_RANGO,-66.8,GIAD-M3-S4-IOT-diagnostico-v3
+20311,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+20388,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+20461,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+20645,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+20884,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21058,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+21074,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21118,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21159,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21169,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v3
+21212,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21240,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21325,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21409,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21413,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21421,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+21435,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21452,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21460,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21714,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21754,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+21887,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+21913,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+22248,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+22298,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+22365,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+22592,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+22613,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+22835,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+22841,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+22960,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23055,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23093,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23135,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23167,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23179,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23220,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23426,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23456,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23561,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23601,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+23702,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23861,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+23991,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+24040,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+24402,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+24416,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+24579,humedad_cabina_pct,FUERA_RANGO,-78.5,GIAD-M3-S4-IOT-diagnostico-v3
+24647,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+24674,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+24824,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+24838,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+25016,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+25029,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+25071,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+25485,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+25532,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+25535,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+25630,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+25688,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26047,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26061,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26093,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+26101,humedad_cabina_pct,FUERA_RANGO,-56.3,GIAD-M3-S4-IOT-diagnostico-v3
+26120,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+26156,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26238,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26242,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+26321,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26353,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26425,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+26525,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+26584,humedad_cabina_pct,FUERA_RANGO,-76.3,GIAD-M3-S4-IOT-diagnostico-v3
+26990,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27214,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27228,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27298,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27301,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27380,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27382,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v3
+27390,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27421,humedad_cabina_pct,FUERA_RANGO,-50.4,GIAD-M3-S4-IOT-diagnostico-v3
+27443,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27489,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27542,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27605,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27807,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+27936,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+27975,temp_unit,UNIDAD_NO_RECONOCIDA,K,GIAD-M3-S4-IOT-diagnostico-v3
+28111,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28132,timestamp,FECHA_INVALIDA,2026-02-31 09:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+28181,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28226,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28336,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28490,temperatura_cabina_c,VALOR_CENTINELA,-999.0,GIAD-M3-S4-IOT-diagnostico-v3
+28801,viaje_id+timestamp,DUPLICADO,VIA-00236 + 2026-08-25 12:44:00,GIAD-M3-S4-IOT-diagnostico-v3
+28802,viaje_id+timestamp,DUPLICADO,VIA-00184 + 2026-08-11 16:43:00,GIAD-M3-S4-IOT-diagnostico-v3
+28803,viaje_id+timestamp,DUPLICADO,VIA-00970 + 2026-08-10 17:20:00,GIAD-M3-S4-IOT-diagnostico-v3
+28804,viaje_id+timestamp,DUPLICADO,VIA-00194 + 2026-08-30 01:29:00,GIAD-M3-S4-IOT-diagnostico-v3
+28805,viaje_id+timestamp,DUPLICADO,VIA-00914 + 2026-08-06 09:56:00,GIAD-M3-S4-IOT-diagnostico-v3
+28806,viaje_id+timestamp,DUPLICADO,VIA-00259 + 2026-08-22 15:20:00,GIAD-M3-S4-IOT-diagnostico-v3
+28807,viaje_id+timestamp,DUPLICADO,VIA-00242 + 2026-08-15 07:46:00,GIAD-M3-S4-IOT-diagnostico-v3
+28808,viaje_id+timestamp,DUPLICADO,VIA-00662 + 2026-08-02 03:39:00,GIAD-M3-S4-IOT-diagnostico-v3
+28809,viaje_id+timestamp,DUPLICADO,VIA-01036 + 2026-08-19 04:44:00,GIAD-M3-S4-IOT-diagnostico-v3
+28810,viaje_id+timestamp,DUPLICADO,VIA-01172 + 2026-08-05 03:00:00,GIAD-M3-S4-IOT-diagnostico-v3
+28811,viaje_id+timestamp,DUPLICADO,VIA-00363 + 2026-08-13 10:55:00,GIAD-M3-S4-IOT-diagnostico-v3
+28812,viaje_id+timestamp,DUPLICADO,VIA-00927 + 2026-08-14 12:04:00,GIAD-M3-S4-IOT-diagnostico-v3
+28813,viaje_id+timestamp,DUPLICADO,VIA-00807 + 2026-08-07 10:51:00,GIAD-M3-S4-IOT-diagnostico-v3
+28814,viaje_id+timestamp,DUPLICADO,VIA-00486 + 2026-08-24 16:34:00,GIAD-M3-S4-IOT-diagnostico-v3
+28815,viaje_id+timestamp,DUPLICADO,VIA-00197 + 2026-08-13 21:56:00,GIAD-M3-S4-IOT-diagnostico-v3
+28816,viaje_id+timestamp,DUPLICADO,VIA-00670 + 2026-08-18 08:57:00,GIAD-M3-S4-IOT-diagnostico-v3
+28817,viaje_id+timestamp,DUPLICADO,VIA-00781 + 2026-08-05 23:30:00,GIAD-M3-S4-IOT-diagnostico-v3
+28818,viaje_id+timestamp,DUPLICADO,VIA-00053 + 2026-08-26 09:10:00,GIAD-M3-S4-IOT-diagnostico-v3
+28819,viaje_id+timestamp,DUPLICADO,VIA-00047 + 2026-08-19 08:18:00,GIAD-M3-S4-IOT-diagnostico-v3
+28820,viaje_id+timestamp,DUPLICADO,VIA-00305 + 2026-08-12 15:54:00,GIAD-M3-S4-IOT-diagnostico-v3
+28821,viaje_id+timestamp,DUPLICADO,VIA-00122 + 2026-08-15 04:11:00,GIAD-M3-S4-IOT-diagnostico-v3
+28822,viaje_id+timestamp,DUPLICADO,VIA-00823 + 2026-08-24 17:40:00,GIAD-M3-S4-IOT-diagnostico-v3
+28823,viaje_id+timestamp,DUPLICADO,VIA-00896 + 2026-08-21 01:37:00,GIAD-M3-S4-IOT-diagnostico-v3
+28824,viaje_id+timestamp,DUPLICADO,VIA-00380 + 2026-08-29 16:39:00,GIAD-M3-S4-IOT-diagnostico-v3
+28825,viaje_id+timestamp,DUPLICADO,VIA-00679 + 2026-08-18 17:48:00,GIAD-M3-S4-IOT-diagnostico-v3
+28826,viaje_id+timestamp,DUPLICADO,VIA-00217 + 2026-08-02 06:45:00,GIAD-M3-S4-IOT-diagnostico-v3
+28827,viaje_id+timestamp,DUPLICADO,VIA-00027 + 2026-08-22 20:28:00,GIAD-M3-S4-IOT-diagnostico-v3
+28828,viaje_id+timestamp,DUPLICADO,VIA-00051 + 2026-08-22 09:41:00,GIAD-M3-S4-IOT-diagnostico-v3
+28829,viaje_id+timestamp,DUPLICADO,VIA-00864 + 2026-08-24 08:23:00,GIAD-M3-S4-IOT-diagnostico-v3
+28830,viaje_id+timestamp,DUPLICADO,VIA-01070 + 2026-08-19 13:59:00,GIAD-M3-S4-IOT-diagnostico-v3
+28831,viaje_id+timestamp,DUPLICADO,VIA-00856 + 2026-08-27 12:37:00,GIAD-M3-S4-IOT-diagnostico-v3
+28832,viaje_id+timestamp,DUPLICADO,VIA-00379 + 2026-08-30 06:41:00,GIAD-M3-S4-IOT-diagnostico-v3
+28833,viaje_id+timestamp,DUPLICADO,VIA-00002 + 2026-08-10 21:47:00,GIAD-M3-S4-IOT-diagnostico-v3
+28834,viaje_id+timestamp,DUPLICADO,VIA-01023 + 2026-08-14 01:45:00,GIAD-M3-S4-IOT-diagnostico-v3
+28835,viaje_id+timestamp,DUPLICADO,VIA-01146 + 2026-08-10 18:49:00,GIAD-M3-S4-IOT-diagnostico-v3
+28836,viaje_id+timestamp,DUPLICADO,VIA-00306 + 2026-08-26 18:19:00,GIAD-M3-S4-IOT-diagnostico-v3
+28837,viaje_id+timestamp,DUPLICADO,VIA-00673 + 2026-08-14 00:13:00,GIAD-M3-S4-IOT-diagnostico-v3
+28838,viaje_id+timestamp,DUPLICADO,VIA-00135 + 2026-08-15 12:17:00,GIAD-M3-S4-IOT-diagnostico-v3
+28839,viaje_id+timestamp,DUPLICADO,VIA-00821 + 2026-08-29 09:01:00,GIAD-M3-S4-IOT-diagnostico-v3
+28840,viaje_id+timestamp,DUPLICADO,VIA-00755 + 2026-08-17 14:08:00,GIAD-M3-S4-IOT-diagnostico-v3
+28841,viaje_id+timestamp,DUPLICADO,VIA-00531 + 2026-08-17 15:18:00,GIAD-M3-S4-IOT-diagnostico-v3
+28842,viaje_id+timestamp,DUPLICADO,VIA-00757 + 2026-08-09 16:42:00,GIAD-M3-S4-IOT-diagnostico-v3
+28843,viaje_id+timestamp,DUPLICADO,VIA-00897 + 2026-08-01 13:03:00,GIAD-M3-S4-IOT-diagnostico-v3
+28844,viaje_id+timestamp,DUPLICADO,VIA-00091 + 2026-08-17 04:53:00,GIAD-M3-S4-IOT-diagnostico-v3
+28845,viaje_id+timestamp,DUPLICADO,VIA-00980 + 2026-08-09 01:10:00,GIAD-M3-S4-IOT-diagnostico-v3
+28846,viaje_id+timestamp,DUPLICADO,VIA-00640 + 2026-08-09 03:02:00,GIAD-M3-S4-IOT-diagnostico-v3
+28847,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28847,viaje_id+timestamp,DUPLICADO,VIA-00543 + 2026-08-05 19:46:00,GIAD-M3-S4-IOT-diagnostico-v3
+28848,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28848,viaje_id+timestamp,DUPLICADO,VIA-00475 + 2026-08-22 22:28:00,GIAD-M3-S4-IOT-diagnostico-v3
+28849,viaje_id+timestamp,DUPLICADO,VIA-00073 + 2026-08-14 23:38:00,GIAD-M3-S4-IOT-diagnostico-v3
+28850,viaje_id+timestamp,DUPLICADO,VIA-00985 + 2026-08-21 02:46:00,GIAD-M3-S4-IOT-diagnostico-v3
+28851,viaje_id+timestamp,DUPLICADO,VIA-01182 + 2026-08-29 04:46:00,GIAD-M3-S4-IOT-diagnostico-v3
+28852,viaje_id+timestamp,DUPLICADO,VIA-00379 + 2026-08-30 02:11:00,GIAD-M3-S4-IOT-diagnostico-v3
+28853,viaje_id+timestamp,DUPLICADO,VIA-00258 + 2026-08-20 16:38:00,GIAD-M3-S4-IOT-diagnostico-v3
+28854,viaje_id+timestamp,DUPLICADO,VIA-00939 + 2026-08-22 02:39:00,GIAD-M3-S4-IOT-diagnostico-v3
+28855,viaje_id+timestamp,DUPLICADO,VIA-01166 + 2026-08-29 17:48:00,GIAD-M3-S4-IOT-diagnostico-v3
+28856,viaje_id+timestamp,DUPLICADO,VIA-00433 + 2026-08-10 22:56:00,GIAD-M3-S4-IOT-diagnostico-v3
+28857,viaje_id+timestamp,DUPLICADO,VIA-00260 + 2026-08-22 02:23:00,GIAD-M3-S4-IOT-diagnostico-v3
+28858,viaje_id+timestamp,DUPLICADO,VIA-00674 + 2026-08-10 23:14:00,GIAD-M3-S4-IOT-diagnostico-v3
+28859,viaje_id+timestamp,DUPLICADO,VIA-00828 + 2026-08-29 17:05:00,GIAD-M3-S4-IOT-diagnostico-v3
+28860,viaje_id+timestamp,DUPLICADO,VIA-00751 + 2026-08-03 17:01:00,GIAD-M3-S4-IOT-diagnostico-v3
+28861,viaje_id+timestamp,DUPLICADO,VIA-00718 + 2026-08-21 08:16:00,GIAD-M3-S4-IOT-diagnostico-v3
+28862,humedad_cabina_pct,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28862,viaje_id+timestamp,DUPLICADO,VIA-00761 + 2026-08-27 22:20:00,GIAD-M3-S4-IOT-diagnostico-v3
+28863,viaje_id+timestamp,DUPLICADO,VIA-00374 + 2026-08-12 01:55:00,GIAD-M3-S4-IOT-diagnostico-v3
+28864,viaje_id+timestamp,DUPLICADO,VIA-01028 + 2026-08-14 07:08:00,GIAD-M3-S4-IOT-diagnostico-v3
+28865,viaje_id+timestamp,DUPLICADO,VIA-01056 + 2026-08-04 08:35:00,GIAD-M3-S4-IOT-diagnostico-v3
+28866,viaje_id+timestamp,DUPLICADO,VIA-00786 + 2026-08-12 10:56:00,GIAD-M3-S4-IOT-diagnostico-v3
+28867,viaje_id+timestamp,DUPLICADO,VIA-00442 + 2026-08-21 19:44:00,GIAD-M3-S4-IOT-diagnostico-v3
+28868,viaje_id+timestamp,DUPLICADO,VIA-00670 + 2026-08-18 02:57:00,GIAD-M3-S4-IOT-diagnostico-v3
+28869,viaje_id+timestamp,DUPLICADO,VIA-00962 + 2026-08-16 09:07:00,GIAD-M3-S4-IOT-diagnostico-v3
+28870,viaje_id+timestamp,DUPLICADO,VIA-00694 + 2026-08-19 01:16:00,GIAD-M3-S4-IOT-diagnostico-v3
+28871,viaje_id+timestamp,DUPLICADO,VIA-00185 + 2026-08-02 08:54:00,GIAD-M3-S4-IOT-diagnostico-v3
+28872,viaje_id+timestamp,DUPLICADO,VIA-00445 + 2026-08-13 08:22:00,GIAD-M3-S4-IOT-diagnostico-v3
+28873,viaje_id+timestamp,DUPLICADO,VIA-00188 + 2026-08-17 10:21:00,GIAD-M3-S4-IOT-diagnostico-v3
+28874,viaje_id+timestamp,DUPLICADO,VIA-00989 + 2026-08-09 02:16:00,GIAD-M3-S4-IOT-diagnostico-v3
+28875,viaje_id+timestamp,DUPLICADO,VIA-00371 + 2026-08-31 03:35:00,GIAD-M3-S4-IOT-diagnostico-v3
+28876,viaje_id+timestamp,DUPLICADO,VIA-01088 + 2026-08-24 02:10:00,GIAD-M3-S4-IOT-diagnostico-v3
+28877,viaje_id+timestamp,DUPLICADO,VIA-00307 + 2026-08-10 12:55:00,GIAD-M3-S4-IOT-diagnostico-v3
+28878,viaje_id+timestamp,DUPLICADO,VIA-00841 + 2026-08-01 16:22:00,GIAD-M3-S4-IOT-diagnostico-v3
+28879,viaje_id+timestamp,DUPLICADO,VIA-00622 + 2026-08-07 01:24:00,GIAD-M3-S4-IOT-diagnostico-v3
+28880,viaje_id+timestamp,DUPLICADO,VIA-00467 + 2026-08-03 05:46:00,GIAD-M3-S4-IOT-diagnostico-v3
+28881,viaje_id+timestamp,DUPLICADO,VIA-00518 + 2026-08-02 23:04:00,GIAD-M3-S4-IOT-diagnostico-v3
+28882,viaje_id+timestamp,DUPLICADO,VIA-00453 + 2026-08-08 17:41:00,GIAD-M3-S4-IOT-diagnostico-v3
+28883,viaje_id+timestamp,DUPLICADO,VIA-00300 + 2026-08-12 03:01:00,GIAD-M3-S4-IOT-diagnostico-v3
+28884,viaje_id+timestamp,DUPLICADO,VIA-00705 + 2026-08-30 03:28:00,GIAD-M3-S4-IOT-diagnostico-v3
+28885,viaje_id+timestamp,DUPLICADO,VIA-00693 + 2026-08-30 11:59:00,GIAD-M3-S4-IOT-diagnostico-v3
+28886,viaje_id+timestamp,DUPLICADO,VIA-00903 + 2026-08-18 05:28:00,GIAD-M3-S4-IOT-diagnostico-v3
+28887,viaje_id+timestamp,DUPLICADO,VIA-00573 + 2026-08-13 19:25:00,GIAD-M3-S4-IOT-diagnostico-v3
+28888,viaje_id+timestamp,DUPLICADO,VIA-00164 + 2026-08-09 04:13:00,GIAD-M3-S4-IOT-diagnostico-v3
+28889,viaje_id+timestamp,DUPLICADO,VIA-01184 + 2026-08-12 23:47:00,GIAD-M3-S4-IOT-diagnostico-v3
+28890,viaje_id+timestamp,DUPLICADO,VIA-00328 + 2026-08-10 06:18:00,GIAD-M3-S4-IOT-diagnostico-v3
+28891,viaje_id+timestamp,DUPLICADO,VIA-01026 + 2026-08-29 21:55:00,GIAD-M3-S4-IOT-diagnostico-v3
+28892,viaje_id+timestamp,DUPLICADO,VIA-00190 + 2026-08-07 02:40:00,GIAD-M3-S4-IOT-diagnostico-v3
+28893,viaje_id+timestamp,DUPLICADO,VIA-00718 + 2026-08-21 09:16:00,GIAD-M3-S4-IOT-diagnostico-v3
+28894,viaje_id+timestamp,DUPLICADO,VIA-00068 + 2026-08-14 13:08:00,GIAD-M3-S4-IOT-diagnostico-v3
+28895,viaje_id+timestamp,DUPLICADO,VIA-00121 + 2026-08-06 04:54:00,GIAD-M3-S4-IOT-diagnostico-v3
+28896,viaje_id+timestamp,DUPLICADO,VIA-00268 + 2026-08-15 12:20:00,GIAD-M3-S4-IOT-diagnostico-v3
+28897,viaje_id+timestamp,DUPLICADO,VIA-00409 + 2026-08-31 08:07:00,GIAD-M3-S4-IOT-diagnostico-v3
+28898,viaje_id+timestamp,DUPLICADO,VIA-00360 + 2026-08-09 09:12:00,GIAD-M3-S4-IOT-diagnostico-v3
+28899,viaje_id+timestamp,DUPLICADO,VIA-00123 + 2026-08-18 16:09:00,GIAD-M3-S4-IOT-diagnostico-v3
+28900,viaje_id+timestamp,DUPLICADO,VIA-01024 + 2026-08-16 15:14:00,GIAD-M3-S4-IOT-diagnostico-v3
+28901,viaje_id+timestamp,DUPLICADO,VIA-00885 + 2026-08-03 15:27:00,GIAD-M3-S4-IOT-diagnostico-v3
+28902,viaje_id+timestamp,DUPLICADO,VIA-00265 + 2026-08-21 22:16:00,GIAD-M3-S4-IOT-diagnostico-v3
+28903,viaje_id+timestamp,DUPLICADO,VIA-01036 + 2026-08-19 03:14:00,GIAD-M3-S4-IOT-diagnostico-v3
+28904,viaje_id+timestamp,DUPLICADO,VIA-00871 + 2026-08-20 00:19:00,GIAD-M3-S4-IOT-diagnostico-v3
+28905,viaje_id+timestamp,DUPLICADO,VIA-00079 + 2026-08-14 14:45:00,GIAD-M3-S4-IOT-diagnostico-v3
+28906,viaje_id+timestamp,DUPLICADO,VIA-00967 + 2026-08-03 16:02:00,GIAD-M3-S4-IOT-diagnostico-v3
+28907,viaje_id+timestamp,DUPLICADO,VIA-00753 + 2026-08-08 10:41:00,GIAD-M3-S4-IOT-diagnostico-v3
+28908,viaje_id+timestamp,DUPLICADO,VIA-00297 + 2026-08-21 02:28:00,GIAD-M3-S4-IOT-diagnostico-v3
+28909,viaje_id+timestamp,DUPLICADO,VIA-00040 + 2026-08-08 15:48:00,GIAD-M3-S4-IOT-diagnostico-v3
+28910,viaje_id+timestamp,DUPLICADO,VIA-00101 + 2026-08-07 16:40:00,GIAD-M3-S4-IOT-diagnostico-v3
+28911,viaje_id+timestamp,DUPLICADO,VIA-00037 + 2026-08-25 17:52:00,GIAD-M3-S4-IOT-diagnostico-v3
+28912,temperatura_cabina_c,FALTANTE,,GIAD-M3-S4-IOT-diagnostico-v3
+28912,viaje_id+timestamp,DUPLICADO,VIA-00124 + 2026-08-26 22:50:00,GIAD-M3-S4-IOT-diagnostico-v3
+28913,viaje_id+timestamp,DUPLICADO,VIA-00209 + 2026-08-17 07:32:00,GIAD-M3-S4-IOT-diagnostico-v3
+28914,viaje_id+timestamp,DUPLICADO,VIA-01064 + 2026-08-22 01:50:00,GIAD-M3-S4-IOT-diagnostico-v3
+28915,viaje_id+timestamp,DUPLICADO,VIA-01003 + 2026-08-04 22:30:00,GIAD-M3-S4-IOT-diagnostico-v3
+28916,viaje_id+timestamp,DUPLICADO,VIA-00693 + 2026-08-30 21:29:00,GIAD-M3-S4-IOT-diagnostico-v3
+28917,viaje_id+timestamp,DUPLICADO,VIA-00686 + 2026-08-03 01:18:00,GIAD-M3-S4-IOT-diagnostico-v3
+28918,viaje_id+timestamp,DUPLICADO,VIA-00946 + 2026-08-19 11:15:00,GIAD-M3-S4-IOT-diagnostico-v3
+28919,viaje_id+timestamp,DUPLICADO,VIA-00260 + 2026-08-22 01:23:00,GIAD-M3-S4-IOT-diagnostico-v3
+28920,viaje_id+timestamp,DUPLICADO,VIA-00801 + 2026-08-16 17:58:00,GIAD-M3-S4-IOT-diagnostico-v3

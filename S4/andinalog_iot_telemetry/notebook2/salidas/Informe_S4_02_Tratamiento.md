@@ -6,7 +6,7 @@
 
 ## Resultado del lote
 
-Se conservaron las 28,920 filas. La cuarentena pasó de 330 a 325 filas; 5 salieron después de resolver todos sus motivos. Se registraron 6 problemas resueltos, 210 pendientes y 120 copias excluidas de la vista utilizable.
+Se conservaron las 28,920 filas. La cuarentena pasó de 450 a 445 filas; 5 salieron después de resolver todos sus motivos. Se registraron 6 problemas resueltos, 330 pendientes y 120 copias excluidas de la vista utilizable.
 
 ## Tratamientos aplicados
 
@@ -27,6 +27,7 @@ Cualquier par con valores no vacíos contradictorios, sin una lectura claramente
 | humedad_cabina_pct | FALTANTE | 100 |
 | humedad_cabina_pct | FUERA_RANGO | 15 |
 | temperatura_cabina_c | FALTANTE | 80 |
+| temperatura_cabina_c | VALOR_CENTINELA | 120 |
 | timestamp | FECHA_INVALIDA | 15 |
 | viaje_id+timestamp | DUPLICADO | 120 |
 
