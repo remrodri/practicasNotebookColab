@@ -1,0 +1,11 @@
+﻿metrica,valor
+archivo_bronze,andinalog_flota.csv
+sha256_bronze,5c02eb8ef591c7f98846b8f547f41383467b41e7768bddb4031bb43d1b812bec
+version_diagnostico,GIAD-M3-S4-FLOTA-diagnostico-v1
+filas_bronze,32
+filas_diagnosticadas,32
+filas_en_cuarentena,4
+filas_sin_cuarentena,28
+problemas_detectados,6
+camion_id:DUPLICADO,2
+camion_id:FORMATO_INCONSISTENTE,4

@@ -1,0 +1,7 @@
+﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico
+20,camion_id,FORMATO_INCONSISTENTE, cam-20 ,GIAD-M3-S4-FLOTA-diagnostico-v1
+20,camion_id,FORMATO_INCONSISTENTE, cam-20 ,GIAD-M3-S4-FLOTA-diagnostico-v1
+30,camion_id,FORMATO_INCONSISTENTE, cam-30 ,GIAD-M3-S4-FLOTA-diagnostico-v1
+30,camion_id,FORMATO_INCONSISTENTE, cam-30 ,GIAD-M3-S4-FLOTA-diagnostico-v1
+31,camion_id,DUPLICADO,CAM-01,GIAD-M3-S4-FLOTA-diagnostico-v1
+32,camion_id,DUPLICADO,CAM-27,GIAD-M3-S4-FLOTA-diagnostico-v1
