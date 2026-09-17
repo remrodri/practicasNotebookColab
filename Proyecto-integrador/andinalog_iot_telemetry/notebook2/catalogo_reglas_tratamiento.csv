@@ -1,12 +1,13 @@
 ﻿regla_id,columna_afectada,codigo_error_o_unidad,tratamiento_propuesto,estado,evidencia_acuerdo,validacion_requerida
 TEMP_C_CONSERVAR,temperatura_cabina_c,C,Conservar el valor en Celsius en columna preparada,APROBADA,C ya representa Celsius; conservar el valor original,Valor numérico y unidad C
-TEMP_F_A_C,temperatura_cabina_c,F,Convertir F a C con (F-32)*5/9,APROBADA,Conversión de F a Celsius confirmada por el usuario el 2026-09-15,Valor numérico y unidad F
+TEMP_F_A_C,temperatura_cabina_c,PENDIENTE_CONVERSION_F,Convertir F a C con (F-32)*5/9,APROBADA,Conversión de F a Celsius confirmada por el usuario el 2026-09-15,Valor numérico y unidad F
 TEMP_K_A_C,temp_unit,UNIDAD_NO_RECONOCIDA,Convertir K a C con K-273.15,APROBADA,K confirmado como kelvin por el usuario el 2026-09-15,K confirmado como kelvin; valor numérico no negativo
-DUPLICADO_IDENTICO,viaje_id+timestamp,DUPLICADO,Elegir primera lectura canónica y excluir copia exacta,APROBADA,Regla de duplicados aprobada por el usuario el 2026-09-15,Misma clave y diez columnas originales idénticas
-DUPLICADO_MAYUSCULAS,viaje_id+timestamp,DUPLICADO,Elegir primera lectura y excluir copia con camion_id equivalente,APROBADA,Regla aprobada por el usuario; CAM-12 existe en la referencia de flota,Solo cambia mayúscula/minúscula de camion_id; código normalizado en flota
-DUPLICADO_COMPLEMENTARIO,viaje_id+timestamp,DUPLICADO,Elegir lectura más completa y excluir la incompleta,APROBADA,Regla de duplicados aprobada por el usuario el 2026-09-15,Todos los valores no vacíos coinciden y una lectura tiene más campos completos
+DUPLICADO_IDENTICO,viaje_id+timestamp,DUPLICADO_IDENTICO,Elegir primera lectura canónica y excluir copia exacta,APROBADA,Regla de duplicados aprobada por el usuario el 2026-09-15,Misma clave y diez columnas originales idénticas
+DUPLICADO_MAYUSCULAS,viaje_id+timestamp,CLAVE_EN_CONFLICTO,Elegir primera lectura y excluir copia con camion_id equivalente,APROBADA,Regla aprobada por el usuario; CAM-12 existe en la referencia de flota,Solo cambia mayúscula/minúscula de camion_id; código normalizado en flota
+DUPLICADO_COMPLEMENTARIO,viaje_id+timestamp,CLAVE_EN_CONFLICTO,Elegir lectura más completa y excluir la incompleta,APROBADA,Regla de duplicados aprobada por el usuario el 2026-09-15,Todos los valores no vacíos coinciden y una lectura tiene más campos completos
 FALTANTE_TEMPERATURA,temperatura_cabina_c,FALTANTE,Sin imputación automática,PENDIENTE,,Fuente recuperable o método aprobado
 FALTANTE_HUMEDAD,humedad_cabina_pct,FALTANTE,Sin imputación automática,PENDIENTE,,Fuente recuperable o método aprobado
 HUMEDAD_FUERA_RANGO,humedad_cabina_pct,FUERA_RANGO,Conservar en cuarentena,PENDIENTE,,Lectura original verificable
 FECHA_INVALIDA,timestamp,FECHA_INVALIDA,Conservar en cuarentena,PENDIENTE,,Timestamp real recuperado de fuente autorizada
-DUPLICADO_CONFLICTIVO,viaje_id+timestamp,DUPLICADO,Conservar ambas lecturas en cuarentena,PENDIENTE,,Valores no vacíos contradictorios o selección ambigua; requiere fuente autoritativa
+DUPLICADO_CONFLICTIVO,viaje_id+timestamp,CLAVE_EN_CONFLICTO,Conservar ambas lecturas en cuarentena,PENDIENTE,,Valores no vacíos contradictorios o selección ambigua; requiere fuente autoritativa
+CAMION_FORMATO_INVALIDO,camion_id,FORMATO_INVALIDO,Evaluar normalización de espacios y mayúsculas solo si el identificador resultante se valida contra la referencia de flota,PENDIENTE,,Confirmar equivalencia con flota y aprobar explícitamente la regla antes de liberar filas
