@@ -1,0 +1,15 @@
+﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico,estado_tratamiento,tratamiento_aplicado,detalle_resultado
+8,producto_id,FORMATO_INVALIDO, prod-008 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+16,producto_id,FORMATO_INVALIDO, prod-016 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+18,temperatura_conservacion_requerida_c,FALTANTE,,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+22,producto_id,FORMATO_INVALIDO, prod-022 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+26,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+28,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+31,producto_id,FORMATO_INVALIDO, prod-031 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+36,categoria_logistica,VALOR_NO_RECONOCIDO,conjelado,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+46,producto_id,FORMATO_INVALIDO, prod-046 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+49,temperatura_conservacion_requerida_c,FALTANTE,,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+61,producto_id,DUPLICADO,PROD-010,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+62,producto_id,COLISION_ID_NORMALIZADO, prod-024 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+62,producto_id,FORMATO_INVALIDO, prod-024 ,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+63,producto_id,DUPLICADO,PROD-014,GIAD-M3-S4-productos-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente

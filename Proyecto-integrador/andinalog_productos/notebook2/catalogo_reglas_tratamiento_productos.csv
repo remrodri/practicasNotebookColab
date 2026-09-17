@@ -1,0 +1,6 @@
+﻿regla_id,columna_afectada,codigo_error,tratamiento_propuesto,estado,evidencia_acuerdo,validacion_requerida
+ID_NORMALIZAR,producto_id,FORMATO_INVALIDO,Quitar espacios exteriores y pasar a mayúsculas si resulta PROD-###,PENDIENTE,,Aprobar equivalencia y comprobar unicidad tras normalizar
+CATEGORIA_CONJELADO,categoria_logistica,VALOR_NO_RECONOCIDO,Corregir el literal conjelado a Congelado,PENDIENTE,,Confirmar equivalencia con la fuente o responsable del maestro
+DUPLICADO_IDENTICO,producto_id,DUPLICADO,Conservar primera fila y excluir copias con los siete campos idénticos,PENDIENTE,,Aprobar criterio de canonicidad y verificar igualdad completa
+COLISION_ID_NORMALIZADO,producto_id,COLISION_ID_NORMALIZADO,"Tras normalizar el ID, excluir la copia solo si los demás campos son idénticos",PENDIENTE,,Requiere ID_NORMALIZAR aprobada y comparación de los seis campos restantes
+TEMP_FALTANTE,temperatura_conservacion_requerida_c,FALTANTE,Mantener en cuarentena hasta recuperar valor de fuente autorizada,PENDIENTE,,Valor original verificable; no imputar por categoría
