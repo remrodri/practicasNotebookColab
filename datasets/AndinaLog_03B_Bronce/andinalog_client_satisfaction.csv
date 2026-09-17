@@ -1,1516 +1,3712 @@
 order_id,satisfaccion_score,costo_devolucion_bob,queja_motivo
 ORD-2026-00001,5,0.0,Ninguno
+ORD-2026-00003,5,0.0,Ninguno
+ORD-2026-00005,4,0.0,Ninguno
 ORD-2026-00006,5,0.0,Ninguno
-ORD-2026-00011,2,2165.99,Retraso de camion
-ORD-2026-00016,4,0.0,Ninguno
-ORD-2026-00021,4,0.0,Ninguno
+ORD-2026-00009,5,0.0,Ninguno
+ORD-2026-00010,4,0.0,Ninguno
+ORD-2026-00012,2,2330.19,Faltaban items
+ORD-2026-00013,1,1313.9,Faltaban items
+ORD-2026-00014,3,0.0,Retraso de camion
+ORD-2026-00015,4,0.0,Ninguno
+ORD-2026-00019,2,1516.45,Retraso de camion
+ORD-2026-00021,2,2031.99,Faltaban items
+ORD-2026-00022,2,2767.36,Faltaban items
+ORD-2026-00025,4,0.0,Ninguno
 ORD-2026-00026,5,0.0,Ninguno
-ORD-2026-00031,4,0.0,Ninguno
-ORD-2026-00036,5,0.0,Ninguno
-ORD-2026-00041,3,0.0,Retraso de camion
-ORD-2026-00046,4,0.0,Ninguno
-ORD-2026-00051,3,0.0,Faltaban items
-ORD-2026-00056,4,0.0,Ninguno
-ORD-2026-00061,5,0.0,Ninguno
+ORD-2026-00027,5,0.0,Ninguno
+ORD-2026-00032,5,0.0,Ninguno
+ORD-2026-00036,3,0.0,Faltaban items
+ORD-2026-00037,5,0.0,Ninguno
+ORD-2026-00039,4,0.0,Ninguno
+ORD-2026-00040,4,0.0,Retraso de camion
+ORD-2026-00044,5,0.0,Ninguno
+ORD-2026-00045,4,0.0,Ninguno
+ORD-2026-00051,3,0.0,Ninguno
+ORD-2026-00053,2,1340.81,Retraso de camion
+ORD-2026-00059,2,2816.84,Retraso de camion
+ORD-2026-00060,4,0.0,Retraso de camion
+ORD-2026-00061,4,0.0,Faltaban items
+ORD-2026-00063,3,0.0,Ninguno
+ORD-2026-00064,5,0.0,Ninguno
+ORD-2026-00065,3,0.0,Faltaban items
 ORD-2026-00066,4,0.0,Ninguno
+ORD-2026-00068,5,0.0,Ninguno
+ORD-2026-00069,5,0.0,Ninguno
 ORD-2026-00071,4,0.0,Retraso de camion
-ORD-2026-00076,3,0.0,Faltaban items
+ORD-2026-00072,2,1473.93,Faltaban items
+ORD-2026-00073,4,0.0,Faltaban items
+ORD-2026-00074,5,0.0,Ninguno
+ORD-2026-00078,4,0.0,Faltaban items
+ORD-2026-00080,5,0.0,Ninguno
 ORD-2026-00081,5,0.0,Ninguno
-ORD-2026-00086,5,0.0,Ninguno
-ORD-2026-00091,4,0.0,Ninguno
-ORD-2026-00096,5,0.0,Ninguno
-ORD-2026-00101,5,0.0,Ninguno
-ORD-2026-00106,2,1352.75,Faltaban items
-ORD-2026-00111,4,0.0,Ninguno
-ORD-2026-00116,3,0.0,Retraso de camion
-ORD-2026-00121,5,0.0,Ninguno
-ORD-2026-00126,4,0.0,Faltaban items
-ORD-2026-00131,3,0.0,Retraso de camion
-ORD-2026-00136,4,0.0,Ninguno
-ORD-2026-00141,5,0.0,Caja dañada
-ORD-2026-00146,4,0.0,Caja dañada
-ORD-2026-00151,5,0.0,Ninguno
-ORD-2026-00156,4,0.0,Ninguno
-ORD-2026-00161,5,0.0,Ninguno
+ORD-2026-00084,4,0.0,Ninguno
+ORD-2026-00086,4,0.0,Ninguno
+ORD-2026-00089,3,0.0,Retraso de camion
+ORD-2026-00090,4,0.0,Retraso de camion
+ORD-2026-00094,5,0.0,Ninguno
+ORD-2026-00095,4,0.0,Retraso de camion
+ORD-2026-00097,4,0.0,Ninguno
+ORD-2026-00098,3,0.0,Ninguno
+ORD-2026-00100,3,0.0,Retraso de camion
+ORD-2026-00101,1,2119.32,Retraso de camion
+ORD-2026-00103,5,0.0,Ninguno
+ORD-2026-00106,2,505.35,Retraso de camion
+ORD-2026-00107,5,0.0,Caja dañada
+ORD-2026-00108,3,0.0,Caja dañada
+ORD-2026-00110,3,0.0,Ninguno
+ORD-2026-00111,5,0.0,Ninguno
+ORD-2026-00112,5,0.0,Ninguno
+ORD-2026-00113,2,1387.3,Retraso de camion
+ORD-2026-00114,4,0.0,Ninguno
+ORD-2026-00115,2,2679.71,Retraso de camion
+ORD-2026-00117,5,0.0,Ninguno
+ORD-2026-00120,5,0.0,Ninguno
+ORD-2026-00124,2,1719.34,Retraso de camion
+ORD-2026-00126,4,0.0,Retraso de camion
+ORD-2026-00128,4,0.0,Caja dañada
+ORD-2026-00129,3,0.0,Ninguno
+ORD-2026-00131,1,1331.53,Retraso de camion
+ORD-2026-00132,2,1666.76,Retraso de camion
+ORD-2026-00133,4,0.0,Ninguno
+ORD-2026-00135,4,0.0,Ninguno
+ORD-2026-00138,3,0.0,Retraso de camion
+ORD-2026-00141,5,0.0,Ninguno
+ORD-2026-00142,5,0.0,Ninguno
+ORD-2026-00144,4,0.0,Faltaban items
+ORD-2026-00145,4,0.0,Ninguno
+ORD-2026-00147,3,0.0,Retraso de camion
+ORD-2026-00148,5,0.0,Ninguno
+ORD-2026-00150,4,0.0,Retraso de camion
+ORD-2026-00151,4,0.0,Ninguno
+ORD-2026-00152,4,0.0,Ninguno
+ORD-2026-00155,3,0.0,Retraso de camion
+ORD-2026-00156,3,0.0,Retraso de camion
+ORD-2026-00161,4,0.0,Ninguno
+ORD-2026-00162,5,0.0,Ninguno
+ORD-2026-00165,5,0.0,Ninguno
 ORD-2026-00166,5,0.0,Ninguno
-ORD-2026-00171,4,0.0,Caja dañada
-ORD-2026-00176,3,0.0,Retraso de camion
-ORD-2026-00181,2,1845.65,Faltaban items
-ORD-2026-00186,4,0.0,Retraso de camion
-ORD-2026-00191,5,0.0,Ninguno
-ORD-2026-00196,4,0.0,Ninguno
+ORD-2026-00169,3,0.0,Ninguno
+ORD-2026-00173,4,0.0,Ninguno
+ORD-2026-00174,3,0.0,Ninguno
+ORD-2026-00178,5,0.0,Caja dañada
+ORD-2026-00180,3,0.0,Ninguno
+ORD-2026-00182,2,1646.82,Retraso de camion
+ORD-2026-00184,4,0.0,Retraso de camion
+ORD-2026-00187,3,0.0,Retraso de camion
+ORD-2026-00191,2,2379.96,Faltaban items
+ORD-2026-00192,5,0.0,Ninguno
+ORD-2026-00194,5,0.0,Ninguno
+ORD-2026-00196,5,0.0,Ninguno
+ORD-2026-00199,5,0.0,Ninguno
 ORD-2026-00201,5,0.0,Ninguno
+ORD-2026-00202,5,0.0,Ninguno
+ORD-2026-00203,2,1363.86,Retraso de camion
 ORD-2026-00206,5,0.0,Ninguno
-ORD-2026-00211,5,0.0,Ninguno
-ORD-2026-00216,4,0.0,Retraso de camion
-ORD-2026-00221,4,0.0,Faltaban items
-ORD-2026-00226,4,0.0,Ninguno
-ORD-2026-00231,5,0.0,Ninguno
+ORD-2026-00207,2,1771.72,Retraso de camion
+ORD-2026-00208,3,0.0,Faltaban items
+ORD-2026-00209,3,0.0,Retraso de camion
+ORD-2026-00211,3,0.0,Ninguno
+ORD-2026-00214,4,0.0,Caja dañada
+ORD-2026-00216,5,0.0,Ninguno
+ORD-2026-00217,3,0.0,Retraso de camion
+ORD-2026-00220,2,2243.59,Retraso de camion
+ORD-2026-00221,5,0.0,Ninguno
+ORD-2026-00223,5,0.0,Ninguno
+ORD-2026-00225,4,0.0,Ninguno
+ORD-2026-00228,4,0.0,Ninguno
+ORD-2026-00229,5,0.0,Ninguno
+ORD-2026-00233,2,2457.88,Faltaban items
+ORD-2026-00235,5,0.0,Ninguno
 ORD-2026-00236,4,0.0,Ninguno
-ORD-2026-00241,2,1879.41,Faltaban items
-ORD-2026-00246,4,0.0,Ninguno
-ORD-2026-00251,5,0.0,Ninguno
-ORD-2026-00256,4,0.0,Ninguno
-ORD-2026-00261,2,1357.25,Retraso de camion
-ORD-2026-00266,5,0.0,Retraso de camion
-ORD-2026-00271,2,1353.13,Retraso de camion
+ORD-2026-00238,2,2948.77,Retraso de camion
+ORD-2026-00239,4,0.0,Ninguno
+ORD-2026-00240,4,0.0,Ninguno
+ORD-2026-00241,4,0.0,Ninguno
+ORD-2026-00243,3,0.0,Retraso de camion
+ORD-2026-00245,3,0.0,Faltaban items
+ORD-2026-00246,3,0.0,Retraso de camion
+ORD-2026-00249,4,0.0,Ninguno
+ORD-2026-00253,5,0.0,Ninguno
+ORD-2026-00254,3,0.0,Retraso de camion
+ORD-2026-00258,3,0.0,Retraso de camion
+ORD-2026-00261,4,0.0,Ninguno
+ORD-2026-00265,5,0.0,Ninguno
+ORD-2026-00266,3,0.0,Retraso de camion
+ORD-2026-00267,4,0.0,Retraso de camion
+ORD-2026-00268,3,0.0,Ninguno
+ORD-2026-00269,2,1280.98,Ninguno
+ORD-2026-00271,5,0.0,Ninguno
+ORD-2026-00272,5,0.0,Ninguno
+ORD-2026-00275,4,0.0,Faltaban items
 ORD-2026-00276,5,0.0,Ninguno
-ORD-2026-00281,4,0.0,Ninguno
-ORD-2026-00286,5,0.0,Caja dañada
-ORD-2026-00291,5,0.0,Ninguno
-ORD-2026-00296,5,0.0,Ninguno
+ORD-2026-00278,5,0.0,Ninguno
+ORD-2026-00279,4,0.0,Ninguno
+ORD-2026-00286,5,0.0,Ninguno
+ORD-2026-00287,4,0.0,Ninguno
+ORD-2026-00288,3,0.0,Retraso de camion
+ORD-2026-00291,3,0.0,Faltaban items
+ORD-2026-00292,4,0.0,Ninguno
+ORD-2026-00294,2,2569.14,Retraso de camion
+ORD-2026-00296,2,1912.38,Retraso de camion
+ORD-2026-00299,1,1680.04,Faltaban items
 ORD-2026-00301,5,0.0,Ninguno
+ORD-2026-00302,1,1946.12,Retraso de camion
+ORD-2026-00305,4,0.0,Retraso de camion
 ORD-2026-00306,4,0.0,Ninguno
-ORD-2026-00311,4,0.0,Caja dañada
-ORD-2026-00316,3,0.0,Retraso de camion
-ORD-2026-00321,4,0.0,Ninguno
-ORD-2026-00326,5,0.0,Ninguno
-ORD-2026-00331,4,0.0,Ninguno
-ORD-2026-00336,1,1762.35,Faltaban items
-ORD-2026-00341,3,0.0,Faltaban items
-ORD-2026-00346,4,0.0,Ninguno
-ORD-2026-00351,5,0.0,Ninguno
+ORD-2026-00307,4,0.0,Faltaban items
+ORD-2026-00309,4,0.0,Retraso de camion
+ORD-2026-00312,2,537.78,Faltaban items
+ORD-2026-00314,4,0.0,Ninguno
+ORD-2026-00316,3,0.0,Ninguno
+ORD-2026-00317,2,1745.76,Retraso de camion
+ORD-2026-00320,3,0.0,Retraso de camion
+ORD-2026-00322,3,0.0,Caja dañada
+ORD-2026-00326,2,548.15,Ninguno
+ORD-2026-00328,4,0.0,Ninguno
+ORD-2026-00329,3,0.0,Ninguno
+ORD-2026-00330,2,1151.51,Retraso de camion
+ORD-2026-00331,5,0.0,Ninguno
+ORD-2026-00332,5,0.0,Ninguno
+ORD-2026-00339,1,1995.15,Faltaban items
+ORD-2026-00342,1,2803.48,Retraso de camion
+ORD-2026-00343,5,0.0,Ninguno
+ORD-2026-00344,5,0.0,Ninguno
+ORD-2026-00345,4,0.0,Ninguno
+ORD-2026-00348,4,0.0,Ninguno
+ORD-2026-00350,5,0.0,Ninguno
+ORD-2026-00351,3,0.0,Ninguno
+ORD-2026-00353,2,577.58,Retraso de camion
+ORD-2026-00354,5,0.0,Ninguno
+ORD-2026-00355,2,2517.24,Faltaban items
 ORD-2026-00356,4,0.0,Ninguno
-ORD-2026-00361,5,0.0,Ninguno
-ORD-2026-00366,5,0.0,Ninguno
-ORD-2026-00371,4,0.0,Caja dañada
+ORD-2026-00358,4,0.0,Retraso de camion
+ORD-2026-00360,4,0.0,Retraso de camion
+ORD-2026-00362,5,0.0,Caja dañada
+ORD-2026-00363,3,0.0,Retraso de camion
+ORD-2026-00370,2,1045.65,Retraso de camion
+ORD-2026-00371,4,0.0,Ninguno
+ORD-2026-00372,5,0.0,Ninguno
+ORD-2026-00374,5,0.0,Ninguno
 ORD-2026-00376,5,0.0,Ninguno
-ORD-2026-00381,5,0.0,Ninguno
-ORD-2026-00386,3,0.0,Faltaban items
-ORD-2026-00391,4,0.0,Ninguno
-ORD-2026-00396,4,0.0,Ninguno
-ORD-2026-00401,5,0.0,Ninguno
-ORD-2026-00406,5,0.0,Ninguno
-ORD-2026-00411,4,0.0,Ninguno
-ORD-2026-00416,2,1708.15,Faltaban items
-ORD-2026-00421,4,0.0,Ninguno
-ORD-2026-00426,3,0.0,Ninguno
-ORD-2026-00431,5,0.0,Ninguno
-ORD-2026-00436,5,0.0,Ninguno
-ORD-2026-00441,5,0.0,Ninguno
-ORD-2026-00446,5,0.0,Ninguno
-ORD-2026-00451,4,0.0,Retraso de camion
+ORD-2026-00378,4,0.0,Ninguno
+ORD-2026-00382,2,2654.53,Retraso de camion
+ORD-2026-00383,5,0.0,Ninguno
+ORD-2026-00384,3,0.0,Retraso de camion
+ORD-2026-00385,4,0.0,Ninguno
+ORD-2026-00386,5,0.0,Ninguno
+ORD-2026-00387,3,0.0,Ninguno
+ORD-2026-00388,4,0.0,Ninguno
+ORD-2026-00389,5,0.0,Ninguno
+ORD-2026-00390,5,0.0,Ninguno
+ORD-2026-00391,3,0.0,Retraso de camion
+ORD-2026-00393,5,0.0,Ninguno
+ORD-2026-00394,4,0.0,Caja dañada
+ORD-2026-00398,5,0.0,Ninguno
+ORD-2026-00399,5,0.0,Ninguno
+ORD-2026-00400,3,0.0,Ninguno
+ORD-2026-00401,4,0.0,Ninguno
+ORD-2026-00405,5,0.0,Ninguno
+ORD-2026-00408,5,0.0,Ninguno
+ORD-2026-00409,2,2934.81,Retraso de camion
+ORD-2026-00410,4,0.0,Ninguno
+ORD-2026-00412,3,0.0,Retraso de camion
+ORD-2026-00413,5,0.0,Ninguno
+ORD-2026-00414,4,0.0,Caja dañada
+ORD-2026-00415,5,0.0,Ninguno
+ORD-2026-00416,5,0.0,Ninguno
+ORD-2026-00418,5,0.0,Ninguno
+ORD-2026-00420,4,0.0,Ninguno
+ORD-2026-00423,5,0.0,Ninguno
+ORD-2026-00426,4,0.0,Retraso de camion
+ORD-2026-00427,1,1518.19,Faltaban items
+ORD-2026-00428,5,0.0,Ninguno
+ORD-2026-00429,4,0.0,Ninguno
+ORD-2026-00434,3,0.0,Retraso de camion
+ORD-2026-00436,3,0.0,Retraso de camion
+ORD-2026-00437,4,0.0,Ninguno
+ORD-2026-00438,4,0.0,Ninguno
+ORD-2026-00439,4,0.0,Retraso de camion
+ORD-2026-00440,5,0.0,Ninguno
+ORD-2026-00441,5,0.0,Caja dañada
+ORD-2026-00444,3,0.0,Retraso de camion
+ORD-2026-00447,4,0.0,Retraso de camion
+ORD-2026-00448,3,0.0,Ninguno
+ORD-2026-00449,3,0.0,Faltaban items
+ORD-2026-00451,3,0.0,Retraso de camion
+ORD-2026-00452,4,0.0,Ninguno
+ORD-2026-00453,5,0.0,Ninguno
+ORD-2026-00455,4,0.0,Ninguno
 ORD-2026-00456,4,0.0,Faltaban items
-ORD-2026-00461,4,0.0,Ninguno
-ORD-2026-00466,4,0.0,Ninguno
-ORD-2026-00471,3,0.0,Ninguno
-ORD-2026-00476,5,0.0,Ninguno
-ORD-2026-00481,3,0.0,Retraso de camion
-ORD-2026-00486,4,0.0,Ninguno
-ORD-2026-00491,2,2060.4,Faltaban items
-ORD-2026-00496,4,0.0,Caja dañada
-ORD-2026-00501,5,0.0,Ninguno
-ORD-2026-00506,4,0.0,Ninguno
-ORD-2026-00511,4,0.0,Ninguno
-ORD-2026-00516,3,0.0,Ninguno
-ORD-2026-00521,4,0.0,Caja dañada
-ORD-2026-00526,5,0.0,Ninguno
-ORD-2026-00531,3,0.0,Ninguno
-ORD-2026-00536,4,0.0,Ninguno
-ORD-2026-00541,4,0.0,Ninguno
-ORD-2026-00546,3,0.0,Caja dañada
-ORD-2026-00551,4,0.0,Ninguno
-ORD-2026-00556,3,0.0,Faltaban items
-ORD-2026-00561,5,0.0,Ninguno
-ORD-2026-00566,4,0.0,Ninguno
-ORD-2026-00571,4,0.0,Ninguno
-ORD-2026-00576,4,0.0,Ninguno
-ORD-2026-00581,5,0.0,Ninguno
-ORD-2026-00586,5,0.0,Ninguno
-ORD-2026-00591,5,0.0,Ninguno
-ORD-2026-00596,5,0.0,Ninguno
+ORD-2026-00457,2,569.68,Retraso de camion
+ORD-2026-00459,1,2187.36,Retraso de camion
+ORD-2026-00462,5,0.0,Ninguno
+ORD-2026-00463,3,0.0,Ninguno
+ORD-2026-00471,3,0.0,Retraso de camion
+ORD-2026-00472,2,1303.84,Retraso de camion
+ORD-2026-00473,5,0.0,Ninguno
+ORD-2026-00475,4,0.0,Ninguno
+ORD-2026-00476,3,0.0,Retraso de camion
+ORD-2026-00478,5,0.0,Ninguno
+ORD-2026-00479,4,0.0,Ninguno
+ORD-2026-00480,2,618.56,Ninguno
+ORD-2026-00485,5,0.0,Ninguno
+ORD-2026-00487,3,0.0,Ninguno
+ORD-2026-00488,5,0.0,Faltaban items
+ORD-2026-00489,4,0.0,Ninguno
+ORD-2026-00494,4,0.0,Retraso de camion
+ORD-2026-00495,5,0.0,Ninguno
+ORD-2026-00496,4,0.0,Ninguno
+ORD-2026-00499,4,0.0,Ninguno
+ORD-2026-00500,3,0.0,Faltaban items
+ORD-2026-00501,3,0.0,Ninguno
+ORD-2026-00503,4,0.0,Ninguno
+ORD-2026-00509,2,929.27,Ninguno
+ORD-2026-00516,5,0.0,Ninguno
+ORD-2026-00518,5,0.0,Ninguno
+ORD-2026-00520,5,0.0,Ninguno
+ORD-2026-00522,3,0.0,Faltaban items
+ORD-2026-00524,5,0.0,Ninguno
+ORD-2026-00525,5,0.0,Ninguno
+ORD-2026-00529,5,0.0,Ninguno
+ORD-2026-00530,5,0.0,Ninguno
+ORD-2026-00531,2,2100.5,Retraso de camion
+ORD-2026-00536,3,0.0,Retraso de camion
+ORD-2026-00537,4,0.0,Ninguno
+ORD-2026-00538,5,0.0,Ninguno
+ORD-2026-00539,3,0.0,Ninguno
+ORD-2026-00542,3,0.0,Retraso de camion
+ORD-2026-00545,4,0.0,Ninguno
+ORD-2026-00546,5,0.0,Caja dañada
+ORD-2026-00547,3,0.0,Retraso de camion
+ORD-2026-00554,5,0.0,Ninguno
+ORD-2026-00555,3,0.0,Ninguno
+ORD-2026-00556,3,0.0,Ninguno
+ORD-2026-00557,4,0.0,Ninguno
+ORD-2026-00558,4,0.0,Ninguno
+ORD-2026-00560,5,0.0,Ninguno
+ORD-2026-00567,3,0.0,Retraso de camion
+ORD-2026-00569,3,0.0,Faltaban items
+ORD-2026-00571,4,0.0,Caja dañada
+ORD-2026-00573,5,0.0,Ninguno
+ORD-2026-00575,4,0.0,Ninguno
+ORD-2026-00576,3,0.0,Faltaban items
+ORD-2026-00578,5,0.0,Ninguno
+ORD-2026-00579,1,1525.94,Retraso de camion
+ORD-2026-00580,2,852.67,Retraso de camion
+ORD-2026-00581,4,0.0,Ninguno
+ORD-2026-00582,5,0.0,Ninguno
+ORD-2026-00583,5,0.0,Ninguno
+ORD-2026-00585,3,0.0,Ninguno
+ORD-2026-00586,3,0.0,Retraso de camion
+ORD-2026-00587,4,0.0,Ninguno
+ORD-2026-00588,5,0.0,Ninguno
+ORD-2026-00590,5,0.0,Ninguno
+ORD-2026-00593,4,0.0,Ninguno
+ORD-2026-00595,5,0.0,Caja dañada
+ORD-2026-00596,4,0.0,Ninguno
+ORD-2026-00597,3,0.0,Retraso de camion
+ORD-2026-00600,5,0.0,Caja dañada
 ORD-2026-00601,5,0.0,Ninguno
-ORD-2026-00606,4,0.0,Ninguno
-ORD-2026-00611,4,0.0,Ninguno
-ORD-2026-00616,4,0.0,Caja dañada
-ORD-2026-00621,4,0.0,Ninguno
-ORD-2026-00626,4,0.0,Ninguno
-ORD-2026-00631,5,0.0,Ninguno
-ORD-2026-00636,4,0.0,Ninguno
-ORD-2026-00641,3,0.0,Ninguno
-ORD-2026-00646,5,0.0,Ninguno
-ORD-2026-00651,4,0.0,Ninguno
-ORD-2026-00656,4,0.0,Ninguno
-ORD-2026-00661,4,0.0,Ninguno
-ORD-2026-00666,4,0.0,Ninguno
-ORD-2026-00671,4,0.0,Ninguno
-ORD-2026-00676,4,0.0,Ninguno
-ORD-2026-00681,5,0.0,Ninguno
-ORD-2026-00686,3,0.0,Ninguno
-ORD-2026-00691,2,2261.81,Retraso de camion
-ORD-2026-00696,3,0.0,Faltaban items
-ORD-2026-00701,3,0.0,Ninguno
-ORD-2026-00706,5,0.0,Ninguno
-ORD-2026-00711,3,0.0,Ninguno
-ORD-2026-00716,4,0.0,Ninguno
-ORD-2026-00721,4,0.0,Ninguno
-ORD-2026-00726,5,0.0,Ninguno
-ORD-2026-00731,4,0.0,Ninguno
-ORD-2026-00736,5,0.0,Ninguno
-ORD-2026-00741,3,0.0,Ninguno
+ORD-2026-00603,4,0.0,Ninguno
+ORD-2026-00605,1,2195.66,Faltaban items
+ORD-2026-00606,1,2404.61,Faltaban items
+ORD-2026-00608,3,0.0,Ninguno
+ORD-2026-00614,5,0.0,Ninguno
+ORD-2026-00615,4,0.0,Ninguno
+ORD-2026-00617,5,0.0,Ninguno
+ORD-2026-00620,4,0.0,Ninguno
+ORD-2026-00621,3,0.0,Caja dañada
+ORD-2026-00623,4,0.0,Ninguno
+ORD-2026-00627,4,0.0,Ninguno
+ORD-2026-00629,2,1099.28,Ninguno
+ORD-2026-00634,2,1962.29,Retraso de camion
+ORD-2026-00635,4,0.0,Faltaban items
+ORD-2026-00636,5,0.0,Caja dañada
+ORD-2026-00637,4,0.0,Ninguno
+ORD-2026-00639,5,0.0,Ninguno
+ORD-2026-00642,3,0.0,Faltaban items
+ORD-2026-00653,2,1773.24,Retraso de camion
+ORD-2026-00654,2,1413.18,Retraso de camion
+ORD-2026-00655,3,0.0,Ninguno
+ORD-2026-00658,2,1460.3,Retraso de camion
+ORD-2026-00659,4,0.0,Ninguno
+ORD-2026-00660,5,0.0,Ninguno
+ORD-2026-00661,3,0.0,Retraso de camion
+ORD-2026-00662,3,0.0,Faltaban items
+ORD-2026-00667,5,0.0,Ninguno
+ORD-2026-00668,3,0.0,Ninguno
+ORD-2026-00669,5,0.0,Ninguno
+ORD-2026-00670,3,0.0,Retraso de camion
+ORD-2026-00671,3,0.0,Retraso de camion
+ORD-2026-00673,4,0.0,Ninguno
+ORD-2026-00674,1,2015.63,Retraso de camion
+ORD-2026-00675,1,2534.29,Retraso de camion
+ORD-2026-00677,4,0.0,Ninguno
+ORD-2026-00679,4,0.0,Ninguno
+ORD-2026-00682,2,2811.17,Retraso de camion
+ORD-2026-00683,3,0.0,Faltaban items
+ORD-2026-00685,4,0.0,Ninguno
+ORD-2026-00687,5,0.0,Caja dañada
+ORD-2026-00688,3,0.0,Ninguno
+ORD-2026-00689,4,0.0,Ninguno
+ORD-2026-00690,3,0.0,Retraso de camion
+ORD-2026-00691,4,0.0,Ninguno
+ORD-2026-00696,5,0.0,Ninguno
+ORD-2026-00697,3,0.0,Ninguno
+ORD-2026-00699,2,1248.95,Retraso de camion
+ORD-2026-00700,5,0.0,Ninguno
+ORD-2026-00704,3,0.0,Retraso de camion
+ORD-2026-00705,4,0.0,Retraso de camion
+ORD-2026-00723,2,766.36,Faltaban items
+ORD-2026-00724,4,0.0,Ninguno
+ORD-2026-00725,1,1840.94,Retraso de camion
+ORD-2026-00728,5,0.0,Ninguno
+ORD-2026-00729,5,0.0,Ninguno
+ORD-2026-00730,3,0.0,Retraso de camion
+ORD-2026-00731,5,0.0,Ninguno
+ORD-2026-00732,1,2747.78,Retraso de camion
+ORD-2026-00737,4,0.0,Caja dañada
+ORD-2026-00739,4,0.0,Faltaban items
+ORD-2026-00740,4,0.0,Ninguno
+ORD-2026-00741,4,0.0,Ninguno
+ORD-2026-00744,5,0.0,Ninguno
 ORD-2026-00746,5,0.0,Ninguno
-ORD-2026-00751,5,0.0,Ninguno
+ORD-2026-00747,2,2033.83,Retraso de camion
+ORD-2026-00748,5,0.0,Ninguno
+ORD-2026-00749,4,0.0,Ninguno
+ORD-2026-00750,4,0.0,Ninguno
+ORD-2026-00753,5,0.0,Ninguno
+ORD-2026-00754,1,2328.87,Retraso de camion
+ORD-2026-00755,4,0.0,Ninguno
 ORD-2026-00756,5,0.0,Ninguno
 ORD-2026-00761,4,0.0,Retraso de camion
-ORD-2026-00766,5,0.0,Ninguno
-ORD-2026-00771,3,0.0,Ninguno
-ORD-2026-00776,3,0.0,Ninguno
-ORD-2026-00781,2,1703.83,Retraso de camion
-ORD-2026-00786,3,0.0,Ninguno
-ORD-2026-00791,3,0.0,Ninguno
-ORD-2026-00796,5,0.0,Ninguno
-ORD-2026-00801,4,0.0,Ninguno
-ORD-2026-00806,5,0.0,Ninguno
-ORD-2026-00811,5,0.0,Ninguno
-ORD-2026-00816,4,0.0,Ninguno
-ORD-2026-00821,3,0.0,Faltaban items
-ORD-2026-00826,2,1727.23,Retraso de camion
-ORD-2026-00831,2,2689.83,Ninguno
-ORD-2026-00836,4,0.0,Ninguno
-ORD-2026-00841,2,2723.38,Retraso de camion
-ORD-2026-00846,5,0.0,Ninguno
-ORD-2026-00851,3,0.0,Ninguno
-ORD-2026-00856,2,2524.01,Retraso de camion
-ORD-2026-00861,4,0.0,Ninguno
-ORD-2026-00866,5,0.0,Ninguno
-ORD-2026-00871,4,0.0,Caja dañada
-ORD-2026-00876,3,0.0,Caja dañada
-ORD-2026-00881,4,0.0,Retraso de camion
-ORD-2026-00886,4,0.0,Ninguno
-ORD-2026-00891,4,0.0,Ninguno
-ORD-2026-00896,3,0.0,Ninguno
-ORD-2026-00901,5,0.0,Ninguno
-ORD-2026-00906,5,0.0,Ninguno
-ORD-2026-00911,5,0.0,Ninguno
-ORD-2026-00916,4,0.0,Ninguno
-ORD-2026-00921,4,0.0,Ninguno
-ORD-2026-00926,2,2645.42,Retraso de camion
-ORD-2026-00931,5,0.0,Ninguno
-ORD-2026-00936,5,0.0,Ninguno
-ORD-2026-00941,4,0.0,Ninguno
-ORD-2026-00946,4,0.0,Ninguno
-ORD-2026-00951,5,0.0,Ninguno
-ORD-2026-00956,3,0.0,Retraso de camion
-ORD-2026-00961,4,0.0,Retraso de camion
-ORD-2026-00966,5,0.0,Ninguno
-ORD-2026-00971,3,0.0,Ninguno
-ORD-2026-00976,2,2501.48,Ninguno
-ORD-2026-00981,4,0.0,Ninguno
+ORD-2026-00762,4,0.0,Ninguno
+ORD-2026-00765,2,944.69,Retraso de camion
+ORD-2026-00769,4,0.0,Ninguno
+ORD-2026-00772,3,0.0,Faltaban items
+ORD-2026-00773,5,0.0,Ninguno
+ORD-2026-00775,4,0.0,Ninguno
+ORD-2026-00776,5,0.0,Ninguno
+ORD-2026-00779,3,0.0,Retraso de camion
+ORD-2026-00783,5,0.0,Ninguno
+ORD-2026-00786,5,0.0,Retraso de camion
+ORD-2026-00792,5,0.0,Ninguno
+ORD-2026-00793,3,0.0,Retraso de camion
+ORD-2026-00798,4,0.0,Ninguno
+ORD-2026-00799,2,2077.89,Ninguno
+ORD-2026-00800,2,1333.93,Retraso de camion
+ORD-2026-00803,5,0.0,Ninguno
+ORD-2026-00804,1,2529.62,Retraso de camion
+ORD-2026-00805,5,0.0,Ninguno
+ORD-2026-00806,2,1278.55,Retraso de camion
+ORD-2026-00808,3,0.0,Retraso de camion
+ORD-2026-00810,3,0.0,Ninguno
+ORD-2026-00811,4,0.0,Ninguno
+ORD-2026-00812,5,0.0,Ninguno
+ORD-2026-00815,2,583.6,Retraso de camion
+ORD-2026-00816,2,1988.85,Retraso de camion
+ORD-2026-00817,3,0.0,Retraso de camion
+ORD-2026-00818,4,0.0,Ninguno
+ORD-2026-00820,4,0.0,Ninguno
+ORD-2026-00822,5,0.0,Ninguno
+ORD-2026-00824,4,0.0,Ninguno
+ORD-2026-00825,4,0.0,Ninguno
+ORD-2026-00827,5,0.0,Ninguno
+ORD-2026-00829,4,0.0,Ninguno
+ORD-2026-00830,3,0.0,Retraso de camion
+ORD-2026-00832,4,0.0,Ninguno
+ORD-2026-00833,5,0.0,Ninguno
+ORD-2026-00838,3,0.0,Retraso de camion
+ORD-2026-00839,2,2411.77,Retraso de camion
+ORD-2026-00841,5,0.0,Ninguno
+ORD-2026-00844,5,0.0,Ninguno
+ORD-2026-00847,5,0.0,Caja dañada
+ORD-2026-00848,4,0.0,Ninguno
+ORD-2026-00849,3,0.0,Ninguno
+ORD-2026-00858,1,2464.36,Retraso de camion
+ORD-2026-00859,5,0.0,Ninguno
+ORD-2026-00860,5,0.0,Ninguno
+ORD-2026-00862,4,0.0,Ninguno
+ORD-2026-00863,5,0.0,Ninguno
+ORD-2026-00865,3,0.0,Ninguno
+ORD-2026-00867,3,0.0,Faltaban items
+ORD-2026-00870,4,0.0,Retraso de camion
+ORD-2026-00871,3,0.0,Faltaban items
+ORD-2026-00872,4,0.0,Ninguno
+ORD-2026-00874,5,0.0,Ninguno
+ORD-2026-00876,4,0.0,Ninguno
+ORD-2026-00877,5,0.0,Caja dañada
+ORD-2026-00879,2,1082.71,Retraso de camion
+ORD-2026-00883,4,0.0,Ninguno
+ORD-2026-00884,4,0.0,Retraso de camion
+ORD-2026-00887,3,0.0,Faltaban items
+ORD-2026-00894,2,1588.51,Retraso de camion
+ORD-2026-00898,5,0.0,Ninguno
+ORD-2026-00900,5,0.0,Ninguno
+ORD-2026-00901,3,0.0,Ninguno
+ORD-2026-00902,3,0.0,Faltaban items
+ORD-2026-00904,4,0.0,Ninguno
+ORD-2026-00905,3,0.0,Retraso de camion
+ORD-2026-00906,3,0.0,Retraso de camion
+ORD-2026-00909,5,0.0,Ninguno
+ORD-2026-00911,2,523.37,Retraso de camion
+ORD-2026-00912,3,0.0,Ninguno
+ORD-2026-00913,4,0.0,Ninguno
+ORD-2026-00916,4,0.0,Caja dañada
+ORD-2026-00917,2,1774.75,Retraso de camion
+ORD-2026-00919,3,0.0,Faltaban items
+ORD-2026-00921,2,1137.56,Retraso de camion
+ORD-2026-00922,4,0.0,Retraso de camion
+ORD-2026-00924,4,0.0,Ninguno
+ORD-2026-00926,4,0.0,Ninguno
+ORD-2026-00927,3,0.0,Ninguno
+ORD-2026-00933,4,0.0,Ninguno
+ORD-2026-00935,5,0.0,Ninguno
+ORD-2026-00936,4,0.0,Ninguno
+ORD-2026-00937,4,0.0,Ninguno
+ORD-2026-00938,4,0.0,Ninguno
+ORD-2026-00939,5,0.0,Ninguno
+ORD-2026-00940,3,0.0,Ninguno
+ORD-2026-00941,2,1868.38,Faltaban items
+ORD-2026-00943,4,0.0,Ninguno
+ORD-2026-00948,2,2885.96,Retraso de camion
+ORD-2026-00950,4,0.0,Ninguno
+ORD-2026-00952,5,0.0,Ninguno
+ORD-2026-00953,5,0.0,Ninguno
+ORD-2026-00955,2,642.16,Faltaban items
+ORD-2026-00956,2,2589.14,Faltaban items
+ORD-2026-00959,5,0.0,Caja dañada
+ORD-2026-00960,4,0.0,Ninguno
+ORD-2026-00961,5,0.0,Ninguno
+ORD-2026-00962,3,0.0,Ninguno
+ORD-2026-00963,4,0.0,Ninguno
+ORD-2026-00964,3,0.0,Ninguno
+ORD-2026-00967,2,597.65,Retraso de camion
+ORD-2026-00968,4,0.0,Caja dañada
+ORD-2026-00970,5,0.0,Ninguno
+ORD-2026-00976,4,0.0,Ninguno
+ORD-2026-00978,4,0.0,Retraso de camion
+ORD-2026-00981,5,0.0,Ninguno
+ORD-2026-00982,2,651.25,Faltaban items
+ORD-2026-00983,4,0.0,Ninguno
 ORD-2026-00986,5,0.0,Ninguno
-ORD-2026-00991,4,0.0,Ninguno
-ORD-2026-00996,2,2980.95,Retraso de camion
-ORD-2026-01001,2,554.88,Retraso de camion
-ORD-2026-01006,4,0.0,Ninguno
-ORD-2026-01011,5,0.0,Ninguno
-ORD-2026-01016,4,0.0,Ninguno
-ORD-2026-01021,5,0.0,Ninguno
-ORD-2026-01026,4,0.0,Ninguno
-ORD-2026-01031,5,0.0,Ninguno
-ORD-2026-01036,2,2688.31,Faltaban items
-ORD-2026-01041,3,0.0,Ninguno
-ORD-2026-01046,5,0.0,Ninguno
-ORD-2026-01051,3,0.0,Ninguno
-ORD-2026-01056,3,0.0,Retraso de camion
-ORD-2026-01061,5,0.0,Ninguno
-ORD-2026-01066,3,0.0,Ninguno
-ORD-2026-01071,3,0.0,Retraso de camion
-ORD-2026-01076,4,0.0,Retraso de camion
-ORD-2026-01081,5,0.0,Ninguno
+ORD-2026-00987,3,0.0,Retraso de camion
+ORD-2026-00988,4,0.0,Ninguno
+ORD-2026-00989,4,0.0,Ninguno
+ORD-2026-00990,3,0.0,Faltaban items
+ORD-2026-00992,5,0.0,Ninguno
+ORD-2026-00995,4,0.0,Ninguno
+ORD-2026-00996,5,0.0,Ninguno
+ORD-2026-00997,5,0.0,Ninguno
+ORD-2026-01000,5,0.0,Ninguno
+ORD-2026-01001,4,0.0,Ninguno
+ORD-2026-01005,3,0.0,Ninguno
+ORD-2026-01006,5,0.0,Ninguno
+ORD-2026-01008,4,0.0,Caja dañada
+ORD-2026-01011,3,0.0,Retraso de camion
+ORD-2026-01014,4,0.0,Caja dañada
+ORD-2026-01015,1,2968.72,Retraso de camion
+ORD-2026-01017,2,577.88,Retraso de camion
+ORD-2026-01022,2,2663.03,Retraso de camion
+ORD-2026-01027,3,0.0,Ninguno
+ORD-2026-01028,4,0.0,Ninguno
+ORD-2026-01030,3,0.0,Ninguno
+ORD-2026-01032,5,0.0,Ninguno
+ORD-2026-01033,3,0.0,Faltaban items
+ORD-2026-01034,2,1366.52,Retraso de camion
+ORD-2026-01039,3,0.0,Ninguno
+ORD-2026-01041,4,0.0,Ninguno
+ORD-2026-01049,4,0.0,Ninguno
+ORD-2026-01050,5,0.0,Ninguno
+ORD-2026-01051,2,1170.97,Retraso de camion
+ORD-2026-01053,4,0.0,Ninguno
+ORD-2026-01056,5,0.0,Ninguno
+ORD-2026-01060,5,0.0,Ninguno
+ORD-2026-01062,5,0.0,Ninguno
+ORD-2026-01064,3,0.0,Ninguno
+ORD-2026-01067,4,0.0,Ninguno
+ORD-2026-01068,3,0.0,Faltaban items
+ORD-2026-01070,1,1616.55,Retraso de camion
+ORD-2026-01072,5,0.0,Ninguno
+ORD-2026-01076,4,0.0,Ninguno
+ORD-2026-01077,3,0.0,Faltaban items
+ORD-2026-01078,2,2700.3,Faltaban items
+ORD-2026-01082,2,1414.82,Ninguno
 ORD-2026-01086,5,0.0,Ninguno
-ORD-2026-01091,4,0.0,Retraso de camion
-ORD-2026-01096,5,0.0,Ninguno
-ORD-2026-01101,2,2215.27,Caja dañada
-ORD-2026-01106,2,858.09,Retraso de camion
-ORD-2026-01111,5,0.0,Ninguno
-ORD-2026-01116,4,0.0,Ninguno
-ORD-2026-01121,2,2135.38,Ninguno
-ORD-2026-01126,5,0.0,Ninguno
-ORD-2026-01131,5,0.0,Ninguno
-ORD-2026-01136,4,0.0,Ninguno
-ORD-2026-01141,4,0.0,Ninguno
-ORD-2026-01146,4,0.0,Ninguno
-ORD-2026-01151,3,0.0,Ninguno
-ORD-2026-01156,4,0.0,Ninguno
-ORD-2026-01161,4,0.0,Ninguno
-ORD-2026-01166,3,0.0,Ninguno
-ORD-2026-01171,5,0.0,Ninguno
-ORD-2026-01176,4,0.0,Ninguno
-ORD-2026-01181,5,0.0,Ninguno
-ORD-2026-01186,2,1313.64,Faltaban items
-ORD-2026-01191,4,0.0,Ninguno
-ORD-2026-01196,5,0.0,Ninguno
-ORD-2026-01201,2,1094.74,Faltaban items
-ORD-2026-01206,4,0.0,Ninguno
-ORD-2026-01211,4,0.0,Retraso de camion
-ORD-2026-01216,4,0.0,Ninguno
+ORD-2026-01087,3,0.0,Retraso de camion
+ORD-2026-01088,2,2015.71,Retraso de camion
+ORD-2026-01089,4,0.0,Ninguno
+ORD-2026-01090,5,0.0,Ninguno
+ORD-2026-01091,3,0.0,Faltaban items
+ORD-2026-01092,4,0.0,Ninguno
+ORD-2026-01098,3,0.0,Ninguno
+ORD-2026-01101,3,0.0,Retraso de camion
+ORD-2026-01102,2,1008.88,Retraso de camion
+ORD-2026-01110,5,0.0,Ninguno
+ORD-2026-01112,4,0.0,Ninguno
+ORD-2026-01113,2,2974.58,Ninguno
+ORD-2026-01114,5,0.0,Ninguno
+ORD-2026-01118,2,1641.24,Retraso de camion
+ORD-2026-01121,5,0.0,Caja dañada
+ORD-2026-01122,4,0.0,Ninguno
+ORD-2026-01126,2,698.49,Retraso de camion
+ORD-2026-01127,2,1057.17,Retraso de camion
+ORD-2026-01130,5,0.0,Ninguno
+ORD-2026-01131,4,0.0,Caja dañada
+ORD-2026-01132,4,0.0,Faltaban items
+ORD-2026-01133,5,0.0,Ninguno
+ORD-2026-01134,4,0.0,Ninguno
+ORD-2026-01135,4,0.0,Ninguno
+ORD-2026-01136,5,0.0,Ninguno
+ORD-2026-01140,4,0.0,Ninguno
+ORD-2026-01141,5,0.0,Ninguno
+ORD-2026-01142,3,0.0,Retraso de camion
+ORD-2026-01143,3,0.0,Retraso de camion
+ORD-2026-01146,2,2695.66,Retraso de camion
+ORD-2026-01147,3,0.0,Ninguno
+ORD-2026-01148,5,0.0,Ninguno
+ORD-2026-01149,3,0.0,Ninguno
+ORD-2026-01150,2,1411.62,Retraso de camion
+ORD-2026-01152,4,0.0,Ninguno
+ORD-2026-01154,2,2205.14,Retraso de camion
+ORD-2026-01157,5,0.0,Ninguno
+ORD-2026-01158,5,0.0,Ninguno
+ORD-2026-01160,4,0.0,Ninguno
+ORD-2026-01161,2,2579.97,Faltaban items
+ORD-2026-01163,2,1616.98,Retraso de camion
+ORD-2026-01169,2,584.12,Retraso de camion
+ORD-2026-01172,2,2610.53,Retraso de camion
+ORD-2026-01175,4,0.0,Ninguno
+ORD-2026-01177,5,0.0,Ninguno
+ORD-2026-01184,3,0.0,Retraso de camion
+ORD-2026-01185,5,0.0,Ninguno
+ORD-2026-01186,4,0.0,Retraso de camion
+ORD-2026-01187,4,0.0,Ninguno
+ORD-2026-01190,4,0.0,Ninguno
+ORD-2026-01191,5,0.0,Ninguno
+ORD-2026-01192,4,0.0,Retraso de camion
+ORD-2026-01194,2,570.28,Faltaban items
+ORD-2026-01197,5,0.0,Ninguno
+ORD-2026-01199,4,0.0,Ninguno
+ORD-2026-01200,4,0.0,Ninguno
+ORD-2026-01201,4,0.0,Ninguno
+ORD-2026-01202,1,802.48,Retraso de camion
+ORD-2026-01203,4,0.0,Ninguno
+ORD-2026-01207,1,2664.85,Retraso de camion
+ORD-2026-01209,1,1726.89,Retraso de camion
+ORD-2026-01212,5,0.0,Ninguno
+ORD-2026-01214,2,831.95,Retraso de camion
+ORD-2026-01217,3,0.0,Retraso de camion
+ORD-2026-01218,3,0.0,Retraso de camion
+ORD-2026-01219,4,0.0,Retraso de camion
+ORD-2026-01220,3,0.0,Ninguno
 ORD-2026-01221,5,0.0,Ninguno
-ORD-2026-01226,5,0.0,Ninguno
-ORD-2026-01231,3,0.0,Retraso de camion
-ORD-2026-01236,3,0.0,Retraso de camion
+ORD-2026-01227,5,0.0,Ninguno
+ORD-2026-01228,5,0.0,Ninguno
+ORD-2026-01230,4,0.0,Ninguno
+ORD-2026-01235,3,0.0,Retraso de camion
+ORD-2026-01239,3,0.0,Retraso de camion
+ORD-2026-01240,3,0.0,Retraso de camion
 ORD-2026-01241,5,0.0,Ninguno
-ORD-2026-01246,4,0.0,Ninguno
-ORD-2026-01251,4,0.0,Ninguno
-ORD-2026-01256,4,0.0,Ninguno
-ORD-2026-01261,5,0.0,Ninguno
-ORD-2026-01266,3,0.0,Ninguno
-ORD-2026-01271,7,2272.11,Faltaban items
-ORD-2026-01276,3,0.0,Ninguno
-ORD-2026-01281,4,0.0,Ninguno
-ORD-2026-01286,3,0.0,Retraso de camion
-ORD-2026-01291,5,0.0,Ninguno
-ORD-2026-01296,5,0.0,Ninguno
-ORD-2026-01301,2,2281.03,Ninguno
-ORD-2026-01306,5,0.0,Ninguno
-ORD-2026-01311,3,0.0,Ninguno
-ORD-2026-01316,3,0.0,Ninguno
-ORD-2026-01321,3,0.0,Ninguno
-ORD-2026-01326,5,0.0,Ninguno
-ORD-2026-01331,5,0.0,Ninguno
-ORD-2026-01336,4,0.0,Ninguno
-ORD-2026-01341,5,0.0,Ninguno
-ORD-2026-01346,2,1482.43,Retraso de camion
-ORD-2026-01351,5,0.0,Ninguno
-ORD-2026-01356,3,0.0,Retraso de camion
-ORD-2026-01361,4,0.0,Caja dañada
-ORD-2026-01366,5,0.0,Ninguno
-ORD-2026-01371,4,0.0,Ninguno
-ORD-2026-01376,5,0.0,Retraso de camion
-ORD-2026-01381,4,0.0,Retraso de camion
-ORD-2026-01386,3,0.0,Retraso de camion
-ORD-2026-01391,4,0.0,Ninguno
-ORD-2026-01396,2,2927.32,Retraso de camion
-ORD-2026-01401,5,0.0,Caja dañada
-ORD-2026-01406,5,0.0,Ninguno
-ORD-2026-01411,1,2723.23,Retraso de camion
-ORD-2026-01416,3,0.0,Retraso de camion
-ORD-2026-01421,1,2576.38,Retraso de camion
-ORD-2026-01426,4,0.0,Ninguno
-ORD-2026-01431,5,0.0,Ninguno
-ORD-2026-01436,4,0.0,Ninguno
-ORD-2026-01441,4,0.0,Ninguno
-ORD-2026-01446,4,0.0,Ninguno
+ORD-2026-01246,1,1733.43,Retraso de camion
+ORD-2026-01247,4,0.0,Ninguno
+ORD-2026-01249,5,0.0,Ninguno
+ORD-2026-01250,5,0.0,Ninguno
+ORD-2026-01251,3,0.0,Ninguno
+ORD-2026-01253,5,0.0,Ninguno
+ORD-2026-01256,3,0.0,Ninguno
+ORD-2026-01257,5,0.0,Ninguno
+ORD-2026-01258,4,0.0,Caja dañada
+ORD-2026-01259,3,0.0,Faltaban items
+ORD-2026-01260,4,0.0,Ninguno
+ORD-2026-01264,2,2395.04,Retraso de camion
+ORD-2026-01265,2,2574.08,Faltaban items
+ORD-2026-01267,2,2859.7,Ninguno
+ORD-2026-01268,2,2915.76,Retraso de camion
+ORD-2026-01269,3,0.0,Ninguno
+ORD-2026-01270,2,2975.03,Retraso de camion
+ORD-2026-01271,3,0.0,Caja dañada
+ORD-2026-01272,4,0.0,Ninguno
+ORD-2026-01273,4,0.0,Ninguno
+ORD-2026-01277,5,0.0,Ninguno
+ORD-2026-01278,5,0.0,Ninguno
+ORD-2026-01279,2,1536.14,Faltaban items
+ORD-2026-01281,5,0.0,Retraso de camion
+ORD-2026-01289,4,0.0,Ninguno
+ORD-2026-01291,3,0.0,Retraso de camion
+ORD-2026-01292,3,0.0,Ninguno
+ORD-2026-01293,4,0.0,Retraso de camion
+ORD-2026-01294,2,2594.25,Retraso de camion
+ORD-2026-01298,5,0.0,Ninguno
+ORD-2026-01299,4,0.0,Ninguno
+ORD-2026-01302,3,0.0,Retraso de camion
+ORD-2026-01303,3,0.0,Retraso de camion
+ORD-2026-01307,4,0.0,Ninguno
+ORD-2026-01311,2,535.13,Faltaban items
+ORD-2026-01313,4,0.0,Ninguno
+ORD-2026-01314,4,0.0,Caja dañada
+ORD-2026-01315,4,0.0,Ninguno
+ORD-2026-01316,3,0.0,Retraso de camion
+ORD-2026-01317,1,1102.87,Retraso de camion
+ORD-2026-01320,4,0.0,Caja dañada
+ORD-2026-01323,3,0.0,Faltaban items
+ORD-2026-01325,4,0.0,Ninguno
+ORD-2026-01326,4,0.0,Retraso de camion
+ORD-2026-01330,5,0.0,Ninguno
+ORD-2026-01333,5,0.0,Ninguno
+ORD-2026-01334,2,2230.52,Retraso de camion
+ORD-2026-01335,4,0.0,Ninguno
+ORD-2026-01337,5,0.0,Ninguno
+ORD-2026-01341,3,0.0,Retraso de camion
+ORD-2026-01342,4,0.0,Ninguno
+ORD-2026-01345,3,0.0,Retraso de camion
+ORD-2026-01347,5,0.0,Ninguno
+ORD-2026-01348,3,0.0,Retraso de camion
+ORD-2026-01349,3,0.0,Ninguno
+ORD-2026-01351,3,0.0,Retraso de camion
+ORD-2026-01352,3,0.0,Ninguno
+ORD-2026-01353,4,0.0,Retraso de camion
+ORD-2026-01357,5,0.0,Caja dañada
+ORD-2026-01358,2,1083.63,Ninguno
+ORD-2026-01359,5,0.0,Ninguno
+ORD-2026-01360,4,0.0,Ninguno
+ORD-2026-01361,4,0.0,Faltaban items
+ORD-2026-01362,4,0.0,Ninguno
+ORD-2026-01364,3,0.0,Ninguno
+ORD-2026-01366,3,0.0,Retraso de camion
+ORD-2026-01367,3,0.0,Retraso de camion
+ORD-2026-01369,5,0.0,Ninguno
+ORD-2026-01373,5,0.0,Ninguno
+ORD-2026-01374,5,0.0,Ninguno
+ORD-2026-01376,1,1654.15,Retraso de camion
+ORD-2026-01377,4,0.0,Faltaban items
+ORD-2026-01380,1,716.94,Faltaban items
+ORD-2026-01387,3,0.0,Retraso de camion
+ORD-2026-01388,4,0.0,Ninguno
+ORD-2026-01389,4,0.0,Ninguno
+ORD-2026-01392,2,1570.64,Faltaban items
+ORD-2026-01393,4,0.0,Ninguno
+ORD-2026-01397,5,0.0,Ninguno
+ORD-2026-01399,4,0.0,Ninguno
+ORD-2026-01400,5,0.0,Ninguno
+ORD-2026-01404,4,0.0,Ninguno
+ORD-2026-01406,2,1192.53,Retraso de camion
+ORD-2026-01407,5,0.0,Ninguno
+ORD-2026-01410,4,0.0,Ninguno
+ORD-2026-01412,5,0.0,Ninguno
+ORD-2026-01413,3,0.0,Ninguno
+ORD-2026-01415,3,0.0,Ninguno
+ORD-2026-01419,5,0.0,Ninguno
+ORD-2026-01426,4,0.0,Retraso de camion
+ORD-2026-01428,4,0.0,Ninguno
+ORD-2026-01432,3,0.0,Faltaban items
+ORD-2026-01437,5,0.0,Ninguno
+ORD-2026-01438,5,0.0,Ninguno
+ORD-2026-01439,4,0.0,Ninguno
+ORD-2026-01441,5,0.0,Ninguno
+ORD-2026-01443,5,0.0,Ninguno
+ORD-2026-01444,1,928.17,Retraso de camion
+ORD-2026-01445,5,0.0,Ninguno
+ORD-2026-01446,3,0.0,Ninguno
+ORD-2026-01449,5,0.0,Ninguno
 ORD-2026-01451,4,0.0,Ninguno
-ORD-2026-01456,2,1367.26,Faltaban items
-ORD-2026-01461,5,0.0,Ninguno
-ORD-2026-01466,3,0.0,Retraso de camion
-ORD-2026-01471,5,0.0,Ninguno
-ORD-2026-01476,5,0.0,Ninguno
-ORD-2026-01481,7,554.41,Ninguno
-ORD-2026-01486,5,0.0,Ninguno
-ORD-2026-01491,3,0.0,Ninguno
-ORD-2026-01496,4,0.0,Ninguno
-ORD-2026-01501,3,0.0,Retraso de camion
-ORD-2026-01506,5,0.0,Ninguno
-ORD-2026-01511,4,0.0,Ninguno
-ORD-2026-01516,3,0.0,Ninguno
-ORD-2026-01521,4,0.0,Ninguno
-ORD-2026-01526,3,0.0,Caja dañada
-ORD-2026-01531,4,0.0,Retraso de camion
+ORD-2026-01456,1,2625.01,Faltaban items
+ORD-2026-01457,4,0.0,Ninguno
+ORD-2026-01459,4,0.0,Ninguno
+ORD-2026-01460,5,0.0,Ninguno
+ORD-2026-01462,4,0.0,Ninguno
+ORD-2026-01463,4,0.0,Ninguno
+ORD-2026-01465,2,553.7,Retraso de camion
+ORD-2026-01468,3,0.0,Ninguno
+ORD-2026-01470,4,0.0,Ninguno
+ORD-2026-01472,4,0.0,Ninguno
+ORD-2026-01473,5,0.0,Ninguno
+ORD-2026-01474,5,0.0,Ninguno
+ORD-2026-01475,4,0.0,Ninguno
+ORD-2026-01476,4,0.0,Ninguno
+ORD-2026-01477,3,0.0,Retraso de camion
+ORD-2026-01481,4,0.0,Ninguno
+ORD-2026-01484,5,0.0,Ninguno
+ORD-2026-01489,2,1314.2,Retraso de camion
+ORD-2026-01490,4,0.0,Ninguno
+ORD-2026-01493,2,839.38,Retraso de camion
+ORD-2026-01495,5,0.0,Ninguno
+ORD-2026-01496,5,0.0,Ninguno
+ORD-2026-01499,1,2039.03,Retraso de camion
+ORD-2026-01500,5,0.0,Ninguno
+ORD-2026-01501,4,0.0,Caja dañada
+ORD-2026-01502,2,1139.6,Retraso de camion
+ORD-2026-01503,4,0.0,Retraso de camion
+ORD-2026-01504,4,0.0,Ninguno
+ORD-2026-01507,3,0.0,Faltaban items
+ORD-2026-01510,3,0.0,Retraso de camion
+ORD-2026-01514,4,0.0,Ninguno
+ORD-2026-01515,3,0.0,Faltaban items
+ORD-2026-01518,3,0.0,Caja dañada
+ORD-2026-01519,5,0.0,Faltaban items
+ORD-2026-01520,5,0.0,Ninguno
+ORD-2026-01523,4,0.0,Ninguno
+ORD-2026-01526,4,0.0,Ninguno
+ORD-2026-01527,4,0.0,Ninguno
+ORD-2026-01529,4,0.0,Retraso de camion
+ORD-2026-01530,2,1188.95,Retraso de camion
+ORD-2026-01531,3,0.0,Retraso de camion
+ORD-2026-01532,3,0.0,Faltaban items
+ORD-2026-01534,3,0.0,Ninguno
 ORD-2026-01536,5,0.0,Ninguno
-ORD-2026-01541,5,0.0,Ninguno
-ORD-2026-01546,4,0.0,Ninguno
+ORD-2026-01540,4,0.0,Ninguno
+ORD-2026-01541,3,0.0,Ninguno
+ORD-2026-01542,3,0.0,Faltaban items
+ORD-2026-01543,5,0.0,Ninguno
+ORD-2026-01544,5,0.0,Ninguno
+ORD-2026-01545,5,0.0,Ninguno
 ORD-2026-01551,5,0.0,Ninguno
-ORD-2026-01556,4,0.0,Caja dañada
-ORD-2026-01561,4,0.0,Ninguno
-ORD-2026-01566,2,1579.83,Retraso de camion
-ORD-2026-01571,5,0.0,Ninguno
+ORD-2026-01553,4,0.0,Ninguno
+ORD-2026-01555,3,0.0,Retraso de camion
+ORD-2026-01560,4,0.0,Caja dañada
+ORD-2026-01566,4,0.0,Caja dañada
+ORD-2026-01567,3,0.0,Faltaban items
+ORD-2026-01568,3,0.0,Retraso de camion
+ORD-2026-01569,3,0.0,Retraso de camion
+ORD-2026-01574,7,0.0,Ninguno
 ORD-2026-01576,5,0.0,Ninguno
-ORD-2026-01581,5,0.0,Ninguno
-ORD-2026-01586,2,1720.53,Retraso de camion
-ORD-2026-01591,3,0.0,Ninguno
-ORD-2026-01596,3,0.0,Ninguno
-ORD-2026-01601,3,0.0,Retraso de camion
-ORD-2026-01606,3,0.0,Faltaban items
+ORD-2026-01577,5,0.0,Ninguno
+ORD-2026-01580,5,0.0,Caja dañada
+ORD-2026-01581,1,654.73,Retraso de camion
+ORD-2026-01582,3,0.0,Retraso de camion
+ORD-2026-01588,3,0.0,Faltaban items
+ORD-2026-01591,3,0.0,Retraso de camion
+ORD-2026-01592,2,2771.59,Retraso de camion
+ORD-2026-01593,3,0.0,Retraso de camion
+ORD-2026-01594,5,0.0,Ninguno
+ORD-2026-01595,5,0.0,Ninguno
+ORD-2026-01597,2,1845.99,Faltaban items
+ORD-2026-01600,5,0.0,Ninguno
+ORD-2026-01602,3,0.0,Ninguno
+ORD-2026-01605,4,0.0,Ninguno
+ORD-2026-01606,5,0.0,Caja dañada
+ORD-2026-01607,3,0.0,Ninguno
+ORD-2026-01609,5,0.0,Ninguno
+ORD-2026-01610,4,0.0,Ninguno
 ORD-2026-01611,4,0.0,Ninguno
-ORD-2026-01616,1,1109.48,Retraso de camion
-ORD-2026-01621,4,0.0,Ninguno
-ORD-2026-01626,4,0.0,Ninguno
-ORD-2026-01631,5,0.0,Ninguno
-ORD-2026-01636,3,0.0,Ninguno
-ORD-2026-01641,5,0.0,Ninguno
-ORD-2026-01646,5,0.0,Ninguno
-ORD-2026-01651,5,0.0,Ninguno
-ORD-2026-01656,4,0.0,Caja dañada
-ORD-2026-01661,5,0.0,Ninguno
-ORD-2026-01666,4,0.0,Ninguno
-ORD-2026-01671,5,0.0,Ninguno
-ORD-2026-01676,3,0.0,Retraso de camion
-ORD-2026-01681,5,0.0,Ninguno
-ORD-2026-01686,4,0.0,Ninguno
-ORD-2026-01691,3,0.0,Faltaban items
-ORD-2026-01696,4,0.0,Ninguno
+ORD-2026-01613,5,0.0,Ninguno
+ORD-2026-01615,4,0.0,Ninguno
+ORD-2026-01616,4,0.0,Retraso de camion
+ORD-2026-01617,2,892.59,Faltaban items
+ORD-2026-01618,2,2759.54,Faltaban items
+ORD-2026-01619,3,0.0,Retraso de camion
+ORD-2026-01621,2,2359.09,Ninguno
+ORD-2026-01622,5,0.0,Ninguno
+ORD-2026-01624,5,0.0,Ninguno
+ORD-2026-01625,4,0.0,Ninguno
+ORD-2026-01626,2,2354.1,Faltaban items
+ORD-2026-01627,5,0.0,Caja dañada
+ORD-2026-01629,5,0.0,Retraso de camion
+ORD-2026-01630,5,0.0,Ninguno
+ORD-2026-01634,4,0.0,Caja dañada
+ORD-2026-01635,5,0.0,Ninguno
+ORD-2026-01638,4,0.0,Ninguno
+ORD-2026-01640,4,0.0,Ninguno
+ORD-2026-01641,2,2349.65,Faltaban items
+ORD-2026-01642,2,2288.11,Retraso de camion
+ORD-2026-01643,5,0.0,Ninguno
+ORD-2026-01644,4,0.0,Caja dañada
+ORD-2026-01646,3,0.0,Faltaban items
+ORD-2026-01647,5,0.0,Ninguno
+ORD-2026-01648,2,2347.22,Retraso de camion
+ORD-2026-01650,5,0.0,Ninguno
+ORD-2026-01652,5,0.0,Ninguno
+ORD-2026-01655,3,0.0,Faltaban items
+ORD-2026-01661,3,0.0,Retraso de camion
+ORD-2026-01662,4,0.0,Ninguno
+ORD-2026-01664,3,0.0,Retraso de camion
+ORD-2026-01666,5,0.0,Ninguno
+ORD-2026-01668,5,0.0,Ninguno
+ORD-2026-01669,4,0.0,Faltaban items
+ORD-2026-01671,1,2417.07,Faltaban items
+ORD-2026-01674,3,0.0,Faltaban items
+ORD-2026-01681,4,0.0,Ninguno
+ORD-2026-01682,2,2043.3,Retraso de camion
+ORD-2026-01684,5,0.0,Ninguno
+ORD-2026-01685,5,0.0,Ninguno
+ORD-2026-01690,5,0.0,Ninguno
+ORD-2026-01691,5,0.0,Ninguno
+ORD-2026-01693,5,0.0,Caja dañada
+ORD-2026-01696,2,2478.48,Retraso de camion
+ORD-2026-01698,3,0.0,Ninguno
+ORD-2026-01699,3,0.0,Ninguno
+ORD-2026-01700,5,0.0,Ninguno
 ORD-2026-01701,5,0.0,Ninguno
-ORD-2026-01706,3,0.0,Retraso de camion
-ORD-2026-01711,4,0.0,Ninguno
-ORD-2026-01716,5,0.0,Caja dañada
-ORD-2026-01721,4,0.0,Ninguno
-ORD-2026-01726,3,0.0,Ninguno
-ORD-2026-01731,2,1604.13,Retraso de camion
-ORD-2026-01736,4,0.0,Ninguno
-ORD-2026-01741,5,0.0,Ninguno
-ORD-2026-01746,3,0.0,Retraso de camion
-ORD-2026-01751,5,0.0,Ninguno
+ORD-2026-01702,5,0.0,Ninguno
+ORD-2026-01705,4,0.0,Ninguno
+ORD-2026-01706,4,0.0,Ninguno
+ORD-2026-01709,5,0.0,Ninguno
+ORD-2026-01712,5,0.0,Ninguno
+ORD-2026-01713,3,0.0,Ninguno
+ORD-2026-01714,4,0.0,Ninguno
+ORD-2026-01715,4,0.0,Ninguno
+ORD-2026-01716,2,2802.52,Retraso de camion
+ORD-2026-01717,3,0.0,Retraso de camion
+ORD-2026-01720,4,0.0,Retraso de camion
+ORD-2026-01721,3,0.0,Faltaban items
+ORD-2026-01722,2,1272.87,Retraso de camion
+ORD-2026-01723,3,0.0,Ninguno
+ORD-2026-01724,3,0.0,Ninguno
+ORD-2026-01726,4,0.0,Ninguno
+ORD-2026-01727,5,0.0,Caja dañada
+ORD-2026-01728,4,0.0,Ninguno
+ORD-2026-01729,5,0.0,Faltaban items
+ORD-2026-01735,4,0.0,Ninguno
+ORD-2026-01736,5,0.0,Ninguno
+ORD-2026-01738,4,0.0,Ninguno
+ORD-2026-01739,2,1689.3,Retraso de camion
+ORD-2026-01740,5,0.0,Caja dañada
+ORD-2026-01742,2,1279.74,Retraso de camion
+ORD-2026-01743,2,1502.98,Retraso de camion
+ORD-2026-01744,4,0.0,Ninguno
+ORD-2026-01746,3,0.0,Ninguno
+ORD-2026-01747,2,1141.0,Retraso de camion
+ORD-2026-01748,5,0.0,Ninguno
+ORD-2026-01750,3,0.0,Ninguno
+ORD-2026-01751,3,0.0,Caja dañada
+ORD-2026-01752,3,0.0,Ninguno
+ORD-2026-01754,5,0.0,Ninguno
+ORD-2026-01755,2,718.21,Faltaban items
 ORD-2026-01756,4,0.0,Ninguno
-ORD-2026-01761,5,0.0,Ninguno
-ORD-2026-01766,4,0.0,Ninguno
-ORD-2026-01771,4,0.0,Ninguno
-ORD-2026-01776,5,0.0,Ninguno
-ORD-2026-01781,5,0.0,Ninguno
-ORD-2026-01786,4,0.0,Ninguno
-ORD-2026-01791,5,0.0,Ninguno
-ORD-2026-01796,3,0.0,Ninguno
-ORD-2026-01801,5,0.0,Ninguno
-ORD-2026-01806,5,0.0,Ninguno
-ORD-2026-01811,3,0.0,Ninguno
-ORD-2026-01816,3,0.0,Ninguno
-ORD-2026-01821,1,2062.0,Retraso de camion
-ORD-2026-01826,2,2527.09,Retraso de camion
-ORD-2026-01831,5,0.0,Ninguno
-ORD-2026-01836,5,0.0,Ninguno
-ORD-2026-01841,1,689.23,Faltaban items
-ORD-2026-01846,2,1380.89,Retraso de camion
-ORD-2026-01851,2,1325.72,Retraso de camion
-ORD-2026-01856,5,0.0,Ninguno
-ORD-2026-01861,5,0.0,Ninguno
-ORD-2026-01866,4,0.0,Ninguno
+ORD-2026-01759,2,2092.13,Faltaban items
+ORD-2026-01763,5,0.0,Ninguno
+ORD-2026-01764,4,0.0,Ninguno
+ORD-2026-01766,3,0.0,Faltaban items
+ORD-2026-01767,5,0.0,Ninguno
+ORD-2026-01768,3,0.0,Ninguno
+ORD-2026-01770,4,0.0,Ninguno
+ORD-2026-01771,4,0.0,Faltaban items
+ORD-2026-01772,5,0.0,Ninguno
+ORD-2026-01773,3,0.0,Faltaban items
+ORD-2026-01777,5,0.0,Ninguno
+ORD-2026-01779,5,0.0,Faltaban items
+ORD-2026-01781,3,0.0,Ninguno
+ORD-2026-01788,4,0.0,Faltaban items
+ORD-2026-01790,3,0.0,Faltaban items
+ORD-2026-01791,1,918.59,Faltaban items
+ORD-2026-01792,4,0.0,Ninguno
+ORD-2026-01793,5,0.0,Ninguno
+ORD-2026-01794,4,0.0,Retraso de camion
+ORD-2026-01795,3,0.0,Ninguno
+ORD-2026-01798,3,0.0,Retraso de camion
+ORD-2026-01800,4,0.0,Ninguno
+ORD-2026-01804,3,0.0,Ninguno
+ORD-2026-01806,3,0.0,Retraso de camion
+ORD-2026-01808,5,0.0,Ninguno
+ORD-2026-01809,5,0.0,Ninguno
+ORD-2026-01810,3,0.0,Ninguno
+ORD-2026-01811,2,1249.26,Faltaban items
+ORD-2026-01812,5,0.0,Ninguno
+ORD-2026-01816,3,0.0,Faltaban items
+ORD-2026-01818,4,0.0,Ninguno
+ORD-2026-01819,4,0.0,Ninguno
+ORD-2026-01820,5,0.0,Ninguno
+ORD-2026-01822,4,0.0,Retraso de camion
+ORD-2026-01825,3,0.0,Retraso de camion
+ORD-2026-01828,2,547.99,Retraso de camion
+ORD-2026-01829,1,529.01,Faltaban items
+ORD-2026-01830,5,0.0,Ninguno
+ORD-2026-01831,2,1699.31,Retraso de camion
+ORD-2026-01833,1,2996.75,Faltaban items
+ORD-2026-01835,2,902.91,Retraso de camion
+ORD-2026-01836,3,0.0,Ninguno
+ORD-2026-01848,5,0.0,Caja dañada
+ORD-2026-01854,5,0.0,Ninguno
+ORD-2026-01856,4,0.0,Caja dañada
+ORD-2026-01857,3,0.0,Faltaban items
+ORD-2026-01858,3,0.0,Retraso de camion
+ORD-2026-01859,5,0.0,Ninguno
+ORD-2026-01860,5,0.0,Ninguno
+ORD-2026-01863,2,2302.75,Faltaban items
+ORD-2026-01864,5,0.0,Ninguno
+ORD-2026-01869,4,0.0,Ninguno
 ORD-2026-01871,5,0.0,Ninguno
-ORD-2026-01876,3,0.0,Faltaban items
-ORD-2026-01881,3,0.0,Ninguno
-ORD-2026-01886,5,0.0,Ninguno
-ORD-2026-01891,2,1143.02,Retraso de camion
-ORD-2026-01896,5,0.0,Ninguno
+ORD-2026-01873,3,0.0,Ninguno
+ORD-2026-01874,4,0.0,Ninguno
+ORD-2026-01878,3,0.0,Retraso de camion
+ORD-2026-01880,3,0.0,Retraso de camion
+ORD-2026-01884,4,0.0,Faltaban items
+ORD-2026-01888,3,0.0,Ninguno
+ORD-2026-01891,5,0.0,Caja dañada
+ORD-2026-01892,4,0.0,Retraso de camion
+ORD-2026-01894,5,0.0,Ninguno
+ORD-2026-01898,4,0.0,Ninguno
+ORD-2026-01899,2,1135.98,Retraso de camion
 ORD-2026-01901,4,0.0,Ninguno
-ORD-2026-01906,4,0.0,Retraso de camion
-ORD-2026-01911,4,0.0,Ninguno
+ORD-2026-01902,5,0.0,Ninguno
+ORD-2026-01903,4,0.0,Retraso de camion
+ORD-2026-01906,5,0.0,Ninguno
+ORD-2026-01910,4,0.0,Ninguno
+ORD-2026-01912,2,2737.77,Retraso de camion
+ORD-2026-01913,4,0.0,Ninguno
+ORD-2026-01915,2,1284.43,Retraso de camion
 ORD-2026-01916,4,0.0,Ninguno
-ORD-2026-01921,4,0.0,Ninguno
-ORD-2026-01926,2,1271.62,Ninguno
-ORD-2026-01931,4,0.0,Ninguno
-ORD-2026-01936,5,0.0,Ninguno
-ORD-2026-01941,5,0.0,Ninguno
+ORD-2026-01920,4,0.0,Faltaban items
+ORD-2026-01922,4,0.0,Ninguno
+ORD-2026-01923,2,2486.25,Ninguno
+ORD-2026-01927,5,0.0,Ninguno
+ORD-2026-01928,4,0.0,Ninguno
+ORD-2026-01931,5,0.0,Ninguno
+ORD-2026-01932,1,612.56,Faltaban items
+ORD-2026-01936,2,2473.92,Retraso de camion
+ORD-2026-01938,3,0.0,Ninguno
+ORD-2026-01939,2,1267.02,Retraso de camion
+ORD-2026-01940,1,1392.27,Retraso de camion
+ORD-2026-01942,4,0.0,Ninguno
+ORD-2026-01944,3,0.0,Retraso de camion
+ORD-2026-01945,5,0.0,Ninguno
 ORD-2026-01946,5,0.0,Ninguno
-ORD-2026-01951,5,0.0,Ninguno
-ORD-2026-01956,4,0.0,Ninguno
+ORD-2026-01947,5,0.0,Caja dañada
+ORD-2026-01948,4,0.0,Ninguno
+ORD-2026-01950,5,0.0,Ninguno
+ORD-2026-01955,4,0.0,Ninguno
+ORD-2026-01958,5,0.0,Ninguno
+ORD-2026-01959,5,0.0,Ninguno
 ORD-2026-01961,4,0.0,Ninguno
-ORD-2026-01966,2,2556.89,Retraso de camion
-ORD-2026-01971,5,0.0,Ninguno
-ORD-2026-01976,3,0.0,Ninguno
-ORD-2026-01981,4,0.0,Caja dañada
-ORD-2026-01986,5,0.0,Ninguno
+ORD-2026-01962,5,0.0,Ninguno
+ORD-2026-01964,2,979.75,Faltaban items
+ORD-2026-01965,5,0.0,Ninguno
+ORD-2026-01966,5,0.0,Ninguno
+ORD-2026-01968,4,0.0,Retraso de camion
+ORD-2026-01970,1,2321.69,Retraso de camion
+ORD-2026-01973,2,1347.98,Retraso de camion
+ORD-2026-01974,3,0.0,Retraso de camion
+ORD-2026-01976,1,791.48,Faltaban items
+ORD-2026-01977,5,0.0,Ninguno
+ORD-2026-01979,5,0.0,Ninguno
+ORD-2026-01982,4,0.0,Ninguno
+ORD-2026-01984,5,0.0,Ninguno
+ORD-2026-01990,5,0.0,Ninguno
 ORD-2026-01991,4,0.0,Ninguno
-ORD-2026-01996,3,0.0,Caja dañada
-ORD-2026-02001,4,0.0,Ninguno
-ORD-2026-02006,3,0.0,Ninguno
-ORD-2026-02011,5,0.0,Ninguno
-ORD-2026-02016,5,0.0,Ninguno
-ORD-2026-02021,2,2094.89,Ninguno
-ORD-2026-02026,4,0.0,Ninguno
-ORD-2026-02031,5,0.0,Ninguno
-ORD-2026-02036,4,0.0,Ninguno
-ORD-2026-02041,3,0.0,Retraso de camion
-ORD-2026-02046,5,0.0,Ninguno
-ORD-2026-02051,5,0.0,Ninguno
-ORD-2026-02056,4,0.0,Ninguno
-ORD-2026-02061,4,0.0,Ninguno
-ORD-2026-02066,2,1994.34,Retraso de camion
-ORD-2026-02071,3,0.0,Retraso de camion
-ORD-2026-02076,2,2992.45,Retraso de camion
+ORD-2026-01992,5,0.0,Ninguno
+ORD-2026-01995,2,2010.73,Retraso de camion
+ORD-2026-01997,3,0.0,Faltaban items
+ORD-2026-02000,5,0.0,Ninguno
+ORD-2026-02002,5,0.0,Ninguno
+ORD-2026-02003,2,2373.33,Ninguno
+ORD-2026-02005,3,0.0,Retraso de camion
+ORD-2026-02014,3,0.0,Faltaban items
+ORD-2026-02017,3,0.0,Retraso de camion
+ORD-2026-02018,5,0.0,Caja dañada
+ORD-2026-02019,3,0.0,Ninguno
+ORD-2026-02020,5,0.0,Ninguno
+ORD-2026-02021,5,0.0,Retraso de camion
+ORD-2026-02025,3,0.0,Caja dañada
+ORD-2026-02027,4,0.0,Ninguno
+ORD-2026-02028,2,2879.42,Retraso de camion
+ORD-2026-02029,4,0.0,Ninguno
+ORD-2026-02030,5,0.0,Ninguno
+ORD-2026-02032,5,0.0,Ninguno
+ORD-2026-02038,2,2235.88,Retraso de camion
+ORD-2026-02042,2,1726.9,Faltaban items
+ORD-2026-02047,5,0.0,Ninguno
+ORD-2026-02049,3,0.0,Retraso de camion
+ORD-2026-02050,4,0.0,Ninguno
+ORD-2026-02051,5,0.0,Retraso de camion
+ORD-2026-02054,5,0.0,Ninguno
+ORD-2026-02057,4,0.0,Ninguno
+ORD-2026-02058,3,0.0,Ninguno
+ORD-2026-02059,4,0.0,Ninguno
+ORD-2026-02062,4,0.0,Retraso de camion
+ORD-2026-02065,4,0.0,Ninguno
+ORD-2026-02067,4,0.0,Ninguno
+ORD-2026-02071,2,2438.0,Retraso de camion
+ORD-2026-02072,5,0.0,Ninguno
+ORD-2026-02073,4,0.0,Ninguno
+ORD-2026-02076,3,0.0,Retraso de camion
+ORD-2026-02077,3,0.0,Retraso de camion
+ORD-2026-02078,5,0.0,Ninguno
+ORD-2026-02079,2,1893.28,Retraso de camion
+ORD-2026-02080,2,2113.89,Faltaban items
 ORD-2026-02081,5,0.0,Ninguno
-ORD-2026-02086,4,0.0,Ninguno
-ORD-2026-02091,4,0.0,Ninguno
-ORD-2026-02096,2,2088.7,Faltaban items
-ORD-2026-02101,5,0.0,Ninguno
-ORD-2026-02106,4,0.0,Ninguno
+ORD-2026-02087,4,0.0,Ninguno
+ORD-2026-02088,4,0.0,Ninguno
+ORD-2026-02092,3,0.0,Retraso de camion
+ORD-2026-02093,4,0.0,Caja dañada
+ORD-2026-02094,4,0.0,Ninguno
+ORD-2026-02096,4,0.0,Ninguno
+ORD-2026-02100,5,0.0,Caja dañada
+ORD-2026-02101,3,0.0,Retraso de camion
+ORD-2026-02103,3,0.0,Ninguno
+ORD-2026-02108,4,0.0,Ninguno
 ORD-2026-02111,5,0.0,Ninguno
-ORD-2026-02116,2,2196.48,Ninguno
-ORD-2026-02121,5,0.0,Ninguno
+ORD-2026-02112,5,0.0,Ninguno
+ORD-2026-02113,5,0.0,Ninguno
+ORD-2026-02114,5,0.0,Ninguno
+ORD-2026-02115,3,0.0,Retraso de camion
+ORD-2026-02119,3,0.0,Ninguno
+ORD-2026-02121,3,0.0,Faltaban items
 ORD-2026-02126,4,0.0,Ninguno
-ORD-2026-02131,4,0.0,Faltaban items
-ORD-2026-02136,3,0.0,Retraso de camion
-ORD-2026-02141,2,724.1,Retraso de camion
-ORD-2026-02146,4,0.0,Ninguno
-ORD-2026-02151,4,0.0,Retraso de camion
-ORD-2026-02156,5,0.0,Ninguno
+ORD-2026-02130,3,0.0,Retraso de camion
+ORD-2026-02131,3,0.0,Ninguno
+ORD-2026-02132,4,0.0,Faltaban items
+ORD-2026-02133,3,0.0,Ninguno
+ORD-2026-02135,3,0.0,Retraso de camion
+ORD-2026-02136,2,1972.1,Ninguno
+ORD-2026-02140,4,0.0,Ninguno
+ORD-2026-02141,4,0.0,Ninguno
+ORD-2026-02143,4,0.0,Ninguno
+ORD-2026-02146,5,0.0,Ninguno
+ORD-2026-02148,3,0.0,Ninguno
+ORD-2026-02149,5,0.0,Ninguno
+ORD-2026-02151,4,0.0,Faltaban items
+ORD-2026-02153,5,0.0,Ninguno
+ORD-2026-02156,3,0.0,Faltaban items
+ORD-2026-02157,1,970.92,Retraso de camion
+ORD-2026-02159,4,0.0,Caja dañada
 ORD-2026-02161,4,0.0,Ninguno
-ORD-2026-02166,5,0.0,Ninguno
-ORD-2026-02171,2,685.81,Retraso de camion
-ORD-2026-02176,5,0.0,Ninguno
-ORD-2026-02181,5,0.0,Ninguno
+ORD-2026-02166,4,0.0,Ninguno
+ORD-2026-02167,5,0.0,Ninguno
+ORD-2026-02168,5,0.0,Ninguno
+ORD-2026-02169,4,0.0,Ninguno
+ORD-2026-02173,5,0.0,Ninguno
+ORD-2026-02174,5,0.0,Ninguno
+ORD-2026-02176,2,1816.87,Faltaban items
+ORD-2026-02177,5,0.0,Caja dañada
+ORD-2026-02179,3,0.0,Ninguno
+ORD-2026-02183,4,0.0,Ninguno
 ORD-2026-02186,5,0.0,Ninguno
-ORD-2026-02191,3,0.0,Ninguno
-ORD-2026-02196,3,0.0,Ninguno
-ORD-2026-02201,2,1067.22,Ninguno
-ORD-2026-02206,4,0.0,Ninguno
-ORD-2026-02211,3,0.0,Ninguno
-ORD-2026-02216,4,0.0,Retraso de camion
-ORD-2026-02221,4,0.0,Ninguno
+ORD-2026-02188,4,0.0,Ninguno
+ORD-2026-02190,3,0.0,Retraso de camion
+ORD-2026-02191,5,0.0,Ninguno
+ORD-2026-02194,5,0.0,Ninguno
+ORD-2026-02196,4,0.0,Faltaban items
+ORD-2026-02198,4,0.0,Ninguno
+ORD-2026-02200,4,0.0,Ninguno
+ORD-2026-02201,1,1985.07,Retraso de camion
+ORD-2026-02202,5,0.0,Ninguno
+ORD-2026-02203,4,0.0,Ninguno
+ORD-2026-02207,3,0.0,Retraso de camion
+ORD-2026-02209,4,0.0,Ninguno
+ORD-2026-02210,5,0.0,Ninguno
+ORD-2026-02211,4,0.0,Caja dañada
+ORD-2026-02212,4,0.0,Caja dañada
+ORD-2026-02215,5,0.0,Ninguno
+ORD-2026-02216,4,0.0,Ninguno
+ORD-2026-02217,3,0.0,Faltaban items
+ORD-2026-02218,5,0.0,Ninguno
+ORD-2026-02219,3,0.0,Retraso de camion
+ORD-2026-02220,5,0.0,Ninguno
+ORD-2026-02221,1,2707.83,Retraso de camion
+ORD-2026-02224,4,0.0,Caja dañada
 ORD-2026-02226,5,0.0,Ninguno
-ORD-2026-02231,1,1262.68,Retraso de camion
-ORD-2026-02236,3,0.0,Ninguno
-ORD-2026-02241,3,0.0,Faltaban items
-ORD-2026-02246,4,0.0,Ninguno
+ORD-2026-02227,4,0.0,Ninguno
+ORD-2026-02228,4,0.0,Retraso de camion
+ORD-2026-02231,5,0.0,Ninguno
+ORD-2026-02232,2,2228.33,Faltaban items
+ORD-2026-02234,3,0.0,Retraso de camion
+ORD-2026-02235,3,0.0,Retraso de camion
+ORD-2026-02238,5,0.0,Ninguno
+ORD-2026-02241,2,1685.88,Retraso de camion
+ORD-2026-02242,3,0.0,Retraso de camion
+ORD-2026-02246,5,0.0,Ninguno
+ORD-2026-02247,5,0.0,Ninguno
+ORD-2026-02250,4,0.0,Retraso de camion
 ORD-2026-02251,4,0.0,Ninguno
-ORD-2026-02256,5,0.0,Ninguno
-ORD-2026-02261,1,2351.55,Retraso de camion
-ORD-2026-02266,5,0.0,Ninguno
-ORD-2026-02271,2,982.07,Faltaban items
-ORD-2026-02276,5,0.0,Ninguno
-ORD-2026-02281,3,0.0,Ninguno
-ORD-2026-02286,2,934.92,Retraso de camion
-ORD-2026-02291,5,0.0,Ninguno
-ORD-2026-02296,5,0.0,Ninguno
+ORD-2026-02254,3,0.0,Retraso de camion
+ORD-2026-02255,2,1945.79,Retraso de camion
+ORD-2026-02258,5,0.0,Ninguno
+ORD-2026-02259,4,0.0,Ninguno
+ORD-2026-02260,4,0.0,Ninguno
+ORD-2026-02262,4,0.0,Ninguno
+ORD-2026-02263,4,0.0,Caja dañada
+ORD-2026-02264,3,0.0,Ninguno
+ORD-2026-02267,3,0.0,Faltaban items
+ORD-2026-02268,3,0.0,Retraso de camion
+ORD-2026-02272,4,0.0,Ninguno
+ORD-2026-02274,5,0.0,Ninguno
+ORD-2026-02277,4,0.0,Retraso de camion
+ORD-2026-02279,4,0.0,Caja dañada
+ORD-2026-02280,5,0.0,Ninguno
+ORD-2026-02281,5,0.0,Ninguno
+ORD-2026-02282,3,0.0,Ninguno
+ORD-2026-02286,5,0.0,Ninguno
+ORD-2026-02289,3,0.0,Retraso de camion
+ORD-2026-02290,4,0.0,Ninguno
+ORD-2026-02292,2,2978.28,Faltaban items
+ORD-2026-02294,4,0.0,Ninguno
+ORD-2026-02296,1,1586.33,Faltaban items
+ORD-2026-02298,2,1075.66,Retraso de camion
+ORD-2026-02299,5,0.0,Ninguno
+ORD-2026-02300,3,0.0,Retraso de camion
 ORD-2026-02301,4,0.0,Ninguno
-ORD-2026-02306,5,0.0,Caja dañada
-ORD-2026-02311,4,0.0,Ninguno
-ORD-2026-02316,4,0.0,Ninguno
-ORD-2026-02321,5,0.0,Ninguno
-ORD-2026-02326,3,0.0,Faltaban items
-ORD-2026-02331,4,0.0,Ninguno
-ORD-2026-02336,5,0.0,Ninguno
-ORD-2026-02341,4,0.0,Ninguno
-ORD-2026-02346,2,1334.87,Ninguno
-ORD-2026-02351,5,0.0,Ninguno
-ORD-2026-02356,5,0.0,Ninguno
-ORD-2026-02361,4,0.0,Ninguno
-ORD-2026-02366,5,0.0,Ninguno
-ORD-2026-02371,4,0.0,Ninguno
-ORD-2026-02376,4,0.0,Ninguno
-ORD-2026-02381,3,0.0,Retraso de camion
-ORD-2026-02386,5,0.0,Ninguno
-ORD-2026-02391,2,1675.06,Retraso de camion
-ORD-2026-02396,4,0.0,Ninguno
-ORD-2026-02401,5,0.0,Caja dañada
+ORD-2026-02302,3,0.0,Ninguno
+ORD-2026-02303,5,0.0,Ninguno
+ORD-2026-02304,2,2323.49,Retraso de camion
+ORD-2026-02307,4,0.0,Ninguno
+ORD-2026-02309,5,0.0,Ninguno
+ORD-2026-02313,5,0.0,Caja dañada
+ORD-2026-02314,4,0.0,Ninguno
+ORD-2026-02322,2,1066.32,Retraso de camion
+ORD-2026-02323,2,1028.21,Retraso de camion
+ORD-2026-02324,4,0.0,Ninguno
+ORD-2026-02325,4,0.0,Caja dañada
+ORD-2026-02328,2,2999.63,Caja dañada
+ORD-2026-02335,5,0.0,Ninguno
+ORD-2026-02338,4,0.0,Ninguno
+ORD-2026-02339,1,2905.79,Retraso de camion
+ORD-2026-02340,3,0.0,Retraso de camion
+ORD-2026-02341,3,0.0,Retraso de camion
+ORD-2026-02342,5,0.0,Ninguno
+ORD-2026-02343,4,0.0,Ninguno
+ORD-2026-02345,4,0.0,Ninguno
+ORD-2026-02346,5,0.0,Ninguno
+ORD-2026-02347,3,0.0,Retraso de camion
+ORD-2026-02349,4,0.0,Caja dañada
+ORD-2026-02350,4,0.0,Ninguno
+ORD-2026-02353,3,0.0,Retraso de camion
+ORD-2026-02354,4,0.0,Ninguno
+ORD-2026-02355,4,0.0,Ninguno
+ORD-2026-02356,4,0.0,Ninguno
+ORD-2026-02359,5,0.0,Caja dañada
+ORD-2026-02360,4,0.0,Ninguno
+ORD-2026-02361,3,0.0,Ninguno
+ORD-2026-02366,3,0.0,Caja dañada
+ORD-2026-02367,4,0.0,Ninguno
+ORD-2026-02368,5,0.0,Ninguno
+ORD-2026-02369,4,0.0,Ninguno
+ORD-2026-02370,4,0.0,Ninguno
+ORD-2026-02374,4,0.0,Ninguno
+ORD-2026-02378,4,0.0,Ninguno
+ORD-2026-02383,4,0.0,Ninguno
+ORD-2026-02385,5,0.0,Ninguno
+ORD-2026-02388,4,0.0,Ninguno
+ORD-2026-02391,4,0.0,Faltaban items
+ORD-2026-02392,5,0.0,Ninguno
+ORD-2026-02395,2,2220.93,Retraso de camion
+ORD-2026-02397,2,2428.95,Retraso de camion
+ORD-2026-02400,5,0.0,Ninguno
+ORD-2026-02401,5,0.0,Ninguno
+ORD-2026-02402,4,0.0,Ninguno
+ORD-2026-02403,4,0.0,Retraso de camion
+ORD-2026-02404,4,0.0,Ninguno
+ORD-2026-02405,4,0.0,Ninguno
 ORD-2026-02406,5,0.0,Ninguno
-ORD-2026-02411,1,2592.19,Retraso de camion
-ORD-2026-02416,5,0.0,Ninguno
-ORD-2026-02421,2,2494.71,Retraso de camion
-ORD-2026-02426,3,0.0,Ninguno
+ORD-2026-02409,3,0.0,Faltaban items
+ORD-2026-02410,4,0.0,Ninguno
+ORD-2026-02411,4,0.0,Ninguno
+ORD-2026-02412,3,0.0,Retraso de camion
+ORD-2026-02414,7,0.0,Ninguno
+ORD-2026-02417,2,810.76,Retraso de camion
+ORD-2026-02418,4,0.0,Ninguno
+ORD-2026-02419,3,0.0,Faltaban items
+ORD-2026-02420,3,0.0,Ninguno
+ORD-2026-02421,4,0.0,Ninguno
+ORD-2026-02422,5,0.0,Ninguno
+ORD-2026-02423,3,0.0,Ninguno
+ORD-2026-02424,5,0.0,Ninguno
+ORD-2026-02430,5,0.0,Ninguno
 ORD-2026-02431,4,0.0,Ninguno
-ORD-2026-02436,4,0.0,Ninguno
-ORD-2026-02441,5,0.0,Ninguno
-ORD-2026-02446,3,0.0,Ninguno
-ORD-2026-02451,5,0.0,Ninguno
-ORD-2026-02456,2,1190.61,Retraso de camion
-ORD-2026-02461,5,0.0,Ninguno
-ORD-2026-02466,5,0.0,Ninguno
-ORD-2026-02471,3,0.0,Ninguno
+ORD-2026-02433,4,0.0,Ninguno
+ORD-2026-02434,4,0.0,Ninguno
+ORD-2026-02435,3,0.0,Retraso de camion
+ORD-2026-02442,5,0.0,Ninguno
+ORD-2026-02443,3,0.0,Retraso de camion
+ORD-2026-02444,4,0.0,Ninguno
+ORD-2026-02445,4,0.0,Ninguno
+ORD-2026-02446,3,0.0,Retraso de camion
+ORD-2026-02447,3,0.0,Retraso de camion
+ORD-2026-02448,5,0.0,Ninguno
+ORD-2026-02449,4,0.0,Ninguno
+ORD-2026-02451,2,556.14,Faltaban items
+ORD-2026-02455,2,1552.94,Retraso de camion
+ORD-2026-02456,3,0.0,Retraso de camion
+ORD-2026-02457,2,1478.95,Retraso de camion
+ORD-2026-02460,4,0.0,Ninguno
+ORD-2026-02464,2,2086.85,Faltaban items
+ORD-2026-02465,3,0.0,Retraso de camion
+ORD-2026-02467,3,0.0,Retraso de camion
+ORD-2026-02472,4,0.0,Ninguno
+ORD-2026-02474,4,0.0,Ninguno
+ORD-2026-02475,7,0.0,Retraso de camion
 ORD-2026-02476,5,0.0,Ninguno
-ORD-2026-02481,5,0.0,Ninguno
-ORD-2026-02486,2,2870.46,Faltaban items
-ORD-2026-02491,5,0.0,Ninguno
-ORD-2026-02496,4,0.0,Ninguno
+ORD-2026-02478,3,0.0,Retraso de camion
+ORD-2026-02479,2,2897.94,Retraso de camion
+ORD-2026-02483,5,0.0,Ninguno
+ORD-2026-02485,5,0.0,Ninguno
+ORD-2026-02486,2,1378.76,Faltaban items
+ORD-2026-02488,4,0.0,Ninguno
+ORD-2026-02489,3,0.0,Ninguno
+ORD-2026-02491,4,0.0,Retraso de camion
+ORD-2026-02492,3,0.0,Ninguno
+ORD-2026-02493,4,0.0,Faltaban items
+ORD-2026-02495,4,0.0,Ninguno
 ORD-2026-02501,5,0.0,Ninguno
-ORD-2026-02506,4,0.0,Ninguno
-ORD-2026-02511,4,0.0,Caja dañada
-ORD-2026-02516,3,0.0,Retraso de camion
-ORD-2026-02521,5,0.0,Ninguno
-ORD-2026-02526,4,0.0,Ninguno
-ORD-2026-02531,5,0.0,Ninguno
-ORD-2026-02536,3,0.0,Retraso de camion
-ORD-2026-02541,5,0.0,Ninguno
-ORD-2026-02546,5,0.0,Ninguno
-ORD-2026-02551,5,0.0,Ninguno
-ORD-2026-02556,3,0.0,Retraso de camion
-ORD-2026-02561,3,0.0,Retraso de camion
-ORD-2026-02566,3,0.0,Ninguno
-ORD-2026-02571,4,0.0,Retraso de camion
-ORD-2026-02576,5,0.0,Ninguno
-ORD-2026-02581,5,0.0,Ninguno
-ORD-2026-02586,4,0.0,Ninguno
-ORD-2026-02591,3,0.0,Ninguno
-ORD-2026-02596,5,0.0,Ninguno
-ORD-2026-02601,4,0.0,Ninguno
+ORD-2026-02506,3,0.0,Faltaban items
+ORD-2026-02509,3,0.0,Faltaban items
+ORD-2026-02511,3,0.0,Ninguno
+ORD-2026-02512,3,0.0,Retraso de camion
+ORD-2026-02513,5,0.0,Ninguno
+ORD-2026-02517,4,0.0,Ninguno
+ORD-2026-02520,4,0.0,Ninguno
+ORD-2026-02523,5,0.0,Ninguno
+ORD-2026-02524,5,0.0,Ninguno
+ORD-2026-02525,4,0.0,Ninguno
+ORD-2026-02526,5,0.0,Caja dañada
+ORD-2026-02529,2,2194.15,Retraso de camion
+ORD-2026-02530,5,0.0,Ninguno
+ORD-2026-02531,3,0.0,Retraso de camion
+ORD-2026-02532,3,0.0,Retraso de camion
+ORD-2026-02534,5,0.0,Ninguno
+ORD-2026-02535,5,0.0,Caja dañada
+ORD-2026-02536,2,1890.41,Retraso de camion
+ORD-2026-02538,5,0.0,Ninguno
+ORD-2026-02539,5,0.0,Ninguno
+ORD-2026-02543,5,0.0,Caja dañada
+ORD-2026-02546,3,0.0,Faltaban items
+ORD-2026-02548,3,0.0,Retraso de camion
+ORD-2026-02550,5,0.0,Ninguno
+ORD-2026-02551,4,0.0,Caja dañada
+ORD-2026-02552,4,0.0,Ninguno
+ORD-2026-02554,3,0.0,Retraso de camion
+ORD-2026-02556,5,0.0,Ninguno
+ORD-2026-02558,5,0.0,Ninguno
+ORD-2026-02560,5,0.0,Caja dañada
+ORD-2026-02561,4,0.0,Ninguno
+ORD-2026-02564,5,0.0,Ninguno
+ORD-2026-02565,5,0.0,Ninguno
+ORD-2026-02566,3,0.0,Faltaban items
+ORD-2026-02567,1,2931.37,Retraso de camion
+ORD-2026-02569,2,1120.7,Retraso de camion
+ORD-2026-02571,5,0.0,Ninguno
+ORD-2026-02572,4,0.0,Ninguno
+ORD-2026-02575,3,0.0,Faltaban items
+ORD-2026-02576,4,0.0,Ninguno
+ORD-2026-02577,1,1765.09,Retraso de camion
+ORD-2026-02578,1,648.86,Retraso de camion
+ORD-2026-02579,3,0.0,Retraso de camion
+ORD-2026-02582,3,0.0,Faltaban items
+ORD-2026-02584,2,1927.38,Retraso de camion
+ORD-2026-02585,5,0.0,Ninguno
+ORD-2026-02589,2,1210.23,Retraso de camion
+ORD-2026-02590,4,0.0,Faltaban items
+ORD-2026-02592,2,2827.92,Ninguno
+ORD-2026-02593,5,0.0,Ninguno
+ORD-2026-02596,3,0.0,Faltaban items
+ORD-2026-02597,5,0.0,Ninguno
+ORD-2026-02598,3,0.0,Ninguno
+ORD-2026-02599,4,0.0,Retraso de camion
+ORD-2026-02601,3,0.0,Ninguno
+ORD-2026-02602,3,0.0,Retraso de camion
 ORD-2026-02606,5,0.0,Ninguno
-ORD-2026-02611,5,0.0,Ninguno
-ORD-2026-02616,1,2841.44,Retraso de camion
-ORD-2026-02621,4,0.0,Ninguno
-ORD-2026-02626,5,0.0,Ninguno
-ORD-2026-02631,4,0.0,Ninguno
-ORD-2026-02636,1,2735.22,Retraso de camion
-ORD-2026-02641,5,0.0,Ninguno
+ORD-2026-02608,4,0.0,Retraso de camion
+ORD-2026-02609,3,0.0,Ninguno
+ORD-2026-02612,3,0.0,Retraso de camion
+ORD-2026-02615,5,0.0,Ninguno
+ORD-2026-02618,4,0.0,Ninguno
+ORD-2026-02619,4,0.0,Ninguno
+ORD-2026-02623,5,0.0,Ninguno
+ORD-2026-02624,4,0.0,Ninguno
+ORD-2026-02631,3,0.0,Caja dañada
+ORD-2026-02632,4,0.0,Retraso de camion
+ORD-2026-02636,1,2973.33,Retraso de camion
+ORD-2026-02640,5,0.0,Ninguno
+ORD-2026-02641,3,0.0,Retraso de camion
+ORD-2026-02645,1,1993.68,Retraso de camion
 ORD-2026-02646,3,0.0,Retraso de camion
-ORD-2026-02651,5,0.0,Ninguno
-ORD-2026-02656,4,0.0,Ninguno
-ORD-2026-02661,5,0.0,Ninguno
-ORD-2026-02666,4,0.0,Ninguno
-ORD-2026-02671,5,0.0,Ninguno
-ORD-2026-02676,4,0.0,Ninguno
-ORD-2026-02681,3,0.0,Ninguno
-ORD-2026-02686,2,884.25,Faltaban items
-ORD-2026-02691,4,0.0,Ninguno
-ORD-2026-02696,2,803.23,Faltaban items
+ORD-2026-02647,4,0.0,Ninguno
+ORD-2026-02648,5,0.0,Ninguno
+ORD-2026-02651,3,0.0,Retraso de camion
+ORD-2026-02652,5,0.0,Ninguno
+ORD-2026-02653,3,0.0,Retraso de camion
+ORD-2026-02655,3,0.0,Retraso de camion
+ORD-2026-02658,4,0.0,Ninguno
+ORD-2026-02661,4,0.0,Ninguno
+ORD-2026-02663,3,0.0,Ninguno
+ORD-2026-02667,3,0.0,Ninguno
+ORD-2026-02668,5,0.0,Caja dañada
+ORD-2026-02672,4,0.0,Ninguno
+ORD-2026-02675,4,0.0,Ninguno
+ORD-2026-02677,1,1495.77,Retraso de camion
+ORD-2026-02679,2,739.42,Faltaban items
+ORD-2026-02680,4,0.0,Ninguno
+ORD-2026-02690,4,0.0,Retraso de camion
+ORD-2026-02695,5,0.0,Ninguno
+ORD-2026-02696,5,0.0,Ninguno
+ORD-2026-02699,5,0.0,Ninguno
 ORD-2026-02701,5,0.0,Ninguno
+ORD-2026-02702,5,0.0,Ninguno
+ORD-2026-02704,4,0.0,Ninguno
+ORD-2026-02705,2,1471.65,Caja dañada
 ORD-2026-02706,4,0.0,Ninguno
-ORD-2026-02711,5,0.0,Ninguno
-ORD-2026-02716,4,0.0,Ninguno
-ORD-2026-02721,3,0.0,Ninguno
-ORD-2026-02726,5,0.0,Caja dañada
-ORD-2026-02731,5,0.0,Ninguno
-ORD-2026-02736,3,0.0,Retraso de camion
-ORD-2026-02741,2,602.96,Ninguno
-ORD-2026-02746,5,0.0,Ninguno
-ORD-2026-02751,5,0.0,Ninguno
-ORD-2026-02756,3,0.0,Faltaban items
-ORD-2026-02761,4,0.0,Ninguno
-ORD-2026-02766,4,0.0,Ninguno
+ORD-2026-02707,3,0.0,Ninguno
+ORD-2026-02709,3,0.0,Ninguno
+ORD-2026-02710,3,0.0,Ninguno
+ORD-2026-02712,3,0.0,Retraso de camion
+ORD-2026-02715,2,1131.21,Faltaban items
+ORD-2026-02716,3,0.0,Retraso de camion
+ORD-2026-02718,3,0.0,Retraso de camion
+ORD-2026-02719,5,0.0,Ninguno
+ORD-2026-02720,5,0.0,Ninguno
+ORD-2026-02721,5,0.0,Ninguno
+ORD-2026-02722,5,0.0,Ninguno
+ORD-2026-02723,5,0.0,Ninguno
+ORD-2026-02725,5,0.0,Caja dañada
+ORD-2026-02726,5,0.0,Ninguno
+ORD-2026-02729,4,0.0,Ninguno
+ORD-2026-02730,3,0.0,Retraso de camion
+ORD-2026-02732,5,0.0,Caja dañada
+ORD-2026-02733,3,0.0,Ninguno
+ORD-2026-02734,4,0.0,Ninguno
+ORD-2026-02737,4,0.0,Ninguno
+ORD-2026-02739,4,0.0,Ninguno
+ORD-2026-02742,2,2286.95,Retraso de camion
+ORD-2026-02743,3,0.0,Caja dañada
+ORD-2026-02747,1,1515.36,Faltaban items
+ORD-2026-02748,4,0.0,Ninguno
+ORD-2026-02752,5,0.0,Ninguno
+ORD-2026-02754,3,0.0,Ninguno
+ORD-2026-02755,5,0.0,Ninguno
+ORD-2026-02757,4,0.0,Retraso de camion
+ORD-2026-02758,5,0.0,Ninguno
+ORD-2026-02759,5,0.0,Ninguno
+ORD-2026-02760,3,0.0,Retraso de camion
+ORD-2026-02761,3,0.0,Ninguno
+ORD-2026-02762,4,0.0,Caja dañada
+ORD-2026-02764,4,0.0,Ninguno
+ORD-2026-02765,4,0.0,Caja dañada
+ORD-2026-02766,5,0.0,Ninguno
+ORD-2026-02769,3,0.0,Retraso de camion
+ORD-2026-02770,4,0.0,Faltaban items
 ORD-2026-02771,5,0.0,Ninguno
+ORD-2026-02773,3,0.0,Faltaban items
+ORD-2026-02775,4,0.0,Ninguno
 ORD-2026-02776,5,0.0,Ninguno
-ORD-2026-02781,2,1033.94,Ninguno
-ORD-2026-02786,4,0.0,Ninguno
-ORD-2026-02791,4,0.0,Caja dañada
-ORD-2026-02796,4,0.0,Ninguno
-ORD-2026-02801,3,0.0,Ninguno
-ORD-2026-02806,5,0.0,Ninguno
-ORD-2026-02811,5,0.0,Ninguno
-ORD-2026-02816,3,0.0,Ninguno
-ORD-2026-02821,4,0.0,Ninguno
-ORD-2026-02826,3,0.0,Ninguno
-ORD-2026-02831,1,1977.46,Retraso de camion
-ORD-2026-02836,5,0.0,Ninguno
+ORD-2026-02777,2,819.7,Retraso de camion
+ORD-2026-02778,3,0.0,Ninguno
+ORD-2026-02779,3,0.0,Ninguno
+ORD-2026-02784,5,0.0,Ninguno
+ORD-2026-02786,5,0.0,Ninguno
+ORD-2026-02787,5,0.0,Ninguno
+ORD-2026-02788,5,0.0,Ninguno
+ORD-2026-02797,5,0.0,Ninguno
+ORD-2026-02798,5,0.0,Ninguno
+ORD-2026-02799,2,2103.17,Retraso de camion
+ORD-2026-02801,4,0.0,Ninguno
+ORD-2026-02804,2,934.85,Faltaban items
+ORD-2026-02810,4,0.0,Ninguno
+ORD-2026-02813,3,0.0,Retraso de camion
+ORD-2026-02815,3,0.0,Ninguno
+ORD-2026-02818,3,0.0,Ninguno
+ORD-2026-02821,3,0.0,Retraso de camion
+ORD-2026-02824,3,0.0,Faltaban items
+ORD-2026-02829,2,2743.63,Faltaban items
+ORD-2026-02831,2,2688.29,Retraso de camion
+ORD-2026-02834,4,0.0,Ninguno
+ORD-2026-02835,5,0.0,Ninguno
+ORD-2026-02836,2,1322.2,Retraso de camion
+ORD-2026-02838,1,756.31,Retraso de camion
+ORD-2026-02839,5,0.0,Ninguno
 ORD-2026-02841,5,0.0,Ninguno
-ORD-2026-02846,4,0.0,Ninguno
-ORD-2026-02851,5,0.0,Ninguno
-ORD-2026-02856,4,0.0,Ninguno
-ORD-2026-02861,3,0.0,Ninguno
-ORD-2026-02866,4,0.0,Caja dañada
-ORD-2026-02871,2,1177.84,Faltaban items
-ORD-2026-02876,4,0.0,Ninguno
-ORD-2026-02881,4,0.0,Ninguno
-ORD-2026-02886,4,0.0,Ninguno
-ORD-2026-02891,4,0.0,Ninguno
-ORD-2026-02896,5,0.0,Ninguno
-ORD-2026-02901,5,0.0,Ninguno
-ORD-2026-02906,3,0.0,Faltaban items
-ORD-2026-02911,3,0.0,Ninguno
-ORD-2026-02916,5,0.0,Caja dañada
-ORD-2026-02921,4,0.0,Ninguno
-ORD-2026-02926,4,0.0,Ninguno
-ORD-2026-02931,4,0.0,Ninguno
-ORD-2026-02936,5,0.0,Ninguno
-ORD-2026-02941,2,2964.54,Caja dañada
-ORD-2026-02946,4,0.0,Ninguno
-ORD-2026-02951,1,1886.89,Faltaban items
-ORD-2026-02956,5,0.0,Caja dañada
-ORD-2026-02961,5,0.0,Ninguno
-ORD-2026-02966,4,0.0,Ninguno
-ORD-2026-02971,3,0.0,Ninguno
-ORD-2026-02976,5,0.0,Ninguno
-ORD-2026-02981,5,0.0,Ninguno
-ORD-2026-02986,3,0.0,Ninguno
-ORD-2026-02991,4,0.0,Retraso de camion
-ORD-2026-02996,5,0.0,Ninguno
-ORD-2026-03001,4,0.0,Ninguno
-ORD-2026-03006,3,0.0,Faltaban items
-ORD-2026-03011,4,0.0,Caja dañada
+ORD-2026-02842,4,0.0,Retraso de camion
+ORD-2026-02843,5,0.0,Ninguno
+ORD-2026-02844,5,0.0,Ninguno
+ORD-2026-02845,5,0.0,Ninguno
+ORD-2026-02848,5,0.0,Ninguno
+ORD-2026-02849,5,0.0,Ninguno
+ORD-2026-02850,4,0.0,Ninguno
+ORD-2026-02854,2,1624.43,Retraso de camion
+ORD-2026-02855,3,0.0,Faltaban items
+ORD-2026-02858,3,0.0,Retraso de camion
+ORD-2026-02859,2,2391.89,Faltaban items
+ORD-2026-02862,3,0.0,Retraso de camion
+ORD-2026-02864,3,0.0,Faltaban items
+ORD-2026-02867,4,0.0,Ninguno
+ORD-2026-02868,2,2873.73,Retraso de camion
+ORD-2026-02869,3,0.0,Ninguno
+ORD-2026-02870,5,0.0,Ninguno
+ORD-2026-02871,4,0.0,Ninguno
+ORD-2026-02872,4,0.0,Ninguno
+ORD-2026-02875,4,0.0,Ninguno
+ORD-2026-02878,4,0.0,Retraso de camion
+ORD-2026-02879,1,609.76,Faltaban items
+ORD-2026-02880,4,0.0,Caja dañada
+ORD-2026-02882,3,0.0,Retraso de camion
+ORD-2026-02883,5,0.0,Ninguno
+ORD-2026-02885,4,0.0,Caja dañada
+ORD-2026-02886,5,0.0,Ninguno
+ORD-2026-02891,2,1796.23,Retraso de camion
+ORD-2026-02893,5,0.0,Ninguno
+ORD-2026-02895,3,0.0,Ninguno
+ORD-2026-02897,4,0.0,Ninguno
+ORD-2026-02898,1,1872.36,Retraso de camion
+ORD-2026-02900,4,0.0,Ninguno
+ORD-2026-02901,3,0.0,Ninguno
+ORD-2026-02902,3,0.0,Retraso de camion
+ORD-2026-02908,5,0.0,Ninguno
+ORD-2026-02910,3,0.0,Retraso de camion
+ORD-2026-02911,5,0.0,Ninguno
+ORD-2026-02913,5,0.0,Ninguno
+ORD-2026-02914,5,0.0,Ninguno
+ORD-2026-02915,3,0.0,Retraso de camion
+ORD-2026-02916,4,0.0,Ninguno
+ORD-2026-02919,5,0.0,Ninguno
+ORD-2026-02920,5,0.0,Ninguno
+ORD-2026-02924,5,0.0,Ninguno
+ORD-2026-02927,4,0.0,Ninguno
+ORD-2026-02928,4,0.0,Ninguno
+ORD-2026-02929,4,0.0,Ninguno
+ORD-2026-02930,4,0.0,Ninguno
+ORD-2026-02931,3,0.0,Faltaban items
+ORD-2026-02932,3,0.0,Retraso de camion
+ORD-2026-02935,4,0.0,Retraso de camion
+ORD-2026-02937,3,0.0,Ninguno
+ORD-2026-02938,3,0.0,Ninguno
+ORD-2026-02941,4,0.0,Caja dañada
+ORD-2026-02945,5,0.0,Ninguno
+ORD-2026-02947,4,0.0,Retraso de camion
+ORD-2026-02954,4,0.0,Ninguno
+ORD-2026-02958,5,0.0,Ninguno
+ORD-2026-02961,2,2528.22,Retraso de camion
+ORD-2026-02962,4,0.0,Retraso de camion
+ORD-2026-02965,5,0.0,Ninguno
+ORD-2026-02966,1,796.43,Retraso de camion
+ORD-2026-02969,3,0.0,Ninguno
+ORD-2026-02970,4,0.0,Ninguno
+ORD-2026-02971,4,0.0,Ninguno
+ORD-2026-02973,4,0.0,Ninguno
+ORD-2026-02974,1,1734.88,Retraso de camion
+ORD-2026-02975,5,0.0,Ninguno
+ORD-2026-02978,3,0.0,Retraso de camion
+ORD-2026-02979,3,0.0,Faltaban items
+ORD-2026-02980,3,0.0,Retraso de camion
+ORD-2026-02982,4,0.0,Ninguno
+ORD-2026-02983,4,0.0,Ninguno
+ORD-2026-02984,2,1846.86,Retraso de camion
+ORD-2026-02986,4,0.0,Ninguno
+ORD-2026-02988,4,0.0,Ninguno
+ORD-2026-02989,2,610.7,Retraso de camion
+ORD-2026-02990,5,0.0,Ninguno
+ORD-2026-02991,4,0.0,Ninguno
+ORD-2026-02999,4,0.0,Retraso de camion
+ORD-2026-03002,3,0.0,Faltaban items
+ORD-2026-03007,5,0.0,Ninguno
+ORD-2026-03008,4,0.0,Ninguno
+ORD-2026-03011,3,0.0,Retraso de camion
 ORD-2026-03016,5,0.0,Ninguno
-ORD-2026-03021,4,0.0,Ninguno
-ORD-2026-03026,4,0.0,Ninguno
-ORD-2026-03031,4,0.0,Ninguno
-ORD-2026-03036,5,0.0,Ninguno
-ORD-2026-03041,4,0.0,Ninguno
-ORD-2026-03046,1,1827.73,Retraso de camion
-ORD-2026-03051,3,0.0,Ninguno
-ORD-2026-03056,5,0.0,Ninguno
-ORD-2026-03061,4,0.0,Ninguno
-ORD-2026-03066,4,0.0,Ninguno
-ORD-2026-03071,3,0.0,Retraso de camion
-ORD-2026-03076,3,0.0,Faltaban items
-ORD-2026-03081,4,0.0,Retraso de camion
-ORD-2026-03086,2,1320.39,Ninguno
+ORD-2026-03018,4,0.0,Ninguno
+ORD-2026-03020,5,0.0,Ninguno
+ORD-2026-03021,5,0.0,Ninguno
+ORD-2026-03026,1,789.62,Faltaban items
+ORD-2026-03027,4,0.0,Caja dañada
+ORD-2026-03029,3,0.0,Ninguno
+ORD-2026-03033,4,0.0,Retraso de camion
+ORD-2026-03034,4,0.0,Ninguno
+ORD-2026-03039,1,2610.18,Retraso de camion
+ORD-2026-03040,3,0.0,Faltaban items
+ORD-2026-03041,5,0.0,Ninguno
+ORD-2026-03042,5,0.0,Ninguno
+ORD-2026-03045,3,0.0,Retraso de camion
+ORD-2026-03047,3,0.0,Ninguno
+ORD-2026-03048,5,0.0,Ninguno
+ORD-2026-03049,5,0.0,Retraso de camion
+ORD-2026-03050,5,0.0,Ninguno
+ORD-2026-03051,5,0.0,Ninguno
+ORD-2026-03055,3,0.0,Ninguno
+ORD-2026-03056,4,0.0,Ninguno
+ORD-2026-03062,1,603.51,Retraso de camion
+ORD-2026-03063,5,0.0,Ninguno
+ORD-2026-03064,2,2251.67,Retraso de camion
+ORD-2026-03065,4,0.0,Ninguno
+ORD-2026-03066,5,0.0,Ninguno
+ORD-2026-03067,4,0.0,Retraso de camion
+ORD-2026-03068,2,783.67,Retraso de camion
+ORD-2026-03072,3,0.0,Ninguno
+ORD-2026-03073,2,1485.98,Ninguno
+ORD-2026-03075,4,0.0,Ninguno
+ORD-2026-03077,4,0.0,Retraso de camion
+ORD-2026-03084,5,0.0,Caja dañada
+ORD-2026-03085,4,0.0,Ninguno
+ORD-2026-03087,4,0.0,Ninguno
+ORD-2026-03089,3,0.0,Retraso de camion
+ORD-2026-03090,2,1147.89,Faltaban items
 ORD-2026-03091,4,0.0,Ninguno
-ORD-2026-03096,4,0.0,Ninguno
-ORD-2026-03101,3,0.0,Retraso de camion
-ORD-2026-03106,5,0.0,Ninguno
-ORD-2026-03111,2,1317.91,Retraso de camion
-ORD-2026-03116,5,0.0,Ninguno
-ORD-2026-03121,4,0.0,Ninguno
-ORD-2026-03126,5,0.0,Ninguno
-ORD-2026-03131,4,0.0,Ninguno
-ORD-2026-03136,4,0.0,Ninguno
-ORD-2026-03141,5,0.0,Ninguno
+ORD-2026-03093,2,2005.86,Ninguno
+ORD-2026-03100,4,0.0,Ninguno
+ORD-2026-03104,1,2204.28,Retraso de camion
+ORD-2026-03105,2,2443.0,Retraso de camion
+ORD-2026-03106,3,0.0,Retraso de camion
+ORD-2026-03107,5,0.0,Ninguno
+ORD-2026-03108,2,2150.05,Faltaban items
+ORD-2026-03111,4,0.0,Ninguno
+ORD-2026-03112,5,0.0,Ninguno
+ORD-2026-03115,5,0.0,Caja dañada
+ORD-2026-03116,4,0.0,Faltaban items
+ORD-2026-03122,5,0.0,Ninguno
+ORD-2026-03127,3,0.0,Ninguno
+ORD-2026-03131,3,0.0,Retraso de camion
+ORD-2026-03134,3,0.0,Retraso de camion
+ORD-2026-03139,4,0.0,Ninguno
+ORD-2026-03142,4,0.0,Ninguno
+ORD-2026-03143,3,0.0,Retraso de camion
 ORD-2026-03146,5,0.0,Ninguno
-ORD-2026-03151,5,0.0,Retraso de camion
-ORD-2026-03156,2,1655.96,Ninguno
-ORD-2026-03161,3,0.0,Retraso de camion
-ORD-2026-03166,3,0.0,Retraso de camion
-ORD-2026-03171,7,0.0,Ninguno
-ORD-2026-03176,5,0.0,Ninguno
-ORD-2026-03181,1,1935.79,Faltaban items
-ORD-2026-03186,5,0.0,Ninguno
-ORD-2026-03191,4,0.0,Caja dañada
-ORD-2026-03196,4,0.0,Ninguno
-ORD-2026-03201,3,0.0,Retraso de camion
-ORD-2026-03206,5,0.0,Ninguno
-ORD-2026-03211,5,0.0,Ninguno
-ORD-2026-03216,4,0.0,Ninguno
-ORD-2026-03221,5,0.0,Caja dañada
-ORD-2026-03226,2,1833.13,Faltaban items
-ORD-2026-03231,5,0.0,Ninguno
-ORD-2026-03236,3,0.0,Ninguno
-ORD-2026-03241,5,0.0,Ninguno
-ORD-2026-03246,5,0.0,Ninguno
-ORD-2026-03251,5,0.0,Ninguno
-ORD-2026-03256,4,0.0,Ninguno
-ORD-2026-03261,3,0.0,Retraso de camion
-ORD-2026-03266,2,1953.95,Faltaban items
+ORD-2026-03148,3,0.0,Ninguno
+ORD-2026-03149,5,0.0,Caja dañada
+ORD-2026-03150,3,0.0,Ninguno
+ORD-2026-03154,5,0.0,Ninguno
+ORD-2026-03155,2,2080.23,Faltaban items
+ORD-2026-03159,3,0.0,Ninguno
+ORD-2026-03163,5,0.0,Ninguno
+ORD-2026-03166,3,0.0,Ninguno
+ORD-2026-03168,5,0.0,Ninguno
+ORD-2026-03170,4,0.0,Ninguno
+ORD-2026-03171,4,0.0,Ninguno
+ORD-2026-03172,5,0.0,Ninguno
+ORD-2026-03177,5,0.0,Ninguno
+ORD-2026-03178,5,0.0,Retraso de camion
+ORD-2026-03180,4,0.0,Caja dañada
+ORD-2026-03181,3,0.0,Retraso de camion
+ORD-2026-03183,5,0.0,Ninguno
+ORD-2026-03185,3,0.0,Retraso de camion
+ORD-2026-03186,3,0.0,Retraso de camion
+ORD-2026-03187,4,0.0,Ninguno
+ORD-2026-03190,2,2594.24,Retraso de camion
+ORD-2026-03193,4,0.0,Ninguno
+ORD-2026-03194,4,0.0,Ninguno
+ORD-2026-03195,5,0.0,Ninguno
+ORD-2026-03196,1,2229.55,Retraso de camion
+ORD-2026-03197,2,2849.53,Retraso de camion
+ORD-2026-03198,4,0.0,Ninguno
+ORD-2026-03206,1,2826.01,Retraso de camion
+ORD-2026-03207,3,0.0,Ninguno
+ORD-2026-03208,5,0.0,Ninguno
+ORD-2026-03210,4,0.0,Caja dañada
+ORD-2026-03211,3,0.0,Retraso de camion
+ORD-2026-03212,2,1978.8,Retraso de camion
+ORD-2026-03214,3,0.0,Ninguno
+ORD-2026-03215,4,0.0,Ninguno
+ORD-2026-03216,5,0.0,Ninguno
+ORD-2026-03218,4,0.0,Ninguno
+ORD-2026-03221,4,0.0,Ninguno
+ORD-2026-03222,4,0.0,Caja dañada
+ORD-2026-03223,3,0.0,Faltaban items
+ORD-2026-03226,3,0.0,Ninguno
+ORD-2026-03227,5,0.0,Ninguno
+ORD-2026-03228,5,0.0,Ninguno
+ORD-2026-03230,4,0.0,Ninguno
+ORD-2026-03231,3,0.0,Retraso de camion
+ORD-2026-03232,3,0.0,Ninguno
+ORD-2026-03234,5,0.0,Ninguno
+ORD-2026-03238,3,0.0,Ninguno
+ORD-2026-03239,5,0.0,Ninguno
+ORD-2026-03241,3,0.0,Faltaban items
+ORD-2026-03242,4,0.0,Retraso de camion
+ORD-2026-03243,2,1958.11,Retraso de camion
+ORD-2026-03247,5,0.0,Caja dañada
+ORD-2026-03248,4,0.0,Ninguno
+ORD-2026-03250,5,0.0,Ninguno
+ORD-2026-03252,4,0.0,Ninguno
+ORD-2026-03254,2,602.21,Retraso de camion
+ORD-2026-03257,5,0.0,Ninguno
+ORD-2026-03261,4,0.0,Ninguno
+ORD-2026-03262,4,0.0,Ninguno
+ORD-2026-03263,4,0.0,Ninguno
+ORD-2026-03267,4,0.0,Ninguno
+ORD-2026-03268,5,0.0,Ninguno
+ORD-2026-03270,5,0.0,Caja dañada
 ORD-2026-03271,4,0.0,Ninguno
-ORD-2026-03276,5,0.0,Ninguno
-ORD-2026-03281,1,1423.81,Retraso de camion
-ORD-2026-03286,2,884.68,Retraso de camion
-ORD-2026-03291,5,0.0,Ninguno
+ORD-2026-03272,4,0.0,Ninguno
+ORD-2026-03273,5,0.0,Ninguno
+ORD-2026-03279,5,0.0,Ninguno
+ORD-2026-03282,5,0.0,Ninguno
+ORD-2026-03283,3,0.0,Faltaban items
+ORD-2026-03290,1,981.58,Retraso de camion
+ORD-2026-03293,3,0.0,Retraso de camion
+ORD-2026-03294,4,0.0,Ninguno
 ORD-2026-03296,4,0.0,Ninguno
-ORD-2026-03301,5,0.0,Ninguno
-ORD-2026-03306,5,0.0,Ninguno
-ORD-2026-03311,5,0.0,Ninguno
-ORD-2026-03316,5,0.0,Ninguno
-ORD-2026-03321,4,0.0,Ninguno
-ORD-2026-03326,4,0.0,Retraso de camion
-ORD-2026-03331,4,0.0,Ninguno
-ORD-2026-03336,4,0.0,Ninguno
-ORD-2026-03341,2,2461.25,Retraso de camion
-ORD-2026-03346,5,0.0,Ninguno
+ORD-2026-03299,3,0.0,Retraso de camion
+ORD-2026-03300,3,0.0,Retraso de camion
+ORD-2026-03302,4,0.0,Ninguno
+ORD-2026-03303,3,0.0,Ninguno
+ORD-2026-03304,5,0.0,Ninguno
+ORD-2026-03307,5,0.0,Ninguno
+ORD-2026-03308,4,0.0,Ninguno
+ORD-2026-03309,4,0.0,Retraso de camion
+ORD-2026-03310,5,0.0,Ninguno
+ORD-2026-03311,4,0.0,Ninguno
+ORD-2026-03312,2,1282.78,Retraso de camion
+ORD-2026-03313,3,0.0,Retraso de camion
+ORD-2026-03314,3,0.0,Retraso de camion
+ORD-2026-03316,3,0.0,Retraso de camion
+ORD-2026-03320,4,0.0,Ninguno
+ORD-2026-03324,3,0.0,Ninguno
+ORD-2026-03325,3,0.0,Faltaban items
+ORD-2026-03327,5,0.0,Ninguno
+ORD-2026-03329,5,0.0,Ninguno
+ORD-2026-03331,3,0.0,Caja dañada
+ORD-2026-03332,2,689.95,Retraso de camion
+ORD-2026-03336,5,0.0,Ninguno
+ORD-2026-03337,4,0.0,Ninguno
+ORD-2026-03338,4,0.0,Retraso de camion
+ORD-2026-03340,4,0.0,Ninguno
+ORD-2026-03342,2,1729.52,Retraso de camion
+ORD-2026-03344,3,0.0,Faltaban items
+ORD-2026-03345,1,950.0,Retraso de camion
+ORD-2026-03347,5,0.0,Ninguno
+ORD-2026-03350,4,0.0,Ninguno
 ORD-2026-03351,5,0.0,Ninguno
-ORD-2026-03356,4,0.0,Ninguno
+ORD-2026-03352,5,0.0,Ninguno
+ORD-2026-03353,4,0.0,Ninguno
+ORD-2026-03354,5,0.0,Ninguno
+ORD-2026-03355,4,0.0,Ninguno
+ORD-2026-03356,3,0.0,Retraso de camion
+ORD-2026-03358,5,0.0,Ninguno
+ORD-2026-03360,5,0.0,Ninguno
 ORD-2026-03361,5,0.0,Ninguno
-ORD-2026-03366,3,0.0,Faltaban items
-ORD-2026-03371,5,0.0,Caja dañada
-ORD-2026-03376,5,0.0,Ninguno
-ORD-2026-03381,5,0.0,Ninguno
-ORD-2026-03386,3,0.0,Faltaban items
-ORD-2026-03391,4,0.0,Ninguno
-ORD-2026-03396,3,0.0,Faltaban items
-ORD-2026-03401,5,0.0,Caja dañada
-ORD-2026-03406,5,0.0,Ninguno
-ORD-2026-03411,1,1117.2,Faltaban items
+ORD-2026-03363,4,0.0,Ninguno
+ORD-2026-03365,5,0.0,Ninguno
+ORD-2026-03367,3,0.0,Ninguno
+ORD-2026-03369,4,0.0,Ninguno
+ORD-2026-03373,5,0.0,Ninguno
+ORD-2026-03374,2,2279.41,Faltaban items
+ORD-2026-03375,2,1025.59,Retraso de camion
+ORD-2026-03377,5,0.0,Ninguno
+ORD-2026-03378,4,0.0,Ninguno
+ORD-2026-03382,5,0.0,Ninguno
+ORD-2026-03383,3,0.0,Retraso de camion
+ORD-2026-03384,4,0.0,Ninguno
+ORD-2026-03385,3,0.0,Ninguno
+ORD-2026-03389,2,748.64,Ninguno
+ORD-2026-03392,5,0.0,Ninguno
+ORD-2026-03394,5,0.0,Ninguno
+ORD-2026-03398,4,0.0,Ninguno
+ORD-2026-03399,4,0.0,Ninguno
+ORD-2026-03401,3,0.0,Caja dañada
+ORD-2026-03403,4,0.0,Ninguno
+ORD-2026-03406,3,0.0,Retraso de camion
+ORD-2026-03410,5,0.0,Ninguno
 ORD-2026-03416,5,0.0,Ninguno
-ORD-2026-03421,3,0.0,Ninguno
-ORD-2026-03426,5,0.0,Ninguno
-ORD-2026-03431,5,0.0,Ninguno
-ORD-2026-03436,1,889.75,Retraso de camion
-ORD-2026-03441,4,0.0,Ninguno
-ORD-2026-03446,3,0.0,Ninguno
-ORD-2026-03451,1,1263.25,Retraso de camion
-ORD-2026-03456,4,0.0,Ninguno
-ORD-2026-03461,4,0.0,Ninguno
-ORD-2026-03466,5,0.0,Ninguno
-ORD-2026-03471,5,0.0,Ninguno
-ORD-2026-03476,5,0.0,Ninguno
-ORD-2026-03481,3,0.0,Retraso de camion
-ORD-2026-03486,5,0.0,Ninguno
-ORD-2026-03491,5,0.0,Ninguno
-ORD-2026-03496,5,0.0,Ninguno
-ORD-2026-03501,5,0.0,Ninguno
+ORD-2026-03420,5,0.0,Ninguno
+ORD-2026-03421,5,0.0,Ninguno
+ORD-2026-03422,4,0.0,Ninguno
+ORD-2026-03424,1,1429.8,Retraso de camion
+ORD-2026-03426,2,2066.93,Retraso de camion
+ORD-2026-03428,3,0.0,Retraso de camion
+ORD-2026-03429,3,0.0,Retraso de camion
+ORD-2026-03430,4,0.0,Ninguno
+ORD-2026-03432,3,0.0,Ninguno
+ORD-2026-03434,2,2859.55,Retraso de camion
+ORD-2026-03436,3,0.0,Ninguno
+ORD-2026-03440,4,0.0,Ninguno
+ORD-2026-03449,5,0.0,Ninguno
+ORD-2026-03451,3,0.0,Retraso de camion
+ORD-2026-03453,2,638.3,Retraso de camion
+ORD-2026-03457,3,0.0,Retraso de camion
+ORD-2026-03458,3,0.0,Retraso de camion
+ORD-2026-03459,5,0.0,Ninguno
+ORD-2026-03460,5,0.0,Ninguno
+ORD-2026-03461,5,0.0,Ninguno
+ORD-2026-03462,2,796.24,Retraso de camion
+ORD-2026-03463,4,0.0,Retraso de camion
+ORD-2026-03464,4,0.0,Ninguno
+ORD-2026-03465,3,0.0,Ninguno
+ORD-2026-03466,4,0.0,Faltaban items
+ORD-2026-03467,4,0.0,Retraso de camion
+ORD-2026-03469,4,0.0,Ninguno
+ORD-2026-03470,4,0.0,Ninguno
+ORD-2026-03471,3,0.0,Retraso de camion
+ORD-2026-03472,4,0.0,Caja dañada
+ORD-2026-03477,4,0.0,Caja dañada
+ORD-2026-03478,3,0.0,Retraso de camion
+ORD-2026-03481,2,2171.78,Ninguno
+ORD-2026-03482,5,0.0,Ninguno
+ORD-2026-03483,2,1682.61,Retraso de camion
+ORD-2026-03485,2,2360.37,Retraso de camion
+ORD-2026-03491,3,0.0,Retraso de camion
+ORD-2026-03492,4,0.0,Ninguno
+ORD-2026-03493,5,0.0,Ninguno
+ORD-2026-03495,3,0.0,Retraso de camion
+ORD-2026-03496,4,0.0,Ninguno
+ORD-2026-03498,3,0.0,Retraso de camion
+ORD-2026-03499,4,0.0,Ninguno
+ORD-2026-03500,4,0.0,Retraso de camion
+ORD-2026-03502,3,0.0,Retraso de camion
+ORD-2026-03503,4,0.0,Ninguno
+ORD-2026-03505,5,0.0,Ninguno
 ORD-2026-03506,5,0.0,Retraso de camion
-ORD-2026-03511,4,0.0,Ninguno
-ORD-2026-03516,4,0.0,Ninguno
+ORD-2026-03508,1,1528.79,Retraso de camion
+ORD-2026-03510,3,0.0,Retraso de camion
+ORD-2026-03511,5,0.0,Ninguno
+ORD-2026-03512,4,0.0,Ninguno
+ORD-2026-03513,5,0.0,Ninguno
+ORD-2026-03515,5,0.0,Ninguno
+ORD-2026-03519,4,0.0,Retraso de camion
 ORD-2026-03521,5,0.0,Ninguno
-ORD-2026-03526,3,0.0,Ninguno
-ORD-2026-03531,3,0.0,Ninguno
-ORD-2026-03536,1,1935.0,Retraso de camion
-ORD-2026-03541,3,0.0,Ninguno
-ORD-2026-03546,5,0.0,Ninguno
-ORD-2026-03551,5,0.0,Caja dañada
+ORD-2026-03522,4,0.0,Ninguno
+ORD-2026-03524,4,0.0,Ninguno
+ORD-2026-03525,3,0.0,Ninguno
+ORD-2026-03526,4,0.0,Faltaban items
+ORD-2026-03527,3,0.0,Faltaban items
+ORD-2026-03528,3,0.0,Faltaban items
+ORD-2026-03530,4,0.0,Ninguno
+ORD-2026-03531,5,0.0,Ninguno
+ORD-2026-03533,4,0.0,Ninguno
+ORD-2026-03535,3,0.0,Ninguno
+ORD-2026-03536,4,0.0,Ninguno
+ORD-2026-03537,2,2607.17,Faltaban items
+ORD-2026-03538,2,1305.64,Retraso de camion
+ORD-2026-03539,2,976.69,Retraso de camion
+ORD-2026-03542,4,0.0,Ninguno
+ORD-2026-03543,2,2086.54,Retraso de camion
+ORD-2026-03547,5,0.0,Ninguno
+ORD-2026-03551,4,0.0,Ninguno
+ORD-2026-03552,4,0.0,Ninguno
+ORD-2026-03553,3,0.0,Ninguno
 ORD-2026-03556,5,0.0,Ninguno
-ORD-2026-03561,4,0.0,Ninguno
-ORD-2026-03566,5,0.0,Caja dañada
-ORD-2026-03571,4,0.0,Ninguno
-ORD-2026-03576,3,0.0,Ninguno
+ORD-2026-03558,5,0.0,Ninguno
+ORD-2026-03559,3,0.0,Ninguno
+ORD-2026-03560,3,0.0,Retraso de camion
+ORD-2026-03561,5,0.0,Ninguno
+ORD-2026-03563,1,1128.57,Ninguno
+ORD-2026-03564,2,2395.79,Retraso de camion
+ORD-2026-03567,2,2420.78,Faltaban items
+ORD-2026-03569,1,2101.46,Retraso de camion
+ORD-2026-03571,4,0.0,Faltaban items
+ORD-2026-03572,3,0.0,Retraso de camion
+ORD-2026-03573,5,0.0,Ninguno
+ORD-2026-03574,5,0.0,Ninguno
+ORD-2026-03577,5,0.0,Caja dañada
+ORD-2026-03578,4,0.0,Ninguno
 ORD-2026-03581,4,0.0,Ninguno
-ORD-2026-03586,3,0.0,Retraso de camion
-ORD-2026-03591,4,0.0,Ninguno
-ORD-2026-03596,5,0.0,Ninguno
-ORD-2026-03601,5,0.0,Caja dañada
-ORD-2026-03606,5,0.0,Caja dañada
-ORD-2026-03611,4,0.0,Ninguno
-ORD-2026-03616,4,0.0,Ninguno
-ORD-2026-03621,4,0.0,Ninguno
-ORD-2026-03626,5,0.0,Ninguno
-ORD-2026-03631,5,0.0,Ninguno
-ORD-2026-03636,3,0.0,Caja dañada
-ORD-2026-03641,4,0.0,Ninguno
-ORD-2026-03646,4,0.0,Ninguno
-ORD-2026-03651,5,0.0,Ninguno
-ORD-2026-03656,5,0.0,Ninguno
-ORD-2026-03661,4,0.0,Ninguno
-ORD-2026-03666,7,0.0,Retraso de camion
-ORD-2026-03671,2,1309.76,Ninguno
-ORD-2026-03676,4,0.0,Ninguno
-ORD-2026-03681,3,0.0,Caja dañada
-ORD-2026-03686,4,0.0,Ninguno
-ORD-2026-03691,3,0.0,Faltaban items
-ORD-2026-03696,5,0.0,Ninguno
-ORD-2026-03701,4,0.0,Ninguno
-ORD-2026-03706,3,0.0,Ninguno
-ORD-2026-03711,3,0.0,Faltaban items
-ORD-2026-03716,3,0.0,Ninguno
-ORD-2026-03721,5,0.0,Caja dañada
+ORD-2026-03584,3,0.0,Faltaban items
+ORD-2026-03587,2,1043.17,Ninguno
+ORD-2026-03588,4,0.0,Ninguno
+ORD-2026-03589,2,1042.66,Retraso de camion
+ORD-2026-03591,5,0.0,Ninguno
+ORD-2026-03592,5,0.0,Ninguno
+ORD-2026-03595,3,0.0,Ninguno
+ORD-2026-03597,5,0.0,Ninguno
+ORD-2026-03598,2,2747.64,Retraso de camion
+ORD-2026-03601,5,0.0,Ninguno
+ORD-2026-03603,1,970.86,Retraso de camion
+ORD-2026-03609,5,0.0,Ninguno
+ORD-2026-03610,3,0.0,Ninguno
+ORD-2026-03612,5,0.0,Ninguno
+ORD-2026-03613,5,0.0,Caja dañada
+ORD-2026-03621,5,0.0,Caja dañada
+ORD-2026-03622,4,0.0,Ninguno
+ORD-2026-03623,4,0.0,Ninguno
+ORD-2026-03624,5,0.0,Ninguno
+ORD-2026-03625,5,0.0,Ninguno
+ORD-2026-03629,5,0.0,Ninguno
+ORD-2026-03630,5,0.0,Ninguno
+ORD-2026-03631,4,0.0,Faltaban items
+ORD-2026-03639,3,0.0,Faltaban items
+ORD-2026-03641,3,0.0,Ninguno
+ORD-2026-03642,5,0.0,Ninguno
+ORD-2026-03643,1,1040.6,Retraso de camion
+ORD-2026-03647,2,1591.19,Faltaban items
+ORD-2026-03653,4,0.0,Ninguno
+ORD-2026-03655,4,0.0,Retraso de camion
+ORD-2026-03658,5,0.0,Ninguno
+ORD-2026-03661,3,0.0,Ninguno
+ORD-2026-03666,5,0.0,Ninguno
+ORD-2026-03667,2,1388.74,Retraso de camion
+ORD-2026-03668,5,0.0,Ninguno
+ORD-2026-03669,3,0.0,Retraso de camion
+ORD-2026-03674,3,0.0,Ninguno
+ORD-2026-03676,3,0.0,Retraso de camion
+ORD-2026-03679,4,0.0,Ninguno
+ORD-2026-03681,5,0.0,Caja dañada
+ORD-2026-03682,1,2668.2,Retraso de camion
+ORD-2026-03683,4,0.0,Ninguno
+ORD-2026-03684,2,2115.72,Retraso de camion
+ORD-2026-03685,5,0.0,Ninguno
+ORD-2026-03686,3,0.0,Ninguno
+ORD-2026-03689,5,0.0,Ninguno
+ORD-2026-03690,2,1771.53,Retraso de camion
+ORD-2026-03694,4,0.0,Ninguno
+ORD-2026-03696,3,0.0,Retraso de camion
+ORD-2026-03697,4,0.0,Ninguno
+ORD-2026-03698,4,0.0,Ninguno
+ORD-2026-03699,4,0.0,Ninguno
+ORD-2026-03700,5,0.0,Ninguno
+ORD-2026-03703,5,0.0,Ninguno
+ORD-2026-03707,4,0.0,Ninguno
+ORD-2026-03709,5,0.0,Ninguno
+ORD-2026-03712,4,0.0,Ninguno
+ORD-2026-03713,4,0.0,Ninguno
+ORD-2026-03718,3,0.0,Retraso de camion
+ORD-2026-03720,4,0.0,Ninguno
+ORD-2026-03721,3,0.0,Retraso de camion
+ORD-2026-03722,2,2326.79,Faltaban items
+ORD-2026-03723,4,0.0,Ninguno
 ORD-2026-03726,4,0.0,Ninguno
+ORD-2026-03727,1,987.62,Retraso de camion
 ORD-2026-03731,3,0.0,Ninguno
-ORD-2026-03736,2,2614.66,Ninguno
-ORD-2026-03741,4,0.0,Ninguno
-ORD-2026-03746,2,1622.18,Retraso de camion
-ORD-2026-03751,5,0.0,Ninguno
-ORD-2026-03756,5,0.0,Ninguno
-ORD-2026-03761,2,2427.91,Faltaban items
+ORD-2026-03732,4,0.0,Ninguno
+ORD-2026-03733,4,0.0,Retraso de camion
+ORD-2026-03734,5,0.0,Caja dañada
+ORD-2026-03735,2,674.34,Faltaban items
+ORD-2026-03738,4,0.0,Ninguno
+ORD-2026-03740,5,0.0,Ninguno
+ORD-2026-03741,5,0.0,Faltaban items
+ORD-2026-03742,5,0.0,Ninguno
+ORD-2026-03745,4,0.0,Ninguno
+ORD-2026-03746,4,0.0,Retraso de camion
+ORD-2026-03747,4,0.0,Ninguno
+ORD-2026-03749,2,1002.92,Faltaban items
+ORD-2026-03750,4,0.0,Ninguno
+ORD-2026-03751,4,0.0,Ninguno
+ORD-2026-03753,2,742.79,Retraso de camion
+ORD-2026-03756,1,1540.49,Retraso de camion
+ORD-2026-03757,3,0.0,Ninguno
+ORD-2026-03759,4,0.0,Ninguno
+ORD-2026-03761,2,2920.43,Faltaban items
+ORD-2026-03762,5,0.0,Ninguno
+ORD-2026-03765,4,0.0,Ninguno
 ORD-2026-03766,4,0.0,Ninguno
-ORD-2026-03771,4,0.0,Ninguno
-ORD-2026-03776,2,1520.02,Ninguno
-ORD-2026-03781,4,0.0,Ninguno
-ORD-2026-03786,3,0.0,Retraso de camion
-ORD-2026-03791,4,0.0,Ninguno
+ORD-2026-03768,4,0.0,Faltaban items
+ORD-2026-03770,5,0.0,Ninguno
+ORD-2026-03774,5,0.0,Ninguno
+ORD-2026-03775,2,2426.33,Retraso de camion
+ORD-2026-03777,3,0.0,Ninguno
+ORD-2026-03778,3,0.0,Ninguno
+ORD-2026-03780,4,0.0,Ninguno
+ORD-2026-03782,5,0.0,Ninguno
+ORD-2026-03783,4,0.0,Retraso de camion
+ORD-2026-03787,3,0.0,Retraso de camion
+ORD-2026-03788,3,0.0,Retraso de camion
+ORD-2026-03793,4,0.0,Ninguno
 ORD-2026-03796,5,0.0,Ninguno
-ORD-2026-03801,1,2713.03,Retraso de camion
-ORD-2026-03806,3,0.0,Ninguno
-ORD-2026-03811,4,0.0,Ninguno
-ORD-2026-03816,3,0.0,Retraso de camion
-ORD-2026-03821,5,0.0,Ninguno
-ORD-2026-03826,3,0.0,Faltaban items
-ORD-2026-03831,5,0.0,Ninguno
+ORD-2026-03802,4,0.0,Ninguno
+ORD-2026-03805,3,0.0,Retraso de camion
+ORD-2026-03807,3,0.0,Retraso de camion
+ORD-2026-03808,4,0.0,Ninguno
+ORD-2026-03809,4,0.0,Ninguno
+ORD-2026-03811,1,1254.15,Retraso de camion
+ORD-2026-03812,2,631.52,Retraso de camion
+ORD-2026-03815,1,1207.17,Retraso de camion
+ORD-2026-03817,5,0.0,Ninguno
+ORD-2026-03818,2,2590.32,Faltaban items
+ORD-2026-03820,4,0.0,Ninguno
+ORD-2026-03821,4,0.0,Retraso de camion
+ORD-2026-03822,3,0.0,Faltaban items
+ORD-2026-03823,5,0.0,Ninguno
+ORD-2026-03826,5,0.0,Ninguno
+ORD-2026-03827,5,0.0,Caja dañada
+ORD-2026-03829,4,0.0,Caja dañada
+ORD-2026-03830,2,2926.29,Retraso de camion
+ORD-2026-03831,4,0.0,Ninguno
+ORD-2026-03832,5,0.0,Ninguno
+ORD-2026-03833,5,0.0,Ninguno
+ORD-2026-03834,5,0.0,Ninguno
+ORD-2026-03835,2,693.55,Faltaban items
 ORD-2026-03836,5,0.0,Ninguno
-ORD-2026-03841,3,0.0,Retraso de camion
-ORD-2026-03846,4,0.0,Ninguno
-ORD-2026-03851,5,0.0,Ninguno
-ORD-2026-03856,4,0.0,Ninguno
-ORD-2026-03861,3,0.0,Faltaban items
+ORD-2026-03838,2,2579.76,Retraso de camion
+ORD-2026-03840,4,0.0,Ninguno
+ORD-2026-03842,5,0.0,Ninguno
+ORD-2026-03847,4,0.0,Ninguno
+ORD-2026-03849,4,0.0,Ninguno
+ORD-2026-03850,2,1826.4,Ninguno
+ORD-2026-03851,5,0.0,Caja dañada
+ORD-2026-03853,5,0.0,Ninguno
+ORD-2026-03855,5,0.0,Ninguno
+ORD-2026-03860,5,0.0,Ninguno
+ORD-2026-03864,5,0.0,Ninguno
 ORD-2026-03866,5,0.0,Ninguno
+ORD-2026-03868,3,0.0,Faltaban items
 ORD-2026-03871,4,0.0,Ninguno
-ORD-2026-03876,2,2321.65,Retraso de camion
-ORD-2026-03881,5,0.0,Ninguno
-ORD-2026-03886,5,0.0,Ninguno
-ORD-2026-03891,2,851.21,Retraso de camion
-ORD-2026-03896,4,0.0,Ninguno
-ORD-2026-03901,4,0.0,Retraso de camion
-ORD-2026-03906,5,0.0,Ninguno
-ORD-2026-03911,5,0.0,Ninguno
-ORD-2026-03916,5,0.0,Ninguno
-ORD-2026-03921,3,0.0,Caja dañada
+ORD-2026-03878,4,0.0,Ninguno
+ORD-2026-03879,2,2713.68,Retraso de camion
+ORD-2026-03881,3,0.0,Ninguno
+ORD-2026-03882,5,0.0,Ninguno
+ORD-2026-03885,3,0.0,Retraso de camion
+ORD-2026-03887,4,0.0,Ninguno
+ORD-2026-03888,5,0.0,Ninguno
+ORD-2026-03889,4,0.0,Ninguno
+ORD-2026-03890,4,0.0,Caja dañada
+ORD-2026-03892,5,0.0,Ninguno
+ORD-2026-03899,5,0.0,Ninguno
+ORD-2026-03900,4,0.0,Ninguno
+ORD-2026-03901,3,0.0,Retraso de camion
+ORD-2026-03902,4,0.0,Ninguno
+ORD-2026-03903,4,0.0,Ninguno
+ORD-2026-03905,5,0.0,Ninguno
+ORD-2026-03909,2,2167.58,Retraso de camion
+ORD-2026-03910,4,0.0,Ninguno
+ORD-2026-03912,5,0.0,Ninguno
+ORD-2026-03914,2,2912.04,Retraso de camion
+ORD-2026-03915,4,0.0,Ninguno
+ORD-2026-03916,4,0.0,Ninguno
+ORD-2026-03917,5,0.0,Ninguno
+ORD-2026-03921,2,965.29,Retraso de camion
+ORD-2026-03922,5,0.0,Ninguno
+ORD-2026-03923,3,0.0,Retraso de camion
+ORD-2026-03924,5,0.0,Ninguno
+ORD-2026-03925,5,0.0,Caja dañada
 ORD-2026-03926,5,0.0,Ninguno
-ORD-2026-03931,5,0.0,Ninguno
-ORD-2026-03936,4,0.0,Caja dañada
-ORD-2026-03941,4,0.0,Ninguno
-ORD-2026-03946,4,0.0,Ninguno
-ORD-2026-03951,4,0.0,Ninguno
-ORD-2026-03956,4,0.0,Ninguno
-ORD-2026-03961,3,0.0,Ninguno
-ORD-2026-03966,5,0.0,Ninguno
-ORD-2026-03971,5,0.0,Ninguno
-ORD-2026-03976,4,0.0,Ninguno
-ORD-2026-03981,5,0.0,Ninguno
-ORD-2026-03986,3,0.0,Ninguno
-ORD-2026-03991,4,0.0,Ninguno
-ORD-2026-03996,4,0.0,Ninguno
-ORD-2026-04001,3,0.0,Faltaban items
-ORD-2026-04006,3,0.0,Retraso de camion
-ORD-2026-04011,5,0.0,Ninguno
-ORD-2026-04016,3,0.0,Faltaban items
-ORD-2026-04021,5,0.0,Ninguno
-ORD-2026-04026,4,0.0,Ninguno
-ORD-2026-04031,3,0.0,Ninguno
-ORD-2026-04036,2,1244.91,Retraso de camion
-ORD-2026-04041,3,0.0,Retraso de camion
-ORD-2026-04046,5,0.0,Ninguno
-ORD-2026-04051,4,0.0,Caja dañada
-ORD-2026-04056,4,0.0,Ninguno
-ORD-2026-04061,4,0.0,Caja dañada
-ORD-2026-04066,4,0.0,Ninguno
+ORD-2026-03928,4,0.0,Ninguno
+ORD-2026-03929,5,0.0,Ninguno
+ORD-2026-03930,3,0.0,Ninguno
+ORD-2026-03932,4,0.0,Ninguno
+ORD-2026-03933,4,0.0,Ninguno
+ORD-2026-03934,3,0.0,Caja dañada
+ORD-2026-03937,5,0.0,Caja dañada
+ORD-2026-03938,2,1173.62,Faltaban items
+ORD-2026-03945,3,0.0,Retraso de camion
+ORD-2026-03946,5,0.0,Ninguno
+ORD-2026-03947,4,0.0,Ninguno
+ORD-2026-03948,1,2931.97,Retraso de camion
+ORD-2026-03951,4,0.0,Retraso de camion
+ORD-2026-03953,5,0.0,Caja dañada
+ORD-2026-03955,4,0.0,Ninguno
+ORD-2026-03957,4,0.0,Retraso de camion
+ORD-2026-03960,3,0.0,Ninguno
+ORD-2026-03961,5,0.0,Ninguno
+ORD-2026-03965,2,730.85,Retraso de camion
+ORD-2026-03967,4,0.0,Ninguno
+ORD-2026-03968,5,0.0,Ninguno
+ORD-2026-03970,4,0.0,Ninguno
+ORD-2026-03972,4,0.0,Retraso de camion
+ORD-2026-03974,3,0.0,Faltaban items
+ORD-2026-03975,5,0.0,Ninguno
+ORD-2026-03977,5,0.0,Ninguno
+ORD-2026-03979,3,0.0,Retraso de camion
+ORD-2026-03980,4,0.0,Retraso de camion
+ORD-2026-03982,3,0.0,Retraso de camion
+ORD-2026-03984,3,0.0,Retraso de camion
+ORD-2026-03986,4,0.0,Ninguno
+ORD-2026-03988,2,2927.35,Faltaban items
+ORD-2026-03989,4,0.0,Ninguno
+ORD-2026-03993,4,0.0,Ninguno
+ORD-2026-03996,2,2362.96,Retraso de camion
+ORD-2026-03997,5,0.0,Ninguno
+ORD-2026-03999,5,0.0,Ninguno
+ORD-2026-04003,4,0.0,Ninguno
+ORD-2026-04004,4,0.0,Ninguno
+ORD-2026-04005,3,0.0,Ninguno
+ORD-2026-04007,2,755.51,Retraso de camion
+ORD-2026-04008,3,0.0,Ninguno
+ORD-2026-04009,4,0.0,Ninguno
+ORD-2026-04010,3,0.0,Ninguno
+ORD-2026-04011,2,1296.72,Faltaban items
+ORD-2026-04012,4,0.0,Ninguno
+ORD-2026-04013,3,0.0,Retraso de camion
+ORD-2026-04016,4,0.0,Ninguno
+ORD-2026-04020,5,0.0,Ninguno
+ORD-2026-04021,3,0.0,Retraso de camion
+ORD-2026-04022,1,1632.15,Retraso de camion
+ORD-2026-04023,4,0.0,Ninguno
+ORD-2026-04024,3,0.0,Retraso de camion
+ORD-2026-04025,4,0.0,Ninguno
+ORD-2026-04029,5,0.0,Ninguno
+ORD-2026-04030,2,2777.52,Retraso de camion
+ORD-2026-04031,4,0.0,Faltaban items
+ORD-2026-04032,4,0.0,Ninguno
+ORD-2026-04033,3,0.0,Retraso de camion
+ORD-2026-04034,4,0.0,Ninguno
+ORD-2026-04039,5,0.0,Ninguno
+ORD-2026-04040,5,0.0,Ninguno
+ORD-2026-04041,4,0.0,Ninguno
+ORD-2026-04042,4,0.0,Ninguno
+ORD-2026-04043,5,0.0,Ninguno
+ORD-2026-04044,4,0.0,Ninguno
+ORD-2026-04046,4,0.0,Ninguno
+ORD-2026-04047,5,0.0,Ninguno
+ORD-2026-04049,1,852.17,Faltaban items
+ORD-2026-04050,5,0.0,Faltaban items
+ORD-2026-04051,5,0.0,Ninguno
+ORD-2026-04055,4,0.0,Ninguno
+ORD-2026-04057,4,0.0,Retraso de camion
+ORD-2026-04059,4,0.0,Ninguno
+ORD-2026-04060,5,0.0,Ninguno
 ORD-2026-04071,3,0.0,Ninguno
-ORD-2026-04076,3,0.0,Retraso de camion
-ORD-2026-04081,5,0.0,Ninguno
-ORD-2026-04086,2,2407.45,Ninguno
-ORD-2026-04091,5,0.0,Ninguno
-ORD-2026-04096,5,0.0,Caja dañada
+ORD-2026-04072,4,0.0,Ninguno
+ORD-2026-04073,2,2981.43,Retraso de camion
+ORD-2026-04074,4,0.0,Ninguno
+ORD-2026-04075,5,0.0,Ninguno
+ORD-2026-04077,4,0.0,Ninguno
+ORD-2026-04079,4,0.0,Ninguno
+ORD-2026-04082,4,0.0,Retraso de camion
+ORD-2026-04083,4,0.0,Retraso de camion
+ORD-2026-04084,5,0.0,Ninguno
+ORD-2026-04087,3,0.0,Ninguno
+ORD-2026-04088,3,0.0,Retraso de camion
+ORD-2026-04093,4,0.0,Retraso de camion
+ORD-2026-04095,3,0.0,Faltaban items
+ORD-2026-04098,3,0.0,Retraso de camion
 ORD-2026-04101,5,0.0,Ninguno
-ORD-2026-04106,4,0.0,Ninguno
-ORD-2026-04111,3,0.0,Retraso de camion
-ORD-2026-04116,4,0.0,Ninguno
-ORD-2026-04121,5,0.0,Ninguno
-ORD-2026-04126,2,848.42,Retraso de camion
-ORD-2026-04131,5,0.0,Caja dañada
-ORD-2026-04136,3,0.0,Retraso de camion
-ORD-2026-04141,5,0.0,Ninguno
-ORD-2026-04146,3,0.0,Ninguno
-ORD-2026-04151,3,0.0,Ninguno
-ORD-2026-04156,5,0.0,Ninguno
-ORD-2026-04161,2,1017.38,Faltaban items
-ORD-2026-04166,1,1450.45,Retraso de camion
-ORD-2026-04171,2,1524.84,Faltaban items
-ORD-2026-04176,4,0.0,Ninguno
-ORD-2026-04181,3,0.0,Retraso de camion
+ORD-2026-04103,5,0.0,Ninguno
+ORD-2026-04106,3,0.0,Retraso de camion
+ORD-2026-04108,4,0.0,Ninguno
+ORD-2026-04109,3,0.0,Faltaban items
+ORD-2026-04110,3,0.0,Ninguno
+ORD-2026-04111,3,0.0,Ninguno
+ORD-2026-04116,5,0.0,Ninguno
+ORD-2026-04118,4,0.0,Ninguno
+ORD-2026-04120,4,0.0,Ninguno
+ORD-2026-04122,3,0.0,Ninguno
+ORD-2026-04123,1,1966.36,Ninguno
+ORD-2026-04126,4,0.0,Ninguno
+ORD-2026-04127,4,0.0,Ninguno
+ORD-2026-04132,2,1285.85,Ninguno
+ORD-2026-04137,5,0.0,Ninguno
+ORD-2026-04141,4,0.0,Faltaban items
+ORD-2026-04142,4,0.0,Ninguno
+ORD-2026-04143,3,0.0,Retraso de camion
+ORD-2026-04145,5,0.0,Ninguno
+ORD-2026-04146,4,0.0,Ninguno
+ORD-2026-04148,5,0.0,Ninguno
+ORD-2026-04149,4,0.0,Ninguno
+ORD-2026-04152,5,0.0,Ninguno
+ORD-2026-04154,5,0.0,Ninguno
+ORD-2026-04155,3,0.0,Ninguno
+ORD-2026-04157,5,0.0,Caja dañada
+ORD-2026-04160,3,0.0,Ninguno
+ORD-2026-04165,5,0.0,Ninguno
+ORD-2026-04168,5,0.0,Ninguno
+ORD-2026-04170,4,0.0,Faltaban items
+ORD-2026-04173,1,1134.13,Retraso de camion
+ORD-2026-04174,3,0.0,Retraso de camion
+ORD-2026-04180,5,0.0,Ninguno
+ORD-2026-04181,2,849.21,Retraso de camion
+ORD-2026-04182,5,0.0,Ninguno
+ORD-2026-04184,3,0.0,Ninguno
+ORD-2026-04185,4,0.0,Ninguno
 ORD-2026-04186,4,0.0,Ninguno
-ORD-2026-04191,5,0.0,Ninguno
-ORD-2026-04196,3,0.0,Ninguno
-ORD-2026-04201,5,0.0,Ninguno
-ORD-2026-04206,5,0.0,Ninguno
-ORD-2026-04211,3,0.0,Retraso de camion
-ORD-2026-04216,5,0.0,Ninguno
-ORD-2026-04221,4,0.0,Retraso de camion
+ORD-2026-04187,2,802.84,Ninguno
+ORD-2026-04189,5,0.0,Ninguno
+ORD-2026-04191,4,0.0,Ninguno
+ORD-2026-04193,4,0.0,Ninguno
+ORD-2026-04194,3,0.0,Ninguno
+ORD-2026-04195,5,0.0,Ninguno
+ORD-2026-04196,1,2110.89,Retraso de camion
+ORD-2026-04198,5,0.0,Ninguno
+ORD-2026-04201,3,0.0,Faltaban items
+ORD-2026-04202,2,759.82,Retraso de camion
+ORD-2026-04209,3,0.0,Ninguno
+ORD-2026-04210,5,0.0,Ninguno
+ORD-2026-04214,5,0.0,Ninguno
+ORD-2026-04217,5,0.0,Ninguno
+ORD-2026-04220,3,0.0,Faltaban items
+ORD-2026-04221,3,0.0,Ninguno
+ORD-2026-04225,4,0.0,Ninguno
 ORD-2026-04226,3,0.0,Retraso de camion
-ORD-2026-04231,4,0.0,Retraso de camion
-ORD-2026-04236,5,0.0,Ninguno
-ORD-2026-04241,4,0.0,Ninguno
-ORD-2026-04246,5,0.0,Ninguno
-ORD-2026-04251,2,1997.58,Retraso de camion
+ORD-2026-04227,3,0.0,Faltaban items
+ORD-2026-04229,4,0.0,Ninguno
+ORD-2026-04234,4,0.0,Caja dañada
+ORD-2026-04235,2,1002.91,Retraso de camion
+ORD-2026-04237,5,0.0,Ninguno
+ORD-2026-04242,3,0.0,Ninguno
+ORD-2026-04243,3,0.0,Ninguno
+ORD-2026-04245,4,0.0,Retraso de camion
+ORD-2026-04247,3,0.0,Retraso de camion
+ORD-2026-04250,2,2943.17,Faltaban items
+ORD-2026-04253,4,0.0,Faltaban items
 ORD-2026-04256,4,0.0,Ninguno
-ORD-2026-04261,4,0.0,Ninguno
-ORD-2026-04266,3,0.0,Ninguno
-ORD-2026-04271,3,0.0,Ninguno
+ORD-2026-04259,5,0.0,Ninguno
+ORD-2026-04262,4,0.0,Ninguno
+ORD-2026-04263,3,0.0,Ninguno
+ORD-2026-04264,2,2584.73,Retraso de camion
+ORD-2026-04265,3,0.0,Retraso de camion
+ORD-2026-04266,2,2101.39,Retraso de camion
+ORD-2026-04267,3,0.0,Faltaban items
+ORD-2026-04270,3,0.0,Ninguno
+ORD-2026-04273,4,0.0,Ninguno
+ORD-2026-04274,4,0.0,Ninguno
 ORD-2026-04276,5,0.0,Ninguno
-ORD-2026-04281,3,0.0,Retraso de camion
-ORD-2026-04286,4,0.0,Ninguno
-ORD-2026-04291,2,1787.03,Faltaban items
+ORD-2026-04277,2,1886.63,Faltaban items
+ORD-2026-04285,2,1004.99,Retraso de camion
+ORD-2026-04287,5,0.0,Ninguno
+ORD-2026-04288,5,0.0,Ninguno
+ORD-2026-04291,2,1140.16,Retraso de camion
+ORD-2026-04292,5,0.0,Ninguno
+ORD-2026-04295,2,1278.85,Retraso de camion
 ORD-2026-04296,4,0.0,Ninguno
-ORD-2026-04301,5,0.0,Ninguno
-ORD-2026-04306,4,0.0,Ninguno
-ORD-2026-04311,5,0.0,Ninguno
-ORD-2026-04316,5,0.0,Ninguno
+ORD-2026-04298,2,2724.75,Retraso de camion
+ORD-2026-04299,3,0.0,Ninguno
+ORD-2026-04306,5,0.0,Ninguno
+ORD-2026-04309,4,0.0,Ninguno
+ORD-2026-04310,5,0.0,Ninguno
+ORD-2026-04313,3,0.0,Ninguno
+ORD-2026-04314,5,0.0,Ninguno
+ORD-2026-04316,2,1322.67,Faltaban items
+ORD-2026-04317,3,0.0,Retraso de camion
+ORD-2026-04320,5,0.0,Ninguno
 ORD-2026-04321,4,0.0,Ninguno
-ORD-2026-04326,5,0.0,Ninguno
-ORD-2026-04331,5,0.0,Ninguno
-ORD-2026-04336,3,0.0,Ninguno
-ORD-2026-04341,4,0.0,Ninguno
+ORD-2026-04324,4,0.0,Ninguno
+ORD-2026-04331,3,0.0,Retraso de camion
+ORD-2026-04332,2,594.76,Faltaban items
+ORD-2026-04333,4,0.0,Ninguno
+ORD-2026-04334,2,2713.0,Retraso de camion
+ORD-2026-04335,4,0.0,Ninguno
+ORD-2026-04336,2,1515.79,Faltaban items
+ORD-2026-04337,2,2334.7,Retraso de camion
+ORD-2026-04338,4,0.0,Ninguno
+ORD-2026-04343,3,0.0,Faltaban items
 ORD-2026-04346,5,0.0,Ninguno
-ORD-2026-04351,4,0.0,Ninguno
-ORD-2026-04356,4,0.0,Ninguno
-ORD-2026-04361,3,0.0,Retraso de camion
-ORD-2026-04366,5,0.0,Ninguno
-ORD-2026-04371,5,0.0,Ninguno
-ORD-2026-04376,4,0.0,Ninguno
+ORD-2026-04347,4,0.0,Ninguno
+ORD-2026-04348,4,0.0,Ninguno
+ORD-2026-04358,1,1012.08,Retraso de camion
+ORD-2026-04359,5,0.0,Ninguno
+ORD-2026-04360,2,715.93,Retraso de camion
+ORD-2026-04363,5,0.0,Ninguno
+ORD-2026-04365,3,0.0,Ninguno
+ORD-2026-04366,2,2042.82,Faltaban items
+ORD-2026-04367,5,0.0,Ninguno
+ORD-2026-04369,3,0.0,Retraso de camion
+ORD-2026-04370,4,0.0,Ninguno
+ORD-2026-04372,5,0.0,Ninguno
+ORD-2026-04374,1,2583.09,Faltaban items
+ORD-2026-04375,3,0.0,Faltaban items
+ORD-2026-04377,5,0.0,Ninguno
+ORD-2026-04380,5,0.0,Ninguno
 ORD-2026-04381,4,0.0,Ninguno
-ORD-2026-04386,5,0.0,Ninguno
-ORD-2026-04391,4,0.0,Ninguno
-ORD-2026-04396,3,0.0,Ninguno
-ORD-2026-04401,2,817.17,Retraso de camion
-ORD-2026-04406,3,0.0,Retraso de camion
-ORD-2026-04411,4,0.0,Ninguno
-ORD-2026-04416,1,1099.83,Retraso de camion
-ORD-2026-04421,5,0.0,Ninguno
-ORD-2026-04426,4,0.0,Ninguno
-ORD-2026-04431,3,0.0,Retraso de camion
-ORD-2026-04436,5,0.0,Ninguno
-ORD-2026-04441,3,0.0,Faltaban items
-ORD-2026-04446,4,0.0,Ninguno
-ORD-2026-04451,3,0.0,Retraso de camion
+ORD-2026-04383,3,0.0,Ninguno
+ORD-2026-04384,5,0.0,Ninguno
+ORD-2026-04385,4,0.0,Ninguno
+ORD-2026-04387,5,0.0,Ninguno
+ORD-2026-04388,2,1673.01,Retraso de camion
+ORD-2026-04390,3,0.0,Ninguno
+ORD-2026-04391,4,0.0,Retraso de camion
+ORD-2026-04394,5,0.0,Ninguno
+ORD-2026-04395,4,0.0,Ninguno
+ORD-2026-04396,5,0.0,Ninguno
+ORD-2026-04398,5,0.0,Ninguno
+ORD-2026-04400,2,758.26,Faltaban items
+ORD-2026-04403,1,1506.92,Retraso de camion
+ORD-2026-04405,2,852.4,Retraso de camion
+ORD-2026-04407,1,2097.56,Ninguno
+ORD-2026-04411,5,0.0,Ninguno
+ORD-2026-04413,5,0.0,Caja dañada
+ORD-2026-04416,5,0.0,Ninguno
+ORD-2026-04417,2,1389.04,Retraso de camion
+ORD-2026-04418,5,0.0,Ninguno
+ORD-2026-04420,5,0.0,Ninguno
+ORD-2026-04424,4,0.0,Ninguno
+ORD-2026-04425,5,0.0,Caja dañada
+ORD-2026-04427,4,0.0,Ninguno
+ORD-2026-04428,4,0.0,Ninguno
+ORD-2026-04433,5,0.0,Ninguno
+ORD-2026-04435,5,0.0,Ninguno
+ORD-2026-04437,2,681.59,Retraso de camion
+ORD-2026-04438,3,0.0,Retraso de camion
+ORD-2026-04440,5,0.0,Ninguno
+ORD-2026-04441,2,842.89,Retraso de camion
+ORD-2026-04443,3,0.0,Faltaban items
+ORD-2026-04444,2,1693.23,Faltaban items
+ORD-2026-04446,2,2371.93,Retraso de camion
+ORD-2026-04447,4,0.0,Ninguno
+ORD-2026-04448,5,0.0,Ninguno
+ORD-2026-04449,5,0.0,Ninguno
+ORD-2026-04452,2,1191.71,Retraso de camion
+ORD-2026-04455,3,0.0,Faltaban items
 ORD-2026-04456,4,0.0,Ninguno
-ORD-2026-04461,2,2463.52,Faltaban items
-ORD-2026-04466,4,0.0,Ninguno
-ORD-2026-04471,4,0.0,Ninguno
-ORD-2026-04476,2,1289.67,Retraso de camion
-ORD-2026-04481,5,0.0,Ninguno
-ORD-2026-04486,3,0.0,Ninguno
-ORD-2026-04491,5,0.0,Ninguno
-ORD-2026-04496,5,0.0,Ninguno
-ORD-2026-04501,4,0.0,Ninguno
-ORD-2026-04506,5,0.0,Ninguno
+ORD-2026-04458,3,0.0,Retraso de camion
+ORD-2026-04459,3,0.0,Faltaban items
+ORD-2026-04461,5,0.0,Ninguno
+ORD-2026-04464,4,0.0,Retraso de camion
+ORD-2026-04466,1,1344.14,Faltaban items
+ORD-2026-04467,2,1262.72,Retraso de camion
+ORD-2026-04468,3,0.0,Faltaban items
+ORD-2026-04471,5,0.0,Ninguno
+ORD-2026-04473,4,0.0,Ninguno
+ORD-2026-04478,3,0.0,Retraso de camion
+ORD-2026-04479,3,0.0,Ninguno
+ORD-2026-04481,4,0.0,Retraso de camion
+ORD-2026-04482,1,518.41,Faltaban items
+ORD-2026-04484,2,1897.06,Ninguno
+ORD-2026-04485,3,0.0,Retraso de camion
+ORD-2026-04486,5,0.0,Ninguno
+ORD-2026-04487,4,0.0,Ninguno
+ORD-2026-04493,5,0.0,Ninguno
+ORD-2026-04494,3,0.0,Retraso de camion
+ORD-2026-04495,5,0.0,Ninguno
+ORD-2026-04496,4,0.0,Ninguno
+ORD-2026-04497,5,0.0,Ninguno
+ORD-2026-04498,5,0.0,Ninguno
+ORD-2026-04499,5,0.0,Ninguno
+ORD-2026-04503,5,0.0,Ninguno
+ORD-2026-04509,1,783.25,Retraso de camion
 ORD-2026-04511,4,0.0,Ninguno
-ORD-2026-04516,4,0.0,Ninguno
-ORD-2026-04521,4,0.0,Ninguno
-ORD-2026-04526,2,2521.87,Retraso de camion
-ORD-2026-04531,5,0.0,Ninguno
-ORD-2026-04536,4,0.0,Ninguno
-ORD-2026-04541,3,0.0,Retraso de camion
-ORD-2026-04546,5,0.0,Ninguno
-ORD-2026-04551,3,0.0,Ninguno
-ORD-2026-04556,2,1310.16,Retraso de camion
-ORD-2026-04561,5,0.0,Ninguno
-ORD-2026-04566,4,0.0,Ninguno
-ORD-2026-04571,3,0.0,Ninguno
+ORD-2026-04512,4,0.0,Ninguno
+ORD-2026-04513,4,0.0,Ninguno
+ORD-2026-04515,5,0.0,Ninguno
+ORD-2026-04516,3,0.0,Retraso de camion
+ORD-2026-04518,3,0.0,Ninguno
+ORD-2026-04520,4,0.0,Ninguno
+ORD-2026-04521,5,0.0,Ninguno
+ORD-2026-04524,4,0.0,Ninguno
+ORD-2026-04528,3,0.0,Ninguno
+ORD-2026-04531,3,0.0,Retraso de camion
+ORD-2026-04534,3,0.0,Ninguno
+ORD-2026-04536,5,0.0,Ninguno
+ORD-2026-04538,3,0.0,Faltaban items
+ORD-2026-04540,4,0.0,Ninguno
+ORD-2026-04542,4,0.0,Ninguno
+ORD-2026-04543,5,0.0,Ninguno
+ORD-2026-04546,4,0.0,Ninguno
+ORD-2026-04547,3,0.0,Faltaban items
+ORD-2026-04548,2,2107.32,Retraso de camion
+ORD-2026-04549,5,0.0,Ninguno
+ORD-2026-04550,1,1525.47,Retraso de camion
+ORD-2026-04551,4,0.0,Ninguno
+ORD-2026-04552,5,0.0,Ninguno
+ORD-2026-04553,4,0.0,Ninguno
+ORD-2026-04555,2,2538.51,Retraso de camion
+ORD-2026-04557,3,0.0,Retraso de camion
+ORD-2026-04558,5,0.0,Ninguno
+ORD-2026-04559,5,0.0,Caja dañada
+ORD-2026-04565,3,0.0,Retraso de camion
+ORD-2026-04569,2,1131.98,Retraso de camion
+ORD-2026-04571,5,0.0,Caja dañada
+ORD-2026-04573,4,0.0,Ninguno
+ORD-2026-04575,5,0.0,Ninguno
 ORD-2026-04576,4,0.0,Ninguno
-ORD-2026-04581,3,0.0,Retraso de camion
-ORD-2026-04586,2,1788.27,Faltaban items
-ORD-2026-04591,4,0.0,Ninguno
-ORD-2026-04596,5,0.0,Ninguno
-ORD-2026-04601,4,0.0,Ninguno
-ORD-2026-04606,4,0.0,Ninguno
-ORD-2026-04611,4,0.0,Ninguno
-ORD-2026-04616,5,0.0,Ninguno
-ORD-2026-04621,5,0.0,Ninguno
-ORD-2026-04626,2,1186.06,Retraso de camion
-ORD-2026-04631,3,0.0,Ninguno
-ORD-2026-04636,5,0.0,Ninguno
-ORD-2026-04641,4,0.0,Ninguno
-ORD-2026-04646,4,0.0,Retraso de camion
-ORD-2026-04651,5,0.0,Ninguno
-ORD-2026-04656,5,0.0,Ninguno
-ORD-2026-04661,5,0.0,Ninguno
-ORD-2026-04666,5,0.0,Ninguno
-ORD-2026-04671,4,0.0,Ninguno
-ORD-2026-04676,5,0.0,Ninguno
-ORD-2026-04681,4,0.0,Ninguno
-ORD-2026-04686,3,0.0,Ninguno
-ORD-2026-04691,4,0.0,Ninguno
-ORD-2026-04696,4,0.0,Caja dañada
-ORD-2026-04701,4,0.0,Ninguno
-ORD-2026-04706,5,0.0,Ninguno
-ORD-2026-04711,5,0.0,Ninguno
-ORD-2026-04716,4,0.0,Caja dañada
-ORD-2026-04721,4,0.0,Ninguno
-ORD-2026-04726,4,0.0,Caja dañada
-ORD-2026-04731,4,0.0,Ninguno
-ORD-2026-04736,5,0.0,Ninguno
-ORD-2026-04741,4,0.0,Retraso de camion
-ORD-2026-04746,2,901.89,Retraso de camion
-ORD-2026-04751,5,0.0,Ninguno
-ORD-2026-04756,4,0.0,Ninguno
-ORD-2026-04761,3,0.0,Faltaban items
-ORD-2026-04766,3,0.0,Ninguno
-ORD-2026-04771,5,0.0,Ninguno
+ORD-2026-04577,1,785.01,Retraso de camion
+ORD-2026-04578,3,0.0,Ninguno
+ORD-2026-04579,3,0.0,Ninguno
+ORD-2026-04587,3,0.0,Faltaban items
+ORD-2026-04588,4,0.0,Ninguno
+ORD-2026-04589,3,0.0,Faltaban items
+ORD-2026-04595,5,0.0,Ninguno
+ORD-2026-04597,4,0.0,Caja dañada
+ORD-2026-04599,4,0.0,Ninguno
+ORD-2026-04602,5,0.0,Ninguno
+ORD-2026-04604,5,0.0,Ninguno
+ORD-2026-04605,3,0.0,Faltaban items
+ORD-2026-04607,3,0.0,Ninguno
+ORD-2026-04608,3,0.0,Ninguno
+ORD-2026-04609,3,0.0,Caja dañada
+ORD-2026-04612,1,1655.66,Retraso de camion
+ORD-2026-04613,1,735.14,Retraso de camion
+ORD-2026-04619,3,0.0,Retraso de camion
+ORD-2026-04620,5,0.0,Ninguno
+ORD-2026-04622,5,0.0,Caja dañada
+ORD-2026-04624,1,1285.27,Retraso de camion
+ORD-2026-04626,2,1642.54,Retraso de camion
+ORD-2026-04632,1,1167.82,Faltaban items
+ORD-2026-04633,4,0.0,Ninguno
+ORD-2026-04635,5,0.0,Ninguno
+ORD-2026-04638,4,0.0,Ninguno
+ORD-2026-04639,5,0.0,Caja dañada
+ORD-2026-04640,3,0.0,Ninguno
+ORD-2026-04646,4,0.0,Ninguno
+ORD-2026-04648,2,2426.02,Retraso de camion
+ORD-2026-04649,3,0.0,Ninguno
+ORD-2026-04651,4,0.0,Ninguno
+ORD-2026-04652,3,0.0,Retraso de camion
+ORD-2026-04654,4,0.0,Retraso de camion
+ORD-2026-04655,4,0.0,Ninguno
+ORD-2026-04656,4,0.0,Ninguno
+ORD-2026-04662,3,0.0,Ninguno
+ORD-2026-04663,3,0.0,Faltaban items
+ORD-2026-04667,4,0.0,Ninguno
+ORD-2026-04668,3,0.0,Retraso de camion
+ORD-2026-04671,3,0.0,Retraso de camion
+ORD-2026-04672,4,0.0,Ninguno
+ORD-2026-04673,2,1087.77,Faltaban items
+ORD-2026-04674,5,0.0,Ninguno
+ORD-2026-04675,4,0.0,Ninguno
+ORD-2026-04676,3,0.0,Retraso de camion
+ORD-2026-04677,2,1618.95,Retraso de camion
+ORD-2026-04679,4,0.0,Ninguno
+ORD-2026-04680,2,1508.65,Retraso de camion
+ORD-2026-04683,5,0.0,Ninguno
+ORD-2026-04685,2,1024.35,Retraso de camion
+ORD-2026-04687,5,0.0,Caja dañada
+ORD-2026-04693,4,0.0,Ninguno
+ORD-2026-04695,3,0.0,Caja dañada
+ORD-2026-04698,5,0.0,Ninguno
+ORD-2026-04699,3,0.0,Ninguno
+ORD-2026-04700,2,2420.78,Faltaban items
+ORD-2026-04701,3,0.0,Retraso de camion
+ORD-2026-04706,3,0.0,Ninguno
+ORD-2026-04707,3,0.0,Retraso de camion
+ORD-2026-04709,2,990.78,Retraso de camion
+ORD-2026-04710,5,0.0,Caja dañada
+ORD-2026-04713,4,0.0,Faltaban items
+ORD-2026-04714,2,2229.52,Retraso de camion
+ORD-2026-04719,4,0.0,Ninguno
+ORD-2026-04721,3,0.0,Retraso de camion
+ORD-2026-04723,3,0.0,Retraso de camion
+ORD-2026-04727,5,0.0,Ninguno
+ORD-2026-04730,5,0.0,Ninguno
+ORD-2026-04731,3,0.0,Retraso de camion
+ORD-2026-04736,3,0.0,Retraso de camion
+ORD-2026-04740,3,0.0,Ninguno
+ORD-2026-04741,2,2296.15,Retraso de camion
+ORD-2026-04743,5,0.0,Ninguno
+ORD-2026-04745,4,0.0,Ninguno
+ORD-2026-04747,5,0.0,Ninguno
+ORD-2026-04748,5,0.0,Ninguno
+ORD-2026-04749,4,0.0,Retraso de camion
+ORD-2026-04752,2,2293.74,Retraso de camion
+ORD-2026-04753,5,0.0,Ninguno
+ORD-2026-04754,3,0.0,Ninguno
+ORD-2026-04756,3,0.0,Ninguno
+ORD-2026-04757,2,620.12,Retraso de camion
+ORD-2026-04758,4,0.0,Retraso de camion
+ORD-2026-04759,5,0.0,Retraso de camion
+ORD-2026-04761,2,1383.01,Retraso de camion
+ORD-2026-04762,2,1494.38,Retraso de camion
+ORD-2026-04763,4,0.0,Ninguno
+ORD-2026-04764,2,2778.06,Faltaban items
+ORD-2026-04770,4,0.0,Faltaban items
+ORD-2026-04771,4,0.0,Ninguno
 ORD-2026-04776,5,0.0,Ninguno
-ORD-2026-04781,5,0.0,Ninguno
-ORD-2026-04786,4,0.0,Ninguno
-ORD-2026-04791,5,0.0,Ninguno
-ORD-2026-04796,3,0.0,Retraso de camion
-ORD-2026-04801,5,0.0,Ninguno
-ORD-2026-04806,5,0.0,Ninguno
-ORD-2026-04811,4,0.0,Ninguno
-ORD-2026-04816,4,0.0,Ninguno
+ORD-2026-04777,4,0.0,Ninguno
+ORD-2026-04778,2,1704.93,Retraso de camion
+ORD-2026-04779,5,0.0,Ninguno
+ORD-2026-04780,4,0.0,Ninguno
+ORD-2026-04782,3,0.0,Ninguno
+ORD-2026-04784,2,2071.87,Retraso de camion
+ORD-2026-04785,5,0.0,Ninguno
+ORD-2026-04789,5,0.0,Ninguno
+ORD-2026-04790,3,0.0,Retraso de camion
+ORD-2026-04793,5,0.0,Ninguno
+ORD-2026-04794,5,0.0,Ninguno
+ORD-2026-04795,3,0.0,Retraso de camion
+ORD-2026-04796,1,934.54,Retraso de camion
+ORD-2026-04797,5,0.0,Ninguno
+ORD-2026-04801,5,0.0,Caja dañada
+ORD-2026-04802,4,0.0,Ninguno
+ORD-2026-04804,5,0.0,Ninguno
+ORD-2026-04805,5,0.0,Ninguno
+ORD-2026-04806,4,0.0,Ninguno
+ORD-2026-04812,3,0.0,Retraso de camion
+ORD-2026-04815,3,0.0,Faltaban items
+ORD-2026-04816,1,738.39,Retraso de camion
+ORD-2026-04818,5,0.0,Ninguno
+ORD-2026-04819,3,0.0,Ninguno
+ORD-2026-04820,4,0.0,Ninguno
 ORD-2026-04821,5,0.0,Ninguno
-ORD-2026-04826,4,0.0,Ninguno
-ORD-2026-04831,4,0.0,Ninguno
-ORD-2026-04836,4,0.0,Caja dañada
-ORD-2026-04841,5,0.0,Ninguno
-ORD-2026-04846,4,0.0,Ninguno
-ORD-2026-04851,2,1040.16,Faltaban items
+ORD-2026-04822,5,0.0,Ninguno
+ORD-2026-04825,3,0.0,Retraso de camion
+ORD-2026-04827,2,1501.6,Faltaban items
+ORD-2026-04828,2,730.81,Retraso de camion
+ORD-2026-04830,5,0.0,Ninguno
+ORD-2026-04831,3,0.0,Retraso de camion
+ORD-2026-04833,4,0.0,Faltaban items
+ORD-2026-04834,2,2152.05,Retraso de camion
+ORD-2026-04835,5,0.0,Ninguno
+ORD-2026-04836,3,0.0,Ninguno
+ORD-2026-04840,5,0.0,Caja dañada
+ORD-2026-04841,4,0.0,Ninguno
+ORD-2026-04843,4,0.0,Ninguno
+ORD-2026-04848,4,0.0,Ninguno
+ORD-2026-04853,5,0.0,Ninguno
+ORD-2026-04855,5,0.0,Ninguno
 ORD-2026-04856,5,0.0,Ninguno
-ORD-2026-04861,3,0.0,Ninguno
+ORD-2026-04858,5,0.0,Ninguno
+ORD-2026-04861,3,0.0,Faltaban items
+ORD-2026-04863,3,0.0,Ninguno
+ORD-2026-04864,5,0.0,Ninguno
 ORD-2026-04866,4,0.0,Ninguno
-ORD-2026-04871,5,0.0,Ninguno
-ORD-2026-04876,3,0.0,Ninguno
-ORD-2026-04881,5,0.0,Ninguno
-ORD-2026-04886,4,0.0,Ninguno
-ORD-2026-04891,5,0.0,Ninguno
-ORD-2026-04896,4,0.0,Retraso de camion
-ORD-2026-04901,5,0.0,Ninguno
-ORD-2026-04906,3,0.0,Ninguno
-ORD-2026-04911,4,0.0,Ninguno
-ORD-2026-04916,4,0.0,Ninguno
-ORD-2026-04921,5,0.0,Ninguno
-ORD-2026-04926,5,0.0,Ninguno
-ORD-2026-04931,4,0.0,Ninguno
-ORD-2026-04936,4,0.0,Ninguno
-ORD-2026-04941,5,0.0,Ninguno
-ORD-2026-04946,5,0.0,Ninguno
-ORD-2026-04951,2,2394.88,Retraso de camion
-ORD-2026-04956,4,0.0,Retraso de camion
+ORD-2026-04868,3,0.0,Retraso de camion
+ORD-2026-04869,3,0.0,Ninguno
+ORD-2026-04871,4,0.0,Retraso de camion
+ORD-2026-04873,5,0.0,Caja dañada
+ORD-2026-04874,5,0.0,Ninguno
+ORD-2026-04875,4,0.0,Retraso de camion
+ORD-2026-04876,2,1386.23,Retraso de camion
+ORD-2026-04885,3,0.0,Ninguno
+ORD-2026-04886,5,0.0,Ninguno
+ORD-2026-04888,5,0.0,Ninguno
+ORD-2026-04889,3,0.0,Faltaban items
+ORD-2026-04891,3,0.0,Ninguno
+ORD-2026-04894,4,0.0,Ninguno
+ORD-2026-04895,7,0.0,Retraso de camion
+ORD-2026-04897,4,0.0,Faltaban items
+ORD-2026-04899,1,1598.04,Faltaban items
+ORD-2026-04905,5,0.0,Ninguno
+ORD-2026-04907,5,0.0,Ninguno
+ORD-2026-04908,5,0.0,Caja dañada
+ORD-2026-04911,3,0.0,Ninguno
+ORD-2026-04912,4,0.0,Ninguno
+ORD-2026-04913,5,0.0,Ninguno
+ORD-2026-04914,5,0.0,Ninguno
+ORD-2026-04915,1,2970.41,Retraso de camion
+ORD-2026-04917,4,0.0,Ninguno
+ORD-2026-04918,2,1200.79,Retraso de camion
+ORD-2026-04919,4,0.0,Ninguno
+ORD-2026-04920,5,0.0,Ninguno
+ORD-2026-04922,5,0.0,Ninguno
+ORD-2026-04926,3,0.0,Retraso de camion
+ORD-2026-04927,5,0.0,Ninguno
+ORD-2026-04929,2,2494.29,Faltaban items
+ORD-2026-04930,5,0.0,Ninguno
+ORD-2026-04932,4,0.0,Retraso de camion
+ORD-2026-04934,5,0.0,Ninguno
+ORD-2026-04938,3,0.0,Faltaban items
+ORD-2026-04940,4,0.0,Ninguno
+ORD-2026-04942,4,0.0,Ninguno
+ORD-2026-04944,4,0.0,Ninguno
+ORD-2026-04945,4,0.0,Ninguno
+ORD-2026-04951,3,0.0,Retraso de camion
+ORD-2026-04953,3,0.0,Ninguno
+ORD-2026-04954,2,900.08,Retraso de camion
+ORD-2026-04956,5,0.0,Ninguno
+ORD-2026-04958,5,0.0,Ninguno
+ORD-2026-04959,4,0.0,Ninguno
+ORD-2026-04960,3,0.0,Ninguno
 ORD-2026-04961,5,0.0,Ninguno
-ORD-2026-04966,2,2802.07,Faltaban items
-ORD-2026-04971,4,0.0,Ninguno
-ORD-2026-04976,5,0.0,Ninguno
-ORD-2026-04981,5,0.0,Ninguno
-ORD-2026-04986,4,0.0,Ninguno
-ORD-2026-04991,5,0.0,Ninguno
-ORD-2026-04996,3,0.0,Ninguno
-ORD-2026-05001,4,0.0,Caja dañada
+ORD-2026-04962,4,0.0,Ninguno
+ORD-2026-04963,1,2736.74,Retraso de camion
+ORD-2026-04965,4,0.0,Ninguno
+ORD-2026-04969,4,0.0,Ninguno
+ORD-2026-04970,3,0.0,Retraso de camion
+ORD-2026-04971,4,0.0,Retraso de camion
+ORD-2026-04972,5,0.0,Ninguno
+ORD-2026-04973,4,0.0,Ninguno
+ORD-2026-04974,2,2475.63,Retraso de camion
+ORD-2026-04975,5,0.0,Ninguno
+ORD-2026-04978,2,2359.94,Retraso de camion
+ORD-2026-04979,5,0.0,Ninguno
+ORD-2026-04983,1,1213.52,Faltaban items
+ORD-2026-04984,5,0.0,Ninguno
+ORD-2026-04988,4,0.0,Ninguno
+ORD-2026-04989,5,0.0,Ninguno
+ORD-2026-04990,5,0.0,Ninguno
+ORD-2026-04991,4,0.0,Ninguno
+ORD-2026-04994,5,0.0,Ninguno
+ORD-2026-04995,2,1272.94,Retraso de camion
+ORD-2026-04996,2,1769.22,Retraso de camion
+ORD-2026-05000,4,0.0,Ninguno
+ORD-2026-05003,3,0.0,Ninguno
+ORD-2026-05005,5,0.0,Ninguno
 ORD-2026-05006,4,0.0,Ninguno
-ORD-2026-05011,5,0.0,Ninguno
-ORD-2026-05016,4,0.0,Ninguno
-ORD-2026-05021,4,0.0,Faltaban items
-ORD-2026-05026,3,0.0,Ninguno
-ORD-2026-05031,4,0.0,Ninguno
-ORD-2026-05036,3,0.0,Retraso de camion
-ORD-2026-05041,5,0.0,Ninguno
-ORD-2026-05046,4,0.0,Ninguno
-ORD-2026-05051,2,2481.81,Faltaban items
+ORD-2026-05008,3,0.0,Ninguno
+ORD-2026-05009,3,0.0,Retraso de camion
+ORD-2026-05010,3,0.0,Ninguno
+ORD-2026-05016,3,0.0,Faltaban items
+ORD-2026-05019,7,0.0,Ninguno
+ORD-2026-05023,3,0.0,Ninguno
+ORD-2026-05024,4,0.0,Ninguno
+ORD-2026-05026,2,1460.7,Retraso de camion
+ORD-2026-05027,2,2679.18,Retraso de camion
+ORD-2026-05030,3,0.0,Retraso de camion
+ORD-2026-05031,3,0.0,Retraso de camion
+ORD-2026-05034,5,0.0,Ninguno
+ORD-2026-05042,3,0.0,Retraso de camion
+ORD-2026-05044,5,0.0,Ninguno
+ORD-2026-05047,5,0.0,Ninguno
+ORD-2026-05049,5,0.0,Ninguno
+ORD-2026-05050,3,0.0,Ninguno
+ORD-2026-05053,3,0.0,Ninguno
 ORD-2026-05056,5,0.0,Ninguno
-ORD-2026-05061,4,0.0,Ninguno
-ORD-2026-05066,3,0.0,Ninguno
-ORD-2026-05071,4,0.0,Retraso de camion
-ORD-2026-05076,3,0.0,Retraso de camion
-ORD-2026-05081,5,0.0,Ninguno
-ORD-2026-05086,4,0.0,Retraso de camion
-ORD-2026-05091,4,0.0,Ninguno
-ORD-2026-05096,5,0.0,Caja dañada
-ORD-2026-05101,4,0.0,Ninguno
-ORD-2026-05106,3,0.0,Retraso de camion
-ORD-2026-05111,4,0.0,Ninguno
+ORD-2026-05063,5,0.0,Ninguno
+ORD-2026-05068,2,1342.76,Retraso de camion
+ORD-2026-05070,2,1299.41,Retraso de camion
+ORD-2026-05072,5,0.0,Retraso de camion
+ORD-2026-05073,2,2929.85,Retraso de camion
+ORD-2026-05074,4,0.0,Ninguno
+ORD-2026-05075,3,0.0,Ninguno
+ORD-2026-05078,3,0.0,Faltaban items
+ORD-2026-05080,4,0.0,Ninguno
+ORD-2026-05081,4,0.0,Faltaban items
+ORD-2026-05083,5,0.0,Ninguno
+ORD-2026-05088,3,0.0,Ninguno
+ORD-2026-05089,5,0.0,Ninguno
+ORD-2026-05093,5,0.0,Ninguno
+ORD-2026-05095,3,0.0,Retraso de camion
+ORD-2026-05100,5,0.0,Ninguno
+ORD-2026-05102,3,0.0,Retraso de camion
+ORD-2026-05103,2,1351.25,Retraso de camion
+ORD-2026-05107,2,1425.83,Retraso de camion
+ORD-2026-05110,3,0.0,Ninguno
+ORD-2026-05112,2,2371.52,Retraso de camion
 ORD-2026-05116,4,0.0,Ninguno
-ORD-2026-05121,5,0.0,Ninguno
-ORD-2026-05126,2,2810.57,Retraso de camion
-ORD-2026-05131,4,0.0,Ninguno
-ORD-2026-05136,5,0.0,Ninguno
-ORD-2026-05141,5,0.0,Ninguno
+ORD-2026-05121,4,0.0,Ninguno
+ORD-2026-05123,2,2158.36,Retraso de camion
+ORD-2026-05126,3,0.0,Retraso de camion
+ORD-2026-05128,5,0.0,Ninguno
+ORD-2026-05129,3,0.0,Retraso de camion
+ORD-2026-05130,4,0.0,Ninguno
+ORD-2026-05131,5,0.0,Ninguno
+ORD-2026-05132,4,0.0,Retraso de camion
+ORD-2026-05133,4,0.0,Faltaban items
+ORD-2026-05134,1,1116.97,Faltaban items
+ORD-2026-05141,4,0.0,Ninguno
+ORD-2026-05143,4,0.0,Caja dañada
+ORD-2026-05145,4,0.0,Faltaban items
 ORD-2026-05146,5,0.0,Ninguno
-ORD-2026-05151,5,0.0,Ninguno
+ORD-2026-05149,3,0.0,Retraso de camion
+ORD-2026-05150,1,1851.09,Retraso de camion
+ORD-2026-05151,4,0.0,Ninguno
+ORD-2026-05152,5,0.0,Ninguno
+ORD-2026-05153,4,0.0,Ninguno
+ORD-2026-05154,4,0.0,Ninguno
 ORD-2026-05156,4,0.0,Ninguno
-ORD-2026-05161,3,0.0,Ninguno
-ORD-2026-05166,4,0.0,Ninguno
-ORD-2026-05171,1,2863.77,Retraso de camion
-ORD-2026-05176,3,0.0,Ninguno
-ORD-2026-05181,2,1238.46,Ninguno
-ORD-2026-05186,2,2525.27,Retraso de camion
-ORD-2026-05191,5,0.0,Ninguno
-ORD-2026-05196,3,0.0,Retraso de camion
-ORD-2026-05201,3,0.0,Ninguno
-ORD-2026-05206,3,0.0,Faltaban items
-ORD-2026-05211,3,0.0,Ninguno
-ORD-2026-05216,5,0.0,Ninguno
-ORD-2026-05221,5,0.0,Ninguno
-ORD-2026-05226,5,0.0,Caja dañada
-ORD-2026-05231,4,0.0,Ninguno
-ORD-2026-05236,5,0.0,Ninguno
-ORD-2026-05241,4,0.0,Ninguno
-ORD-2026-05246,3,0.0,Retraso de camion
-ORD-2026-05251,5,0.0,Ninguno
-ORD-2026-05256,4,0.0,Ninguno
+ORD-2026-05161,4,0.0,Ninguno
+ORD-2026-05164,2,1614.59,Retraso de camion
+ORD-2026-05165,4,0.0,Ninguno
+ORD-2026-05169,2,2664.32,Ninguno
+ORD-2026-05170,4,0.0,Ninguno
+ORD-2026-05172,5,0.0,Ninguno
+ORD-2026-05176,4,0.0,Ninguno
+ORD-2026-05179,4,0.0,Ninguno
+ORD-2026-05182,3,0.0,Ninguno
+ORD-2026-05184,4,0.0,Faltaban items
+ORD-2026-05190,5,0.0,Ninguno
+ORD-2026-05191,4,0.0,Ninguno
+ORD-2026-05197,4,0.0,Ninguno
+ORD-2026-05198,5,0.0,Ninguno
+ORD-2026-05202,3,0.0,Ninguno
+ORD-2026-05203,3,0.0,Ninguno
+ORD-2026-05207,2,2870.7,Faltaban items
+ORD-2026-05209,4,0.0,Ninguno
+ORD-2026-05212,5,0.0,Ninguno
+ORD-2026-05213,5,0.0,Ninguno
+ORD-2026-05214,2,799.7,Faltaban items
+ORD-2026-05215,2,2015.61,Retraso de camion
+ORD-2026-05218,5,0.0,Ninguno
+ORD-2026-05221,3,0.0,Ninguno
+ORD-2026-05222,4,0.0,Ninguno
+ORD-2026-05224,4,0.0,Caja dañada
+ORD-2026-05228,2,720.41,Faltaban items
+ORD-2026-05230,5,0.0,Ninguno
+ORD-2026-05236,4,0.0,Retraso de camion
+ORD-2026-05237,3,0.0,Retraso de camion
+ORD-2026-05238,4,0.0,Ninguno
+ORD-2026-05239,4,0.0,Ninguno
+ORD-2026-05240,4,0.0,Ninguno
+ORD-2026-05243,2,2212.16,Retraso de camion
+ORD-2026-05244,4,0.0,Ninguno
+ORD-2026-05245,5,0.0,Ninguno
+ORD-2026-05246,2,1985.67,Faltaban items
+ORD-2026-05247,5,0.0,Ninguno
+ORD-2026-05248,4,0.0,Ninguno
+ORD-2026-05252,1,2000.34,Faltaban items
+ORD-2026-05253,4,0.0,Ninguno
+ORD-2026-05254,3,0.0,Faltaban items
+ORD-2026-05256,5,0.0,Ninguno
+ORD-2026-05260,5,0.0,Ninguno
 ORD-2026-05261,5,0.0,Ninguno
-ORD-2026-05266,4,0.0,Ninguno
-ORD-2026-05271,2,2285.39,Faltaban items
-ORD-2026-05276,4,0.0,Ninguno
-ORD-2026-05281,2,1142.33,Faltaban items
-ORD-2026-05286,3,0.0,Ninguno
-ORD-2026-05291,2,2713.67,Retraso de camion
-ORD-2026-05296,4,0.0,Ninguno
-ORD-2026-05301,3,0.0,Ninguno
-ORD-2026-05306,4,0.0,Ninguno
-ORD-2026-05311,1,1427.08,Retraso de camion
-ORD-2026-05316,5,0.0,Ninguno
-ORD-2026-05321,2,2084.41,Retraso de camion
-ORD-2026-05326,5,0.0,Ninguno
-ORD-2026-05331,5,0.0,Ninguno
-ORD-2026-05336,5,0.0,Ninguno
-ORD-2026-05341,3,0.0,Ninguno
-ORD-2026-05346,4,0.0,Retraso de camion
-ORD-2026-05351,4,0.0,Retraso de camion
-ORD-2026-05356,5,0.0,Ninguno
-ORD-2026-05361,4,0.0,Caja dañada
-ORD-2026-05366,4,0.0,Retraso de camion
-ORD-2026-05371,4,0.0,Faltaban items
-ORD-2026-05376,5,0.0,Ninguno
-ORD-2026-05381,4,0.0,Ninguno
-ORD-2026-05386,5,0.0,Ninguno
-ORD-2026-05391,4,0.0,Ninguno
-ORD-2026-05396,4,0.0,Ninguno
-ORD-2026-05401,5,0.0,Ninguno
-ORD-2026-05406,2,2511.43,Ninguno
-ORD-2026-05411,5,0.0,Ninguno
-ORD-2026-05416,3,0.0,Ninguno
-ORD-2026-05421,5,0.0,Ninguno
+ORD-2026-05262,3,0.0,Faltaban items
+ORD-2026-05263,5,0.0,Ninguno
+ORD-2026-05265,3,0.0,Retraso de camion
+ORD-2026-05266,2,1424.59,Retraso de camion
+ORD-2026-05272,4,0.0,Ninguno
+ORD-2026-05273,2,548.38,Faltaban items
+ORD-2026-05277,3,0.0,Ninguno
+ORD-2026-05278,3,0.0,Faltaban items
+ORD-2026-05279,5,0.0,Ninguno
+ORD-2026-05282,3,0.0,Retraso de camion
+ORD-2026-05283,4,0.0,Ninguno
+ORD-2026-05284,3,0.0,Ninguno
+ORD-2026-05285,2,771.87,Retraso de camion
+ORD-2026-05290,2,765.95,Retraso de camion
+ORD-2026-05294,4,0.0,Ninguno
+ORD-2026-05298,4,0.0,Ninguno
+ORD-2026-05301,2,1593.59,Retraso de camion
+ORD-2026-05302,3,0.0,Retraso de camion
+ORD-2026-05305,5,0.0,Retraso de camion
+ORD-2026-05306,3,0.0,Ninguno
+ORD-2026-05309,4,0.0,Ninguno
+ORD-2026-05310,5,0.0,Ninguno
+ORD-2026-05313,2,1846.23,Retraso de camion
+ORD-2026-05317,2,646.02,Retraso de camion
+ORD-2026-05318,4,0.0,Retraso de camion
+ORD-2026-05321,5,0.0,Ninguno
+ORD-2026-05322,3,0.0,Retraso de camion
+ORD-2026-05323,2,1006.15,Retraso de camion
+ORD-2026-05324,4,0.0,Ninguno
+ORD-2026-05327,2,1240.25,Retraso de camion
+ORD-2026-05333,4,0.0,Caja dañada
+ORD-2026-05334,5,0.0,Ninguno
+ORD-2026-05335,5,0.0,Ninguno
+ORD-2026-05337,1,2930.81,Retraso de camion
+ORD-2026-05338,4,0.0,Ninguno
+ORD-2026-05339,2,1596.1,Faltaban items
+ORD-2026-05341,2,2233.24,Retraso de camion
+ORD-2026-05342,3,0.0,Retraso de camion
+ORD-2026-05343,4,0.0,Ninguno
+ORD-2026-05347,3,0.0,Retraso de camion
+ORD-2026-05348,4,0.0,Ninguno
+ORD-2026-05349,2,1800.2,Retraso de camion
+ORD-2026-05350,5,0.0,Ninguno
+ORD-2026-05353,5,0.0,Ninguno
+ORD-2026-05357,3,0.0,Retraso de camion
+ORD-2026-05361,5,0.0,Ninguno
+ORD-2026-05363,4,0.0,Ninguno
+ORD-2026-05364,3,0.0,Faltaban items
+ORD-2026-05365,5,0.0,Caja dañada
+ORD-2026-05366,2,1300.98,Retraso de camion
+ORD-2026-05369,4,0.0,Ninguno
+ORD-2026-05371,2,794.42,Faltaban items
+ORD-2026-05375,5,0.0,Ninguno
+ORD-2026-05376,3,0.0,Retraso de camion
+ORD-2026-05377,4,0.0,Ninguno
+ORD-2026-05378,4,0.0,Ninguno
+ORD-2026-05379,3,0.0,Faltaban items
+ORD-2026-05383,2,630.17,Faltaban items
+ORD-2026-05390,4,0.0,Ninguno
+ORD-2026-05393,3,0.0,Ninguno
+ORD-2026-05394,3,0.0,Retraso de camion
+ORD-2026-05395,3,0.0,Ninguno
+ORD-2026-05396,5,0.0,Ninguno
+ORD-2026-05397,3,0.0,Faltaban items
+ORD-2026-05398,3,0.0,Retraso de camion
+ORD-2026-05399,4,0.0,Faltaban items
+ORD-2026-05402,3,0.0,Faltaban items
+ORD-2026-05403,4,0.0,Ninguno
+ORD-2026-05406,4,0.0,Ninguno
+ORD-2026-05412,5,0.0,Ninguno
+ORD-2026-05414,2,2260.34,Faltaban items
+ORD-2026-05418,3,0.0,Ninguno
+ORD-2026-05421,4,0.0,Ninguno
+ORD-2026-05423,3,0.0,Ninguno
 ORD-2026-05426,4,0.0,Ninguno
-ORD-2026-05431,4,0.0,Ninguno
-ORD-2026-05436,4,0.0,Ninguno
-ORD-2026-05441,3,0.0,Retraso de camion
-ORD-2026-05446,5,0.0,Ninguno
-ORD-2026-05451,4,0.0,Ninguno
-ORD-2026-05456,4,0.0,Ninguno
+ORD-2026-05434,5,0.0,Ninguno
+ORD-2026-05435,4,0.0,Ninguno
+ORD-2026-05436,5,0.0,Ninguno
+ORD-2026-05437,3,0.0,Ninguno
+ORD-2026-05440,5,0.0,Ninguno
+ORD-2026-05443,4,0.0,Retraso de camion
+ORD-2026-05450,4,0.0,Ninguno
+ORD-2026-05451,3,0.0,Retraso de camion
+ORD-2026-05453,4,0.0,Ninguno
+ORD-2026-05459,1,1711.55,Retraso de camion
+ORD-2026-05460,3,0.0,Ninguno
 ORD-2026-05461,5,0.0,Ninguno
-ORD-2026-05466,2,504.81,Ninguno
-ORD-2026-05471,5,0.0,Caja dañada
-ORD-2026-05476,2,2130.34,Retraso de camion
-ORD-2026-05481,5,0.0,Ninguno
-ORD-2026-05486,4,0.0,Ninguno
-ORD-2026-05491,3,0.0,Ninguno
-ORD-2026-05496,1,1341.78,Retraso de camion
-ORD-2026-05501,4,0.0,Ninguno
-ORD-2026-05506,4,0.0,Ninguno
-ORD-2026-05511,5,0.0,Ninguno
-ORD-2026-05516,4,0.0,Ninguno
-ORD-2026-05521,5,0.0,Ninguno
+ORD-2026-05462,4,0.0,Ninguno
+ORD-2026-05464,4,0.0,Ninguno
+ORD-2026-05465,4,0.0,Ninguno
+ORD-2026-05467,3,0.0,Retraso de camion
+ORD-2026-05470,4,0.0,Ninguno
+ORD-2026-05475,2,2059.63,Retraso de camion
+ORD-2026-05478,3,0.0,Ninguno
+ORD-2026-05479,3,0.0,Retraso de camion
+ORD-2026-05483,5,0.0,Ninguno
+ORD-2026-05484,5,0.0,Caja dañada
+ORD-2026-05488,5,0.0,Ninguno
+ORD-2026-05493,4,0.0,Caja dañada
+ORD-2026-05494,4,0.0,Ninguno
+ORD-2026-05498,4,0.0,Ninguno
+ORD-2026-05499,2,1606.45,Retraso de camion
+ORD-2026-05501,5,0.0,Ninguno
+ORD-2026-05503,5,0.0,Ninguno
+ORD-2026-05504,5,0.0,Ninguno
+ORD-2026-05506,5,0.0,Ninguno
+ORD-2026-05509,5,0.0,Caja dañada
+ORD-2026-05512,3,0.0,Ninguno
+ORD-2026-05519,3,0.0,Ninguno
+ORD-2026-05523,4,0.0,Ninguno
 ORD-2026-05526,5,0.0,Ninguno
-ORD-2026-05531,3,0.0,Retraso de camion
-ORD-2026-05536,4,0.0,Ninguno
-ORD-2026-05541,4,0.0,Ninguno
-ORD-2026-05546,3,0.0,Retraso de camion
-ORD-2026-05551,5,0.0,Ninguno
-ORD-2026-05556,3,0.0,Ninguno
-ORD-2026-05561,3,0.0,Ninguno
-ORD-2026-05566,4,0.0,Faltaban items
-ORD-2026-05571,3,0.0,Faltaban items
-ORD-2026-05576,4,0.0,Ninguno
-ORD-2026-05581,5,0.0,Ninguno
-ORD-2026-05586,5,0.0,Ninguno
-ORD-2026-05591,1,1908.05,Retraso de camion
-ORD-2026-05596,5,0.0,Caja dañada
-ORD-2026-05601,1,2292.25,Retraso de camion
-ORD-2026-05606,4,0.0,Retraso de camion
-ORD-2026-05611,5,0.0,Ninguno
-ORD-2026-05616,2,1360.75,Retraso de camion
-ORD-2026-05621,2,1716.17,Faltaban items
-ORD-2026-05626,2,1743.31,Ninguno
-ORD-2026-05631,5,0.0,Retraso de camion
-ORD-2026-05636,1,2506.03,Faltaban items
-ORD-2026-05641,4,0.0,Ninguno
+ORD-2026-05528,3,0.0,Retraso de camion
+ORD-2026-05530,5,0.0,Caja dañada
+ORD-2026-05532,3,0.0,Retraso de camion
+ORD-2026-05533,4,0.0,Ninguno
+ORD-2026-05536,5,0.0,Ninguno
+ORD-2026-05539,3,0.0,Ninguno
+ORD-2026-05541,3,0.0,Retraso de camion
+ORD-2026-05543,3,0.0,Caja dañada
+ORD-2026-05548,4,0.0,Ninguno
+ORD-2026-05549,5,0.0,Ninguno
+ORD-2026-05550,5,0.0,Ninguno
+ORD-2026-05552,5,0.0,Ninguno
+ORD-2026-05553,5,0.0,Ninguno
+ORD-2026-05554,5,0.0,Ninguno
+ORD-2026-05556,4,0.0,Ninguno
+ORD-2026-05558,5,0.0,Caja dañada
+ORD-2026-05559,4,0.0,Faltaban items
+ORD-2026-05560,1,2793.43,Faltaban items
+ORD-2026-05562,5,0.0,Ninguno
+ORD-2026-05563,4,0.0,Ninguno
+ORD-2026-05564,4,0.0,Caja dañada
+ORD-2026-05565,4,0.0,Ninguno
+ORD-2026-05566,5,0.0,Ninguno
+ORD-2026-05567,4,0.0,Retraso de camion
+ORD-2026-05568,1,521.94,Retraso de camion
+ORD-2026-05572,3,0.0,Retraso de camion
+ORD-2026-05574,2,2500.15,Retraso de camion
+ORD-2026-05575,5,0.0,Caja dañada
+ORD-2026-05578,2,643.81,Retraso de camion
+ORD-2026-05580,5,0.0,Ninguno
+ORD-2026-05582,5,0.0,Ninguno
+ORD-2026-05583,3,0.0,Faltaban items
+ORD-2026-05585,1,1052.13,Retraso de camion
+ORD-2026-05586,4,0.0,Ninguno
+ORD-2026-05587,3,0.0,Caja dañada
+ORD-2026-05588,5,0.0,Ninguno
+ORD-2026-05591,5,0.0,Ninguno
+ORD-2026-05592,5,0.0,Ninguno
+ORD-2026-05595,2,736.97,Faltaban items
+ORD-2026-05597,5,0.0,Ninguno
+ORD-2026-05598,4,0.0,Retraso de camion
+ORD-2026-05601,2,2092.2,Ninguno
+ORD-2026-05605,2,1250.29,Retraso de camion
+ORD-2026-05606,4,0.0,Ninguno
+ORD-2026-05607,3,0.0,Retraso de camion
+ORD-2026-05609,3,0.0,Retraso de camion
+ORD-2026-05610,5,0.0,Ninguno
+ORD-2026-05611,4,0.0,Retraso de camion
+ORD-2026-05612,3,0.0,Retraso de camion
+ORD-2026-05616,3,0.0,Faltaban items
+ORD-2026-05617,4,0.0,Caja dañada
+ORD-2026-05618,1,1114.34,Retraso de camion
+ORD-2026-05619,4,0.0,Ninguno
+ORD-2026-05620,4,0.0,Ninguno
+ORD-2026-05621,4,0.0,Ninguno
+ORD-2026-05624,5,0.0,Ninguno
+ORD-2026-05625,3,0.0,Faltaban items
+ORD-2026-05626,5,0.0,Ninguno
+ORD-2026-05627,4,0.0,Ninguno
+ORD-2026-05629,4,0.0,Ninguno
+ORD-2026-05634,4,0.0,Faltaban items
+ORD-2026-05638,2,672.87,Ninguno
+ORD-2026-05639,5,0.0,Ninguno
+ORD-2026-05640,5,0.0,Ninguno
+ORD-2026-05641,3,0.0,Retraso de camion
+ORD-2026-05643,4,0.0,Ninguno
 ORD-2026-05646,5,0.0,Ninguno
-ORD-2026-05651,4,0.0,Caja dañada
+ORD-2026-05647,5,0.0,Ninguno
+ORD-2026-05650,4,0.0,Ninguno
+ORD-2026-05652,5,0.0,Ninguno
+ORD-2026-05654,3,0.0,Faltaban items
 ORD-2026-05656,4,0.0,Ninguno
-ORD-2026-05661,5,0.0,Ninguno
-ORD-2026-05666,5,0.0,Ninguno
-ORD-2026-05671,5,0.0,Ninguno
-ORD-2026-05676,3,0.0,Ninguno
-ORD-2026-05681,3,0.0,Ninguno
-ORD-2026-05686,5,0.0,Caja dañada
+ORD-2026-05657,4,0.0,Ninguno
+ORD-2026-05661,3,0.0,Retraso de camion
+ORD-2026-05666,3,0.0,Ninguno
+ORD-2026-05667,2,1499.49,Retraso de camion
+ORD-2026-05668,5,0.0,Ninguno
+ORD-2026-05670,4,0.0,Ninguno
+ORD-2026-05671,3,0.0,Caja dañada
+ORD-2026-05675,3,0.0,Retraso de camion
+ORD-2026-05676,4,0.0,Ninguno
+ORD-2026-05677,5,0.0,Ninguno
+ORD-2026-05679,5,0.0,Ninguno
+ORD-2026-05682,2,989.47,Faltaban items
+ORD-2026-05684,2,880.3,Retraso de camion
+ORD-2026-05687,4,0.0,Ninguno
+ORD-2026-05688,3,0.0,Retraso de camion
 ORD-2026-05691,5,0.0,Ninguno
-ORD-2026-05696,4,0.0,Retraso de camion
-ORD-2026-05701,4,0.0,Retraso de camion
-ORD-2026-05706,4,0.0,Ninguno
-ORD-2026-05711,5,0.0,Ninguno
-ORD-2026-05716,4,0.0,Ninguno
-ORD-2026-05721,5,0.0,Ninguno
-ORD-2026-05726,4,0.0,Ninguno
-ORD-2026-05731,5,0.0,Ninguno
-ORD-2026-05736,5,0.0,Ninguno
-ORD-2026-05741,1,1101.75,Retraso de camion
-ORD-2026-05746,2,1403.53,Retraso de camion
-ORD-2026-05751,4,0.0,Ninguno
-ORD-2026-05756,2,1351.9,Retraso de camion
-ORD-2026-05761,5,0.0,Ninguno
-ORD-2026-05766,2,2484.93,Ninguno
-ORD-2026-05771,5,0.0,Ninguno
-ORD-2026-05776,4,0.0,Ninguno
-ORD-2026-05781,4,0.0,Ninguno
-ORD-2026-05786,3,0.0,Faltaban items
+ORD-2026-05693,2,1856.39,Retraso de camion
+ORD-2026-05694,4,0.0,Retraso de camion
+ORD-2026-05696,5,0.0,Ninguno
+ORD-2026-05701,3,0.0,Retraso de camion
+ORD-2026-05703,5,0.0,Retraso de camion
+ORD-2026-05705,5,0.0,Ninguno
+ORD-2026-05706,3,0.0,Faltaban items
+ORD-2026-05708,5,0.0,Ninguno
+ORD-2026-05709,2,2153.33,Retraso de camion
+ORD-2026-05711,4,0.0,Ninguno
+ORD-2026-05712,4,0.0,Ninguno
+ORD-2026-05714,5,0.0,Ninguno
+ORD-2026-05715,3,0.0,Retraso de camion
+ORD-2026-05716,3,0.0,Retraso de camion
+ORD-2026-05719,3,0.0,Faltaban items
+ORD-2026-05721,4,0.0,Ninguno
+ORD-2026-05723,4,0.0,Ninguno
+ORD-2026-05724,2,2477.92,Retraso de camion
+ORD-2026-05725,4,0.0,Ninguno
+ORD-2026-05726,4,0.0,Retraso de camion
+ORD-2026-05727,4,0.0,Ninguno
+ORD-2026-05728,4,0.0,Ninguno
+ORD-2026-05729,5,0.0,Ninguno
+ORD-2026-05731,3,0.0,Retraso de camion
+ORD-2026-05733,5,0.0,Ninguno
+ORD-2026-05734,5,0.0,Ninguno
+ORD-2026-05736,3,0.0,Retraso de camion
+ORD-2026-05737,3,0.0,Ninguno
+ORD-2026-05738,5,0.0,Ninguno
+ORD-2026-05740,3,0.0,Retraso de camion
+ORD-2026-05741,2,2568.43,Retraso de camion
+ORD-2026-05743,5,0.0,Ninguno
+ORD-2026-05744,2,1744.3,Retraso de camion
+ORD-2026-05746,4,0.0,Faltaban items
+ORD-2026-05747,5,0.0,Ninguno
+ORD-2026-05757,3,0.0,Faltaban items
+ORD-2026-05760,3,0.0,Retraso de camion
+ORD-2026-05763,5,0.0,Ninguno
+ORD-2026-05767,3,0.0,Ninguno
+ORD-2026-05768,5,0.0,Ninguno
+ORD-2026-05769,3,0.0,Ninguno
+ORD-2026-05771,4,0.0,Ninguno
+ORD-2026-05775,4,0.0,Ninguno
+ORD-2026-05777,5,0.0,Ninguno
+ORD-2026-05778,2,1756.22,Retraso de camion
+ORD-2026-05782,4,0.0,Caja dañada
 ORD-2026-05791,4,0.0,Ninguno
-ORD-2026-05796,4,0.0,Ninguno
-ORD-2026-05801,4,0.0,Caja dañada
-ORD-2026-05806,5,0.0,Ninguno
-ORD-2026-05811,5,0.0,Ninguno
-ORD-2026-05816,3,0.0,Faltaban items
-ORD-2026-05821,3,0.0,Caja dañada
-ORD-2026-05826,5,0.0,Ninguno
-ORD-2026-05831,5,0.0,Ninguno
-ORD-2026-05836,5,0.0,Ninguno
-ORD-2026-05841,5,0.0,Ninguno
-ORD-2026-05846,5,0.0,Ninguno
-ORD-2026-05851,4,0.0,Ninguno
+ORD-2026-05793,5,0.0,Ninguno
+ORD-2026-05794,4,0.0,Ninguno
+ORD-2026-05795,4,0.0,Retraso de camion
+ORD-2026-05796,2,849.27,Faltaban items
+ORD-2026-05798,4,0.0,Ninguno
+ORD-2026-05799,5,0.0,Ninguno
+ORD-2026-05801,4,0.0,Retraso de camion
+ORD-2026-05804,2,1598.92,Retraso de camion
+ORD-2026-05805,1,1159.99,Faltaban items
+ORD-2026-05806,3,0.0,Ninguno
+ORD-2026-05808,2,2335.23,Ninguno
+ORD-2026-05809,3,0.0,Retraso de camion
+ORD-2026-05810,3,0.0,Ninguno
+ORD-2026-05812,2,733.92,Ninguno
+ORD-2026-05818,4,0.0,Ninguno
+ORD-2026-05819,4,0.0,Ninguno
+ORD-2026-05821,2,2378.87,Retraso de camion
+ORD-2026-05824,5,0.0,Ninguno
+ORD-2026-05825,3,0.0,Retraso de camion
+ORD-2026-05830,4,0.0,Ninguno
+ORD-2026-05831,4,0.0,Ninguno
+ORD-2026-05834,3,0.0,Retraso de camion
+ORD-2026-05836,4,0.0,Ninguno
+ORD-2026-05837,5,0.0,Caja dañada
+ORD-2026-05839,4,0.0,Ninguno
+ORD-2026-05840,5,0.0,Ninguno
+ORD-2026-05841,4,0.0,Retraso de camion
+ORD-2026-05842,4,0.0,Ninguno
+ORD-2026-05843,3,0.0,Retraso de camion
+ORD-2026-05845,2,1797.93,Retraso de camion
+ORD-2026-05848,2,2078.63,Retraso de camion
+ORD-2026-05849,5,0.0,Ninguno
+ORD-2026-05850,4,0.0,Ninguno
+ORD-2026-05853,3,0.0,Faltaban items
 ORD-2026-05856,4,0.0,Ninguno
-ORD-2026-05861,4,0.0,Ninguno
-ORD-2026-05866,5,0.0,Ninguno
-ORD-2026-05871,5,0.0,Caja dañada
-ORD-2026-05876,4,0.0,Ninguno
-ORD-2026-05881,5,0.0,Ninguno
-ORD-2026-05886,5,0.0,Ninguno
-ORD-2026-05891,3,0.0,Caja dañada
-ORD-2026-05896,5,0.0,Ninguno
-ORD-2026-05901,4,0.0,Retraso de camion
-ORD-2026-05906,4,0.0,Ninguno
-ORD-2026-05911,2,1600.66,Retraso de camion
-ORD-2026-05916,5,0.0,Ninguno
-ORD-2026-05921,3,0.0,Retraso de camion
-ORD-2026-05926,4,0.0,Ninguno
-ORD-2026-05931,5,0.0,Ninguno
-ORD-2026-05936,3,0.0,Ninguno
-ORD-2026-05941,5,0.0,Caja dañada
-ORD-2026-05946,5,0.0,Ninguno
-ORD-2026-05951,4,0.0,Ninguno
-ORD-2026-05956,2,2722.23,Ninguno
-ORD-2026-05961,5,0.0,Ninguno
-ORD-2026-05966,5,0.0,Ninguno
-ORD-2026-05971,2,1733.23,Ninguno
-ORD-2026-05976,4,0.0,Ninguno
-ORD-2026-05981,5,0.0,Ninguno
-ORD-2026-05986,3,0.0,Retraso de camion
-ORD-2026-05991,3,0.0,Ninguno
-ORD-2026-05996,4,0.0,Caja dañada
-ORD-2026-06001,1,1778.16,Faltaban items
-ORD-2026-06006,1,976.92,Retraso de camion
-ORD-2026-06011,4,0.0,Ninguno
-ORD-2026-06016,5,0.0,Ninguno
-ORD-2026-06021,5,0.0,Ninguno
-ORD-2026-06026,4,0.0,Ninguno
-ORD-2026-06031,5,0.0,Ninguno
-ORD-2026-06036,4,0.0,Ninguno
-ORD-2026-06041,2,2795.03,Retraso de camion
-ORD-2026-06046,4,0.0,Ninguno
-ORD-2026-06051,3,0.0,Ninguno
-ORD-2026-06056,3,0.0,Ninguno
-ORD-2026-06061,3,0.0,Ninguno
-ORD-2026-06066,5,0.0,Ninguno
+ORD-2026-05857,4,0.0,Ninguno
+ORD-2026-05862,4,0.0,Ninguno
+ORD-2026-05865,4,0.0,Caja dañada
+ORD-2026-05866,2,1956.22,Retraso de camion
+ORD-2026-05867,3,0.0,Faltaban items
+ORD-2026-05869,2,1016.89,Retraso de camion
+ORD-2026-05870,2,2771.21,Retraso de camion
+ORD-2026-05873,5,0.0,Caja dañada
+ORD-2026-05874,4,0.0,Retraso de camion
+ORD-2026-05876,3,0.0,Ninguno
+ORD-2026-05879,3,0.0,Retraso de camion
+ORD-2026-05882,5,0.0,Ninguno
+ORD-2026-05885,4,0.0,Ninguno
+ORD-2026-05886,4,0.0,Ninguno
+ORD-2026-05891,4,0.0,Ninguno
+ORD-2026-05892,4,0.0,Ninguno
+ORD-2026-05893,2,2823.96,Retraso de camion
+ORD-2026-05894,5,0.0,Ninguno
+ORD-2026-05897,4,0.0,Ninguno
+ORD-2026-05898,5,0.0,Ninguno
+ORD-2026-05899,5,0.0,Ninguno
+ORD-2026-05900,4,0.0,Ninguno
+ORD-2026-05904,3,0.0,Retraso de camion
+ORD-2026-05905,1,1990.02,Retraso de camion
+ORD-2026-05906,3,0.0,Faltaban items
+ORD-2026-05907,5,0.0,Ninguno
+ORD-2026-05908,5,0.0,Ninguno
+ORD-2026-05909,2,819.95,Faltaban items
+ORD-2026-05912,1,1966.17,Retraso de camion
+ORD-2026-05914,5,0.0,Ninguno
+ORD-2026-05915,4,0.0,Ninguno
+ORD-2026-05916,2,2761.13,Retraso de camion
+ORD-2026-05924,3,0.0,Retraso de camion
+ORD-2026-05925,4,0.0,Caja dañada
+ORD-2026-05928,4,0.0,Ninguno
+ORD-2026-05929,2,2255.51,Ninguno
+ORD-2026-05930,5,0.0,Ninguno
+ORD-2026-05932,3,0.0,Retraso de camion
+ORD-2026-05934,4,0.0,Caja dañada
+ORD-2026-05936,3,0.0,Faltaban items
+ORD-2026-05937,2,701.85,Retraso de camion
+ORD-2026-05939,2,2502.47,Retraso de camion
+ORD-2026-05949,3,0.0,Ninguno
+ORD-2026-05950,2,805.34,Ninguno
+ORD-2026-05953,3,0.0,Retraso de camion
+ORD-2026-05955,2,1018.15,Faltaban items
+ORD-2026-05956,2,2892.64,Retraso de camion
+ORD-2026-05960,5,0.0,Ninguno
+ORD-2026-05963,3,0.0,Retraso de camion
+ORD-2026-05964,4,0.0,Ninguno
+ORD-2026-05966,3,0.0,Retraso de camion
+ORD-2026-05967,4,0.0,Ninguno
+ORD-2026-05968,1,2961.37,Faltaban items
+ORD-2026-05972,2,1921.18,Faltaban items
+ORD-2026-05973,5,0.0,Ninguno
+ORD-2026-05974,4,0.0,Ninguno
+ORD-2026-05976,5,0.0,Ninguno
+ORD-2026-05979,1,2446.63,Retraso de camion
+ORD-2026-05987,2,2444.74,Retraso de camion
+ORD-2026-05988,1,2172.29,Retraso de camion
+ORD-2026-05990,4,0.0,Retraso de camion
+ORD-2026-05992,3,0.0,Retraso de camion
+ORD-2026-05993,2,2220.02,Ninguno
+ORD-2026-05994,2,792.5,Retraso de camion
+ORD-2026-05995,4,0.0,Ninguno
+ORD-2026-05997,5,0.0,Ninguno
+ORD-2026-06001,3,0.0,Ninguno
+ORD-2026-06002,5,0.0,Ninguno
+ORD-2026-06004,4,0.0,Ninguno
+ORD-2026-06005,2,1388.37,Retraso de camion
+ORD-2026-06007,4,0.0,Retraso de camion
+ORD-2026-06009,2,878.77,Retraso de camion
+ORD-2026-06011,3,0.0,Caja dañada
+ORD-2026-06012,4,0.0,Ninguno
+ORD-2026-06014,5,0.0,Caja dañada
+ORD-2026-06016,3,0.0,Retraso de camion
+ORD-2026-06017,2,2305.6,Faltaban items
+ORD-2026-06018,3,0.0,Ninguno
+ORD-2026-06021,2,1319.07,Retraso de camion
+ORD-2026-06026,1,1543.19,Retraso de camion
+ORD-2026-06028,5,0.0,Ninguno
+ORD-2026-06031,3,0.0,Faltaban items
+ORD-2026-06038,4,0.0,Ninguno
+ORD-2026-06041,4,0.0,Retraso de camion
+ORD-2026-06043,5,0.0,Ninguno
+ORD-2026-06045,4,0.0,Ninguno
+ORD-2026-06048,4,0.0,Ninguno
+ORD-2026-06049,5,0.0,Ninguno
+ORD-2026-06051,4,0.0,Ninguno
+ORD-2026-06052,4,0.0,Ninguno
+ORD-2026-06053,5,0.0,Ninguno
+ORD-2026-06054,5,0.0,Ninguno
+ORD-2026-06055,4,0.0,Ninguno
+ORD-2026-06059,5,0.0,Ninguno
+ORD-2026-06062,1,695.86,Retraso de camion
+ORD-2026-06065,5,0.0,Ninguno
+ORD-2026-06066,4,0.0,Ninguno
+ORD-2026-06067,3,0.0,Retraso de camion
+ORD-2026-06068,3,0.0,Faltaban items
 ORD-2026-06071,3,0.0,Retraso de camion
-ORD-2026-06076,5,0.0,Ninguno
-ORD-2026-06081,3,0.0,Ninguno
+ORD-2026-06074,1,1583.47,Retraso de camion
+ORD-2026-06077,3,0.0,Faltaban items
+ORD-2026-06080,3,0.0,Faltaban items
+ORD-2026-06081,5,0.0,Ninguno
+ORD-2026-06083,5,0.0,Ninguno
+ORD-2026-06085,2,773.63,Retraso de camion
 ORD-2026-06086,4,0.0,Ninguno
-ORD-2026-06091,2,1246.51,Ninguno
-ORD-2026-06096,3,0.0,Ninguno
-ORD-2026-06101,5,0.0,Ninguno
-ORD-2026-06106,3,0.0,Ninguno
+ORD-2026-06087,5,0.0,Ninguno
+ORD-2026-06088,3,0.0,Faltaban items
+ORD-2026-06091,2,1389.8,Retraso de camion
+ORD-2026-06093,3,0.0,Retraso de camion
+ORD-2026-06095,4,0.0,Ninguno
+ORD-2026-06096,4,0.0,Ninguno
+ORD-2026-06097,5,0.0,Ninguno
+ORD-2026-06098,2,2360.34,Retraso de camion
+ORD-2026-06099,5,0.0,Caja dañada
+ORD-2026-06100,5,0.0,Ninguno
+ORD-2026-06102,4,0.0,Ninguno
+ORD-2026-06104,3,0.0,Retraso de camion
+ORD-2026-06106,5,0.0,Ninguno
+ORD-2026-06107,1,2491.1,Retraso de camion
+ORD-2026-06108,1,1200.04,Retraso de camion
+ORD-2026-06110,2,2264.77,Retraso de camion
 ORD-2026-06111,3,0.0,Faltaban items
-ORD-2026-06116,4,0.0,Ninguno
-ORD-2026-06121,3,0.0,Faltaban items
-ORD-2026-06126,5,0.0,Ninguno
-ORD-2026-06131,4,0.0,Ninguno
-ORD-2026-06136,5,0.0,Ninguno
-ORD-2026-06141,2,2545.92,Retraso de camion
-ORD-2026-06146,4,0.0,Ninguno
+ORD-2026-06112,5,0.0,Retraso de camion
+ORD-2026-06114,4,0.0,Retraso de camion
+ORD-2026-06117,2,2088.19,Ninguno
+ORD-2026-06118,4,0.0,Ninguno
+ORD-2026-06120,3,0.0,Ninguno
+ORD-2026-06121,5,0.0,Ninguno
+ORD-2026-06122,4,0.0,Ninguno
+ORD-2026-06124,1,1865.97,Faltaban items
+ORD-2026-06126,4,0.0,Retraso de camion
+ORD-2026-06127,5,0.0,Ninguno
+ORD-2026-06130,2,2927.17,Retraso de camion
+ORD-2026-06131,3,0.0,Ninguno
+ORD-2026-06132,5,0.0,Ninguno
+ORD-2026-06133,2,936.18,Faltaban items
+ORD-2026-06134,4,0.0,Ninguno
+ORD-2026-06135,2,2472.48,Faltaban items
+ORD-2026-06136,4,0.0,Ninguno
+ORD-2026-06137,4,0.0,Ninguno
+ORD-2026-06138,4,0.0,Caja dañada
+ORD-2026-06139,5,0.0,Ninguno
+ORD-2026-06142,4,0.0,Ninguno
+ORD-2026-06144,2,1030.83,Retraso de camion
+ORD-2026-06146,5,0.0,Ninguno
+ORD-2026-06148,5,0.0,Ninguno
+ORD-2026-06149,5,0.0,Ninguno
+ORD-2026-06150,3,0.0,Ninguno
 ORD-2026-06151,4,0.0,Ninguno
-ORD-2026-06156,5,0.0,Ninguno
-ORD-2026-06161,3,0.0,Faltaban items
+ORD-2026-06158,2,1854.95,Retraso de camion
+ORD-2026-06160,4,0.0,Ninguno
+ORD-2026-06161,2,1847.83,Retraso de camion
+ORD-2026-06165,3,0.0,Ninguno
 ORD-2026-06166,4,0.0,Ninguno
-ORD-2026-06171,2,2102.52,Retraso de camion
-ORD-2026-06176,2,680.69,Faltaban items
-ORD-2026-06181,3,0.0,Retraso de camion
-ORD-2026-06186,4,0.0,Ninguno
-ORD-2026-06191,4,0.0,Ninguno
-ORD-2026-06196,5,0.0,Ninguno
+ORD-2026-06168,4,0.0,Ninguno
+ORD-2026-06171,5,0.0,Ninguno
+ORD-2026-06172,3,0.0,Retraso de camion
+ORD-2026-06175,5,0.0,Ninguno
+ORD-2026-06176,3,0.0,Ninguno
+ORD-2026-06177,1,1752.5,Retraso de camion
+ORD-2026-06178,5,0.0,Ninguno
+ORD-2026-06179,5,0.0,Ninguno
+ORD-2026-06180,4,0.0,Ninguno
+ORD-2026-06182,4,0.0,Retraso de camion
+ORD-2026-06183,3,0.0,Retraso de camion
+ORD-2026-06184,4,0.0,Retraso de camion
+ORD-2026-06187,4,0.0,Ninguno
+ORD-2026-06189,4,0.0,Ninguno
+ORD-2026-06190,3,0.0,Retraso de camion
+ORD-2026-06195,4,0.0,Ninguno
+ORD-2026-06196,4,0.0,Retraso de camion
+ORD-2026-06198,5,0.0,Ninguno
+ORD-2026-06200,2,1031.96,Faltaban items
 ORD-2026-06201,4,0.0,Ninguno
-ORD-2026-06206,4,0.0,Ninguno
-ORD-2026-06211,4,0.0,Ninguno
-ORD-2026-06216,3,0.0,Retraso de camion
-ORD-2026-06221,4,0.0,Ninguno
-ORD-2026-06226,3,0.0,Caja dañada
-ORD-2026-06231,4,0.0,Ninguno
-ORD-2026-06236,5,0.0,Ninguno
-ORD-2026-06241,4,0.0,Ninguno
-ORD-2026-06246,4,0.0,Retraso de camion
-ORD-2026-06251,5,0.0,Ninguno
+ORD-2026-06202,4,0.0,Ninguno
+ORD-2026-06209,2,546.8,Retraso de camion
+ORD-2026-06210,4,0.0,Ninguno
+ORD-2026-06211,3,0.0,Retraso de camion
+ORD-2026-06212,5,0.0,Ninguno
+ORD-2026-06215,2,2519.17,Retraso de camion
+ORD-2026-06216,3,0.0,Faltaban items
+ORD-2026-06217,3,0.0,Retraso de camion
+ORD-2026-06219,5,0.0,Ninguno
+ORD-2026-06220,5,0.0,Ninguno
+ORD-2026-06222,1,2218.45,Retraso de camion
+ORD-2026-06226,4,0.0,Caja dañada
+ORD-2026-06230,3,0.0,Retraso de camion
+ORD-2026-06231,3,0.0,Ninguno
+ORD-2026-06232,3,0.0,Ninguno
+ORD-2026-06235,2,785.25,Retraso de camion
+ORD-2026-06236,4,0.0,Caja dañada
+ORD-2026-06237,2,901.37,Faltaban items
+ORD-2026-06238,4,0.0,Retraso de camion
+ORD-2026-06239,2,2900.71,Retraso de camion
+ORD-2026-06240,3,0.0,Ninguno
+ORD-2026-06243,4,0.0,Caja dañada
+ORD-2026-06244,1,2849.82,Retraso de camion
+ORD-2026-06246,4,0.0,Ninguno
+ORD-2026-06247,3,0.0,Faltaban items
+ORD-2026-06250,3,0.0,Ninguno
+ORD-2026-06255,3,0.0,Ninguno
 ORD-2026-06256,5,0.0,Ninguno
-ORD-2026-06261,5,0.0,Ninguno
-ORD-2026-06266,5,0.0,Ninguno
-ORD-2026-06271,3,0.0,Ninguno
-ORD-2026-06276,4,0.0,Caja dañada
-ORD-2026-06281,3,0.0,Faltaban items
-ORD-2026-06286,5,0.0,Ninguno
-ORD-2026-06291,5,0.0,Ninguno
-ORD-2026-06296,4,0.0,Ninguno
+ORD-2026-06262,1,1946.35,Retraso de camion
+ORD-2026-06264,3,0.0,Retraso de camion
+ORD-2026-06265,3,0.0,Retraso de camion
+ORD-2026-06266,3,0.0,Ninguno
+ORD-2026-06269,4,0.0,Ninguno
+ORD-2026-06270,4,0.0,Ninguno
+ORD-2026-06271,4,0.0,Retraso de camion
+ORD-2026-06273,3,0.0,Ninguno
+ORD-2026-06274,5,0.0,Caja dañada
+ORD-2026-06275,1,2858.45,Retraso de camion
+ORD-2026-06278,2,2779.65,Faltaban items
+ORD-2026-06279,3,0.0,Ninguno
+ORD-2026-06281,4,0.0,Ninguno
+ORD-2026-06283,5,0.0,Ninguno
+ORD-2026-06285,2,922.78,Ninguno
+ORD-2026-06288,5,0.0,Ninguno
+ORD-2026-06290,3,0.0,Retraso de camion
+ORD-2026-06293,3,0.0,Faltaban items
+ORD-2026-06294,4,0.0,Caja dañada
+ORD-2026-06295,5,0.0,Ninguno
+ORD-2026-06296,5,0.0,Ninguno
+ORD-2026-06297,4,0.0,Ninguno
+ORD-2026-06298,4,0.0,Ninguno
+ORD-2026-06300,3,0.0,Retraso de camion
 ORD-2026-06301,5,0.0,Ninguno
-ORD-2026-06306,2,1663.25,Caja dañada
-ORD-2026-06311,4,0.0,Ninguno
-ORD-2026-06316,4,0.0,Ninguno
-ORD-2026-06321,4,0.0,Ninguno
-ORD-2026-06326,3,0.0,Ninguno
-ORD-2026-06331,4,0.0,Ninguno
-ORD-2026-06336,5,0.0,Ninguno
-ORD-2026-06341,5,0.0,Ninguno
-ORD-2026-06346,5,0.0,Ninguno
-ORD-2026-06351,4,0.0,Ninguno
-ORD-2026-06356,4,0.0,Ninguno
-ORD-2026-06361,4,0.0,Ninguno
-ORD-2026-06366,4,0.0,Ninguno
-ORD-2026-06371,4,0.0,Ninguno
+ORD-2026-06303,5,0.0,Ninguno
+ORD-2026-06304,5,0.0,Ninguno
+ORD-2026-06305,5,0.0,Ninguno
+ORD-2026-06307,3,0.0,Retraso de camion
+ORD-2026-06309,2,603.43,Retraso de camion
+ORD-2026-06311,2,662.15,Retraso de camion
+ORD-2026-06312,3,0.0,Retraso de camion
+ORD-2026-06315,4,0.0,Retraso de camion
+ORD-2026-06318,3,0.0,Retraso de camion
+ORD-2026-06319,4,0.0,Ninguno
+ORD-2026-06320,4,0.0,Ninguno
+ORD-2026-06321,4,0.0,Retraso de camion
+ORD-2026-06324,3,0.0,Ninguno
+ORD-2026-06325,4,0.0,Ninguno
+ORD-2026-06329,2,1633.29,Retraso de camion
+ORD-2026-06333,3,0.0,Ninguno
+ORD-2026-06335,4,0.0,Ninguno
+ORD-2026-06336,2,1352.79,Retraso de camion
+ORD-2026-06337,5,0.0,Ninguno
+ORD-2026-06339,2,982.9,Retraso de camion
+ORD-2026-06340,4,0.0,Ninguno
+ORD-2026-06341,3,0.0,Retraso de camion
+ORD-2026-06343,4,0.0,Retraso de camion
+ORD-2026-06344,5,0.0,Retraso de camion
+ORD-2026-06347,2,1428.12,Faltaban items
+ORD-2026-06348,4,0.0,Faltaban items
+ORD-2026-06349,2,1004.22,Retraso de camion
+ORD-2026-06350,3,0.0,Faltaban items
+ORD-2026-06352,5,0.0,Ninguno
+ORD-2026-06356,2,669.24,Retraso de camion
+ORD-2026-06357,4,0.0,Ninguno
+ORD-2026-06358,5,0.0,Ninguno
+ORD-2026-06359,4,0.0,Ninguno
+ORD-2026-06360,5,0.0,Ninguno
+ORD-2026-06362,1,1798.32,Retraso de camion
+ORD-2026-06363,5,0.0,Ninguno
+ORD-2026-06365,5,0.0,Ninguno
+ORD-2026-06370,2,2030.74,Retraso de camion
+ORD-2026-06371,3,0.0,Retraso de camion
+ORD-2026-06372,5,0.0,Ninguno
+ORD-2026-06373,3,0.0,Ninguno
+ORD-2026-06375,5,0.0,Ninguno
 ORD-2026-06376,5,0.0,Ninguno
-ORD-2026-06381,1,2947.85,Faltaban items
-ORD-2026-06386,4,0.0,Faltaban items
+ORD-2026-06381,4,0.0,Ninguno
+ORD-2026-06382,5,0.0,Ninguno
+ORD-2026-06384,3,0.0,Faltaban items
+ORD-2026-06386,4,0.0,Ninguno
+ORD-2026-06387,3,0.0,Ninguno
+ORD-2026-06389,4,0.0,Ninguno
 ORD-2026-06391,4,0.0,Ninguno
-ORD-2026-06396,5,0.0,Ninguno
-ORD-2026-06401,5,0.0,Ninguno
-ORD-2026-06406,4,0.0,Ninguno
-ORD-2026-06411,4,0.0,Ninguno
-ORD-2026-06416,3,0.0,Caja dañada
-ORD-2026-06421,4,0.0,Ninguno
-ORD-2026-06426,4,0.0,Caja dañada
-ORD-2026-06431,4,0.0,Ninguno
-ORD-2026-06436,5,0.0,Ninguno
-ORD-2026-06441,5,0.0,Ninguno
-ORD-2026-06446,4,0.0,Ninguno
-ORD-2026-06451,3,0.0,Faltaban items
-ORD-2026-06456,4,0.0,Ninguno
-ORD-2026-06461,5,0.0,Ninguno
-ORD-2026-06466,5,0.0,Ninguno
-ORD-2026-06471,3,0.0,Retraso de camion
-ORD-2026-06476,4,0.0,Ninguno
-ORD-2026-06481,4,0.0,Ninguno
-ORD-2026-06486,3,0.0,Ninguno
-ORD-2026-06491,2,2950.93,Retraso de camion
-ORD-2026-06496,3,0.0,Ninguno
-ORD-2026-06501,1,2674.26,Faltaban items
-ORD-2026-06506,4,0.0,Ninguno
-ORD-2026-06511,3,0.0,Retraso de camion
-ORD-2026-06516,5,0.0,Ninguno
-ORD-2026-06521,5,0.0,Ninguno
-ORD-2026-06526,3,0.0,Ninguno
-ORD-2026-06531,3,0.0,Retraso de camion
-ORD-2026-06536,3,0.0,Retraso de camion
-ORD-2026-06541,3,0.0,Retraso de camion
-ORD-2026-06546,4,0.0,Ninguno
-ORD-2026-06551,1,1539.09,Retraso de camion
+ORD-2026-06400,5,0.0,Ninguno
+ORD-2026-06401,4,0.0,Caja dañada
+ORD-2026-06406,2,2865.01,Retraso de camion
+ORD-2026-06407,5,0.0,Ninguno
+ORD-2026-06410,3,0.0,Faltaban items
+ORD-2026-06412,4,0.0,Ninguno
+ORD-2026-06413,1,2943.09,Faltaban items
+ORD-2026-06415,5,0.0,Ninguno
+ORD-2026-06416,2,2550.14,Retraso de camion
+ORD-2026-06417,5,0.0,Ninguno
+ORD-2026-06421,5,0.0,Ninguno
+ORD-2026-06423,2,2832.14,Retraso de camion
+ORD-2026-06424,4,0.0,Ninguno
+ORD-2026-06425,4,0.0,Ninguno
+ORD-2026-06426,3,0.0,Faltaban items
+ORD-2026-06428,2,876.09,Faltaban items
+ORD-2026-06429,4,0.0,Ninguno
+ORD-2026-06434,4,0.0,Ninguno
+ORD-2026-06435,5,0.0,Ninguno
+ORD-2026-06437,5,0.0,Ninguno
+ORD-2026-06438,3,0.0,Retraso de camion
+ORD-2026-06439,4,0.0,Retraso de camion
+ORD-2026-06440,3,0.0,Faltaban items
+ORD-2026-06441,3,0.0,Faltaban items
+ORD-2026-06442,4,0.0,Ninguno
+ORD-2026-06443,5,0.0,Ninguno
+ORD-2026-06446,5,0.0,Ninguno
+ORD-2026-06447,5,0.0,Ninguno
+ORD-2026-06449,3,0.0,Caja dañada
+ORD-2026-06450,3,0.0,Ninguno
+ORD-2026-06451,5,0.0,Ninguno
+ORD-2026-06453,3,0.0,Faltaban items
+ORD-2026-06454,5,0.0,Ninguno
+ORD-2026-06455,2,1207.79,Retraso de camion
+ORD-2026-06457,4,0.0,Ninguno
+ORD-2026-06458,2,2202.92,Retraso de camion
+ORD-2026-06459,5,0.0,Ninguno
+ORD-2026-06460,4,0.0,Ninguno
+ORD-2026-06461,3,0.0,Ninguno
+ORD-2026-06463,3,0.0,Retraso de camion
+ORD-2026-06467,3,0.0,Ninguno
+ORD-2026-06470,5,0.0,Caja dañada
+ORD-2026-06472,5,0.0,Ninguno
+ORD-2026-06474,4,0.0,Ninguno
+ORD-2026-06476,5,0.0,Ninguno
+ORD-2026-06478,2,2842.73,Retraso de camion
+ORD-2026-06480,5,0.0,Ninguno
+ORD-2026-06483,5,0.0,Ninguno
+ORD-2026-06485,5,0.0,Ninguno
+ORD-2026-06486,4,0.0,Faltaban items
+ORD-2026-06488,3,0.0,Retraso de camion
+ORD-2026-06489,5,0.0,Ninguno
+ORD-2026-06490,5,0.0,Ninguno
+ORD-2026-06492,4,0.0,Ninguno
+ORD-2026-06493,4,0.0,Ninguno
+ORD-2026-06494,5,0.0,Ninguno
+ORD-2026-06495,2,2373.04,Retraso de camion
+ORD-2026-06496,5,0.0,Ninguno
+ORD-2026-06497,4,0.0,Ninguno
+ORD-2026-06498,3,0.0,Ninguno
+ORD-2026-06499,5,0.0,Caja dañada
+ORD-2026-06505,2,1401.43,Faltaban items
+ORD-2026-06507,4,0.0,Ninguno
+ORD-2026-06508,5,0.0,Ninguno
+ORD-2026-06509,3,0.0,Ninguno
+ORD-2026-06511,3,0.0,Ninguno
+ORD-2026-06514,5,0.0,Ninguno
+ORD-2026-06519,2,1534.63,Retraso de camion
+ORD-2026-06522,5,0.0,Ninguno
+ORD-2026-06526,2,730.43,Retraso de camion
+ORD-2026-06527,4,0.0,Retraso de camion
+ORD-2026-06530,2,1098.04,Retraso de camion
+ORD-2026-06531,3,0.0,Ninguno
+ORD-2026-06537,4,0.0,Ninguno
+ORD-2026-06539,3,0.0,Faltaban items
+ORD-2026-06543,2,1588.22,Retraso de camion
+ORD-2026-06546,2,2238.68,Retraso de camion
+ORD-2026-06547,4,0.0,Ninguno
+ORD-2026-06549,4,0.0,Ninguno
+ORD-2026-06550,5,0.0,Ninguno
+ORD-2026-06551,4,0.0,Ninguno
+ORD-2026-06552,5,0.0,Ninguno
+ORD-2026-06554,3,0.0,Ninguno
 ORD-2026-06556,5,0.0,Ninguno
-ORD-2026-06561,5,0.0,Ninguno
-ORD-2026-06566,5,0.0,Ninguno
-ORD-2026-06571,4,0.0,Faltaban items
-ORD-2026-06576,4,0.0,Ninguno
-ORD-2026-06581,2,2157.67,Retraso de camion
-ORD-2026-06586,5,0.0,Ninguno
-ORD-2026-06591,4,0.0,Ninguno
-ORD-2026-06596,5,0.0,Ninguno
-ORD-2026-06601,5,0.0,Ninguno
-ORD-2026-06606,5,0.0,Ninguno
-ORD-2026-06611,5,0.0,Caja dañada
-ORD-2026-06616,4,0.0,Retraso de camion
-ORD-2026-06621,5,0.0,Ninguno
+ORD-2026-06558,4,0.0,Ninguno
+ORD-2026-06562,2,2791.5,Ninguno
+ORD-2026-06563,5,0.0,Ninguno
+ORD-2026-06564,5,0.0,Ninguno
+ORD-2026-06567,5,0.0,Ninguno
+ORD-2026-06568,3,0.0,Ninguno
+ORD-2026-06572,5,0.0,Ninguno
+ORD-2026-06576,5,0.0,Ninguno
+ORD-2026-06579,5,0.0,Ninguno
+ORD-2026-06580,5,0.0,Ninguno
+ORD-2026-06584,3,0.0,Retraso de camion
+ORD-2026-06585,5,0.0,Ninguno
+ORD-2026-06586,1,928.47,Retraso de camion
+ORD-2026-06587,3,0.0,Retraso de camion
+ORD-2026-06591,3,0.0,Retraso de camion
+ORD-2026-06595,2,2922.09,Retraso de camion
+ORD-2026-06596,4,0.0,Ninguno
+ORD-2026-06600,2,1098.73,Retraso de camion
+ORD-2026-06602,2,2122.69,Faltaban items
+ORD-2026-06603,5,0.0,Ninguno
+ORD-2026-06604,4,0.0,Ninguno
+ORD-2026-06605,4,0.0,Ninguno
+ORD-2026-06608,4,0.0,Caja dañada
+ORD-2026-06610,2,984.72,Retraso de camion
+ORD-2026-06611,5,0.0,Ninguno
+ORD-2026-06612,4,0.0,Ninguno
+ORD-2026-06614,5,0.0,Ninguno
+ORD-2026-06615,5,0.0,Ninguno
+ORD-2026-06618,5,0.0,Caja dañada
+ORD-2026-06620,4,0.0,Ninguno
+ORD-2026-06621,4,0.0,Ninguno
+ORD-2026-06622,3,0.0,Ninguno
+ORD-2026-06623,2,1600.48,Retraso de camion
+ORD-2026-06624,4,0.0,Ninguno
 ORD-2026-06626,5,0.0,Ninguno
-ORD-2026-06631,5,0.0,Ninguno
-ORD-2026-06636,4,0.0,Ninguno
-ORD-2026-06641,3,0.0,Ninguno
-ORD-2026-06646,4,0.0,Ninguno
-ORD-2026-06651,5,0.0,Ninguno
-ORD-2026-06656,5,0.0,Caja dañada
-ORD-2026-06661,5,0.0,Ninguno
+ORD-2026-06628,5,0.0,Ninguno
+ORD-2026-06632,4,0.0,Ninguno
+ORD-2026-06634,5,0.0,Ninguno
+ORD-2026-06638,5,0.0,Ninguno
+ORD-2026-06642,3,0.0,Retraso de camion
+ORD-2026-06646,3,0.0,Retraso de camion
+ORD-2026-06647,2,2511.62,Retraso de camion
+ORD-2026-06648,2,1976.26,Faltaban items
+ORD-2026-06651,4,0.0,Ninguno
+ORD-2026-06652,2,525.75,Retraso de camion
+ORD-2026-06656,3,0.0,Faltaban items
+ORD-2026-06657,4,0.0,Ninguno
+ORD-2026-06663,4,0.0,Caja dañada
 ORD-2026-06666,4,0.0,Ninguno
-ORD-2026-06671,5,0.0,Caja dañada
-ORD-2026-06676,4,0.0,Ninguno
-ORD-2026-06681,4,0.0,Ninguno
-ORD-2026-06686,1,900.54,Retraso de camion
-ORD-2026-06691,4,0.0,Ninguno
-ORD-2026-06696,4,0.0,Ninguno
-ORD-2026-06701,5,0.0,Ninguno
-ORD-2026-06706,3,0.0,Ninguno
-ORD-2026-06711,7,2188.01,Retraso de camion
-ORD-2026-06716,5,0.0,Ninguno
-ORD-2026-06721,4,0.0,Ninguno
-ORD-2026-06726,2,693.73,Retraso de camion
-ORD-2026-06731,4,0.0,Ninguno
-ORD-2026-06736,5,0.0,Ninguno
-ORD-2026-06741,3,0.0,Ninguno
-ORD-2026-06746,2,2640.63,Retraso de camion
-ORD-2026-06751,4,0.0,Ninguno
-ORD-2026-06756,2,2531.79,Retraso de camion
+ORD-2026-06671,1,1092.7,Faltaban items
+ORD-2026-06672,2,2303.85,Retraso de camion
+ORD-2026-06681,5,0.0,Ninguno
+ORD-2026-06682,3,0.0,Ninguno
+ORD-2026-06684,5,0.0,Caja dañada
+ORD-2026-06685,4,0.0,Ninguno
+ORD-2026-06686,3,0.0,Retraso de camion
+ORD-2026-06687,3,0.0,Retraso de camion
+ORD-2026-06689,1,1857.52,Retraso de camion
+ORD-2026-06690,5,0.0,Ninguno
+ORD-2026-06691,5,0.0,Ninguno
+ORD-2026-06693,4,0.0,Faltaban items
+ORD-2026-06695,3,0.0,Ninguno
+ORD-2026-06696,1,1153.49,Retraso de camion
+ORD-2026-06697,2,708.93,Retraso de camion
+ORD-2026-06698,5,0.0,Ninguno
+ORD-2026-06699,5,0.0,Ninguno
+ORD-2026-06700,2,1041.76,Retraso de camion
+ORD-2026-06702,3,0.0,Ninguno
+ORD-2026-06703,2,645.0,Retraso de camion
+ORD-2026-06705,4,0.0,Ninguno
+ORD-2026-06706,2,2791.06,Retraso de camion
+ORD-2026-06707,5,0.0,Ninguno
+ORD-2026-06710,5,0.0,Ninguno
+ORD-2026-06711,2,2553.61,Faltaban items
+ORD-2026-06714,4,0.0,Ninguno
+ORD-2026-06718,5,0.0,Ninguno
+ORD-2026-06721,2,1898.61,Ninguno
+ORD-2026-06722,4,0.0,Ninguno
+ORD-2026-06723,3,0.0,Retraso de camion
+ORD-2026-06724,3,0.0,Ninguno
+ORD-2026-06726,4,0.0,Ninguno
+ORD-2026-06727,5,0.0,Ninguno
+ORD-2026-06729,1,952.42,Retraso de camion
+ORD-2026-06731,2,1510.05,Faltaban items
+ORD-2026-06733,4,0.0,Ninguno
+ORD-2026-06737,3,0.0,Retraso de camion
+ORD-2026-06738,3,0.0,Retraso de camion
+ORD-2026-06739,3,0.0,Ninguno
+ORD-2026-06741,3,0.0,Retraso de camion
+ORD-2026-06742,2,2269.13,Retraso de camion
+ORD-2026-06743,4,0.0,Ninguno
+ORD-2026-06744,4,0.0,Faltaban items
+ORD-2026-06746,4,0.0,Ninguno
+ORD-2026-06748,4,0.0,Ninguno
+ORD-2026-06749,1,914.28,Retraso de camion
+ORD-2026-06752,4,0.0,Ninguno
+ORD-2026-06754,3,0.0,Ninguno
+ORD-2026-06755,5,0.0,Ninguno
+ORD-2026-06756,3,0.0,Faltaban items
+ORD-2026-06757,5,0.0,Ninguno
+ORD-2026-06759,4,0.0,Ninguno
+ORD-2026-06760,3,0.0,Retraso de camion
 ORD-2026-06761,5,0.0,Ninguno
-ORD-2026-06766,4,0.0,Ninguno
-ORD-2026-06771,4,0.0,Ninguno
-ORD-2026-06776,3,0.0,Retraso de camion
-ORD-2026-06781,4,0.0,Ninguno
-ORD-2026-06786,4,0.0,Caja dañada
+ORD-2026-06763,4,0.0,Ninguno
+ORD-2026-06765,3,0.0,Ninguno
+ORD-2026-06766,5,0.0,Caja dañada
+ORD-2026-06767,4,0.0,Retraso de camion
+ORD-2026-06771,3,0.0,Retraso de camion
+ORD-2026-06779,3,0.0,Faltaban items
+ORD-2026-06783,3,0.0,Retraso de camion
+ORD-2026-06784,4,0.0,Retraso de camion
+ORD-2026-06785,3,0.0,Ninguno
+ORD-2026-06787,5,0.0,Ninguno
+ORD-2026-06788,5,0.0,Ninguno
+ORD-2026-06790,3,0.0,Ninguno
 ORD-2026-06791,4,0.0,Ninguno
-ORD-2026-06796,4,0.0,Ninguno
+ORD-2026-06794,4,0.0,Ninguno
+ORD-2026-06797,4,0.0,Retraso de camion
+ORD-2026-06798,2,2654.1,Retraso de camion
+ORD-2026-06799,4,0.0,Ninguno
 ORD-2026-06801,4,0.0,Ninguno
-ORD-2026-06806,3,0.0,Retraso de camion
-ORD-2026-06811,4,0.0,Ninguno
-ORD-2026-06816,5,0.0,Ninguno
+ORD-2026-06803,3,0.0,Retraso de camion
+ORD-2026-06806,5,0.0,Ninguno
+ORD-2026-06809,5,0.0,Ninguno
+ORD-2026-06811,3,0.0,Retraso de camion
+ORD-2026-06815,4,0.0,Faltaban items
+ORD-2026-06817,2,2579.52,Retraso de camion
+ORD-2026-06818,3,0.0,Ninguno
 ORD-2026-06821,4,0.0,Ninguno
-ORD-2026-06826,5,0.0,Ninguno
-ORD-2026-06831,3,0.0,Ninguno
-ORD-2026-06836,2,935.72,Retraso de camion
-ORD-2026-06841,5,0.0,Ninguno
-ORD-2026-06846,2,2564.78,Ninguno
-ORD-2026-06851,3,0.0,Ninguno
-ORD-2026-06856,4,0.0,Ninguno
-ORD-2026-06861,3,0.0,Ninguno
-ORD-2026-06866,5,0.0,Ninguno
-ORD-2026-06871,3,0.0,Ninguno
-ORD-2026-06876,3,0.0,Ninguno
-ORD-2026-06881,4,0.0,Ninguno
-ORD-2026-06886,5,0.0,Ninguno
-ORD-2026-06891,4,0.0,Ninguno
-ORD-2026-06896,5,0.0,Ninguno
-ORD-2026-06901,5,0.0,Caja dañada
-ORD-2026-06906,2,2331.64,Retraso de camion
-ORD-2026-06911,5,0.0,Ninguno
-ORD-2026-06916,5,0.0,Ninguno
-ORD-2026-06921,5,0.0,Ninguno
+ORD-2026-06822,3,0.0,Ninguno
+ORD-2026-06823,5,0.0,Ninguno
+ORD-2026-06824,3,0.0,Ninguno
+ORD-2026-06825,5,0.0,Ninguno
+ORD-2026-06827,1,2474.14,Faltaban items
+ORD-2026-06830,5,0.0,Ninguno
+ORD-2026-06831,3,0.0,Retraso de camion
+ORD-2026-06832,1,938.0,Retraso de camion
+ORD-2026-06838,5,0.0,Ninguno
+ORD-2026-06840,4,0.0,Ninguno
+ORD-2026-06843,3,0.0,Retraso de camion
+ORD-2026-06844,5,0.0,Ninguno
+ORD-2026-06845,2,1461.05,Retraso de camion
+ORD-2026-06847,5,0.0,Retraso de camion
+ORD-2026-06850,5,0.0,Ninguno
+ORD-2026-06854,5,0.0,Ninguno
+ORD-2026-06857,4,0.0,Retraso de camion
+ORD-2026-06859,5,0.0,Ninguno
+ORD-2026-06860,3,0.0,Retraso de camion
+ORD-2026-06861,3,0.0,Retraso de camion
+ORD-2026-06862,4,0.0,Ninguno
+ORD-2026-06866,1,2107.01,Faltaban items
+ORD-2026-06867,2,2277.89,Faltaban items
+ORD-2026-06870,3,0.0,Faltaban items
+ORD-2026-06877,2,1767.19,Faltaban items
+ORD-2026-06879,4,0.0,Ninguno
+ORD-2026-06883,4,0.0,Ninguno
+ORD-2026-06885,4,0.0,Ninguno
+ORD-2026-06888,4,0.0,Ninguno
+ORD-2026-06889,5,0.0,Ninguno
+ORD-2026-06890,2,1219.04,Faltaban items
+ORD-2026-06896,2,2421.01,Faltaban items
+ORD-2026-06902,4,0.0,Ninguno
+ORD-2026-06905,3,0.0,Retraso de camion
+ORD-2026-06908,3,0.0,Retraso de camion
+ORD-2026-06910,5,0.0,Ninguno
+ORD-2026-06912,3,0.0,Retraso de camion
+ORD-2026-06913,2,631.42,Retraso de camion
+ORD-2026-06915,3,0.0,Ninguno
+ORD-2026-06920,4,0.0,Retraso de camion
+ORD-2026-06921,4,0.0,Ninguno
+ORD-2026-06924,4,0.0,Ninguno
 ORD-2026-06926,3,0.0,Retraso de camion
-ORD-2026-06931,4,0.0,Ninguno
-ORD-2026-06936,5,0.0,Ninguno
-ORD-2026-06941,5,0.0,Caja dañada
-ORD-2026-06946,5,0.0,Ninguno
-ORD-2026-06951,3,0.0,Caja dañada
+ORD-2026-06927,2,2726.41,Retraso de camion
+ORD-2026-06933,5,0.0,Ninguno
+ORD-2026-06936,3,0.0,Retraso de camion
+ORD-2026-06938,5,0.0,Ninguno
+ORD-2026-06939,4,0.0,Ninguno
+ORD-2026-06941,4,0.0,Ninguno
+ORD-2026-06946,2,2179.89,Faltaban items
+ORD-2026-06948,4,0.0,Ninguno
+ORD-2026-06951,5,0.0,Ninguno
+ORD-2026-06952,3,0.0,Retraso de camion
+ORD-2026-06954,5,0.0,Ninguno
+ORD-2026-06955,1,1330.9,Faltaban items
 ORD-2026-06956,4,0.0,Ninguno
-ORD-2026-06961,3,0.0,Ninguno
-ORD-2026-06966,5,0.0,Ninguno
-ORD-2026-06971,3,0.0,Ninguno
-ORD-2026-06976,4,0.0,Ninguno
+ORD-2026-06958,5,0.0,Ninguno
+ORD-2026-06960,2,2602.29,Retraso de camion
+ORD-2026-06961,5,0.0,Ninguno
+ORD-2026-06966,1,2689.78,Retraso de camion
+ORD-2026-06967,4,0.0,Ninguno
+ORD-2026-06968,3,0.0,Ninguno
+ORD-2026-06970,5,0.0,Ninguno
+ORD-2026-06971,5,0.0,Caja dañada
+ORD-2026-06972,2,1325.96,Ninguno
+ORD-2026-06973,4,0.0,Retraso de camion
+ORD-2026-06974,3,0.0,Retraso de camion
+ORD-2026-06978,5,0.0,Ninguno
+ORD-2026-06979,3,0.0,Ninguno
 ORD-2026-06981,4,0.0,Ninguno
-ORD-2026-06986,4,0.0,Ninguno
-ORD-2026-06991,5,0.0,Ninguno
-ORD-2026-06996,3,0.0,Ninguno
-ORD-2026-07001,4,0.0,Ninguno
-ORD-2026-07006,4,0.0,Ninguno
-ORD-2026-07011,2,2508.35,Retraso de camion
-ORD-2026-07016,5,0.0,Ninguno
+ORD-2026-06987,3,0.0,Ninguno
+ORD-2026-06990,3,0.0,Ninguno
+ORD-2026-06993,5,0.0,Caja dañada
+ORD-2026-06995,5,0.0,Ninguno
+ORD-2026-06996,1,1686.58,Faltaban items
+ORD-2026-06997,5,0.0,Ninguno
+ORD-2026-07000,4,0.0,Ninguno
+ORD-2026-07004,4,0.0,Ninguno
+ORD-2026-07011,3,0.0,Retraso de camion
+ORD-2026-07013,2,2540.12,Retraso de camion
+ORD-2026-07014,5,0.0,Ninguno
+ORD-2026-07015,3,0.0,Retraso de camion
+ORD-2026-07016,3,0.0,Ninguno
+ORD-2026-07019,1,1044.24,Retraso de camion
 ORD-2026-07021,5,0.0,Ninguno
-ORD-2026-07026,3,0.0,Ninguno
-ORD-2026-07031,4,0.0,Ninguno
-ORD-2026-07036,5,0.0,Ninguno
-ORD-2026-07041,5,0.0,Ninguno
-ORD-2026-07046,5,0.0,Ninguno
-ORD-2026-07051,4,0.0,Ninguno
-ORD-2026-07056,5,0.0,Caja dañada
-ORD-2026-07061,3,0.0,Ninguno
-ORD-2026-07066,3,0.0,Retraso de camion
-ORD-2026-07071,5,0.0,Caja dañada
-ORD-2026-07076,3,0.0,Ninguno
-ORD-2026-07081,5,0.0,Ninguno
-ORD-2026-07086,3,0.0,Faltaban items
-ORD-2026-07091,5,0.0,Ninguno
-ORD-2026-07096,4,0.0,Ninguno
-ORD-2026-07101,5,0.0,Ninguno
-ORD-2026-07106,5,0.0,Ninguno
-ORD-2026-07111,4,0.0,Retraso de camion
-ORD-2026-07116,3,0.0,Ninguno
-ORD-2026-07121,3,0.0,Retraso de camion
-ORD-2026-07126,4,0.0,Caja dañada
-ORD-2026-07131,3,0.0,Retraso de camion
-ORD-2026-07136,4,0.0,Ninguno
-ORD-2026-07141,5,0.0,Ninguno
-ORD-2026-07146,4,0.0,Faltaban items
-ORD-2026-07151,2,782.81,Ninguno
-ORD-2026-07156,5,0.0,Ninguno
-ORD-2026-07161,2,762.99,Faltaban items
-ORD-2026-07166,4,0.0,Ninguno
-ORD-2026-07171,3,0.0,Ninguno
-ORD-2026-07176,5,0.0,Caja dañada
-ORD-2026-07181,4,0.0,Ninguno
-ORD-2026-07186,4,0.0,Ninguno
+ORD-2026-07025,4,0.0,Ninguno
+ORD-2026-07026,4,0.0,Ninguno
+ORD-2026-07028,5,0.0,Ninguno
+ORD-2026-07029,5,0.0,Caja dañada
+ORD-2026-07030,5,0.0,Ninguno
+ORD-2026-07031,5,0.0,Ninguno
+ORD-2026-07032,1,2127.17,Retraso de camion
+ORD-2026-07033,2,957.26,Retraso de camion
+ORD-2026-07036,4,0.0,Ninguno
+ORD-2026-07037,5,0.0,Ninguno
+ORD-2026-07039,5,0.0,Ninguno
+ORD-2026-07040,2,2502.16,Retraso de camion
+ORD-2026-07042,1,661.37,Faltaban items
+ORD-2026-07043,3,0.0,Retraso de camion
+ORD-2026-07044,2,945.37,Faltaban items
+ORD-2026-07045,5,0.0,Ninguno
+ORD-2026-07046,3,0.0,Retraso de camion
+ORD-2026-07048,4,0.0,Ninguno
+ORD-2026-07050,1,2290.03,Faltaban items
+ORD-2026-07051,5,0.0,Ninguno
+ORD-2026-07053,4,0.0,Ninguno
+ORD-2026-07055,3,0.0,Faltaban items
+ORD-2026-07056,4,0.0,Ninguno
+ORD-2026-07058,3,0.0,Ninguno
+ORD-2026-07059,5,0.0,Caja dañada
+ORD-2026-07060,3,0.0,Retraso de camion
+ORD-2026-07062,4,0.0,Retraso de camion
+ORD-2026-07064,2,2453.57,Faltaban items
+ORD-2026-07065,4,0.0,Ninguno
+ORD-2026-07070,5,0.0,Ninguno
+ORD-2026-07071,1,1847.29,Retraso de camion
+ORD-2026-07072,4,0.0,Ninguno
+ORD-2026-07074,4,0.0,Ninguno
+ORD-2026-07075,5,0.0,Ninguno
+ORD-2026-07076,5,0.0,Ninguno
+ORD-2026-07077,5,0.0,Ninguno
+ORD-2026-07078,5,0.0,Ninguno
+ORD-2026-07079,5,0.0,Caja dañada
+ORD-2026-07080,5,0.0,Ninguno
+ORD-2026-07081,4,0.0,Ninguno
+ORD-2026-07087,5,0.0,Ninguno
+ORD-2026-07088,5,0.0,Ninguno
+ORD-2026-07089,4,0.0,Caja dañada
+ORD-2026-07090,4,0.0,Ninguno
+ORD-2026-07092,5,0.0,Ninguno
+ORD-2026-07095,4,0.0,Ninguno
+ORD-2026-07096,3,0.0,Faltaban items
+ORD-2026-07097,5,0.0,Ninguno
+ORD-2026-07098,2,1879.77,Retraso de camion
+ORD-2026-07102,4,0.0,Ninguno
+ORD-2026-07106,3,0.0,Retraso de camion
+ORD-2026-07107,3,0.0,Faltaban items
+ORD-2026-07108,4,0.0,Retraso de camion
+ORD-2026-07109,5,0.0,Ninguno
+ORD-2026-07111,3,0.0,Retraso de camion
+ORD-2026-07113,1,591.99,Retraso de camion
+ORD-2026-07114,5,0.0,Ninguno
+ORD-2026-07115,5,0.0,Ninguno
+ORD-2026-07116,2,2046.12,Ninguno
+ORD-2026-07119,4,0.0,Ninguno
+ORD-2026-07120,3,0.0,Caja dañada
+ORD-2026-07121,5,0.0,Ninguno
+ORD-2026-07122,5,0.0,Ninguno
+ORD-2026-07123,5,0.0,Ninguno
+ORD-2026-07126,3,0.0,Retraso de camion
+ORD-2026-07127,4,0.0,Ninguno
+ORD-2026-07128,4,0.0,Ninguno
+ORD-2026-07133,3,0.0,Ninguno
+ORD-2026-07135,4,0.0,Ninguno
+ORD-2026-07138,3,0.0,Faltaban items
+ORD-2026-07140,5,0.0,Ninguno
+ORD-2026-07141,4,0.0,Ninguno
+ORD-2026-07144,5,0.0,Ninguno
+ORD-2026-07147,3,0.0,Retraso de camion
+ORD-2026-07148,5,0.0,Ninguno
+ORD-2026-07149,5,0.0,Ninguno
+ORD-2026-07150,5,0.0,Ninguno
+ORD-2026-07152,5,0.0,Ninguno
+ORD-2026-07153,4,0.0,Ninguno
+ORD-2026-07154,4,0.0,Retraso de camion
+ORD-2026-07155,5,0.0,Ninguno
+ORD-2026-07156,2,1326.32,Retraso de camion
+ORD-2026-07157,4,0.0,Ninguno
+ORD-2026-07158,5,0.0,Ninguno
+ORD-2026-07160,4,0.0,Ninguno
+ORD-2026-07161,4,0.0,Ninguno
+ORD-2026-07162,4,0.0,Ninguno
+ORD-2026-07163,5,0.0,Ninguno
+ORD-2026-07167,5,0.0,Ninguno
+ORD-2026-07170,2,2843.95,Retraso de camion
+ORD-2026-07172,5,0.0,Ninguno
+ORD-2026-07173,5,0.0,Ninguno
+ORD-2026-07175,5,0.0,Ninguno
+ORD-2026-07177,5,0.0,Ninguno
+ORD-2026-07180,1,517.71,Retraso de camion
+ORD-2026-07181,2,2509.32,Retraso de camion
+ORD-2026-07182,3,0.0,Ninguno
+ORD-2026-07183,4,0.0,Ninguno
+ORD-2026-07184,5,0.0,Caja dañada
+ORD-2026-07185,2,1414.11,Retraso de camion
+ORD-2026-07187,5,0.0,Ninguno
+ORD-2026-07188,4,0.0,Ninguno
+ORD-2026-07189,3,0.0,Ninguno
 ORD-2026-07191,5,0.0,Ninguno
-ORD-2026-07196,5,0.0,Ninguno
-ORD-2026-07201,2,566.44,Faltaban items
-ORD-2026-07206,5,0.0,Ninguno
-ORD-2026-07211,3,0.0,Retraso de camion
-ORD-2026-07216,5,0.0,Ninguno
-ORD-2026-07221,5,0.0,Ninguno
-ORD-2026-07226,5,0.0,Ninguno
-ORD-2026-07231,5,0.0,Ninguno
-ORD-2026-07236,5,0.0,Ninguno
-ORD-2026-07241,3,0.0,Retraso de camion
-ORD-2026-07246,5,0.0,Ninguno
-ORD-2026-07251,5,0.0,Ninguno
-ORD-2026-07256,1,1927.24,Faltaban items
-ORD-2026-07261,3,0.0,Retraso de camion
+ORD-2026-07193,4,0.0,Ninguno
+ORD-2026-07200,2,2960.77,Retraso de camion
+ORD-2026-07202,3,0.0,Ninguno
+ORD-2026-07205,2,2001.86,Faltaban items
+ORD-2026-07209,5,0.0,Caja dañada
+ORD-2026-07211,5,0.0,Ninguno
+ORD-2026-07212,3,0.0,Faltaban items
+ORD-2026-07214,5,0.0,Ninguno
+ORD-2026-07215,4,0.0,Ninguno
+ORD-2026-07217,4,0.0,Ninguno
+ORD-2026-07218,2,2232.83,Faltaban items
+ORD-2026-07224,5,0.0,Ninguno
+ORD-2026-07228,5,0.0,Ninguno
+ORD-2026-07230,2,1563.71,Retraso de camion
+ORD-2026-07231,5,0.0,Caja dañada
+ORD-2026-07233,3,0.0,Ninguno
+ORD-2026-07237,1,1568.18,Faltaban items
+ORD-2026-07238,2,2560.17,Faltaban items
+ORD-2026-07239,3,0.0,Retraso de camion
+ORD-2026-07240,2,1271.82,Retraso de camion
+ORD-2026-07242,5,0.0,Ninguno
+ORD-2026-07243,3,0.0,Ninguno
+ORD-2026-07244,3,0.0,Faltaban items
+ORD-2026-07245,5,0.0,Ninguno
+ORD-2026-07246,3,0.0,Retraso de camion
+ORD-2026-07248,3,0.0,Retraso de camion
+ORD-2026-07249,1,1200.12,Retraso de camion
+ORD-2026-07250,5,0.0,Ninguno
+ORD-2026-07252,4,0.0,Caja dañada
+ORD-2026-07253,4,0.0,Ninguno
+ORD-2026-07255,3,0.0,Ninguno
+ORD-2026-07257,4,0.0,Retraso de camion
+ORD-2026-07259,3,0.0,Ninguno
+ORD-2026-07261,2,726.92,Ninguno
+ORD-2026-07262,3,0.0,Retraso de camion
+ORD-2026-07264,5,0.0,Ninguno
 ORD-2026-07266,4,0.0,Ninguno
-ORD-2026-07271,4,0.0,Ninguno
-ORD-2026-07276,5,0.0,Caja dañada
-ORD-2026-07281,4,0.0,Ninguno
+ORD-2026-07267,2,2211.36,Retraso de camion
+ORD-2026-07268,4,0.0,Ninguno
+ORD-2026-07271,5,0.0,Ninguno
+ORD-2026-07274,5,0.0,Ninguno
+ORD-2026-07275,4,0.0,Faltaban items
+ORD-2026-07277,1,2383.89,Faltaban items
+ORD-2026-07278,3,0.0,Retraso de camion
+ORD-2026-07282,4,0.0,Ninguno
+ORD-2026-07283,4,0.0,Ninguno
+ORD-2026-07285,3,0.0,Ninguno
 ORD-2026-07286,5,0.0,Ninguno
-ORD-2026-07291,4,0.0,Ninguno
-ORD-2026-07296,5,0.0,Ninguno
-ORD-2026-07301,2,2041.33,Faltaban items
-ORD-2026-07306,3,0.0,Retraso de camion
-ORD-2026-07311,5,0.0,Ninguno
-ORD-2026-07316,5,0.0,Ninguno
-ORD-2026-07321,4,0.0,Caja dañada
-ORD-2026-07326,4,0.0,Ninguno
-ORD-2026-07331,5,0.0,Ninguno
-ORD-2026-07336,4,0.0,Ninguno
-ORD-2026-07341,2,2656.22,Faltaban items
-ORD-2026-07346,1,2298.99,Retraso de camion
-ORD-2026-07351,4,0.0,Ninguno
-ORD-2026-07356,3,0.0,Ninguno
-ORD-2026-07361,5,0.0,Ninguno
-ORD-2026-07366,5,0.0,Ninguno
-ORD-2026-07371,3,0.0,Ninguno
-ORD-2026-07376,1,2509.94,Retraso de camion
-ORD-2026-07381,4,0.0,Ninguno
-ORD-2026-07386,3,0.0,Retraso de camion
-ORD-2026-07391,5,0.0,Ninguno
-ORD-2026-07396,5,0.0,Ninguno
-ORD-2026-07401,4,0.0,Ninguno
-ORD-2026-07406,2,1818.35,Retraso de camion
-ORD-2026-07411,3,0.0,Caja dañada
-ORD-2026-07416,2,730.22,Ninguno
-ORD-2026-07421,4,0.0,Ninguno
-ORD-2026-07426,5,0.0,Ninguno
-ORD-2026-07431,5,0.0,Ninguno
-ORD-2026-07436,5,0.0,Ninguno
-ORD-2026-07441,5,0.0,Ninguno
-ORD-2026-07446,3,0.0,Ninguno
-ORD-2026-07451,5,0.0,Caja dañada
-ORD-2026-07456,5,0.0,Ninguno
-ORD-2026-07461,5,0.0,Retraso de camion
-ORD-2026-07466,3,0.0,Ninguno
-ORD-2026-07471,4,0.0,Ninguno
-ORD-2026-07476,4,0.0,Ninguno
-ORD-2026-07481,3,0.0,Ninguno
-ORD-2026-07486,4,0.0,Ninguno
-ORD-2026-07491,3,0.0,Faltaban items
-ORD-2026-07496,4,0.0,Ninguno
-ORD-2026-06496,3,0.0,Ninguno
-ORD-2026-02741,2,602.96,Ninguno
-ORD-2026-06946,5,0.0,Ninguno
-ORD-2026-04111,3,0.0,Retraso de camion
-ORD-2026-03306,5,0.0,Ninguno
-ORD-2026-01391,4,0.0,Ninguno
-ORD-2026-03961,3,0.0,Ninguno
-ORD-2026-03891,2,851.21,Retraso de camion
-ORD-2026-03931,5,0.0,Ninguno
-ORD-2026-04616,5,0.0,Ninguno
-ORD-2026-05361,4,0.0,Caja dañada
-ORD-2026-01846,2,1380.89,Retraso de camion
-ORD-2026-05161,3,0.0,Ninguno
-ORD-2026-05906,4,0.0,Ninguno
-ORD-2026-07131,3,0.0,Retraso de camion
+ORD-2026-07287,2,1584.58,Ninguno
+ORD-2026-07290,4,0.0,Ninguno
+ORD-2026-07291,4,0.0,Retraso de camion
+ORD-2026-07292,4,0.0,Ninguno
+ORD-2026-07293,4,0.0,Retraso de camion
+ORD-2026-07294,2,829.04,Retraso de camion
+ORD-2026-07296,4,0.0,Retraso de camion
+ORD-2026-07297,4,0.0,Retraso de camion
+ORD-2026-07298,5,0.0,Ninguno
+ORD-2026-07299,2,1062.12,Ninguno
+ORD-2026-07301,2,1454.24,Retraso de camion
+ORD-2026-07306,3,0.0,Ninguno
+ORD-2026-07307,5,0.0,Ninguno
+ORD-2026-07309,3,0.0,Retraso de camion
+ORD-2026-07310,5,0.0,Ninguno
+ORD-2026-07311,3,0.0,Retraso de camion
+ORD-2026-07312,3,0.0,Ninguno
+ORD-2026-07315,4,0.0,Ninguno
+ORD-2026-07318,5,0.0,Ninguno
+ORD-2026-07320,3,0.0,Faltaban items
+ORD-2026-07321,2,709.07,Ninguno
+ORD-2026-07322,4,0.0,Ninguno
+ORD-2026-07323,5,0.0,Ninguno
+ORD-2026-07327,4,0.0,Ninguno
+ORD-2026-07328,3,0.0,Retraso de camion
+ORD-2026-07329,2,519.57,Retraso de camion
+ORD-2026-07330,4,0.0,Ninguno
+ORD-2026-07333,5,0.0,Ninguno
+ORD-2026-07334,4,0.0,Ninguno
+ORD-2026-07335,2,2743.83,Faltaban items
+ORD-2026-07336,2,2727.24,Ninguno
+ORD-2026-07337,4,0.0,Ninguno
+ORD-2026-07340,4,0.0,Ninguno
+ORD-2026-07341,5,0.0,Caja dañada
+ORD-2026-07342,5,0.0,Ninguno
+ORD-2026-07344,2,2378.48,Faltaban items
+ORD-2026-07345,3,0.0,Retraso de camion
+ORD-2026-07348,3,0.0,Retraso de camion
+ORD-2026-07349,1,2579.72,Faltaban items
+ORD-2026-07350,5,0.0,Ninguno
+ORD-2026-07352,5,0.0,Ninguno
+ORD-2026-07355,4,0.0,Ninguno
+ORD-2026-07357,5,0.0,Ninguno
+ORD-2026-07359,5,0.0,Ninguno
+ORD-2026-07361,1,1094.86,Retraso de camion
+ORD-2026-07363,2,2053.34,Retraso de camion
+ORD-2026-07365,5,0.0,Ninguno
+ORD-2026-07368,4,0.0,Ninguno
+ORD-2026-07373,4,0.0,Ninguno
+ORD-2026-07374,5,0.0,Ninguno
+ORD-2026-07382,5,0.0,Ninguno
+ORD-2026-07392,2,1861.8,Faltaban items
+ORD-2026-07394,3,0.0,Retraso de camion
+ORD-2026-07395,3,0.0,Retraso de camion
+ORD-2026-07396,2,1625.55,Retraso de camion
+ORD-2026-07398,5,0.0,Ninguno
+ORD-2026-07400,4,0.0,Retraso de camion
+ORD-2026-07405,5,0.0,Ninguno
+ORD-2026-07406,4,0.0,Ninguno
+ORD-2026-07407,2,2718.17,Faltaban items
+ORD-2026-07408,5,0.0,Ninguno
+ORD-2026-07409,1,571.36,Retraso de camion
+ORD-2026-07410,3,0.0,Ninguno
+ORD-2026-07412,4,0.0,Ninguno
+ORD-2026-07415,4,0.0,Ninguno
+ORD-2026-07416,4,0.0,Retraso de camion
+ORD-2026-07417,5,0.0,Ninguno
+ORD-2026-07422,1,1760.84,Retraso de camion
+ORD-2026-07424,3,0.0,Retraso de camion
+ORD-2026-07426,2,1979.42,Retraso de camion
+ORD-2026-07429,3,0.0,Ninguno
+ORD-2026-07432,5,0.0,Retraso de camion
+ORD-2026-07434,4,0.0,Caja dañada
+ORD-2026-07435,2,1811.05,Faltaban items
+ORD-2026-07438,3,0.0,Ninguno
+ORD-2026-07439,3,0.0,Ninguno
+ORD-2026-07442,5,0.0,Ninguno
+ORD-2026-07445,5,0.0,Ninguno
+ORD-2026-07446,5,0.0,Ninguno
+ORD-2026-07448,4,0.0,Ninguno
+ORD-2026-07450,4,0.0,Ninguno
+ORD-2026-07455,4,0.0,Ninguno
+ORD-2026-07458,5,0.0,Ninguno
+ORD-2026-07459,4,0.0,Ninguno
+ORD-2026-07461,3,0.0,Ninguno
+ORD-2026-07462,5,0.0,Ninguno
+ORD-2026-07463,4,0.0,Retraso de camion
+ORD-2026-07465,3,0.0,Retraso de camion
+ORD-2026-07466,4,0.0,Faltaban items
+ORD-2026-07467,3,0.0,Ninguno
+ORD-2026-07469,3,0.0,Retraso de camion
+ORD-2026-07470,5,0.0,Ninguno
+ORD-2026-07471,5,0.0,Ninguno
+ORD-2026-07472,4,0.0,Ninguno
+ORD-2026-07473,5,0.0,Ninguno
+ORD-2026-07474,4,0.0,Ninguno
+ORD-2026-07478,1,1180.37,Faltaban items
+ORD-2026-07479,4,0.0,Ninguno
+ORD-2026-07484,4,0.0,Ninguno
+ORD-2026-07485,3,0.0,Faltaban items
+ORD-2026-07487,2,2136.77,Faltaban items
+ORD-2026-07490,4,0.0,Ninguno
+ORD-2026-07497,2,1168.59,Retraso de camion
+ORD-2026-07498,5,0.0,Ninguno
+ORD-2026-07500,4,0.0,Retraso de camion
+ORD-2026-04025,4,0.0,Ninguno
+ORD-2026-00317,2,1745.76,Retraso de camion
+ORD-2026-06165,3,0.0,Ninguno
+ORD-2026-03567,2,2420.78,Faltaban items
+ORD-2026-04841,4,0.0,Ninguno
+ORD-2026-07498,5,0.0,Ninguno
+ORD-2026-03625,5,0.0,Ninguno
+ORD-2026-02836,2,1322.2,Retraso de camion
+ORD-2026-07184,5,0.0,Caja dañada
+ORD-2026-06731,2,1510.05,Faltaban items
+ORD-2026-01644,4,0.0,Caja dañada
+ORD-2026-01627,5,0.0,Caja dañada
+ORD-2026-06271,4,0.0,Retraso de camion
+ORD-2026-04749,4,0.0,Retraso de camion
+ORD-2026-05670,4,0.0,Ninguno
