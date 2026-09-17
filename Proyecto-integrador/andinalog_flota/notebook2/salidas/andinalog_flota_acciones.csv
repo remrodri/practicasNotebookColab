@@ -1,0 +1,5 @@
+﻿fila_bronze,columna_afectada,codigo_error,valor_original,version_diagnostico,estado_tratamiento,tratamiento_aplicado,detalle_resultado
+20,camion_id,FORMATO_INVALIDO, cam-20 ,GIAD-M3-S4-FLOTA-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+30,camion_id,FORMATO_INVALIDO, cam-30 ,GIAD-M3-S4-FLOTA-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+31,camion_id,DUPLICADO_IDENTICO,CAM-01,GIAD-M3-S4-FLOTA-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
+32,camion_id,DUPLICADO_IDENTICO,CAM-27,GIAD-M3-S4-FLOTA-diagnostico-v2,PENDIENTE,NINGUNO,Sin regla aprobada o evidencia suficiente
