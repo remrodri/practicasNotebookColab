@@ -1,0 +1,5 @@
+﻿dimension_calidad,incidencias,filas_afectadas,porcentaje_filas
+COMPLETITUD,180,180,0.62
+CONFORMIDAD,115,114,0.39
+UNICIDAD,125,125,0.43
+VALIDEZ,140,140,0.48

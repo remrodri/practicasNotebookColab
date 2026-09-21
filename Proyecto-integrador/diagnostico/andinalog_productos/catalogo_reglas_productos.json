@@ -1,0 +1,268 @@
+{
+  "version_catalogo": "1.0.0",
+  "clave_candidata": [
+    "producto_id"
+  ],
+  "nota_clave": "producto_id es clave candidata; confirmar con negocio. Se distinguen duplicados idénticos, conflictos de contenido y colisiones de ID normalizado.",
+  "columnas_bronze": [
+    "producto_id",
+    "nombre_producto",
+    "categoria_logistica",
+    "temperatura_conservacion_requerida_c",
+    "tolerancia_temperatura_c",
+    "precio_unitario_bob",
+    "costo_unitario_bob"
+  ],
+  "reglas": [
+    {
+      "rule_id": "PROD-R001",
+      "columna": "producto_id",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R002",
+      "columna": "nombre_producto",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R003",
+      "columna": "categoria_logistica",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R004",
+      "columna": "temperatura_conservacion_requerida_c",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R005",
+      "columna": "tolerancia_temperatura_c",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R006",
+      "columna": "precio_unitario_bob",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R007",
+      "columna": "costo_unitario_bob",
+      "tipo_regla": "not_null",
+      "codigo_error": "FALTANTE",
+      "tipo_problema": "FALTANTE",
+      "dimension_calidad": "COMPLETITUD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Campo obligatorio vacío"
+    },
+    {
+      "rule_id": "PROD-R008",
+      "columna": "producto_id",
+      "tipo_regla": "regex",
+      "codigo_error": "FORMATO_INVALIDO",
+      "tipo_problema": "FORMATO",
+      "dimension_calidad": "CONFORMIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Se espera PROD-### exactamente",
+      "parametros": {
+        "patron": "PROD-\\d{3}",
+        "exact_raw": true
+      }
+    },
+    {
+      "rule_id": "PROD-R009",
+      "columna": "categoria_logistica",
+      "tipo_regla": "allowed_values",
+      "codigo_error": "VALOR_NO_RECONOCIDO",
+      "tipo_problema": "VALIDEZ",
+      "dimension_calidad": "VALIDEZ",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Categoría distinta de Fresco, Congelado o Seco",
+      "parametros": {
+        "valores": [
+          "FRESCO",
+          "CONGELADO",
+          "SECO"
+        ]
+      }
+    },
+    {
+      "rule_id": "PROD-R010",
+      "columna": "temperatura_conservacion_requerida_c",
+      "tipo_regla": "numeric",
+      "codigo_error": "NO_NUMERICO",
+      "tipo_problema": "FORMATO",
+      "dimension_calidad": "CONFORMIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Valor no convertible a número"
+    },
+    {
+      "rule_id": "PROD-R011",
+      "columna": "tolerancia_temperatura_c",
+      "tipo_regla": "numeric",
+      "codigo_error": "NO_NUMERICO",
+      "tipo_problema": "FORMATO",
+      "dimension_calidad": "CONFORMIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Valor no convertible a número"
+    },
+    {
+      "rule_id": "PROD-R012",
+      "columna": "precio_unitario_bob",
+      "tipo_regla": "numeric",
+      "codigo_error": "NO_NUMERICO",
+      "tipo_problema": "FORMATO",
+      "dimension_calidad": "CONFORMIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Valor no convertible a número"
+    },
+    {
+      "rule_id": "PROD-R013",
+      "columna": "costo_unitario_bob",
+      "tipo_regla": "numeric",
+      "codigo_error": "NO_NUMERICO",
+      "tipo_problema": "FORMATO",
+      "dimension_calidad": "CONFORMIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Valor no convertible a número"
+    },
+    {
+      "rule_id": "PROD-R014",
+      "columna": "tolerancia_temperatura_c",
+      "tipo_regla": "positive",
+      "codigo_error": "NO_POSITIVO",
+      "tipo_problema": "VALIDEZ",
+      "dimension_calidad": "VALIDEZ",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "El valor debe ser mayor que cero"
+    },
+    {
+      "rule_id": "PROD-R015",
+      "columna": "precio_unitario_bob",
+      "tipo_regla": "positive",
+      "codigo_error": "NO_POSITIVO",
+      "tipo_problema": "VALIDEZ",
+      "dimension_calidad": "VALIDEZ",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "El valor debe ser mayor que cero"
+    },
+    {
+      "rule_id": "PROD-R016",
+      "columna": "costo_unitario_bob",
+      "tipo_regla": "positive",
+      "codigo_error": "NO_POSITIVO",
+      "tipo_problema": "VALIDEZ",
+      "dimension_calidad": "VALIDEZ",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "El valor debe ser mayor que cero"
+    },
+    {
+      "rule_id": "PROD-R017",
+      "columna": "producto_id",
+      "tipo_regla": "duplicate_key",
+      "codigo_error": "DUPLICADO",
+      "tipo_problema": "UNICIDAD",
+      "dimension_calidad": "UNICIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Copia posterior idéntica de toda la fila Bronze",
+      "parametros": {
+        "clave": [
+          "producto_id"
+        ],
+        "columnas_bronze": [
+          "producto_id",
+          "nombre_producto",
+          "categoria_logistica",
+          "temperatura_conservacion_requerida_c",
+          "tolerancia_temperatura_c",
+          "precio_unitario_bob",
+          "costo_unitario_bob"
+        ],
+        "clase": "identico"
+      }
+    },
+    {
+      "rule_id": "PROD-R018",
+      "columna": "producto_id",
+      "tipo_regla": "duplicate_key",
+      "codigo_error": "CLAVE_EN_CONFLICTO",
+      "tipo_problema": "UNICIDAD",
+      "dimension_calidad": "UNICIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Filas distintas con el mismo producto_id; se marcan todas",
+      "parametros": {
+        "clave": [
+          "producto_id"
+        ],
+        "columnas_bronze": [
+          "producto_id",
+          "nombre_producto",
+          "categoria_logistica",
+          "temperatura_conservacion_requerida_c",
+          "tolerancia_temperatura_c",
+          "precio_unitario_bob",
+          "costo_unitario_bob"
+        ],
+        "clase": "conflicto"
+      }
+    },
+    {
+      "rule_id": "PROD-R019",
+      "columna": "producto_id",
+      "tipo_regla": "normalized_collision",
+      "codigo_error": "COLISION_ID_NORMALIZADO",
+      "tipo_problema": "UNICIDAD",
+      "dimension_calidad": "UNICIDAD",
+      "severidad": "CRITICAL",
+      "accion": "CUARENTENA",
+      "detalle": "Coincidencia al quitar espacios y convertir a mayúsculas; requiere decisión manual"
+    }
+  ]
+}

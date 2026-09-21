@@ -1,0 +1,15 @@
+﻿fila_bronze,rule_id,dimension_calidad,severidad,accion,tipo_problema,columna_afectada,codigo_error,valor_original,detalle,version_catalogo,version_diagnostico
+8,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-008 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+16,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-016 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+18,PROD-R004,COMPLETITUD,CRITICAL,CUARENTENA,FALTANTE,,FALTANTE,,Campo obligatorio vacío,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+22,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-022 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+26,PROD-R009,VALIDEZ,CRITICAL,CUARENTENA,VALIDEZ,,VALOR_NO_RECONOCIDO,conjelado,"Categoría distinta de Fresco, Congelado o Seco",1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+28,PROD-R009,VALIDEZ,CRITICAL,CUARENTENA,VALIDEZ,,VALOR_NO_RECONOCIDO,conjelado,"Categoría distinta de Fresco, Congelado o Seco",1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+31,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-031 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+36,PROD-R009,VALIDEZ,CRITICAL,CUARENTENA,VALIDEZ,,VALOR_NO_RECONOCIDO,conjelado,"Categoría distinta de Fresco, Congelado o Seco",1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+46,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-046 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+49,PROD-R004,COMPLETITUD,CRITICAL,CUARENTENA,FALTANTE,,FALTANTE,,Campo obligatorio vacío,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+61,PROD-R017,UNICIDAD,CRITICAL,CUARENTENA,UNICIDAD,,DUPLICADO,PROD-010,Copia posterior idéntica de toda la fila Bronze,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+62,PROD-R008,CONFORMIDAD,CRITICAL,CUARENTENA,FORMATO,,FORMATO_INVALIDO, prod-024 ,Se espera PROD-### exactamente,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+62,PROD-R019,UNICIDAD,CRITICAL,CUARENTENA,UNICIDAD,,COLISION_ID_NORMALIZADO, prod-024 ,Coincidencia al quitar espacios y convertir a mayúsculas; requiere decisión manual,1.0.0,GIAD-M3-S4-productos-diagnostico-v3
+63,PROD-R017,UNICIDAD,CRITICAL,CUARENTENA,UNICIDAD,,DUPLICADO,PROD-014,Copia posterior idéntica de toda la fila Bronze,1.0.0,GIAD-M3-S4-productos-diagnostico-v3

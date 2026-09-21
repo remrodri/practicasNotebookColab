@@ -1,0 +1,13 @@
+﻿metrica,valor
+archivo_bronze,andinalog_productos.csv
+sha256_bronze,0ee6adc9905e0d41ec5a2646f64633cccbab53ac35ee66a95f9bd46687744eda
+version_catalogo,1.0.0
+filas_bronze,63
+filas_con_problemas,13
+filas_en_cuarentena,13
+filas_solo_warning,0
+incidencias,14
+incidencias_critical,14
+incidencias_warning,0
+reglas_no_ejecutadas,0
+version_diagnostico,GIAD-M3-S4-productos-diagnostico-v3
