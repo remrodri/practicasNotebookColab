@@ -20,7 +20,7 @@ def cargar_catalogo(ruta):
         raise ValueError("rule_id duplicado en el catálogo")
     tipos = {"not_null", "regex", "datetime", "numeric", "sentinel", "range",
              "allowed_values", "flag", "unit_warning", "duplicate_key", "foreign_key",
-             "positive", "normalized_collision"}
+             "positive", "normalized_collision", "temperature_product_range"}
     for regla in reglas:
         if regla["tipo_regla"] not in tipos:
             raise ValueError(f"Tipo de regla desconocido: {regla['tipo_regla']}")
@@ -85,6 +85,28 @@ def _evaluar(df, regla, referencias):
         mascara = presente & ~valor.isin(["0", "1"])
     elif tipo == "unit_warning":
         mascara = valor.str.upper().eq(p["valor"])
+    elif tipo == "temperature_product_range":
+        nombre = p["dataset"]
+        if nombre not in referencias:
+            return None, None, "SIN_FUENTE_REFERENCIA"
+        ref = referencias[nombre]
+        requeridas = {p["clave_referencia"], p["objetivo"], p["tolerancia"]}
+        if not requeridas.issubset(ref.columns):
+            return None, None, "SIN_COLUMNA_REFERENCIA"
+        if ref[p["clave_referencia"]].duplicated().any():
+            return None, None, "CLAVE_REFERENCIA_DUPLICADA"
+        lookup = ref.set_index(p["clave_referencia"])
+        objetivo = pd.to_numeric(df[p["clave"]].map(lookup[p["objetivo"]]), errors="coerce")
+        tolerancia = pd.to_numeric(df[p["clave"]].map(lookup[p["tolerancia"]]), errors="coerce")
+        lectura = pd.to_numeric(df[columna], errors="coerce")
+        unidad = _texto(df[p["unidad"]]).str.upper()
+        celsius = lectura.where(unidad.eq("C"), (lectura - 32) * 5 / 9)
+        evaluable = (unidad.isin(["C", "F"]) & lectura.notna() & lectura.ne(-999)
+                     & objetivo.notna() & tolerancia.notna() & tolerancia.ge(0))
+        fuera = celsius.sub(objetivo).abs() > tolerancia
+        flag = _texto(df[p["flag"]])
+        mascara = evaluable & flag.isin(["0", "1"]) & fuera.ne(flag.eq("1"))
+        return mascara.fillna(False).astype(bool), df[columna], None
     elif tipo == "foreign_key":
         nombre = p["dataset"]
         if nombre not in referencias:
@@ -117,7 +139,7 @@ def diagnosticar(df_bronze, catalogo, referencias=None):
             if campo == "valor_original":
                 filas[campo] = evidencia.loc[mascara].astype("string").to_numpy()
             else:
-                filas[campo] = regla.get(campo, "")
+                filas[campo] = regla.get("columna_afectada", regla["columna"]) if campo == "columna_afectada" else regla.get(campo, "")
         hallazgos.append(filas[ISSUE_COLUMNS])
         estado.append({"rule_id": regla["rule_id"], "estado": "EJECUTADA", "motivo": "", "incidencias": len(filas)})
     problemas = pd.concat(hallazgos, ignore_index=True) if hallazgos else pd.DataFrame(columns=ISSUE_COLUMNS)
@@ -127,6 +149,15 @@ def diagnosticar(df_bronze, catalogo, referencias=None):
     principal["columnas_con_problemas"] = principal["fila_bronze"].map(
         agrupado["columna_afectada"].agg(lambda s: "|".join(dict.fromkeys(s)))).fillna("")
     principal["cantidad_problemas"] = principal["fila_bronze"].map(agrupado.size()).fillna(0).astype(int)
+    principal["reglas_con_problemas"] = principal["fila_bronze"].map(
+        agrupado["rule_id"].agg(lambda s: "|".join(dict.fromkeys(s)))).fillna("")
+    campos_detalle = ["rule_id", "columna_afectada", "codigo_error", "severidad", "accion",
+                      "tipo_problema", "dimension_calidad", "valor_original", "detalle"]
+    serializable = problemas[campos_detalle].fillna("").astype(str)
+    serializable["fila_bronze"] = problemas["fila_bronze"].to_numpy()
+    detalle_por_fila = serializable.groupby("fila_bronze", sort=False)[campos_detalle].apply(
+        lambda grupo: json.dumps(grupo.to_dict("records"), ensure_ascii=False))
+    principal["incidencias_json"] = principal["fila_bronze"].map(detalle_por_fila).fillna("[]")
     for sev, nombre in [("CRITICAL", "cantidad_critical"), ("WARNING", "cantidad_warning")]:
         conteo = problemas.loc[problemas["severidad"].eq(sev)].groupby("fila_bronze").size()
         principal[nombre] = principal["fila_bronze"].map(conteo).fillna(0).astype(int)

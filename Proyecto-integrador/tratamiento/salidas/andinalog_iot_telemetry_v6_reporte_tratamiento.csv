@@ -1,0 +1,14 @@
+﻿metrica,valor
+version_tratamiento,GIAD-M3-S4-IOT-tratamiento-v6
+version_diagnostico,GIAD-M3-S4-IOT-diagnostico-v7
+sha256_bronze,edb7afe2f7fb836e59fe605d30c88b3b5b13a6d8ab2ec0b37f206a14e58de6bf
+filas_totales,28920
+filas_silver,28464
+filas_cuarentena_final,456
+filas_apto_termica,23478
+filas_sin_producto_silver,5067
+filas_sin_flota_silver,2437
+temperaturas_F_a_C,50
+temperaturas_K_a_C,0
+acciones_pendientes,341
+copias_excluidas,120
