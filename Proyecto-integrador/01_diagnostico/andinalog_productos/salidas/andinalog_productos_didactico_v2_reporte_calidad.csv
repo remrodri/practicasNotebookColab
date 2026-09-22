@@ -1,0 +1,12 @@
+﻿metrica,valor
+filas_bronze,63
+filas_diagnosticadas,63
+filas_cuarentena,13
+filas_con_observaciones,14
+cuarentena_producto_id,8
+cuarentena_nombre_producto,0
+cuarentena_categoria_logistica,3
+cuarentena_temperatura_conservacion_requerida_c,2
+cuarentena_tolerancia_temperatura_c,0
+cuarentena_precio_unitario_bob,0
+cuarentena_costo_unitario_bob,0

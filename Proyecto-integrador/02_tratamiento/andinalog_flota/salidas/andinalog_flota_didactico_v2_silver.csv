@@ -1,0 +1,31 @@
+﻿fila_bronze,camion_id,centro_distribucion_base,capacidad_kg,tipo_camion,camion_id_en_cuarentena,camion_id_motivo,centro_distribucion_base_en_cuarentena,centro_distribucion_base_motivo,capacidad_kg_en_cuarentena,capacidad_kg_motivo,tipo_camion_en_cuarentena,tipo_camion_motivo,en_cuarentena_diagnostico,acciones_tratamiento,motivos_tratamiento,camion_id_tratado,centro_distribucion_base_tratado,tipo_camion_tratado,capacidad_kg_tratada,camion_id_normalizado,motivo_cuarentena_final,capacidad_revisar_ficha,en_cuarentena_final,decision_tratamiento
+1,CAM-01,Cochabamba,5000,Refrigerado,False,,False,,False,,False,,False,,,CAM-01,Cochabamba,Refrigerado,5000,False,,False,False,SILVER
+2,CAM-02,Cochabamba,5000,Refrigerado,False,,False,,False,,False,,False,,,CAM-02,Cochabamba,Refrigerado,5000,False,,False,False,SILVER
+3,CAM-03,Oruro,12000,Seco,False,,False,,False,,False,,False,,,CAM-03,Oruro,Seco,12000,False,,False,False,SILVER
+4,CAM-04,La Paz,2000,Seco,False,,False,,False,,False,,False,,,CAM-04,La Paz,Seco,2000,False,,False,False,SILVER
+5,CAM-05,Cochabamba,8000,Seco,False,,False,,False,,False,,False,,,CAM-05,Cochabamba,Seco,8000,False,,False,False,SILVER
+6,CAM-06,Cochabamba,5000,Seco,False,,False,,False,,False,,False,,,CAM-06,Cochabamba,Seco,5000,False,,False,False,SILVER
+7,CAM-07,La Paz,12000,Seco,False,,False,,False,,False,,False,,,CAM-07,La Paz,Seco,12000,False,,False,False,SILVER
+8,CAM-08,Santa Cruz,5000,Refrigerado,False,,False,,False,,False,,False,,,CAM-08,Santa Cruz,Refrigerado,5000,False,,False,False,SILVER
+9,CAM-09,Santa Cruz,8000,Seco,False,,False,,False,,False,,False,,,CAM-09,Santa Cruz,Seco,8000,False,,False,False,SILVER
+10,CAM-10,La Paz,12000,Refrigerado,False,,False,,False,,False,,False,,,CAM-10,La Paz,Refrigerado,12000,False,,False,False,SILVER
+11,CAM-11,Cochabamba,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-11,Cochabamba,Refrigerado,2000,False,,False,False,SILVER
+12,CAM-12,La Paz,8000,Seco,False,,False,,False,,False,,False,,,CAM-12,La Paz,Seco,8000,False,,False,False,SILVER
+13,CAM-13,Cochabamba,12000,Seco,False,,False,,False,,False,,False,,,CAM-13,Cochabamba,Seco,12000,False,,False,False,SILVER
+14,CAM-14,Cochabamba,8000,Seco,False,,False,,False,,False,,False,,,CAM-14,Cochabamba,Seco,8000,False,,False,False,SILVER
+15,CAM-15,La Paz,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-15,La Paz,Refrigerado,2000,False,,False,False,SILVER
+16,CAM-16,Oruro,5000,Seco,False,,False,,False,,False,,False,,,CAM-16,Oruro,Seco,5000,False,,False,False,SILVER
+17,CAM-17,Cochabamba,8000,Seco,False,,False,,False,,False,,False,,,CAM-17,Cochabamba,Seco,8000,False,,False,False,SILVER
+18,CAM-18,Santa Cruz,2000,Seco,False,,False,,False,,False,,False,,,CAM-18,Santa Cruz,Seco,2000,False,,False,False,SILVER
+19,CAM-19,Tarija,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-19,Tarija,Refrigerado,2000,False,,False,False,SILVER
+20, cam-20 ,Oruro,12000,Refrigerado,True,Formato esperado: CAM-##,False,,False,,False,,True,NORMALIZAR_CAMION_ID,ID normalizado sin conflicto de atributos,CAM-20,Oruro,Refrigerado,12000,True,,False,False,SILVER
+21,CAM-21,Tarija,12000,Seco,False,,False,,False,,False,,False,,,CAM-21,Tarija,Seco,12000,False,,False,False,SILVER
+22,CAM-22,Cochabamba,8000,Refrigerado,False,,False,,False,,False,,False,,,CAM-22,Cochabamba,Refrigerado,8000,False,,False,False,SILVER
+23,CAM-23,Santa Cruz,5000,Seco,False,,False,,False,,False,,False,,,CAM-23,Santa Cruz,Seco,5000,False,,False,False,SILVER
+24,CAM-24,Oruro,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-24,Oruro,Refrigerado,2000,False,,False,False,SILVER
+25,CAM-25,Cochabamba,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-25,Cochabamba,Refrigerado,2000,False,,False,False,SILVER
+26,CAM-26,Tarija,8000,Refrigerado,False,,False,,False,,False,,False,,,CAM-26,Tarija,Refrigerado,8000,False,,False,False,SILVER
+27,CAM-27,Cochabamba,5000,Refrigerado,False,,False,,False,,False,,False,,,CAM-27,Cochabamba,Refrigerado,5000,False,,False,False,SILVER
+28,CAM-28,La Paz,2000,Refrigerado,False,,False,,False,,False,,False,,,CAM-28,La Paz,Refrigerado,2000,False,,False,False,SILVER
+29,CAM-29,Santa Cruz,5000,Seco,False,,False,,False,,False,,False,,,CAM-29,Santa Cruz,Seco,5000,False,,False,False,SILVER
+30, cam-30 ,Cochabamba,8000,Seco,True,Formato esperado: CAM-##,False,,False,,False,,True,NORMALIZAR_CAMION_ID,ID normalizado sin conflicto de atributos,CAM-30,Cochabamba,Seco,8000,True,,False,False,SILVER

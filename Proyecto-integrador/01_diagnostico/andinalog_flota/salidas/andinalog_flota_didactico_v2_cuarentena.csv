@@ -1,0 +1,5 @@
+﻿fila_bronze,camion_id,centro_distribucion_base,capacidad_kg,tipo_camion,camion_id_en_cuarentena,camion_id_motivo,centro_distribucion_base_en_cuarentena,centro_distribucion_base_motivo,capacidad_kg_en_cuarentena,capacidad_kg_motivo,tipo_camion_en_cuarentena,tipo_camion_motivo,en_cuarentena
+20, cam-20 ,Oruro,12000,Refrigerado,True,Formato esperado: CAM-##,False,,False,,False,,True
+30, cam-30 ,Cochabamba,8000,Seco,True,Formato esperado: CAM-##,False,,False,,False,,True
+31,CAM-01,Cochabamba,5000,Refrigerado,True,Copia exacta posterior (no contar dos veces),False,,False,,False,,True
+32,CAM-27,Cochabamba,5000,Refrigerado,True,Copia exacta posterior (no contar dos veces),False,,False,,False,,True

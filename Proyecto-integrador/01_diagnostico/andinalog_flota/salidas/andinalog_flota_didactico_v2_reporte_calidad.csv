@@ -1,0 +1,9 @@
+﻿metrica,valor
+filas_bronze,32
+filas_diagnosticadas,32
+filas_cuarentena,4
+filas_con_observaciones,4
+cuarentena_camion_id,4
+cuarentena_centro_distribucion_base,0
+cuarentena_capacidad_kg,0
+cuarentena_tipo_camion,0

@@ -1,0 +1,11 @@
+﻿metrica,valor
+filas_diagnosticadas,28920
+filas_cuarentena_diagnostico,554
+filas_recuperadas_desde_cuarentena,311
+filas_silver,28677
+filas_cuarentena_final,243
+temperaturas_convertidas_f_a_c,49
+temperaturas_imputadas,120
+humedades_imputadas,92
+lecturas_aptas_kpi_termico,26183
+lecturas_posible_incompatibilidad,407

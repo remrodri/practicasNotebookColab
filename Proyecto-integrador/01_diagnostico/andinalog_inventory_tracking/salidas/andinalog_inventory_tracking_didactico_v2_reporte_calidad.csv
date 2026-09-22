@@ -1,0 +1,17 @@
+﻿metrica,valor
+filas_bronze,6040
+filas_diagnosticadas,6040
+filas_cuarentena,109
+filas_con_observaciones,1089
+cuarentena_movimiento_id,41
+cuarentena_lote_id,41
+cuarentena_producto_id,30
+cuarentena_centro_distribucion,0
+cuarentena_fecha_ingreso,0
+cuarentena_fecha_salida,5
+cuarentena_fecha_vencimiento,18
+cuarentena_cantidad_ingreso,10
+cuarentena_cantidad_salida,0
+cuarentena_cantidad_merma,5
+cuarentena_dias_en_almacen,0
+cuarentena_costo_unitario_bob,0
