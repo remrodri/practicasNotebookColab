@@ -1,0 +1,12 @@
+metrica,valor
+filas_bronze,10
+filas_trabajo,10
+filas_silver,6
+filas_cuarentena,4
+duplicados_id,1
+fechas_invalidas,1
+categorias_no_mapeadas,1
+unidades_no_reconocidas,1
+temperaturas_imputadas,2
+temperaturas_sin_resolver,1
+producciones_negativas,1

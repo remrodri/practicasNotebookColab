@@ -1,5 +1,0 @@
-﻿fila_bronze,camion_id,centro_distribucion_base,capacidad_kg,tipo_camion,columnas_con_problemas,en_cuarentena
-20, cam-20 ,Oruro,12000,Refrigerado,camion_id,True
-30, cam-30 ,Cochabamba,8000,Seco,camion_id,True
-31,CAM-01,Cochabamba,5000,Refrigerado,camion_id,True
-32,CAM-27,Cochabamba,5000,Refrigerado,camion_id,True

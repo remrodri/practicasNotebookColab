@@ -1,5 +1,0 @@
-﻿fila_bronze,camion_id,centro_distribucion_base,capacidad_kg,tipo_camion,columnas_con_problemas,en_cuarentena,camion_id_preparado,tipo_duplicado,decision_duplicado,fila_canonica,justificacion,en_cuarentena_inicial,motivos_finales,en_cuarentena_final,version_tratamiento
-20, cam-20 ,Oruro,12000,Refrigerado,camion_id,True, cam-20 ,,,,,True,camion_id:FORMATO_INVALIDO,True,GIAD-M3-S4-FLOTA-tratamiento-v1
-30, cam-30 ,Cochabamba,8000,Seco,camion_id,True, cam-30 ,,,,,True,camion_id:FORMATO_INVALIDO,True,GIAD-M3-S4-FLOTA-tratamiento-v1
-31,CAM-01,Cochabamba,5000,Refrigerado,camion_id,True,CAM-01,IDENTICO,PENDIENTE,,Sin regla aprobada o datos en conflicto,True,camion_id:DUPLICADO_IDENTICO,True,GIAD-M3-S4-FLOTA-tratamiento-v1
-32,CAM-27,Cochabamba,5000,Refrigerado,camion_id,True,CAM-27,IDENTICO,PENDIENTE,,Sin regla aprobada o datos en conflicto,True,camion_id:DUPLICADO_IDENTICO,True,GIAD-M3-S4-FLOTA-tratamiento-v1
