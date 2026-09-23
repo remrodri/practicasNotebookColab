@@ -36,6 +36,31 @@ Productos, Flota e Inventario alcanzaron cobertura completa. WMS Orders cubrió 
 
 Ningún join multiplicó las filas de la población principal.
 
+### Explicación de las 95 lecturas sin correspondencia en WMS Silver
+
+Las 95 lecturas corresponden a cuatro viajes cuyas órdenes existen en WMS, pero quedaron en la cuarentena final del tratamiento y, por tanto, no forman parte de WMS Silver.
+
+| Viaje | Orden | Lecturas IoT | Motivo de cuarentena en WMS |
+|---|---|---:|---|
+| `VIA-00558` | `ORD-2026-00813` | 24 | Tiempo real de entrega negativo (`-16,6` horas) |
+| `VIA-00504` | `ORD-2026-02446` | 24 | Tiempo real de entrega negativo (`-54,9` horas) |
+| `VIA-00698` | `ORD-2026-04343` | 23 | Cantidad entregada mayor que la solicitada (`299 > 50`) |
+| `VIA-00368` | `ORD-2026-04539` | 24 | Cantidad entregada mayor que la solicitada (`70 > 50`) |
+
+Las lecturas IoT no presentan este problema y permanecen válidas para el análisis térmico. La ausencia de correspondencia se debe exclusivamente a que el join utiliza WMS Silver, donde las cuatro órdenes fueron excluidas por inconsistencias en resultados posteriores a la entrega.
+
+No se imputaron los tiempos reales ni las cantidades entregadas porque no existe una fuente independiente que permita conocer sus valores correctos. Usar el valor absoluto, la mediana, el tiempo prometido o igualar la cantidad entregada con la solicitada inventaría resultados y podría modificar artificialmente los indicadores OTIF.
+
+La decisión actual es:
+
+- mantener las cuatro órdenes en la cuarentena final de WMS;
+- excluirlas de OTIF, tiempo real y análisis de cantidad entregada;
+- conservar las 95 lecturas IoT en las evidencias térmicas;
+- mantener visibles los valores WMS ausentes después del `left join`;
+- no realizar imputaciones adicionales.
+
+Esta diferencia de cobertura representa **4 de 1.200 viajes** y **95 de 28.677 lecturas IoT**. No invalida el EDA térmico, pero debe considerarse al seleccionar variables WMS para el dataset predictivo.
+
 ## 4. Evidencia 1 — excursiones térmicas
 
 - Viajes totales: **1,200**.
