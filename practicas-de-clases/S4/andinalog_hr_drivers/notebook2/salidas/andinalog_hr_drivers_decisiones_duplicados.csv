@@ -1,6 +1,0 @@
-﻿fila_bronze,chofer_id,fila_canonica,decision,regla_id,justificacion
-152,CHO-003,3,COPIA_EXCLUIDA,DUPLICADO_IDENTICO,Las seis columnas originales coinciden con la primera fila del conductor
-153,CHO-056,56,COPIA_EXCLUIDA,DUPLICADO_IDENTICO,Las seis columnas originales coinciden con la primera fila del conductor
-154,CHO-119,119,PENDIENTE,DUPLICADO_NOMBRE_CONFLICTIVO,Las filas presentan diferencias o no existe una regla aprobada para seleccionar una
-156,CHO-126,126,COPIA_EXCLUIDA,DUPLICADO_IDENTICO,Las seis columnas originales coinciden con la primera fila del conductor
-155,CHO-141,141,COPIA_EXCLUIDA,DUPLICADO_IDENTICO,Las seis columnas originales coinciden con la primera fila del conductor

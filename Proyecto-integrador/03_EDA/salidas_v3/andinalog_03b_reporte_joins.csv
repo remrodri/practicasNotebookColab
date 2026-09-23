@@ -1,0 +1,5 @@
+﻿join,clave,cardinalidad,filas_antes,filas_despues,filas_match,sin_match,cobertura_pct,multiplico_filas
+IoT → Productos,producto_id,muchos a uno,28677,28677,28677,0,100.0,False
+IoT → Flota,camion_id,muchos a uno,28677,28677,28677,0,100.0,False
+IoT → WMS Orders,order_id,muchos a uno,28677,28677,28582,95,99.66872406458137,False
+Inventario → Productos,producto_id,muchos a uno,5980,5980,5980,0,100.0,False

@@ -1,0 +1,7 @@
+﻿silver,filas,columnas,clave,duplicados_clave,cuarentena_final,nulos_clave,apto_integrar
+iot,28677,55,fila_bronze,0,0,0,True
+productos,60,41,producto_id_tratado,0,0,0,True
+flota,30,25,camion_id_tratado,0,0,0,True
+inventario,5980,58,movimiento_id,0,0,0,True
+wms,7468,68,order_id_tratado,0,0,0,True
+warehouse,5,28,centro_distribucion_tratado + periodo_mes_tratado,0,0,0,True

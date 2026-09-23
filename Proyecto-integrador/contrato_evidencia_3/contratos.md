@@ -2,22 +2,22 @@
 
 ## Contrato 1: Regresión
 
-| Elemento | Definición |
-|---|---|
-| **Decisión** | Anticipar la magnitud de una posible desviación térmica de la carga para decidir si se debe interceptar el camión. |
-| **Unidad de observación** | Una lectura de telemetría de un viaje. |
-| **Instante y horizonte** | La predicción se realiza en el momento de la lectura y cubre los próximos **60 minutos**. |
-| **Objetivo `y`** | El **máximo desvío respecto al umbral térmico** en esa ventana futura. Primero se calcula `desvio_respecto_umbral_c = abs(temperatura_cabina_c - temperatura_conservacion_requerida_c) - tolerancia_temperatura_c`; luego se obtiene el máximo futuro por `viaje_id`, ordenando las lecturas por `timestamp`. Es un objetivo continuo que **hay que construir**; no es una columna literal. |
-| **Predictoras `X`** | Lecturas IoT actuales y anteriores; temperatura requerida y tolerancia del producto; eventos de flota anteriores al momento de predicción; y atributos del pedido disponibles en ese momento. |
-| **Exclusiones por fuga** | El máximo futuro que constituye `y` y cualquier lectura, evento o atributo conocido solo después del instante de predicción. |
+| Elemento                  | Definición                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Decisión**              | Anticipar la magnitud de una posible desviación térmica de la carga para decidir si se debe interceptar el camión.                                                                                                                                                                                                                                                                          |
+| **Unidad de observación** | Una lectura de telemetría de un viaje.                                                                                                                                                                                                                                                                                                                                                      |
+| **Instante y horizonte**  | La predicción se realiza en el momento de la lectura y cubre los próximos **60 minutos**.                                                                                                                                                                                                                                                                                                   |
+| **Objetivo `y`**          | El **máximo desvío respecto al umbral térmico** en esa ventana futura. Primero se calcula `desvio_respecto_umbral_c = abs(temperatura_cabina_c - temperatura_conservacion_requerida_c) - tolerancia_temperatura_c`; luego se obtiene el máximo futuro por `viaje_id`, ordenando las lecturas por `timestamp`. Es un objetivo continuo que **hay que construir**; no es una columna literal. |
+| **Predictoras `X`**       | Lecturas IoT actuales y anteriores; temperatura requerida y tolerancia del producto; eventos de flota anteriores al momento de predicción; y atributos del pedido disponibles en ese momento.                                                                                                                                                                                               |
+| **Exclusiones por fuga**  | El máximo futuro que constituye `y` y cualquier lectura, evento o atributo conocido solo después del instante de predicción.                                                                                                                                                                                                                                                                |
 
 ## Contrato 2: Clasificación
 
-| Elemento | Definición |
-|---|---|
-| **Decisión** | Alertar si un camión superará el umbral térmico en la próxima hora para decidir un desvío o una intercepción. |
-| **Unidad de observación** | Una lectura de telemetría de un viaje. |
-| **Instante y horizonte** | La predicción se realiza en el momento de la lectura y cubre los próximos **60 minutos**. |
-| **Objetivo `y`** | `desviacion_proximos_60min_flag`: **1** si ocurrirá una desviación térmica en la próxima hora y **0** si no ocurrirá. El campo ya viene calculado en los datos descritos por la guía. |
-| **Predictoras `X`** | Las mismas familias de variables del contrato de regresión, siempre que estén disponibles al momento de la lectura. |
-| **Exclusiones por fuga** | `desviacion_proximos_60min_flag`, porque es el propio objetivo; `desviacion_termica_flag` si todavía no está disponible al momento de emitir la predicción; y cualquier dato futuro. |
+| Elemento                  | Definición                                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Decisión**              | Alertar si un camión superará el umbral térmico en la próxima hora para decidir un desvío o una intercepción.                                                                         |
+| **Unidad de observación** | Una lectura de telemetría de un viaje.                                                                                                                                                |
+| **Instante y horizonte**  | La predicción se realiza en el momento de la lectura y cubre los próximos **60 minutos**.                                                                                             |
+| **Objetivo `y`**          | `desviacion_proximos_60min_flag`: **1** si ocurrirá una desviación térmica en la próxima hora y **0** si no ocurrirá. El campo ya viene calculado en los datos descritos por la guía. |
+| **Predictoras `X`**       | Las mismas familias de variables del contrato de regresión, siempre que estén disponibles al momento de la lectura.                                                                   |
+| **Exclusiones por fuga**  | `desviacion_proximos_60min_flag`, porque es el propio objetivo; `desviacion_termica_flag` si todavía no está disponible al momento de emitir la predicción; y cualquier dato futuro.  |

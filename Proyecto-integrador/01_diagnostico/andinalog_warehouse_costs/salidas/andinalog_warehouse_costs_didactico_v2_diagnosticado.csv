@@ -1,0 +1,7 @@
+﻿fila_bronze,centro_distribucion,rotacion_stock_dias,perdida_mermas_bob,periodo_mes,costo_almacenamiento_mensual_bob,centro_distribucion_en_cuarentena,centro_distribucion_motivo,rotacion_stock_dias_en_cuarentena,rotacion_stock_dias_motivo,perdida_mermas_bob_en_cuarentena,perdida_mermas_bob_motivo,periodo_mes_en_cuarentena,periodo_mes_motivo,costo_almacenamiento_mensual_bob_en_cuarentena,costo_almacenamiento_mensual_bob_motivo,en_cuarentena
+1,Cochabamba,17.23,483014.65,2026-08,140000,False,,False,,False,,False,,False,,False
+2,La Paz,16.94,453976.7,2026-08,180000,False,,False,,False,,False,,False,,False
+3,Oruro,17.21,506458.32,2026-08,95000,False,,False,,False,,False,,False,,False
+4,Santa Cruz,17.73,484945.21,2026-08,220000,False,,False,,False,,False,,False,,False
+5,Tarija,16.88,467199.52,2026-08,110000,False,,False,,False,,False,,False,,False
+6,Tarija,,467199.52,2026-08,110000,True,Copia incompleta posterior de la misma clave centro-periodo,True,Valor faltante; Copia incompleta posterior de la misma clave centro-periodo,False,Copia incompleta posterior de la misma clave centro-periodo,True,Copia incompleta posterior de la misma clave centro-periodo,False,Copia incompleta posterior de la misma clave centro-periodo,True

@@ -1,9 +1,0 @@
-﻿metrica,valor
-archivo_bronze,andinalog_hr_drivers.csv
-sha256_bronze,f4edf8a0f50292e3f320629f26b30a1a725df7e430965465faf044d877c1a718
-version_tratamiento,GIAD-M3-S4-HR-drivers-tratamiento-v1
-filas_totales,156
-filas_utilizables,146
-filas_cuarentena_final,10
-copias_exactas_excluidas,4
-problemas_pendientes,6

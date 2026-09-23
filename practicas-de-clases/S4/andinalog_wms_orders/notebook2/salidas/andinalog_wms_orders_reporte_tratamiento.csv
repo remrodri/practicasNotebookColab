@@ -1,9 +1,0 @@
-﻿metrica,valor
-archivo_bronze,andinalog_wms_orders.csv
-sha256_bronze,d3b0132a66c8d65875a5d06691f8d9517b9a60db2f8d2aac2ee23037b9e90f55
-version_tratamiento,GIAD-M3-S4-WMS-orders-tratamiento-v1
-filas_totales,7550
-filas_utilizables,7279
-filas_cuarentena_final,271
-copias_exactas_excluidas,49
-problemas_pendientes,225

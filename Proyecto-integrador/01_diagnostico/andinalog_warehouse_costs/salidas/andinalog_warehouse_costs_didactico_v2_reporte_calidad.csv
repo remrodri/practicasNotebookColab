@@ -1,0 +1,11 @@
+﻿metrica,valor
+filas_bronze,6
+filas_diagnosticadas,6
+filas_cuarentena,1
+claves_repetidas,2
+copias_incompletas_posteriores,1
+cuarentena_centro_distribucion,1
+cuarentena_rotacion_stock_dias,1
+cuarentena_perdida_mermas_bob,0
+cuarentena_periodo_mes,1
+cuarentena_costo_almacenamiento_mensual_bob,0
