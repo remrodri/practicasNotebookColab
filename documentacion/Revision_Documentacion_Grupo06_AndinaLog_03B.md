@@ -33,7 +33,7 @@ La documentación general asigna nueve fuentes al subcaso 03B.
 | `andinalog_bitacora_choferes.txt` | Una observación de turno | Fuera del alcance actual | Contexto semiestructurado no utilizado en esta etapa |
 | `andinalog_hr_drivers.csv` | Un registro de chofer y centro | Fuera del alcance actual | No es indispensable para los modelos térmicos; presenta distinta granularidad y datos personales |
 
-El alcance analítico actual utiliza los seis CSV con Capa Silver. La exclusión de JSON, TXT y HR Drivers debe declararse como una limitación del proyecto. No se afirmará que se analizaron nueve fuentes.
+El alcance analítico actual utiliza los seis CSV con Capa Silver y el JSON de eventos de flota, también convertido a Silver. El TXT de bitácora y HR Drivers permanecen fuera del modelado actual y se declaran como limitación. No se afirmará que se analizaron nueve fuentes.
 
 `client_satisfaction`, `commercial_margins` y `clientes` corresponden al rol 03A y no forman parte del alcance 03B.
 
@@ -351,3 +351,12 @@ El diagnóstico y tratamiento de las seis fuentes están completados. El siguien
 ## 18. Decisión práctica
 
 El trabajo de diagnóstico y tratamiento constituye una base válida. El siguiente paso no es entrenar directamente un modelo: primero debe construirse un notebook reproducible de **Auditoría, Integración y EDA**, con controles de granularidad, cobertura y multiplicación de filas. Sus salidas serán la evidencia para definir definitivamente las variables de los dos contratos predictivos.
+
+
+## 12. Incorporación de eventos de flota
+
+El JSON fue aplanado a una fila por evento, diagnosticado y tratado. De 192 registros se conservaron 184 eventos únicos en Silver y 8 copias posteriores quedaron en cuarentena final. Los valores N/D y los reconocimientos faltantes se mantuvieron como nulos trazables, sin imputación inventada.
+
+La integración con IoT usa el mismo camión y exige que el evento sea estrictamente anterior a la lectura. Se generaron conteos en ventanas de 60 minutos, 180 minutos y 24 horas, variables de recencia, severidad, reconocimiento, mantenimiento y configuración. La salida mantiene exactamente 28.677 lecturas y presenta cobertura de configuración del 100 %.
+
+Esta tabla enriquecida es la entrada recomendada para S6 y S7. En cada sesión se comparará un modelo base contra uno con eventos para comprobar su aporte real.

@@ -1,0 +1,11 @@
+﻿metrica,valor
+lecturas_iot_entrada,28677.0
+lecturas_salida,28677.0
+eventos_silver,184.0
+camiones_iot,30.0
+camiones_eventos,30.0
+cobertura_configuracion_pct,100.0
+lecturas_con_evento_previo_60m,282.0
+lecturas_con_evento_previo_180m,832.0
+lecturas_con_evento_previo_24h,5243.0
+lecturas_con_alerta_temp_previa_24h,1290.0
