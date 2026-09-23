@@ -35,3 +35,23 @@ La unión utiliza `camion_id` y exige `timestamp_evento < timestamp_lectura`. La
 
 `valor_lectura_numerico` permanece fuera del primer modelo porque el JSON no declara una unidad homogénea por tipo de evento.
 
+
+
+## Resultado registrado de S6
+
+La división temporal quedó fijada en 796 viajes de ajuste, 180 de validación, 180 de test y 44 excluidos por cruce o margen de 60 minutos. Random Forest con variables base fue seleccionado por validación (RMSE 0,999 °C) y alcanzó en test MAE 0,739 °C, RMSE 1,124 °C y R² 0,607, una mejora de RMSE de 37,61 % frente al Dummy. Las variables de eventos no mejoraron la validación de regresión. La asignación de viajes queda congelada para S7–S10.
+
+
+## Resultado registrado de S7
+
+La clasificación reutilizó el split temporal de S6. Random Forest base fue seleccionado por PR-AUC de validación; las variables de eventos no mejoraron el resultado. El umbral 0,71 se eligió en validación bajo un supuesto didáctico de costo FN:FP de 5:1. En test obtuvo precision 78,36 %, recall 45,26 %, F1 0,574, PR-AUC 0,527 y ROC-AUC 0,844, con 105 TP, 29 FP, 127 FN y 4.013 TN. El umbral no queda aprobado para operación hasta confirmar costos y capacidad de atención.
+
+
+## Avance registrado de S9
+
+La MLP inicial 32→16 se entrenó durante 20 épocas con AJUSTE y se evaluó solo en VALIDACIÓN. Alcanzó precision 84,78 %, recall 25,83 %, F1 0,396, PR-AUC 0,360 y ROC-AUC 0,748. Random Forest de S7 mantuvo mejor PR-AUC (0,398) y recall (36,42 %). La menor val_loss apareció en la época 7. TEST permaneció sellado para la MLP y se abrirá solo en S10 después de fijar regularización y umbral.
+
+
+## Resultado final registrado de S10
+
+La MLP regularizada (L2 0,001, Dropout 0,20 y EarlyStopping) y el umbral 0,10 fueron seleccionados con VALIDACIÓN bajo el costo didáctico FN:FP de 10:1. En la apertura única de TEST obtuvo precision 71,33 %, recall 46,12 %, F1 0,560, PR-AUC 0,501 y ROC-AUC 0,850, con 107 TP, 43 FP, 125 FN y 3.999 TN. Su costo fue 1.293 frente a 1.299 de Random Forest S7. La diferencia es mínima y no justifica despliegue ni reemplazo automático; Random Forest se conserva como referencia principal y la MLP como candidata experimental.

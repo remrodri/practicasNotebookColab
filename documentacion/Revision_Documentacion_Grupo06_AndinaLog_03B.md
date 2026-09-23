@@ -360,3 +360,38 @@ El JSON fue aplanado a una fila por evento, diagnosticado y tratado. De 192 regi
 La integración con IoT usa el mismo camión y exige que el evento sea estrictamente anterior a la lectura. Se generaron conteos en ventanas de 60 minutos, 180 minutos y 24 horas, variables de recencia, severidad, reconocimiento, mantenimiento y configuración. La salida mantiene exactamente 28.677 lecturas y presenta cobertura de configuración del 100 %.
 
 Esta tabla enriquecida es la entrada recomendada para S6 y S7. En cada sesión se comparará un modelo base contra uno con eventos para comprobar su aporte real.
+
+
+## 13. Resultado de S6 — Regresión
+
+Se entrenaron Dummy, regresión lineal, Ridge y Random Forest sobre una separación temporal por viajes. La selección se realizó exclusivamente con validación y test se abrió una vez. Random Forest base fue el modelo elegido: RMSE 1,124 °C y R² 0,607 en test, con mejora de RMSE de 37,61 % frente al Dummy.
+
+Las variables de eventos no mejoraron el RMSE de validación para la magnitud continua. El análisis de 232 excursiones reales en test mostró que 56,90 % recibió una predicción no positiva, por lo que la regresión no se adopta como alarma única. Este hallazgo fundamenta el paso a S7 y la priorización de recall y falsos negativos.
+
+
+## 14. Resultado de S7 — Clasificación
+
+Se reutilizó la asignación temporal de S6 y se compararon modelos base y enriquecidos con eventos. Random Forest base ganó por PR-AUC de validación. En test alcanzó PR-AUC 0,527, ROC-AUC 0,844, precision 78,36 % y recall 45,26 %. Detectó 105 desviaciones, generó 29 falsas alertas y omitió 127 casos.
+
+El umbral 0,71 se obtuvo en validación con un costo didáctico FN:FP de 5:1. Como ese costo y la capacidad de atención aún no fueron aprobados por AndinaLog, el resultado se considera evidencia analítica y no una política de alarmas lista para producción.
+
+
+## 15. Resultado de S8 — Clustering
+
+La segmentación se ajustó exclusivamente con los 796 viajes de AJUSTE, después de resumir las lecturas a una fila por viaje. Los objetivos futuros no ingresaron a K-Means y solo se usaron para describir los grupos. La solución k=3 obtuvo el mejor silhouette (0,3310).
+
+Los perfiles corresponden a 78 viajes de prioridad térmica alta, 309 viajes de cadena de frío relativamente estable y 409 viajes de operación seca. El primer grupo concentra desviaciones futuras en el 100 % de sus viajes. Se documenta como segmento de investigación, no como causa ni categoría oficial de negocio.
+
+
+## 16. Resultado de S9 — MLP inicial
+
+Se entrenó una MLP 32→16 sin regularización ni EarlyStopping, usando el split temporal común y un preprocesamiento ajustado solo con AJUSTE. En validación obtuvo PR-AUC 0,360, precision 84,78 % y recall 25,83 %, por debajo del PR-AUC 0,398 y recall 36,42 % de Random Forest S7.
+
+La mejor pérdida de validación apareció en la época 7 y luego dejó de mejorar, lo que fundamenta el uso de EarlyStopping y regularización en S10. TEST permaneció sellado para esta línea de modelado.
+
+
+## 17. Resultado de S10 — Regularización y test final
+
+Se compararon la MLP inicial y una MLP con L2, Dropout y EarlyStopping. La MLP regularizada y el umbral 0,10 fueron congelados con validación usando el costo didáctico FN:FP de 10:1. TEST se abrió una sola vez y produjo 107 TP, 43 FP, 125 FN y 3.999 TN: recall 46,12 %, precision 71,33 %, PR-AUC 0,501 y costo 1.293.
+
+Random Forest S7 obtuvo costo 1.299, recall 45,26 %, precision 78,36 % y PR-AUC 0,526. La ventaja de costo de la MLP es mínima, por lo que se mantiene Random Forest como referencia principal y la red regularizada como candidata experimental. El resultado no autoriza despliegue; exige confirmar costos, capacidad de alertas y validación con otro periodo.
