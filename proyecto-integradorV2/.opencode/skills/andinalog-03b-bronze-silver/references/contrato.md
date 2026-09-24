@@ -6,7 +6,8 @@
 - Mandato: cadena de frio, rotacion de inventario y alerta termica.
 - Celsius es canonica; Fahrenheit se convierte exactamente; Kelvin no es esperado operacionalmente.
 - Centinelas como `-999` no son mediciones.
-- Fechas sin zona se interpretan en Bolivia y se convierten a UTC.
+- Timestamps con hora sin zona se interpretan en Bolivia y se convierten a UTC.
+- Fechas calendario, vencimientos y periodos se conservan sin desplazamiento horario.
 - Centros conocidos: Cochabamba, La Paz, Santa Cruz, Oruro y Tarija.
 - Tipos de camion observados: Seco y Refrigerado.
 
@@ -23,11 +24,22 @@ Prioriza:
 3. valor consistente de la misma entidad y periodo con correspondencia unica;
 4. estadistica por grupo solamente si tiene sentido y no genera fuga.
 
-No uses media, mediana, moda, `ffill` o `bfill` automaticamente. Si una imputacion aprende parametros, ajustalos solo con entrenamiento cuando el dato se use en modelado.
+No uses media, mediana, moda, `ffill` o `bfill` automaticamente. No uses informacion futura. Si una imputacion aprende parametros, ajustalos solo con entrenamiento cuando el dato se use en modelado.
 
-Una fecha estimada no se presenta como confirmada. Un identificador ambiguo no se imputa.
+Una fecha estimada no se presenta como confirmada. Los identificadores no se imputan.
+
+## Integridad referencial
+
+Clasifica cada fallo como error intrinseco, error referencial bloqueante o falta informativa para enriquecimiento. Define el criterio en `config`. Una fila valida no se rechaza solo porque una fuente auxiliar tenga su clave en cuarentena o no disponible.
+
+## Privacidad
+
+Minimiza identificadores directos de HR Drivers y Bitacora. Si existe un identificador operativo valido, no conserves nombres u otros identificadores personales innecesarios en Silver. No muestres datos personales en el informe. No uses variables laborales para sancionar ni para afirmar causalidad.
+
+## JSON y TXT
+
+Para JSON registra objetos padre, elementos hijos, objetos sin hijos y filas aplanadas. Para TXT registra codificacion, lineas fisicas, registros logicos, lineas no parseables y numero de origen. No uses un modelo generativo para clasificar cada registro de texto; usa reglas deterministicas o categorias no clasificables.
 
 ## Informe MD
 
-Incluye objetivo, granularidad, perfil Bronze, reglas, transformaciones, imputaciones, enrutamiento, conteos, conciliacion, limitaciones, archivos generados y decisiones defendibles. Obtiene todas las cifras de la ejecucion entregada.
-
+Incluye objetivo, granularidad, perfil Bronze, reglas, transformaciones, imputaciones, enrutamiento, cobertura referencial, conteos, conciliacion, limitaciones, archivos generados y decisiones defendibles. Obtiene todas las cifras de la ejecucion entregada.

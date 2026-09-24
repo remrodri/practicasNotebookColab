@@ -1,0 +1,1829 @@
+{
+  "sistema": "TELEMATICA-AndinaLog",
+  "fecha_exportacion": "2026-08-30T00:00:00",
+  "camiones": [
+    {
+      "camion_id": "CAM-01",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00001",
+          "timestamp": "01/08/2026 12:16",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 67.85,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00002",
+          "timestamp": "2026-08-27T01:14:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 63.21,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00003",
+          "timestamp": "2026-08-11T07:15:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 84.51,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00004",
+          "timestamp": "2026-08-27T21:27:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 75.76,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00005",
+          "timestamp": "2026-08-01T14:50:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 72.68
+        },
+        {
+          "evento_id": "EVT-ALOG-00006",
+          "timestamp": "2026-08-21T18:20:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 56.03,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 6.5,
+        "geocerca_radio_km": 57.9,
+        "ultimo_mantenimiento": "2026-07-29"
+      }
+    },
+    {
+      "camion_id": "CAM-02",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00007",
+          "timestamp": "2026-08-26T13:43:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 59.98,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00008",
+          "timestamp": "2026-08-25T01:45:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 38.48,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00009",
+          "timestamp": "2026-08-08T11:51:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 66.88,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00010",
+          "timestamp": "2026-08-09T10:56:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 26.96,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00011",
+          "timestamp": "2026-08-05T13:17:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 51.66,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00012",
+          "timestamp": "2026-08-25T09:33:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 72.54,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00013",
+          "timestamp": "2026-08-13T23:22:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 42.67,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00014",
+          "timestamp": "2026-08-12T21:19:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 76.08,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00015",
+          "timestamp": "2026-08-17T08:51:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 41.59,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.8,
+        "geocerca_radio_km": 42.6,
+        "ultimo_mantenimiento": "2026-07-16"
+      }
+    },
+    {
+      "camion_id": "CAM-03",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00016",
+          "timestamp": "2026-08-27T16:14:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 105.17,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00017",
+          "timestamp": "2026-08-27T06:15:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 82.36,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00018",
+          "timestamp": "2026-08-18T16:33:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 45.24,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00019",
+          "timestamp": "2026-08-29T01:41:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 43.6
+        },
+        {
+          "evento_id": "EVT-ALOG-00020",
+          "timestamp": "2026-08-08T14:15:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 50.03,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.0,
+        "geocerca_radio_km": 36.6,
+        "ultimo_mantenimiento": "2026-07-17"
+      }
+    },
+    {
+      "camion_id": "CAM-04",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00021",
+          "timestamp": "2026-08-01T13:50:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 56.43,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00022",
+          "timestamp": "2026-08-04T19:33:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 54.6,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00023",
+          "timestamp": "2026-08-23T01:03:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": "N/D",
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.0,
+        "geocerca_radio_km": 21.5,
+        "ultimo_mantenimiento": "2026-08-03"
+      }
+    },
+    {
+      "camion_id": "CAM-05",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00024",
+          "timestamp": "2026-08-16T23:18:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 58.51,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00025",
+          "timestamp": "05/08/2026 01:39",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 75.21,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00026",
+          "timestamp": "2026-08-15T00:17:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 51.83,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00027",
+          "timestamp": "2026-08-29T17:42:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 56.84
+        },
+        {
+          "evento_id": "EVT-ALOG-00028",
+          "timestamp": "2026-08-19T05:29:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Alta",
+          "valor_lectura": 57.61,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00029",
+          "timestamp": "2026-08-04T15:12:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 55.65,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00030",
+          "timestamp": "2026-08-19T06:43:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 65.57,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00031",
+          "timestamp": "2026-08-14T16:11:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 47.76,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.2,
+        "geocerca_radio_km": 52.7,
+        "ultimo_mantenimiento": "2026-06-12"
+      }
+    },
+    {
+      "camion_id": "CAM-06",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00032",
+          "timestamp": "2026-08-07T23:37:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 53.98,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00033",
+          "timestamp": "2026-08-27T12:13:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 84.81,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00034",
+          "timestamp": "2026-08-23T08:45:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 60.12,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00035",
+          "timestamp": "2026-08-05T09:35:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 50.4,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00036",
+          "timestamp": "2026-08-22T06:21:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00037",
+          "timestamp": "2026-08-18T18:21:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 35.34,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00038",
+          "timestamp": "2026-08-28T18:17:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 65.61,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00039",
+          "timestamp": "2026-08-04T22:23:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 42.94,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00032",
+          "timestamp": "2026-08-07T23:37:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 53.98,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.0,
+        "geocerca_radio_km": 59.7,
+        "ultimo_mantenimiento": "2026-08-08"
+      }
+    },
+    {
+      "camion_id": "CAM-07",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00040",
+          "timestamp": "2026-08-13T08:24:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 73.29,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00041",
+          "timestamp": "2026-08-05T02:33:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 51.28,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00042",
+          "timestamp": "2026-08-08T23:29:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 72.37,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00043",
+          "timestamp": "2026-08-28T04:48:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 64.17,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00044",
+          "timestamp": "2026-08-11T23:45:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 25.32,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00045",
+          "timestamp": "2026-08-22T09:22:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Alta",
+          "valor_lectura": 59.64,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00046",
+          "timestamp": "2026-08-18T15:59:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 58.81,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00047",
+          "timestamp": "2026-08-04T01:12:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 34.75,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.4,
+        "geocerca_radio_km": 22.4,
+        "ultimo_mantenimiento": "2026-08-18"
+      }
+    },
+    {
+      "camion_id": "CAM-08",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00048",
+          "timestamp": "2026-08-06T09:56:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 55.59,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00049",
+          "timestamp": "2026-08-29T08:02:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 59.82,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00050",
+          "timestamp": "2026-08-14T03:38:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Alta",
+          "valor_lectura": "N/D",
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00051",
+          "timestamp": "2026-08-01T02:32:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 36.87,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00048",
+          "timestamp": "2026-08-06T09:56:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 55.59,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.7,
+        "geocerca_radio_km": 30.4,
+        "ultimo_mantenimiento": "2026-07-10"
+      }
+    },
+    {
+      "camion_id": "CAM-09",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00052",
+          "timestamp": "2026-08-01T12:50:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": "N/D",
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00053",
+          "timestamp": "2026-08-27T01:14:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 81.38,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00054",
+          "timestamp": "2026-08-24T19:56:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 65.69,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00055",
+          "timestamp": "2026-08-04T17:35:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 97.78,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00056",
+          "timestamp": "2026-08-23T23:41:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 75.82,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00057",
+          "timestamp": "2026-08-01T12:21:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 52.99,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00058",
+          "timestamp": "28/08/2026 21:53",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 88.33,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.8,
+        "geocerca_radio_km": 58.6,
+        "ultimo_mantenimiento": "2026-07-19"
+      }
+    },
+    {
+      "camion_id": "CAM-10",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00059",
+          "timestamp": "2026-08-20T07:12:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 46.35,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00060",
+          "timestamp": "2026-08-25T15:13:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 51.4,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00061",
+          "timestamp": "2026-08-27T14:09:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 58.21,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00062",
+          "timestamp": "2026-08-21T22:13:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 46.0
+        },
+        {
+          "evento_id": "EVT-ALOG-00063",
+          "timestamp": "2026-08-20T11:17:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 44.74,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00064",
+          "timestamp": "2026-08-19T19:22:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 64.67,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00065",
+          "timestamp": "2026-08-06T00:22:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 57.71,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00066",
+          "timestamp": "07/08/2026 12:42",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 85.73,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00059",
+          "timestamp": "2026-08-20T07:12:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 46.35,
+          "reconocido": null
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 6.4,
+        "geocerca_radio_km": 24.5,
+        "ultimo_mantenimiento": "2026-07-02"
+      }
+    },
+    {
+      "camion_id": "CAM-11",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00067",
+          "timestamp": "2026-08-06T13:02:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 65.07,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00068",
+          "timestamp": "2026-08-21T18:27:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Alta",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00069",
+          "timestamp": "2026-08-04T07:35:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 46.37,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00070",
+          "timestamp": "2026-08-13T07:01:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 58.23,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00071",
+          "timestamp": "2026-08-24T21:03:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 55.18,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.7,
+        "geocerca_radio_km": 28.4,
+        "ultimo_mantenimiento": "2026-07-28"
+      }
+    },
+    {
+      "camion_id": "CAM-12",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00072",
+          "timestamp": "2026-08-02T12:52:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 69.61,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00073",
+          "timestamp": "2026-08-15T00:29:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 60.52,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00074",
+          "timestamp": "2026-08-20T12:02:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 64.9,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00075",
+          "timestamp": "2026-08-20T15:38:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Alta",
+          "valor_lectura": 56.14,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00076",
+          "timestamp": "2026-08-15T21:37:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 49.65,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00077",
+          "timestamp": "2026-08-28T08:39:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 93.7,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00078",
+          "timestamp": "2026-08-12T20:50:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 79.52,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00079",
+          "timestamp": "18/08/2026 14:10",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 54.16,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 6.4,
+        "geocerca_radio_km": 49.8,
+        "ultimo_mantenimiento": "2026-08-17"
+      }
+    },
+    {
+      "camion_id": "CAM-13",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00080",
+          "timestamp": "2026-08-04T02:02:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 39.95,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00081",
+          "timestamp": "2026-08-02T08:43:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 59.75
+        },
+        {
+          "evento_id": "EVT-ALOG-00082",
+          "timestamp": "2026-08-24T23:37:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 41.32,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00083",
+          "timestamp": "2026-08-24T09:13:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Alta",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.9,
+        "geocerca_radio_km": 22.5,
+        "ultimo_mantenimiento": "2026-08-12"
+      }
+    },
+    {
+      "camion_id": "CAM-14",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00084",
+          "timestamp": "2026-08-17T16:56:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 74.35,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00085",
+          "timestamp": "2026-08-20T10:42:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 36.35,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00086",
+          "timestamp": "2026-08-23T22:47:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 87.71,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00087",
+          "timestamp": "2026-08-22T02:53:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 62.31,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00088",
+          "timestamp": "2026-08-22T00:27:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 73.28,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00089",
+          "timestamp": "2026-08-16T10:59:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 68.53,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00084",
+          "timestamp": "2026-08-17T16:56:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 74.35,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.2,
+        "geocerca_radio_km": 50.2,
+        "ultimo_mantenimiento": "2026-07-30"
+      }
+    },
+    {
+      "camion_id": "CAM-15",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00090",
+          "timestamp": "2026-08-03T03:38:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 69.7,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00091",
+          "timestamp": "2026-08-01T01:22:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 66.0,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00092",
+          "timestamp": "2026-08-16T17:41:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 68.4,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00090",
+          "timestamp": "2026-08-03T03:38:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 69.7,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 6.7,
+        "geocerca_radio_km": 49.9,
+        "ultimo_mantenimiento": "2026-07-18"
+      }
+    },
+    {
+      "camion_id": "CAM-16",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00093",
+          "timestamp": "2026-08-12T17:17:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 61.03,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00094",
+          "timestamp": "12/08/2026 23:41",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 35.24,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00095",
+          "timestamp": "2026-08-06T19:03:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 67.03,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.6,
+        "geocerca_radio_km": 30.7,
+        "ultimo_mantenimiento": "2026-06-05"
+      }
+    },
+    {
+      "camion_id": "CAM-17",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00096",
+          "timestamp": "2026-08-05T18:21:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 61.37,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00097",
+          "timestamp": "2026-08-09T00:23:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 54.51,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00098",
+          "timestamp": "2026-08-13T23:02:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Alta",
+          "valor_lectura": 48.35,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00099",
+          "timestamp": "2026-08-21T08:15:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 48.84,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00100",
+          "timestamp": "2026-08-03T04:29:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 71.62,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00101",
+          "timestamp": "2026-08-08T11:33:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 66.87,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00102",
+          "timestamp": "2026-08-13T07:01:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 75.0,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00103",
+          "timestamp": "2026-08-18T17:57:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.8,
+        "geocerca_radio_km": 44.2,
+        "ultimo_mantenimiento": "2026-08-20"
+      }
+    },
+    {
+      "camion_id": "CAM-18",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00104",
+          "timestamp": "2026-08-14T14:07:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 35.12,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00105",
+          "timestamp": "2026-08-09T11:12:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 53.88,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00106",
+          "timestamp": "2026-08-26T04:27:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 74.02,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00107",
+          "timestamp": "2026-08-18T18:04:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 72.59,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00104",
+          "timestamp": "2026-08-14T14:07:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 35.12,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.7,
+        "geocerca_radio_km": 57.8,
+        "ultimo_mantenimiento": "2026-08-25"
+      }
+    },
+    {
+      "camion_id": "CAM-19",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00108",
+          "timestamp": "2026-08-07T21:14:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 32.46,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00109",
+          "timestamp": "2026-08-08T02:10:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 65.73
+        },
+        {
+          "evento_id": "EVT-ALOG-00110",
+          "timestamp": "2026-08-24T17:07:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 72.29,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00111",
+          "timestamp": "2026-08-16T20:22:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Alta",
+          "valor_lectura": 65.43,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00112",
+          "timestamp": "2026-08-24T05:43:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 88.96,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00113",
+          "timestamp": "05/08/2026 11:17",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 82.14,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00114",
+          "timestamp": "2026-08-16T20:57:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 43.36,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.9,
+        "geocerca_radio_km": 42.0,
+        "ultimo_mantenimiento": "2026-08-28"
+      }
+    },
+    {
+      "camion_id": "CAM-20",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00115",
+          "timestamp": "03/08/2026 07:08",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 60.86,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00116",
+          "timestamp": "2026-08-07T07:36:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 60.54,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00117",
+          "timestamp": "2026-08-17T20:48:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 45.21,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00118",
+          "timestamp": "2026-08-10T15:28:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 94.37,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00119",
+          "timestamp": "2026-08-09T16:20:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 34.89,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00120",
+          "timestamp": "2026-08-01T14:02:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 72.51,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00121",
+          "timestamp": "2026-08-21T16:07:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 52.53,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.6,
+        "geocerca_radio_km": 24.8,
+        "ultimo_mantenimiento": "2026-07-22"
+      }
+    },
+    {
+      "camion_id": "CAM-21",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00122",
+          "timestamp": "2026-08-18T10:24:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00123",
+          "timestamp": "2026-08-06T18:10:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Alta",
+          "valor_lectura": 57.63,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00124",
+          "timestamp": "2026-08-02T14:56:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 88.08,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00125",
+          "timestamp": "2026-08-21T06:02:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 64.83,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00126",
+          "timestamp": "2026-08-07T06:54:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": "N/D",
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00127",
+          "timestamp": "2026-08-23T05:29:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 88.89,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00128",
+          "timestamp": "2026-08-16T18:19:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 65.01,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00129",
+          "timestamp": "2026-08-18T19:18:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Alta",
+          "valor_lectura": 38.19,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00130",
+          "timestamp": "2026-08-11T17:24:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 44.51,
+          "reconocido": null
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.1,
+        "geocerca_radio_km": 28.0,
+        "ultimo_mantenimiento": "2026-06-11"
+      }
+    },
+    {
+      "camion_id": "CAM-22",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00131",
+          "timestamp": "2026-08-23T07:45:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 58.82,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00132",
+          "timestamp": "26/08/2026 03:16",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 50.48,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00133",
+          "timestamp": "2026-08-23T22:05:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 60.79,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00134",
+          "timestamp": "2026-08-27T11:03:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 43.92,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.8,
+        "geocerca_radio_km": 36.2,
+        "ultimo_mantenimiento": "2026-07-19"
+      }
+    },
+    {
+      "camion_id": "CAM-23",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00135",
+          "timestamp": "2026-08-12T14:17:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Media",
+          "valor_lectura": 73.92,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00136",
+          "timestamp": "2026-08-22T10:18:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 67.95,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00137",
+          "timestamp": "2026-08-05T19:46:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 60.29,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00138",
+          "timestamp": "2026-08-24T12:34:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 64.0,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00139",
+          "timestamp": "2026-08-19T14:34:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 54.75,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00140",
+          "timestamp": "2026-08-17T04:18:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 59.05,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00141",
+          "timestamp": "06/08/2026 16:47",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 29.23,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00142",
+          "timestamp": "2026-08-23T19:31:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 53.68,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.1,
+        "geocerca_radio_km": 32.6,
+        "ultimo_mantenimiento": "2026-07-11"
+      }
+    },
+    {
+      "camion_id": "CAM-24",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00143",
+          "timestamp": "2026-08-28T20:26:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 70.32,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00144",
+          "timestamp": "2026-08-18T04:29:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 70.08,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00145",
+          "timestamp": "2026-08-24T10:26:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 68.46,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00146",
+          "timestamp": "2026-08-19T05:56:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 48.06,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.9,
+        "geocerca_radio_km": 53.1,
+        "ultimo_mantenimiento": "2026-08-13"
+      }
+    },
+    {
+      "camion_id": "CAM-25",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00147",
+          "timestamp": "2026-08-22T20:16:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 46.41,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00148",
+          "timestamp": "2026-08-12T14:30:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 32.49,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00149",
+          "timestamp": "2026-08-08T06:55:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 88.88,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00150",
+          "timestamp": "2026-08-18T05:29:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 60.45,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00151",
+          "timestamp": "2026-08-09T18:13:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 55.28,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00152",
+          "timestamp": "2026-08-21T12:06:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": "N/D",
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00153",
+          "timestamp": "2026-08-18T02:40:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 72.44
+        },
+        {
+          "evento_id": "EVT-ALOG-00154",
+          "timestamp": "2026-08-23T09:45:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 61.9,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00155",
+          "timestamp": "2026-08-06T16:42:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 59.94,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 6.7,
+        "geocerca_radio_km": 47.6,
+        "ultimo_mantenimiento": "2026-06-12"
+      }
+    },
+    {
+      "camion_id": "CAM-26",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00156",
+          "timestamp": "2026-08-29T23:21:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 79.89
+        },
+        {
+          "evento_id": "EVT-ALOG-00157",
+          "timestamp": "2026-08-18T02:41:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 64.29,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00158",
+          "timestamp": "2026-08-16T06:38:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 83.58,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00159",
+          "timestamp": "2026-08-16T09:33:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 50.83,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00160",
+          "timestamp": "2026-08-16T11:52:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 13.87
+        },
+        {
+          "evento_id": "EVT-ALOG-00161",
+          "timestamp": "2026-08-18T20:31:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 61.81,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00156",
+          "timestamp": "2026-08-29T23:21:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 79.89
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.7,
+        "geocerca_radio_km": 29.8,
+        "ultimo_mantenimiento": "2026-07-15"
+      }
+    },
+    {
+      "camion_id": "CAM-27",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00162",
+          "timestamp": "2026-08-17T23:56:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 57.52,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00163",
+          "timestamp": "2026-08-04T04:46:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 72.52,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00164",
+          "timestamp": "2026-08-11T11:41:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 40.09,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00165",
+          "timestamp": "2026-08-14T20:07:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Baja",
+          "valor_lectura": 62.53,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00166",
+          "timestamp": "2026-08-01T01:17:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Baja",
+          "valor_lectura": 56.84,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00167",
+          "timestamp": "2026-08-19T08:10:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 53.49,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.3,
+        "geocerca_radio_km": 20.3,
+        "ultimo_mantenimiento": "2026-06-09"
+      }
+    },
+    {
+      "camion_id": "CAM-28",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00168",
+          "timestamp": "2026-08-17T17:12:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Alta",
+          "valor_lectura": 60.13
+        },
+        {
+          "evento_id": "EVT-ALOG-00169",
+          "timestamp": "2026-08-28T23:38:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Media",
+          "valor_lectura": 49.65
+        },
+        {
+          "evento_id": "EVT-ALOG-00170",
+          "timestamp": "2026-08-12T17:19:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 53.59,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00171",
+          "timestamp": "2026-08-26T06:35:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 35.74,
+          "reconocido": null
+        },
+        {
+          "evento_id": "EVT-ALOG-00172",
+          "timestamp": "2026-08-08T19:12:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 64.48,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00173",
+          "timestamp": "2026-08-25T07:37:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 37.78,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.5,
+        "geocerca_radio_km": 31.7,
+        "ultimo_mantenimiento": "2026-07-30"
+      }
+    },
+    {
+      "camion_id": "CAM-29",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00174",
+          "timestamp": "2026-08-08T19:47:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 56.51,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00175",
+          "timestamp": "2026-08-01T06:57:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Baja",
+          "valor_lectura": 29.38,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00176",
+          "timestamp": "2026-08-07T14:57:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 64.26,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00174",
+          "timestamp": "2026-08-08T19:47:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 56.51,
+          "reconocido": false
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 8.7,
+        "geocerca_radio_km": 53.5,
+        "ultimo_mantenimiento": "2026-06-02"
+      }
+    },
+    {
+      "camion_id": "CAM-30",
+      "eventos": [
+        {
+          "evento_id": "EVT-ALOG-00177",
+          "timestamp": "2026-08-10T02:50:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 33.77,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00178",
+          "timestamp": "2026-08-15T00:25:00",
+          "tipo": "FALLA_MOTOR",
+          "severidad": "Media",
+          "valor_lectura": 42.24,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00179",
+          "timestamp": "2026-08-16T23:23:00",
+          "tipo": "GEOCERCA_SALIDA",
+          "severidad": "Baja",
+          "valor_lectura": 40.93,
+          "reconocido": false
+        },
+        {
+          "evento_id": "EVT-ALOG-00180",
+          "timestamp": "2026-08-29T07:12:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Media",
+          "valor_lectura": 58.7,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00181",
+          "timestamp": "2026-08-16T09:17:00",
+          "tipo": "MANTENIMIENTO_PROGRAMADO",
+          "severidad": "Media",
+          "valor_lectura": 80.17,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00182",
+          "timestamp": "2026-08-03T14:18:00",
+          "tipo": "ALERTA_TEMP_CADENA_FRIO",
+          "severidad": "Alta",
+          "valor_lectura": 50.22
+        },
+        {
+          "evento_id": "EVT-ALOG-00183",
+          "timestamp": "2026-08-21T06:42:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Alta",
+          "valor_lectura": 75.17,
+          "reconocido": true
+        },
+        {
+          "evento_id": "EVT-ALOG-00184",
+          "timestamp": "2026-08-10T04:07:00",
+          "tipo": "EXCESO_VELOCIDAD",
+          "severidad": "Baja",
+          "valor_lectura": 80.36,
+          "reconocido": true
+        }
+      ],
+      "config": {
+        "umbral_temp_cabina_c": 7.8,
+        "geocerca_radio_km": 24.7,
+        "ultimo_mantenimiento": "2026-08-18"
+      }
+    }
+  ]
+}

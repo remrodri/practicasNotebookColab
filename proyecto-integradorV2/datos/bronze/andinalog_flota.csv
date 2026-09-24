@@ -1,0 +1,33 @@
+camion_id,centro_distribucion_base,capacidad_kg,tipo_camion
+CAM-01,Cochabamba,5000,Refrigerado
+CAM-02,Cochabamba,5000,Refrigerado
+CAM-03,Oruro,12000,Seco
+CAM-04,La Paz,2000,Seco
+CAM-05,Cochabamba,8000,Seco
+CAM-06,Cochabamba,5000,Seco
+CAM-07,La Paz,12000,Seco
+CAM-08,Santa Cruz,5000,Refrigerado
+CAM-09,Santa Cruz,8000,Seco
+CAM-10,La Paz,12000,Refrigerado
+CAM-11,Cochabamba,2000,Refrigerado
+CAM-12,La Paz,8000,Seco
+CAM-13,Cochabamba,12000,Seco
+CAM-14,Cochabamba,8000,Seco
+CAM-15,La Paz,2000,Refrigerado
+CAM-16,Oruro,5000,Seco
+CAM-17,Cochabamba,8000,Seco
+CAM-18,Santa Cruz,2000,Seco
+CAM-19,Tarija,2000,Refrigerado
+ cam-20 ,Oruro,12000,Refrigerado
+CAM-21,Tarija,12000,Seco
+CAM-22,Cochabamba,8000,Refrigerado
+CAM-23,Santa Cruz,5000,Seco
+CAM-24,Oruro,2000,Refrigerado
+CAM-25,Cochabamba,2000,Refrigerado
+CAM-26,Tarija,8000,Refrigerado
+CAM-27,Cochabamba,5000,Refrigerado
+CAM-28,La Paz,2000,Refrigerado
+CAM-29,Santa Cruz,5000,Seco
+ cam-30 ,Cochabamba,8000,Seco
+CAM-01,Cochabamba,5000,Refrigerado
+CAM-27,Cochabamba,5000,Refrigerado

@@ -1,0 +1,29 @@
+camion_id,centro_distribucion_base,capacidad_kg,tipo_camion,_fila_bronze,errores_bloqueantes,motivos_transformacion,motivos_imputacion,camion_id_original,centro_distribucion_base_original,tipo_camion_original,capacidad_kg_original,camion_id_tratado,centro_distribucion_base_tratado,tipo_camion_tratado,camion_id_transformado,centro_distribucion_base_transformado,tipo_camion_transformado,capacidad_kg_tratado,capacidad_kg_conversion_invalida,capacidad_kg_centinela_detectado,capacidad_kg_imputada,capacidad_kg_imputacion_metodo,fue_transformada,fue_imputada,conteo_transformaciones,conteo_imputaciones,calidad_motivo,calidad_estado
+CAM-02,Cochabamba,5000.0,Refrigerado,3,,,,CAM-02,Cochabamba,Refrigerado,5000,CAM-02,Cochabamba,Refrigerado,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-03,Oruro,12000.0,Seco,4,,,,CAM-03,Oruro,Seco,12000,CAM-03,Oruro,Seco,False,False,False,12000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-04,La Paz,2000.0,Seco,5,,,,CAM-04,La Paz,Seco,2000,CAM-04,La Paz,Seco,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-05,Cochabamba,8000.0,Seco,6,,,,CAM-05,Cochabamba,Seco,8000,CAM-05,Cochabamba,Seco,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-06,Cochabamba,5000.0,Seco,7,,,,CAM-06,Cochabamba,Seco,5000,CAM-06,Cochabamba,Seco,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-07,La Paz,12000.0,Seco,8,,,,CAM-07,La Paz,Seco,12000,CAM-07,La Paz,Seco,False,False,False,12000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-08,Santa Cruz,5000.0,Refrigerado,9,,,,CAM-08,Santa Cruz,Refrigerado,5000,CAM-08,Santa Cruz,Refrigerado,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-09,Santa Cruz,8000.0,Seco,10,,,,CAM-09,Santa Cruz,Seco,8000,CAM-09,Santa Cruz,Seco,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-10,La Paz,12000.0,Refrigerado,11,,,,CAM-10,La Paz,Refrigerado,12000,CAM-10,La Paz,Refrigerado,False,False,False,12000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-11,Cochabamba,2000.0,Refrigerado,12,,,,CAM-11,Cochabamba,Refrigerado,2000,CAM-11,Cochabamba,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-12,La Paz,8000.0,Seco,13,,,,CAM-12,La Paz,Seco,8000,CAM-12,La Paz,Seco,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-13,Cochabamba,12000.0,Seco,14,,,,CAM-13,Cochabamba,Seco,12000,CAM-13,Cochabamba,Seco,False,False,False,12000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-14,Cochabamba,8000.0,Seco,15,,,,CAM-14,Cochabamba,Seco,8000,CAM-14,Cochabamba,Seco,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-15,La Paz,2000.0,Refrigerado,16,,,,CAM-15,La Paz,Refrigerado,2000,CAM-15,La Paz,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-16,Oruro,5000.0,Seco,17,,,,CAM-16,Oruro,Seco,5000,CAM-16,Oruro,Seco,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-17,Cochabamba,8000.0,Seco,18,,,,CAM-17,Cochabamba,Seco,8000,CAM-17,Cochabamba,Seco,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-18,Santa Cruz,2000.0,Seco,19,,,,CAM-18,Santa Cruz,Seco,2000,CAM-18,Santa Cruz,Seco,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-19,Tarija,2000.0,Refrigerado,20,,,,CAM-19,Tarija,Refrigerado,2000,CAM-19,Tarija,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-20,Oruro,12000.0,Refrigerado,21,,normalizacion_texto:camion_id,, cam-20 ,Oruro,Refrigerado,12000,CAM-20,Oruro,Refrigerado,True,False,False,12000.0,False,False,False,,True,False,1,0,sin_incidencias,valida_con_transformacion
+CAM-21,Tarija,12000.0,Seco,22,,,,CAM-21,Tarija,Seco,12000,CAM-21,Tarija,Seco,False,False,False,12000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-22,Cochabamba,8000.0,Refrigerado,23,,,,CAM-22,Cochabamba,Refrigerado,8000,CAM-22,Cochabamba,Refrigerado,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-23,Santa Cruz,5000.0,Seco,24,,,,CAM-23,Santa Cruz,Seco,5000,CAM-23,Santa Cruz,Seco,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-24,Oruro,2000.0,Refrigerado,25,,,,CAM-24,Oruro,Refrigerado,2000,CAM-24,Oruro,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-25,Cochabamba,2000.0,Refrigerado,26,,,,CAM-25,Cochabamba,Refrigerado,2000,CAM-25,Cochabamba,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-26,Tarija,8000.0,Refrigerado,27,,,,CAM-26,Tarija,Refrigerado,8000,CAM-26,Tarija,Refrigerado,False,False,False,8000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-28,La Paz,2000.0,Refrigerado,29,,,,CAM-28,La Paz,Refrigerado,2000,CAM-28,La Paz,Refrigerado,False,False,False,2000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-29,Santa Cruz,5000.0,Seco,30,,,,CAM-29,Santa Cruz,Seco,5000,CAM-29,Santa Cruz,Seco,False,False,False,5000.0,False,False,False,,False,False,0,0,sin_incidencias,valida
+CAM-30,Cochabamba,8000.0,Seco,31,,normalizacion_texto:camion_id,, cam-30 ,Cochabamba,Seco,8000,CAM-30,Cochabamba,Seco,True,False,False,8000.0,False,False,False,,True,False,1,0,sin_incidencias,valida_con_transformacion
