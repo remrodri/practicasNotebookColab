@@ -52,8 +52,8 @@ Conversión auditada de órdenes WMS desde Bronze a Silver y cuarentena.
 - `informes/bronze_silver/Informe_B2S_03_WMS_Orders.md`
 
 ## Reproducibilidad
-- Fecha de ejecución UTC: 2026-09-24T18:02:51.407405+00:00.
-- Python: 3.14.6.
+- Fecha de ejecución UTC: 2026-09-25T02:49:22.169156+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Rutas de entrada: `datos/bronze/andinalog_wms_orders.csv`, `datos/silver/andinalog_productos_silver.csv`, `datos/silver/andinalog_flota_silver.csv`.
 - Rutas de salida: `datos/silver/andinalog_wms_orders_silver.csv`, `datos/quarantine/andinalog_wms_orders_quarantine.csv`, `informes/bronze_silver/Informe_B2S_03_WMS_Orders.md`.

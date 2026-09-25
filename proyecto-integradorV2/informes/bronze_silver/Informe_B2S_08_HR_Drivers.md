@@ -53,8 +53,8 @@ Conversión auditada de atributos laborales desde Bronze CSV hacia Silver y cuar
 - `informes/bronze_silver/Informe_B2S_08_HR_Drivers.md`
 
 ## Reproducibilidad
-- Fecha UTC: 2026-09-24T23:09:46.665863+00:00.
-- Python: 3.14.6.
+- Fecha UTC: 2026-09-25T03:25:56.811637+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
-- Ejecutar las celdas en orden desde la raíz del proyecto.
+- Ejecutar las celdas en orden desde la raíz del proyecto o desde el directorio del notebook; `detectar_raiz()` busca la raíz entre los directorios actuales y sus ancestros.
 - Los controles finales se aplican sobre los CSV persistidos.

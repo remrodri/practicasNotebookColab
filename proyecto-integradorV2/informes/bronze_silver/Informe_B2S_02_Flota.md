@@ -53,8 +53,8 @@ Conversión auditada de la fuente Bronze de flota a Silver y cuarentena.
 - `informes/bronze_silver/Informe_B2S_02_Flota.md`
 
 ## Reproducibilidad
-- Fecha de ejecución UTC: 2026-09-24T16:33:06.963047+00:00.
-- Python: 3.14.6.
+- Fecha de ejecución UTC: 2026-09-25T02:48:38.278350+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Ruta Bronze relativa: `datos/bronze/andinalog_flota.csv`.
 - Ruta Silver relativa: `datos/silver/andinalog_flota_silver.csv`.

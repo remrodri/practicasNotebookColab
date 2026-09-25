@@ -43,8 +43,8 @@ Conversión auditada de eventos de telemetría desde un JSON padre-hijo hacia Si
 - `informes/bronze_silver/Informe_B2S_07_AndinaLog_Flota_Eventos.md`
 
 ## Reproducibilidad
-- Fecha UTC: 2026-09-24T22:52:11.099270+00:00.
-- Python: 3.14.6.
+- Fecha UTC: 2026-09-25T02:52:24.771430+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Bronze JSON se lee sin modificar y se conserva el orden de los eventos.
 - Ejecutar las celdas en orden; los controles se realizan sobre los CSV persistidos.

@@ -61,8 +61,8 @@ Conversion auditada de lecturas IoT desde Bronze a Silver y cuarentena.
 - `informes/bronze_silver/Informe_B2S_04_IoT_Telemetry.md`
 
 ## Reproducibilidad
-- Fecha de ejecucion UTC: 2026-09-24T18:45:40.652908+00:00.
-- Python: 3.14.6.
+- Fecha de ejecucion UTC: 2026-09-25T02:50:02.237139+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Rutas de entrada: `datos/bronze/andinalog_iot_telemetry.csv`, `datos/silver/andinalog_wms_orders_silver.csv`, `datos/silver/andinalog_productos_silver.csv`, `datos/silver/andinalog_flota_silver.csv`.
 - Rutas de salida: `datos/silver/andinalog_iot_telemetry_silver.csv`, `datos/quarantine/andinalog_iot_telemetry_quarantine.csv`, `informes/bronze_silver/Informe_B2S_04_IoT_Telemetry.md`.

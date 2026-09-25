@@ -48,8 +48,8 @@ Conversión auditada de productos logísticos desde Bronze a Silver y cuarentena
 - `informes/bronze_silver/Informe_B2S_01_Productos.md`
 
 ## Reproducibilidad
-- Fecha de ejecución UTC: 2026-09-24T17:35:48.441929+00:00.
-- Python: 3.14.6.
+- Fecha de ejecución UTC: 2026-09-25T02:47:41.039691+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Bronze se lee con `dtype=str` y no se modifica.
 - La raíz se detecta mediante `ANDINALOG_ROOT` o buscando el directorio `datos/bronze`; la fuente se resuelve desde `CONFIG['rutas']['bronze']`.

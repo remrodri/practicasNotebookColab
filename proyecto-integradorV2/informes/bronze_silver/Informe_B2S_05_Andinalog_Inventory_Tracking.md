@@ -47,8 +47,8 @@ Conversión auditada de movimientos de inventario desde Bronze hacia Silver y cu
 - `informes/bronze_silver/Informe_B2S_05_Andinalog_Inventory_Tracking.md`
 
 ## Reproducibilidad
-- Fecha UTC: 2026-09-24T22:37:13.525430+00:00.
-- Python: 3.14.6.
+- Fecha UTC: 2026-09-25T02:50:31.441284+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Bronze se lee como texto y no se modifica.
 - Ejecutar las celdas en orden; los controles se realizan sobre los CSV persistidos.

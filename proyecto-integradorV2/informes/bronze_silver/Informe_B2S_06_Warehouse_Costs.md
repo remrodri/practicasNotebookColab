@@ -38,8 +38,8 @@ Conversión auditada de costos de almacén desde Bronze hacia Silver y cuarenten
 - `informes/bronze_silver/Informe_B2S_06_Warehouse_Costs.md`
 
 ## Reproducibilidad
-- Fecha UTC: 2026-09-24T22:15:01.580041+00:00.
-- Python: 3.14.6.
+- Fecha UTC: 2026-09-25T02:51:13.875031+00:00.
+- Python: 3.13.15.
 - pandas: 3.0.5.
 - Bronze se lee como texto sin modificar.
 - Ejecutar las celdas en orden; los controles se realizan sobre los CSV persistidos.
