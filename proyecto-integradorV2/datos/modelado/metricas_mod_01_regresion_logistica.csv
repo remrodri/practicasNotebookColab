@@ -1,0 +1,145 @@
+bloque,variante,ambito,umbral,metrica,valor,detalle
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,accuracy,0.9517067494181536,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,precision,0.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,recall,0.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,f1,0.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,roc_auc,0.5,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,pr_auc,0.04829325058184639,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,prevalencia,0.04829325058184639,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,tn,4907.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,fp,0.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,fn,249.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,linea_base_clase_mayoritaria,conjunto de prueba reservado,,tp,0.0,linea_base_clase_mayoritaria
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,accuracy,0.9230023273855702,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,precision,0.30319148936170215,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,recall,0.4578313253012048,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,f1,0.3648,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,roc_auc,0.7593037730706809,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,pr_auc,0.32406915828275806,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,prevalencia,0.04829325058184639,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,tn,4645.0,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,fp,262.0,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,fn,135.0,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_0.5,conjunto de prueba reservado,,tp,114.0,modelo_principal_umbral_0.5
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,accuracy,0.9569433669511249,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,precision,0.574585635359116,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,recall,0.41767068273092367,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,f1,0.48372093023255813,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,roc_auc,0.7593037730706809,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,pr_auc,0.32406915828275806,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,prevalencia,0.04829325058184639,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,tn,4830.0,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,fp,77.0,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,fn,145.0,modelo_principal_umbral_secundario
+prueba_evaluacion_final,modelo_principal_umbral_secundario,conjunto de prueba reservado,,tp,104.0,modelo_principal_umbral_secundario
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,accuracy,0.9559039686428221,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,precision,0.6689655172413793,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,recall,0.42358078602620086,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,f1,0.5187165775401069,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,roc_auc,0.8053192827683755,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 1",,pr_auc,0.4384381358075645,filas 4082
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,accuracy,0.9548745173745173,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,precision,0.5966386554621849,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,recall,0.3380952380952381,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,f1,0.4316109422492401,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,roc_auc,0.7259302297431429,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 2",,pr_auc,0.3306526670342402,filas 4144
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,accuracy,0.958970623937849,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,precision,0.6766917293233082,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,recall,0.4166666666666667,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,f1,0.5157593123209169,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,roc_auc,0.7760376633358954,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 3",,pr_auc,0.42847311414067724,filas 4119
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,accuracy,0.9612515042117931,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,precision,0.6306306306306306,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,recall,0.3684210526315789,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,f1,0.46511627906976744,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,roc_auc,0.7512975376650959,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 4",,pr_auc,0.3574325673631593,filas 4155
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,accuracy,0.9575345789856831,filas 4121
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,precision,0.6396396396396397,filas 4121
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,recall,0.3446601941747573,filas 4121
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,f1,0.4479495268138801,filas 4121
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,roc_auc,0.7620354871108136,filas 4121
+cv_grupos_principal,class_weight='balanced',"validacion cruzada por grupos, fold 5",,pr_auc,0.3896499402878497,filas 4121
+cv_grupos_principal_resumen,class_weight='balanced',"validacion cruzada por grupos, media",,pr_auc,0.3889292849266982,desviacion 0.045835
+cv_grupos_principal_resumen,class_weight='balanced',"validacion cruzada por grupos, media",,recall,0.3782847875188884,desviacion 0.039900
+cv_grupos_principal_resumen,class_weight='balanced',"validacion cruzada por grupos, media",,precision,0.6425132344594285,desviacion 0.032101
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,accuracy,0.9559039686428221,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,precision,0.6689655172413793,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,recall,0.42358078602620086,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,f1,0.5187165775401069,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,roc_auc,0.8053192827683755,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 1",,pr_auc,0.4384381358075645,filas 4082
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,accuracy,0.9548745173745173,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,precision,0.5966386554621849,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,recall,0.3380952380952381,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,f1,0.4316109422492401,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,roc_auc,0.7259302297431429,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 2",,pr_auc,0.3306526670342402,filas 4144
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,accuracy,0.958970623937849,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,precision,0.6766917293233082,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,recall,0.4166666666666667,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,f1,0.5157593123209169,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,roc_auc,0.7760376633358954,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 3",,pr_auc,0.42847311414067724,filas 4119
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,accuracy,0.9612515042117931,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,precision,0.6306306306306306,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,recall,0.3684210526315789,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,f1,0.46511627906976744,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,roc_auc,0.7512975376650959,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 4",,pr_auc,0.3574325673631593,filas 4155
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,accuracy,0.9575345789856831,filas 4121
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,precision,0.6396396396396397,filas 4121
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,recall,0.3446601941747573,filas 4121
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,f1,0.4479495268138801,filas 4121
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,roc_auc,0.7620354871108136,filas 4121
+cv_grupos_sin_ponderar,class_weight=None,"validacion cruzada por grupos, fold 5",,pr_auc,0.3896499402878497,filas 4121
+cv_grupos_sin_ponderar_resumen,class_weight=None,"validacion cruzada por grupos, media",,pr_auc,0.3889292849266982,desviacion 0.045835
+cv_grupos_sin_ponderar_resumen,class_weight=None,"validacion cruzada por grupos, media",,recall,0.3782847875188884,desviacion 0.039900
+cv_grupos_sin_ponderar_resumen,class_weight=None,"validacion cruzada por grupos, media",,precision,0.6425132344594285,desviacion 0.032101
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,filas,20621,"positivos 1051, viajes 960"
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,pr_auc_medio,0.34751,
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,roc_auc_medio,0.763956,
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,f1_medio,0.350421,
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,recall_medio,0.455079,
+sensibilidad_A_historia,principal_codificacion_neutra,validacion cruzada por grupos en entrenamiento,,precision_medio,0.287506,
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,filas,19446,"positivos 1034, viajes 960"
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,pr_auc_medio,0.347265,
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,roc_auc_medio,0.756182,
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,f1_medio,0.395683,
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,recall_medio,0.449399,
+sensibilidad_A_historia,restringida_historia_completa,validacion cruzada por grupos en entrenamiento,,precision_medio,0.359249,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,criterio,recall de la clase positiva,class_weight='balanced' (principal)
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,recall_medio,0.455079,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,precision_medio,0.287506,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,pr_auc_medio,0.34751,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,f1_medio,0.350421,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,alertas_por_fold,340.6,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,falsos_positivos_por_fold,244.6,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,falsos_negativos_por_fold,114.2,
+sensibilidad_B_ponderacion,class_weight='balanced' (principal),validacion cruzada por grupos en entrenamiento,,roc_auc_medio,0.763956,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,criterio,recall de la clase positiva,class_weight=None
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,recall_medio,0.378285,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,precision_medio,0.642513,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,pr_auc_medio,0.388929,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,f1_medio,0.475831,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,alertas_por_fold,123.8,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,falsos_positivos_por_fold,44.0,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,falsos_negativos_por_fold,130.4,
+sensibilidad_B_ponderacion,class_weight=None,validacion cruzada por grupos en entrenamiento,,roc_auc_medio,0.764124,
+umbrales_out_of_fold,referencia de config,validacion cruzada por grupos en entrenamiento (out-of-fold),0.5,precision,0.28185554903112153,
+umbrales_out_of_fold,referencia de config,validacion cruzada por grupos en entrenamiento (out-of-fold),0.5,recall,0.45670789724072314,
+umbrales_out_of_fold,referencia de config,validacion cruzada por grupos en entrenamiento (out-of-fold),0.5,f1,0.3485838779956427,
+umbrales_out_of_fold,referencia de config,validacion cruzada por grupos en entrenamiento (out-of-fold),0.5,f2,0.4062976130015236,
+umbrales_out_of_fold,referencia de config,validacion cruzada por grupos en entrenamiento (out-of-fold),0.5,alertas,1703.0,
+umbrales_out_of_fold,maximo F2 out-of-fold (FN mas caro),validacion cruzada por grupos en entrenamiento (out-of-fold),0.57,precision,0.5975609756097561,
+umbrales_out_of_fold,maximo F2 out-of-fold (FN mas caro),validacion cruzada por grupos en entrenamiento (out-of-fold),0.57,recall,0.4196003805899144,
+umbrales_out_of_fold,maximo F2 out-of-fold (FN mas caro),validacion cruzada por grupos en entrenamiento (out-of-fold),0.57,f1,0.49301285634432646,
+umbrales_out_of_fold,maximo F2 out-of-fold (FN mas caro),validacion cruzada por grupos en entrenamiento (out-of-fold),0.57,f2,0.4461756373937677,
+umbrales_out_of_fold,maximo F2 out-of-fold (FN mas caro),validacion cruzada por grupos en entrenamiento (out-of-fold),0.57,alertas,738.0,
+umbrales_out_of_fold,maximo F1 out-of-fold (equilibrio),validacion cruzada por grupos en entrenamiento (out-of-fold),0.93,precision,0.6196581196581197,
+umbrales_out_of_fold,maximo F1 out-of-fold (equilibrio),validacion cruzada por grupos en entrenamiento (out-of-fold),0.93,recall,0.4138915318744053,
+umbrales_out_of_fold,maximo F1 out-of-fold (equilibrio),validacion cruzada por grupos en entrenamiento (out-of-fold),0.93,f1,0.49629207073588133,
+umbrales_out_of_fold,maximo F1 out-of-fold (equilibrio),validacion cruzada por grupos en entrenamiento (out-of-fold),0.93,f2,0.443334692213616,
+umbrales_out_of_fold,maximo F1 out-of-fold (equilibrio),validacion cruzada por grupos en entrenamiento (out-of-fold),0.93,alertas,702.0,
