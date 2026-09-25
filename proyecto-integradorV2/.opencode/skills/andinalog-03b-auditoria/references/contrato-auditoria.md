@@ -62,3 +62,6 @@ Revisa como minimo:
 
 En una segunda auditoria, verifica primero cada hallazgo previo y su control de cierre. Despues revisa que la correccion no haya alterado conciliacion, granularidad, fechas, privacidad o resultados relacionados. No reabras decisiones aprobadas sin evidencia nueva.
 
+## Gold predictivo, EDA y modelo IoT
+
+Revisa granularidad por lectura, ventanas dentro del mismo viaje, objetivo en `(t, t+60 min]`, cobertura evaluable, ausencia de fuga futura, controles y graficos del EDA, split sin grupos compartidos, preprocesamiento ajustado solo con entrenamiento, metricas requeridas y consistencia entre notebook, informe y archivos.

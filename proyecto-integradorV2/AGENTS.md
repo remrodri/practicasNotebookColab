@@ -10,6 +10,32 @@ Este proyecto corresponde al Grupo 06, empresa AndinaLog y subcaso 03B. V2 sigue
 - Usa `$andinalog-03b-silver-gold` para integrar fuentes Silver y producir detalle y agregado Gold.
 - Usa `$andinalog-03b-v2-pipeline` para revisar orden, alcance y coherencia general.
 - Usa `$andinalog-03b-auditoria` en modo Plan despues de Build para revisar entregables sin modificarlos.
+- Usa `$andinalog-03b-iot-gold` para construir desde IoT Silver la tabla Gold con predictores temporales y objetivo futuro.
+- Usa `$andinalog-03b-iot-eda` para ejecutar el EDA obligatorio sobre la tabla Gold.
+- Usa `$andinalog-03b-iot-regresion-logistica` para dividir por viaje, entrenar y evaluar el modelo requerido.
+
+## Alcance predictivo minimo confirmado
+
+- El modelo obligatorio de 03B es una regresion logistica para predecir `desviacion_proximos_60min_flag`.
+- La fuente minima es `andinalog_iot_telemetry.csv`; los cruces con otros datasets no son indispensables para el primer modelo.
+- La unidad de observacion es una lectura de telemetria.
+- Los predictores minimos son temperatura actual, humedad actual, desviacion termica actual, temperatura anterior y variacion de temperatura de los ultimos 30 minutos.
+- La separacion de entrenamiento y prueba se realiza por viaje u orden.
+- Ningun predictor puede utilizar lecturas o eventos posteriores al instante de prediccion.
+- Despues de IoT Silver, el orden obligatorio es Gold, EDA y regresion logistica. Cada etapa entrega notebook ejecutado e informe MD.
+- Usa `$andinalog-03b-iot-gold` para construir desde IoT Silver la tabla Gold con predictores temporales y objetivo futuro.
+- Usa `$andinalog-03b-iot-eda` para ejecutar el EDA obligatorio sobre la tabla Gold.
+- Usa `$andinalog-03b-iot-regresion-logistica` para dividir por viaje, entrenar y evaluar el modelo requerido.
+
+## Alcance predictivo minimo confirmado
+
+- El modelo obligatorio de 03B es una regresion logistica para predecir `desviacion_proximos_60min_flag`.
+- La fuente minima es `andinalog_iot_telemetry.csv`; los cruces con otros datasets no son indispensables para el primer modelo.
+- La unidad de observacion es una lectura de telemetria.
+- Los predictores minimos son temperatura actual, humedad actual, desviacion termica actual, temperatura anterior y variacion de temperatura de los ultimos 30 minutos.
+- La separacion de entrenamiento y prueba se realiza por viaje u orden para impedir que lecturas consecutivas de la misma entidad aparezcan en ambos conjuntos.
+- Ningun predictor puede utilizar lecturas o eventos posteriores al instante de prediccion.
+- Despues de IoT Silver, el orden obligatorio es Gold, EDA y regresion logistica. Cada etapa entrega notebook ejecutado e informe MD.
 
 ## Prompts y perfiles de fuente
 
@@ -22,6 +48,10 @@ Este proyecto corresponde al Grupo 06, empresa AndinaLog y subcaso 03B. V2 sigue
 ## Entregables
 
 Por cada fuente Bronze entrega un notebook ejecutado, un informe MD, un CSV Silver y un CSV de cuarentena. Por cada producto Gold entrega un notebook ejecutado, un informe MD, un detalle Gold y un agregado Gold.
+
+Para el producto predictivo minimo de IoT, Gold puede ser una sola tabla a nivel de lectura; no exige agregado ni join. El EDA y el modelo se entregan en notebooks e informes separados.
+
+Para el producto predictivo minimo de IoT, Gold puede ser una sola tabla a nivel de lectura; no exige agregado ni join. El EDA y el modelo se entregan en notebooks e informes separados.
 
 ## Bronze a Silver
 

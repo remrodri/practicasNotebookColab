@@ -11,6 +11,7 @@ Actua como revisor independiente. Lee `AGENTS.md`, la skill que produjo el entre
 
 - Si se entregan Bronze, notebook, Silver, cuarentena e informe, usa la auditoria Bronze-Silver de [references/contrato-auditoria.md](references/contrato-auditoria.md).
 - Si se entregan fuentes Silver, notebook, detalle Gold, agregado Gold e informe, usa la auditoria Silver-Gold del mismo contrato.
+- Si se entrega Gold IoT predictivo, EDA o modelo, aplica tambien la seccion predictiva del contrato y la skill especifica que produjo el entregable.
 - Si faltan archivos, revisa lo disponible y declara exactamente que evidencia impide aprobar.
 
 ## Metodo

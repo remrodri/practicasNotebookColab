@@ -21,6 +21,7 @@ Coordina V2 desde los archivos fuente hasta Gold. El prompt S11 del docente es l
 - Para integrar fuentes Silver y producir detalle y agregado Gold, usa `$andinalog-03b-silver-gold`.
 - Para revisar el avance general, el orden, la coherencia o una decision transversal, permanece en esta skill.
 - Aplica como contexto comun [references/dominio-andinalog.md](references/dominio-andinalog.md).
+- Para el alcance predictivo minimo, usa en orden `$andinalog-03b-iot-gold`, `$andinalog-03b-iot-eda` y `$andinalog-03b-iot-regresion-logistica` despues de aprobar IoT Silver.
 
 ## Interaccion estandar
 
@@ -40,6 +41,8 @@ Los prompts de Plan, Build y Auditoria deben mantener la misma estructura entre 
 Antes de dirigir una tarea a Silver-Gold, verifica que cada fuente necesaria tenga notebook ejecutado, Silver, cuarentena, informe, conciliacion valida y auditoria sin hallazgos criticos o importantes. No exijas que las nueve fuentes entren en todos los productos. Registra cuales son utilizadas, contextuales o excluidas y el motivo.
 
 Revisa tambien que las decisiones transversales sean consistentes: semantica temporal, codigos de calidad, tratamiento de claves, unidades, privacidad y definicion de imputacion.
+
+Para el modelo minimo a 60 minutos solo IoT Silver es obligatorio. No exijas joins ni las nueve fuentes si IoT contiene temperatura, humedad, desviacion actual, identificador de viaje u orden y timestamp.
 
 ## Decisiones que requieren evidencia
 
