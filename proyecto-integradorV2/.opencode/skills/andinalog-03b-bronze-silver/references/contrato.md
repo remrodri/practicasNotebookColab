@@ -42,4 +42,4 @@ Para JSON registra objetos padre, elementos hijos, objetos sin hijos y filas apl
 
 ## Informe MD
 
-Incluye objetivo, granularidad, perfil Bronze, reglas, transformaciones, imputaciones, enrutamiento, cobertura referencial, conteos, conciliacion, limitaciones, archivos generados y decisiones defendibles. Obtiene todas las cifras de la ejecucion entregada.
+Incluye objetivo, granularidad, perfil Bronze, reglas, transformaciones, imputaciones, enrutamiento, cobertura referencial, conteos, conciliacion, resumen del reporte de calidad, criterio de seleccion de columnas, limitaciones, archivos generados y decisiones defendibles. No suma activaciones solapadas como filas unicas. Obtiene todas las cifras de la ejecucion entregada.

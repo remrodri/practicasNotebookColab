@@ -1,49 +1,31 @@
 ---
 name: andinalog-03b-v2-pipeline
-description: Coordina el proyecto V2 de AndinaLog Grupo 06 subcaso 03B, mantiene sus decisiones comunes y dirige cada tarea a la skill Bronze-Silver o Silver-Gold. Usar para revisar alcance, orden de trabajo, coherencia entre entregables o reglas compartidas; no usar para crear carpetas.
+description: Coordina AndinaLog Grupo 06 subcaso 03B, mantiene decisiones comunes y dirige tareas a Bronze-Silver, Silver-Gold, Gold IoT, EDA, modelo o auditoria. Usar para alcance, orden y coherencia; no para crear carpetas.
 ---
 
 # AndinaLog 03B V2 Pipeline
 
-Coordina V2 desde los archivos fuente hasta Gold. El prompt S11 del docente es la especificacion principal. Esta skill no crea estructuras de carpetas.
+Coordina V2 desde fuentes hasta modelo. El prompt S11 y el contrato oficial del subcaso prevalecen. No copies codigo, estructuras, conteos ni conclusiones de V1.
 
-## Limites de V2
+## Enrutamiento
 
-- No copies codigo, salidas, conteos ni estructuras de V1 sin una solicitud expresa del usuario.
-- Puedes usar las fuentes oficiales y el contexto de negocio para formular y justificar reglas.
-- Inspecciona cada archivo Bronze antes de definir reglas. No inventes columnas, categorias, rangos ni claves.
-- Entrega cada notebook `.ipynb` junto con un informe `.md` que refleje los resultados realmente ejecutados.
-- V3 sera el espacio para comparar y combinar V1 y V2.
-
-## Seleccion del flujo
-
-- Para procesar un CSV, JSON o TXT Bronze, usa `$andinalog-03b-bronze-silver`.
-- Para integrar fuentes Silver y producir detalle y agregado Gold, usa `$andinalog-03b-silver-gold`.
-- Para revisar el avance general, el orden, la coherencia o una decision transversal, permanece en esta skill.
-- Aplica como contexto comun [references/dominio-andinalog.md](references/dominio-andinalog.md).
-- Para el alcance predictivo minimo, usa en orden `$andinalog-03b-iot-gold`, `$andinalog-03b-iot-eda` y `$andinalog-03b-iot-regresion-logistica` despues de aprobar IoT Silver.
-
-## Interaccion estandar
-
-Los prompts de Plan, Build y Auditoria deben mantener la misma estructura entre fuentes. Las diferencias de productos, flota, WMS, IoT, inventario, costos, JSON de eventos, HR y bitacora se resuelven mediante los perfiles incluidos en la skill Bronze-Silver. No obligues al usuario a repetir reglas ya codificadas en esos perfiles.
+- Fuente CSV, JSON o TXT: `$andinalog-03b-bronze-silver`.
+- Integracion Silver-Gold: `$andinalog-03b-silver-gold`.
+- Producto predictivo minimo: `$andinalog-03b-iot-gold`, luego `$andinalog-03b-iot-eda` y `$andinalog-03b-iot-regresion-logistica`.
+- Revision independiente: `$andinalog-03b-auditoria`.
 
 ## Reglas comunes
 
-1. Conserva Bronze sin modificar y crea una copia de trabajo.
-2. No mezcles automaticamente codigo, estructuras, salidas o conteos de V1 con V2.
-3. Cada notebook se entrega ejecutado junto con su informe MD y sus archivos de salida.
-4. Interpreta fechas sin zona explicita en `America/La_Paz` y usa UTC como tiempo canonico de Silver.
-5. Conserva trazabilidad de transformaciones, imputaciones, cuarentena y joins.
-6. V3 sera el espacio para comparar y combinar V1 y V2.
+1. Inspecciona el archivo real y conserva Bronze.
+2. Cada Bronze-Silver entrega notebook, informe, Silver compacto, cuarentena investigable y reporte de calidad por regla.
+3. Usa `America/La_Paz` para interpretar timestamps sin zona y UTC como tiempo canonico.
+4. Mantiene trazabilidad de transformaciones, imputaciones, cuarentena y joins sin duplicar columnas sin funcion.
+5. Usa prompts estandarizados; los perfiles resuelven particularidades de fuente.
 
-## Compuerta previa a Gold
+## Compuerta a Gold
 
-Antes de dirigir una tarea a Silver-Gold, verifica que cada fuente necesaria tenga notebook ejecutado, Silver, cuarentena, informe, conciliacion valida y auditoria sin hallazgos criticos o importantes. No exijas que las nueve fuentes entren en todos los productos. Registra cuales son utilizadas, contextuales o excluidas y el motivo.
+Cada fuente necesaria debe tener notebook ejecutado, Silver, cuarentena, reporte de calidad, informe, conciliacion valida y auditoria sin hallazgos criticos o importantes. Documenta fuentes usadas, contextuales y excluidas. Para el modelo minimo solo IoT Silver es obligatorio.
 
-Revisa tambien que las decisiones transversales sean consistentes: semantica temporal, codigos de calidad, tratamiento de claves, unidades, privacidad y definicion de imputacion.
+## Evidencia
 
-Para el modelo minimo a 60 minutos solo IoT Silver es obligatorio. No exijas joins ni las nueve fuentes si IoT contiene temperatura, humedad, desviacion actual, identificador de viaje u orden y timestamp.
-
-## Decisiones que requieren evidencia
-
-No conviertas una suposicion en regla. Distingue hechos observados, inferencias y recomendaciones.
+No conviertas una suposicion en regla. Distingue hechos observados, inferencias y recomendaciones. El reporte de calidad no participa en `Bronze = Silver + cuarentena`; se verifica regla por regla y sus activaciones pueden solaparse.

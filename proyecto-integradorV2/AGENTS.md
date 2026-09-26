@@ -47,7 +47,7 @@ Este proyecto corresponde al Grupo 06, empresa AndinaLog y subcaso 03B. V2 sigue
 
 ## Entregables
 
-Por cada fuente Bronze entrega un notebook ejecutado, un informe MD, un CSV Silver y un CSV de cuarentena. Por cada producto Gold entrega un notebook ejecutado, un informe MD, un detalle Gold y un agregado Gold.
+Por cada fuente Bronze entrega un notebook ejecutado, un informe MD, un CSV Silver compacto, un CSV de cuarentena investigable y un CSV de reporte de calidad con una fila por regla. Por cada producto Gold entrega un notebook ejecutado, un informe MD, un detalle Gold y un agregado Gold.
 
 Para el producto predictivo minimo de IoT, Gold puede ser una sola tabla a nivel de lectura; no exige agregado ni join. El EDA y el modelo se entregan en notebooks e informes separados.
 
@@ -65,6 +65,8 @@ Para el producto predictivo minimo de IoT, Gold puede ser una sola tabla a nivel
 - Interpreta timestamps sin zona en `America/La_Paz` y conviertelos a UTC para Silver.
 - Conserva fechas calendario, vencimientos y periodos sin desplazarlos por zona horaria.
 - Concilia Bronze, Silver y cuarentena.
+- Proyecta explicitamente las columnas de Silver, cuarentena y reporte de calidad; no exporta automaticamente todos los helpers del dataframe de trabajo.
+- El reporte de calidad no participa en `Bronze = Silver + cuarentena`; sus activaciones se validan regla por regla y pueden solaparse.
 - Para JSON o TXT, adapta la conciliacion al cambio documentado de granularidad.
 
 ## Imputacion
@@ -100,7 +102,7 @@ Minimiza identificadores personales de HR Drivers y Bitacora. No muestres nombre
 
 ## Compuerta previa a Gold
 
-Una fuente necesaria puede entrar a Gold cuando tiene notebook ejecutado, Silver, cuarentena, informe, conciliacion valida y auditoria sin hallazgos criticos o importantes. Documenta las fuentes utilizadas, contextuales y excluidas, junto con el motivo. No es obligatorio utilizar las nueve fuentes en cada producto Gold.
+Una fuente necesaria puede entrar a Gold cuando tiene notebook ejecutado, Silver, cuarentena, reporte de calidad, informe, conciliacion valida y auditoria sin hallazgos criticos o importantes. Documenta las fuentes utilizadas, contextuales y excluidas, junto con el motivo. No es obligatorio utilizar las nueve fuentes en cada producto Gold.
 
 ## Dominio
 

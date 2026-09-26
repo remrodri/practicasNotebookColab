@@ -1,50 +1,34 @@
 ---
 name: andinalog-03b-auditoria
-description: Audita en modo de solo lectura los entregables Bronze-Silver o Silver-Gold de AndinaLog Grupo 06 subcaso 03B, verificando notebook ejecutado, datos, cuarentena, informe, reglas, imputaciones, joins, privacidad, conciliacion y reproducibilidad. Usar despues de Build o antes de aprobar una fuente o producto Gold.
+description: Audita en modo de solo lectura entregables Bronze-Silver o Silver-Gold de AndinaLog 03B, incluidos Silver compacto, cuarentena, reporte de calidad, informe, reglas, privacidad, conciliacion y reproducibilidad. Usar despues de Build o antes de aprobar una fuente o producto Gold.
 ---
 
 # AndinaLog 03B Auditoria
 
-Actua como revisor independiente. Lee `AGENTS.md`, la skill que produjo el entregable y los archivos indicados. No modifiques archivos, no ejecutes correcciones y no cambies decisiones aprobadas durante la auditoria.
+Actua como revisor independiente. Lee `AGENTS.md`, la skill productora y los archivos actuales. No modifiques archivos ni cambies decisiones durante la auditoria.
 
-## Seleccion del modo
+## Seleccion
 
-- Si se entregan Bronze, notebook, Silver, cuarentena e informe, usa la auditoria Bronze-Silver de [references/contrato-auditoria.md](references/contrato-auditoria.md).
-- Si se entregan fuentes Silver, notebook, detalle Gold, agregado Gold e informe, usa la auditoria Silver-Gold del mismo contrato.
-- Si se entrega Gold IoT predictivo, EDA o modelo, aplica tambien la seccion predictiva del contrato y la skill especifica que produjo el entregable.
-- Si faltan archivos, revisa lo disponible y declara exactamente que evidencia impide aprobar.
+- Bronze-Silver: requiere Bronze, notebook, Silver, cuarentena, reporte de calidad e informe; aplica [references/contrato-auditoria.md](references/contrato-auditoria.md) y el perfil de fuente.
+- Silver-Gold: requiere fuentes Silver, notebook, productos Gold e informe.
+- Gold predictivo, EDA o modelo: aplica tambien su skill especifica.
+- Si falta evidencia, revisa lo disponible y declara el limite exacto.
 
 ## Metodo
 
-1. Identifica archivos, objetivo, entidad y granularidad.
-2. Para Bronze-Silver, identifica el perfil de la fuente en `andinalog-03b-bronze-silver/references/fuentes/` y usalo como criterio de revision. Si falta, aplica el contrato general e indicalo.
-3. Comprueba que el notebook tenga ejecuciones y salidas visibles, no solo codigo.
-4. Obtiene cifras directamente de los archivos actuales; no reutilices conteos de V1 ni del texto del usuario.
-5. Contrasta notebook, CSV e informe.
-6. Revisa decisiones tecnicas, de dominio, temporales, referenciales, de imputacion y privacidad.
-7. Clasifica hallazgos por severidad y evita observaciones de estilo que no cambien correccion, trazabilidad o defensa.
+1. Identifica objetivo, entidad, granularidad y archivos.
+2. Comprueba ejecuciones y salidas visibles.
+3. Recalcula cifras desde los archivos, sin reutilizar V1 ni afirmaciones del usuario.
+4. Contrasta notebook, tres CSV e informe.
+5. Revisa dominio, tiempos, referencias, imputacion, privacidad, seleccion de columnas y reproducibilidad.
+6. Clasifica solo hallazgos con efecto en correccion, trazabilidad o defensa.
 
 ## Severidades
 
-- `CRITICO`: invalida resultados, produce perdida silenciosa, fuga temporal, exposicion sensible, join multiplicador, notebook no ejecutable o conciliacion falsa.
-- `IMPORTANTE`: incumple una regla requerida, deja una decision relevante sin evidencia o crea inconsistencia entre entregables.
-- `MENOR`: mejora de claridad o trazabilidad que no cambia el resultado ni bloquea la defensa.
+- `CRITICO`: invalida resultados, pierde filas silenciosamente, expone datos, introduce fuga, multiplica joins o falsifica conciliacion.
+- `IMPORTANTE`: incumple un requisito o deja una decision material sin evidencia.
+- `MENOR`: mejora claridad o trazabilidad sin cambiar el resultado.
 
 ## Resultado
 
-Para cada hallazgo informa:
-
-- severidad;
-- archivo y ubicacion verificable;
-- evidencia observada;
-- efecto;
-- correccion concreta;
-- control que demostrara el cierre.
-
-Termina con uno de estos estados:
-
-- `APROBADO`: cero hallazgos criticos e importantes.
-- `REQUIERE_CORRECCION`: existe al menos un hallazgo critico o importante.
-- `NO EVALUABLE`: falta evidencia indispensable para concluir.
-
-No declares aprobado basandote solo en que los archivos existen. No modifiques nada salvo que el usuario cambie expresamente a Build y solicite corregir los hallazgos.
+Para cada hallazgo informa severidad, archivo y ubicacion, evidencia, efecto, correccion y control de cierre. Finaliza con `APROBADO`, `REQUIERE_CORRECCION` o `NO EVALUABLE`. No apruebes solo porque los archivos existen.
