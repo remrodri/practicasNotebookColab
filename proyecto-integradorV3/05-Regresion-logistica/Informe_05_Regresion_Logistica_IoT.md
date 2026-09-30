@@ -24,20 +24,49 @@
 - Falsos negativos: 148
 - Verdaderos positivos: 130
 
+## Resultado según la desviación actual
+
+### Sin desviación actual
+
+- Lecturas: 4,976
+- Desviaciones futuras reales: 158
+- Verdaderos positivos: 10
+- Falsos negativos: 148
+- Falsos positivos: 253
+- Recall: 6.33%
+- Precisión: 3.80%
+
+### Con desviación actual
+
+- Lecturas: 198
+- Desviaciones futuras reales: 120
+- Verdaderos positivos: 120
+- Falsos negativos: 0
+- Falsos positivos: 78
+- Recall: 100.00%
+- Precisión: 60.61%
+
+## Interpretación
+
+El modelo depende fuertemente de la desviación actual. Cuando la lectura todavía es normal, detecta solamente 10 de 158 desviaciones futuras. Cuando la desviación ya está presente, genera una alerta para todos los casos del grupo: detecta las 120 continuaciones, pero también produce 78 falsas alertas.
+
+Por tanto, el desempeño global describe principalmente la continuidad de desviaciones existentes y no representa adecuadamente la capacidad de anticipar eventos nuevos.
+
+## Comparación diagnóstica
+
+El modelo sin `desviacion_termica_flag` aumenta el recall, pero reduce fuertemente la precisión y el PR AUC. Esta comparación no reemplaza el modelo oficial y no se utilizó para ajustar el umbral con la prueba.
+
 ## Línea base
 
 La referencia siempre predice la clase 0. Su recall y F1 son 0 porque no identifica ninguna desviación futura.
 
-## Interpretación
-
-El modelo aporta capacidad para ordenar el riesgo y detectar parte de las desviaciones, pero todavía produce falsos negativos y falsos positivos. Cualquier cambio del umbral debe basarse en el costo operativo de ambos errores y evaluarse con validación separada, no con esta prueba final.
-
 ## Limitaciones
 
 - La clase positiva es poco frecuente.
-- Los coeficientes son asociaciones, no efectos causales.
-- El resultado corresponde a una sola división por viaje con semilla fija.
+- El modelo separa débilmente las nuevas desviaciones cuando el estado actual es normal.
+- La evaluación corresponde a una sola división por viaje con semilla fija.
 - No se optimizó el umbral con la prueba.
+- Los coeficientes muestran asociaciones y no efectos causales.
 
 ## Reproducibilidad
 
@@ -45,4 +74,4 @@ El modelo aporta capacidad para ordenar el riesgo y detectar parte de las desvia
 - pandas: 3.0.1
 - NumPy: 2.3.5
 - scikit-learn: 1.9.1
-- Ejecución UTC: 2026-09-28T17:46:46.702510+00:00
+- Ejecución UTC: 2026-09-29T19:51:10.601493+00:00

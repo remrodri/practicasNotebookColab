@@ -1,6 +1,10 @@
-# Informe 04 — EDA de la tabla Gold IoT
+# Informe 04 — Análisis exploratorio de la tabla Gold IoT
 
-## Población analizada
+## 1. Propósito
+
+Este informe explica qué contiene la tabla Gold y qué patrones aparecen antes de una desviación térmica. El objetivo vale 0 cuando no ocurre una desviación durante los siguientes 60 minutos y 1 cuando sí ocurre. El análisis es descriptivo: no demuestra causalidad ni realiza todavía una predicción.
+
+## 2. Población y calidad estructural
 
 - Filas Gold: 28,465
 - Columnas: 17
@@ -9,27 +13,56 @@
 - Ventanas no evaluables: 2,668
 - Duplicados por viaje + timestamp: 0
 
-## Respuestas a las preguntas
+Cada fila representa una lectura de telemetría de un viaje en un momento determinado. La ausencia de claves repetidas indica que los cruces no multiplicaron lecturas.
 
-1. **¿Qué tan poco frecuentes son las desviaciones futuras?**  
-   Aparecen en 1,296 lecturas, equivalentes al 5.02% de las ventanas evaluables.
+## 3. Valores vacíos
 
-2. **¿Las futuras desviaciones parten de temperaturas diferentes?**  
-   La mediana es 16.73 °C sin desviación futura y 5.24 °C con desviación futura.
+- Temperatura anterior: 1,200 vacíos (4.22%). Aparecen principalmente al inicio de cada viaje, cuando todavía no existe una lectura anterior.
+- Variación de temperatura en 30 minutos: 1,504 vacíos (5.28%). No existe una lectura anterior suficientemente cercana para calcularla.
+- Objetivo futuro: 2,668 vacíos (9.37%). El viaje termina antes de completar los 60 minutos futuros.
 
-3. **¿La humedad cambia antes de una desviación?**  
-   La mediana es 59.00% sin desviación futura y 72.40% con desviación futura.
+Estos vacíos tienen una explicación temporal y no representan necesariamente fallas de los sensores. No se encontraron faltantes inesperados. Las ventanas sin futuro completo se conservan en Gold, pero no se usan en los gráficos del objetivo.
 
-4. **¿Una desviación presente anticipa otra en la siguiente hora?**  
-   La frecuencia futura es 3.03% sin desviación actual y 59.41% con desviación actual.
+## 4. Respuestas a las preguntas
 
-5. **¿La combinación de nivel y tendencia permite reconocer el riesgo?**  
-   El grupo con riesgo difiere -11.46 °C en nivel y +0.25 °C en variación de 30 minutos respecto del grupo sin riesgo. El gráfico sigue mostrando superposición entre clases.
+### 4.1 ¿Qué tan poco frecuentes son las desviaciones futuras?
 
-## Limitaciones
+Se observan 1,296 casos positivos de 25,797 ventanas evaluables, equivalentes al 5.02%. En palabras sencillas, cerca de 5 de cada 100 lecturas anuncian una desviación futura. Por eso el modelo posterior deberá prestar atención a una clase poco frecuente.
+
+### 4.2 ¿Las futuras desviaciones parten de temperaturas diferentes?
+
+La mediana es 16.73 °C sin desviación futura y 5.24 °C con desviación futura. La diferencia es 11.49 °C. Las desviaciones futuras parten, en general, de temperaturas más bajas, aunque existe superposición y una temperatura aislada no determina el resultado.
+
+### 4.3 ¿La humedad cambia antes de una desviación?
+
+La mediana es 59.00% sin desviación futura y 72.40% con desviación futura. La diferencia es 13.40 puntos porcentuales. Los casos futuros se asocian con mayor humedad, pero la humedad no debe utilizarse sola como regla automática.
+
+### 4.4 ¿Una desviación presente anticipa otra en la siguiente hora?
+
+La frecuencia futura es 3.03% sin desviación actual y 59.41% con desviación actual. La diferencia es 56.38 puntos porcentuales. La desviación actual es la señal más clara, aunque no es una regla perfecta y no identifica por sí misma todos los eventos nuevos.
+
+### 4.5 ¿La combinación de nivel y tendencia permite reconocer el riesgo?
+
+El grupo con riesgo difiere -11.46 °C en nivel y +0.25 °C en variación de 30 minutos respecto al grupo sin riesgo. La diferencia principal está en el nivel de temperatura. La superposición de colores indica que ambas variables aportan contexto, pero no separan todos los casos.
+
+## 5. Gráfico temporal opcional
+
+Los tres viajes seleccionados permiten observar la secuencia de la temperatura y los momentos desde los que aparece riesgo durante la hora siguiente. Son ejemplos con casos positivos y no representan necesariamente a todos los viajes.
+
+## 6. Conclusiones
+
+- La estructura Gold es consistente y no presenta multiplicación de lecturas.
+- Los vacíos observados tienen explicaciones temporales.
+- Las desviaciones futuras son poco frecuentes.
+- Temperatura, humedad, desviación actual y tendencia contienen señales descriptivas.
+- La desviación actual es la señal más marcada, lo que anticipa que reconocer problemas nuevos será más difícil que reconocer la continuidad de uno existente.
+
+## 7. Limitaciones
 
 - El análisis es descriptivo y no demuestra causalidad.
-- Las ventanas no evaluables se conservan en Gold, pero no participan en los gráficos del objetivo.
-- El gráfico temporal muestra únicamente tres viajes seleccionados por contener casos positivos.
+- Los patrones históricos pueden cambiar en viajes nuevos.
+- Las ventanas no evaluables no participan en los gráficos del objetivo.
+- El gráfico temporal muestra solamente tres viajes con casos positivos.
+- Ninguna diferencia observada garantiza por sí sola una buena predicción.
 
-Ejecución UTC: 2026-09-28T17:43:27.645182+00:00
+Ejecución UTC: 2026-09-29T19:51:06.444188+00:00
