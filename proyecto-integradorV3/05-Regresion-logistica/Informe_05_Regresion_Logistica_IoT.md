@@ -60,6 +60,19 @@ El modelo sin `desviacion_termica_flag` aumenta el recall, pero reduce fuertemen
 
 La referencia siempre predice la clase 0. Su recall y F1 son 0 porque no identifica ninguna desviación futura.
 
+
+## Desempeño por producto
+
+El modelo oficial no utiliza `producto_id` como predictor. La variable se usa solamente para auditar el desempeño en prueba.
+
+Resumen por grupo térmico observado:
+
+- Mediana menor a 0 °C: 9 productos, 775 lecturas, recall 62.90% y precisión 15.48%
+- Mediana entre 0 y 10 °C: 20 productos, 1,509 lecturas, recall 57.14% y precisión 47.50%
+- Mediana mayor o igual a 10 °C: 30 productos, 2,890 lecturas, recall 18.07% y precisión 30.61%
+
+El desempeño no es necesariamente uniforme entre productos. Los porcentajes individuales deben interpretarse con cautela cuando existen pocos positivos de prueba. Los grupos térmicos son descriptivos y no reemplazan rangos permitidos oficiales por producto.
+
 ## Limitaciones
 
 - La clase positiva es poco frecuente.
@@ -67,6 +80,8 @@ La referencia siempre predice la clase 0. Su recall y F1 son 0 porque no identif
 - La evaluación corresponde a una sola división por viaje con semilla fija.
 - No se optimizó el umbral con la prueba.
 - Los coeficientes muestran asociaciones y no efectos causales.
+- El desempeño puede variar por producto y algunos productos tienen pocos positivos en prueba.
+- No se proporcionaron rangos térmicos oficiales por producto.
 
 ## Reproducibilidad
 
@@ -74,4 +89,4 @@ La referencia siempre predice la clase 0. Su recall y F1 son 0 porque no identif
 - pandas: 3.0.1
 - NumPy: 2.3.5
 - scikit-learn: 1.9.1
-- Ejecución UTC: 2026-09-29T19:51:10.601493+00:00
+- Ejecución UTC: 2026-09-30T00:43:05.819385+00:00

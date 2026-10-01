@@ -45,11 +45,30 @@ La frecuencia futura es 3.03% sin desviación actual y 59.41% con desviación ac
 
 El grupo con riesgo difiere -11.46 °C en nivel y +0.25 °C en variación de 30 minutos respecto al grupo sin riesgo. La diferencia principal está en el nivel de temperatura. La superposición de colores indica que ambas variables aportan contexto, pero no separan todos los casos.
 
-## 5. Gráfico temporal opcional
+
+## 5. Análisis por producto
+
+La comparación por producto muestra tres niveles térmicos observados: medianas cercanas a -18 °C, 4 °C y 20 °C. Esto confirma que la temperatura no debe interpretarse de la misma manera para todos los productos.
+
+- Mediana menor a 0 °C: 10 productos, temperatura mediana -17.96 °C y desviación futura 7.44%
+- Mediana entre 0 y 10 °C: 20 productos, temperatura mediana 4.04 °C y desviación futura 7.85%
+- Mediana mayor o igual a 10 °C: 30 productos, temperatura mediana 20.03 °C y desviación futura 2.39%
+
+Los mayores porcentajes observados de desviación futura corresponden a:
+
+- PROD-047: temperatura mediana 4.08 °C; desviación futura 12.41%
+- PROD-056: temperatura mediana 4.04 °C; desviación futura 11.23%
+- PROD-008: temperatura mediana -17.89 °C; desviación futura 10.98%
+- PROD-034: temperatura mediana 4.02 °C; desviación futura 10.90%
+- PROD-051: temperatura mediana -17.94 °C; desviación futura 10.62%
+
+Estos porcentajes describen asociaciones históricas y no prueban que el producto sea la causa. Los grupos térmicos son resúmenes de los datos observados, no rangos permitidos. Para evaluar cumplimiento se necesita una tabla oficial con los límites por producto.
+
+## 6. Gráfico temporal opcional
 
 Los tres viajes seleccionados permiten observar la secuencia de la temperatura y los momentos desde los que aparece riesgo durante la hora siguiente. Son ejemplos con casos positivos y no representan necesariamente a todos los viajes.
 
-## 6. Conclusiones
+## 7. Conclusiones
 
 - La estructura Gold es consistente y no presenta multiplicación de lecturas.
 - Los vacíos observados tienen explicaciones temporales.
@@ -57,12 +76,13 @@ Los tres viajes seleccionados permiten observar la secuencia de la temperatura y
 - Temperatura, humedad, desviación actual y tendencia contienen señales descriptivas.
 - La desviación actual es la señal más marcada, lo que anticipa que reconocer problemas nuevos será más difícil que reconocer la continuidad de uno existente.
 
-## 7. Limitaciones
+## 8. Limitaciones
 
 - El análisis es descriptivo y no demuestra causalidad.
 - Los patrones históricos pueden cambiar en viajes nuevos.
 - Las ventanas no evaluables no participan en los gráficos del objetivo.
 - El gráfico temporal muestra solamente tres viajes con casos positivos.
 - Ninguna diferencia observada garantiza por sí sola una buena predicción.
+- No se proporcionaron rangos térmicos permitidos por producto; los grupos mostrados son descriptivos.
 
-Ejecución UTC: 2026-09-29T19:51:06.444188+00:00
+Ejecución UTC: 2026-09-30T00:43:01.417511+00:00
